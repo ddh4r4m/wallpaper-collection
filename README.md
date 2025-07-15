@@ -1,7 +1,7 @@
 # WallCraft - High-Quality Wallpaper Collection API
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Total Wallpapers](https://img.shields.io/badge/Wallpapers-1244-blue)](https://github.com/ddh4r4m/wallpaper-collection)
+[![Total Wallpapers](https://img.shields.io/badge/Wallpapers-1491-blue)](https://github.com/ddh4r4m/wallpaper-collection)
 [![Categories](https://img.shields.io/badge/Categories-20-green)](https://github.com/ddh4r4m/wallpaper-collection)
 [![Size](https://img.shields.io/badge/Collection%20Size-1.9GB-orange)](https://github.com/ddh4r4m/wallpaper-collection)
 
@@ -24,9 +24,20 @@ curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/categor
 curl -o wallpaper.jpg "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/wallpapers/nature/nature_001.jpg"
 ```
 
+## 📖 Complete API Documentation
+
+👉 **[View Complete API Documentation](./API.md)** - Comprehensive integration guide with examples for all platforms
+
+The API.md file includes:
+- **Complete endpoint documentation** with response formats
+- **Integration examples** for JavaScript, Python, Swift, Kotlin, Flutter  
+- **Performance best practices** and caching strategies
+- **Error handling** and troubleshooting guide
+- **Ready-to-use code** for mobile and web apps
+
 ## 📊 Collection Stats
 
-- **Total Wallpapers**: 1,244
+- **Total Wallpapers**: 1,491
 - **Categories**: 20
 - **Resolution**: 1080×1920 (Mobile Portrait)
 - **Format**: JPEG, High Quality
@@ -81,7 +92,7 @@ gradient, seasonal
 {
   "version": "2.0.0",
   "lastUpdated": "2025-07-15T15:14:34.094342Z",
-  "totalWallpapers": 1244,
+  "totalWallpapers": 1491,
   "categories": [
     {
       "id": "nature",
