@@ -1,0 +1,38 @@
+📊 Wallpaper Collection Statistics
+
+🎯 Overview:
+   Total wallpapers: 1,491
+   Total categories: 20
+   Average per category: 74.5
+
+📁 Categories:
+   Abstract     :  217 wallpapers ( 14.6%)
+   Nature       :  284 wallpapers ( 19.0%)
+   Space        :   86 wallpapers (  5.8%)
+   Minimal      :   46 wallpapers (  3.1%)
+   Cyberpunk    :   41 wallpapers (  2.7%)
+   Gaming       :   76 wallpapers (  5.1%)
+   Anime        :   58 wallpapers (  3.9%)
+   Movies       :    0 wallpapers (  0.0%)
+   Music        :    0 wallpapers (  0.0%)
+   Cars         :   29 wallpapers (  1.9%)
+   Sports       :    0 wallpapers (  0.0%)
+   Technology   :   10 wallpapers (  0.7%)
+   Architecture :  275 wallpapers ( 18.4%)
+   Art          :   47 wallpapers (  3.2%)
+   Dark         :   80 wallpapers (  5.4%)
+   Neon         :   78 wallpapers (  5.2%)
+   Pastel       :   49 wallpapers (  3.3%)
+   Vintage      :   30 wallpapers (  2.0%)
+   Gradient     :    0 wallpapers (  0.0%)
+   Seasonal     :   85 wallpapers (  5.7%)
+
+🌟 Featured wallpapers: 20
+
+📈 File information:
+   Total file size: 1869.2 MB
+   Generated at: 2025-07-15T16:50:05.934492Z
+
+🔗 API endpoints:
+   Master index: https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/index.json
+   Category index: https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/categories/{category}.json
