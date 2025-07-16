@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-16T22:22:47.973645",
+    "total_categories": 3
+  },
+  "data": {
+    "abstract": {
+      "name": "Abstract",
+      "count": 2,
+      "description": "Abstract patterns, geometric designs, and artistic visualizations"
+    },
+    "anime": {
+      "name": "Anime",
+      "count": 58,
+      "description": "Anime characters, manga art, and Japanese animation styles"
+    },
+    "4k": {
+      "name": "4K",
+      "count": 200,
+      "description": "Ultra high-definition wallpapers optimized for 4K displays"
+    }
+  }
+}

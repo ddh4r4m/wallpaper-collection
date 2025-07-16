@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-16T22:22:47.973645",
+    "category": "abstract",
+    "total_count": 2
+  },
+  "data": [
+    {
+      "id": "abstract_001",
+      "category": "abstract",
+      "title": "Abstract Wallpaper 001",
+      "tags": [
+        "abstract"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/001.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/001.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-16T20:57:48.288245",
+        "file_size": 13480,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "abstract_002",
+      "category": "abstract",
+      "title": "Test Abstract Wallpaper",
+      "tags": [
+        "test",
+        "abstract",
+        "blue"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 13480,
+        "format": "JPEG",
+        "added_at": "2025-07-16T20:58:21.539833",
+        "hash": "6c0f395c4b9bdd34b02e659cdacafde7"
+      },
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/002.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/002.jpg"
+      }
+    }
+  ]
+}
