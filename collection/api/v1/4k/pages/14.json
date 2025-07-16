@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-17T00:06:19.072196",
+    "category": "4k",
+    "page": 14,
+    "per_page": 15,
+    "total_pages": 14,
+    "total_count": 200,
+    "count_on_page": 5,
+    "has_next": false,
+    "has_prev": true,
+    "next_page_url": null,
+    "prev_page_url": "/api/v1/4k/pages/13.json"
+  },
+  "data": [
+    {
+      "id": "4k_196",
+      "filename": "196.jpg",
+      "title": "4K Wallpaper 196",
+      "photographer": "Unknown",
+      "source": "unsplash",
+      "source_id": "",
+      "source_url": "",
+      "tags": [],
+      "color": "#000000",
+      "created_at": "",
+      "download_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/collection/wallpapers/4k/196.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/collection/thumbnails/4k/196.jpg",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/196.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/196.jpg"
+      },
+      "category": "4k"
+    },
+    {
+      "id": "4k_197",
+      "filename": "197.jpg",
+      "title": "4K Wallpaper 197",
+      "photographer": "Unknown",
+      "source": "unsplash",
+      "source_id": "",
+      "source_url": "",
+      "tags": [],
+      "color": "#000000",
+      "created_at": "",
+      "download_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/collection/wallpapers/4k/197.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/collection/thumbnails/4k/197.jpg",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/197.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/197.jpg"
+      },
+      "category": "4k"
+    },
+    {
+      "id": "4k_198",
+      "filename": "198.jpg",
+      "title": "4K Wallpaper 198",
+      "photographer": "Unknown",
+      "source": "unsplash",
+      "source_id": "",
+      "source_url": "",
+      "tags": [],
+      "color": "#000000",
+      "created_at": "",
+      "download_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/collection/wallpapers/4k/198.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/collection/thumbnails/4k/198.jpg",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/198.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/198.jpg"
+      },
+      "category": "4k"
+    },
+    {
+      "id": "4k_199",
+      "filename": "199.jpg",
+      "title": "4K Wallpaper 199",
+      "photographer": "Unknown",
+      "source": "unsplash",
+      "source_id": "",
+      "source_url": "",
+      "tags": [],
+      "color": "#000000",
+      "created_at": "",
+      "download_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/collection/wallpapers/4k/199.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/collection/thumbnails/4k/199.jpg",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/199.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/199.jpg"
+      },
+      "category": "4k"
+    },
+    {
+      "id": "4k_200",
+      "filename": "200.jpg",
+      "title": "4K Wallpaper 200",
+      "photographer": "Unknown",
+      "source": "unsplash",
+      "source_id": "",
+      "source_url": "",
+      "tags": [],
+      "color": "#000000",
+      "created_at": "",
+      "download_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/collection/wallpapers/4k/200.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/collection/thumbnails/4k/200.jpg",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/200.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/200.jpg"
+      },
+      "category": "4k"
+    }
+  ]
+}

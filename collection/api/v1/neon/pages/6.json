@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-17T00:06:19.072196",
+    "category": "neon",
+    "page": 6,
+    "per_page": 15,
+    "total_pages": 6,
+    "total_count": 78,
+    "count_on_page": 3,
+    "has_next": false,
+    "has_prev": true,
+    "next_page_url": null,
+    "prev_page_url": "/api/v1/neon/pages/5.json"
+  },
+  "data": [
+    {
+      "id": "neon_076",
+      "category": "neon",
+      "title": "Neon Wallpaper 076",
+      "tags": [
+        "neon",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/076.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/076.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 382270,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:35.653074",
+        "hash": "bd0cd9edeaa5858072771a78832f85df",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "neon_077",
+      "category": "neon",
+      "title": "Neon Wallpaper 077",
+      "tags": [
+        "neon",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/077.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/077.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 368695,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:35.714223",
+        "hash": "64bd0dab3f6bd933ead253363c9917d6",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "neon_078",
+      "category": "neon",
+      "title": "Neon Wallpaper 078",
+      "tags": [
+        "neon",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/078.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/078.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 282619,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:35.774632",
+        "hash": "43ce71244b7b2d4a10949e53b7fbad7c",
+        "source": "migrated"
+      }
+    }
+  ]
+}

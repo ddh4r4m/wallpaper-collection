@@ -1,0 +1,393 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-17T00:06:19.072196",
+    "category": "anime",
+    "page": 1,
+    "per_page": 15,
+    "total_pages": 8,
+    "total_count": 116,
+    "count_on_page": 15,
+    "has_next": true,
+    "has_prev": false,
+    "next_page_url": "/api/v1/anime/pages/2.json",
+    "prev_page_url": null
+  },
+  "data": [
+    {
+      "id": "anime_001",
+      "category": "anime",
+      "title": "Anime Wallpaper",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "high resolution",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 6143,
+          "height": 3094
+        },
+        "file_size": 7859057,
+        "added_at": "2025-07-16T20:56:14.359456",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_003.jpg"
+      },
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/001.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/001.jpg"
+      }
+    },
+    {
+      "id": "anime_002",
+      "category": "anime",
+      "title": "Anime Wallpaper",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "high resolution",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 2184,
+          "height": 3089
+        },
+        "file_size": 7500202,
+        "added_at": "2025-07-16T20:56:14.529346",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_004.jpg"
+      },
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/002.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/002.jpg"
+      }
+    },
+    {
+      "id": "anime_003",
+      "category": "anime",
+      "title": "Anime Wallpaper",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "high resolution",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 6000,
+          "height": 2571
+        },
+        "file_size": 7902904,
+        "added_at": "2025-07-16T20:56:14.684690",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_005.jpg"
+      },
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/003.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/003.jpg"
+      }
+    },
+    {
+      "id": "anime_004",
+      "category": "anime",
+      "title": "Anime Wallpaper",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "high resolution",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 13502782,
+        "added_at": "2025-07-16T20:56:14.883858",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_006.jpg"
+      },
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/004.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/004.jpg"
+      }
+    },
+    {
+      "id": "anime_005",
+      "category": "anime",
+      "title": "Anime Wallpaper",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "high resolution",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 6000,
+          "height": 2800
+        },
+        "file_size": 18097715,
+        "added_at": "2025-07-16T20:56:15.131120",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_008.jpg"
+      },
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/005.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/005.jpg"
+      }
+    },
+    {
+      "id": "anime_006",
+      "category": "anime",
+      "title": "Anime Wallpaper",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "high resolution",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 5640,
+          "height": 2400
+        },
+        "file_size": 2972150,
+        "added_at": "2025-07-16T20:56:15.210695",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_010.jpg"
+      },
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/006.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/006.jpg"
+      }
+    },
+    {
+      "id": "anime_007",
+      "category": "anime",
+      "title": "Anime Wallpaper",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "high resolution",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 2500,
+          "height": 1124
+        },
+        "file_size": 758379,
+        "added_at": "2025-07-16T20:56:15.235573",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_011.jpg"
+      },
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/007.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/007.jpg"
+      }
+    },
+    {
+      "id": "anime_008",
+      "category": "anime",
+      "title": "Anime Wallpaper",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "high resolution",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 5974,
+          "height": 3216
+        },
+        "file_size": 5500740,
+        "added_at": "2025-07-16T20:56:15.360458",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_012.jpg"
+      },
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/008.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/008.jpg"
+      }
+    },
+    {
+      "id": "anime_009",
+      "category": "anime",
+      "title": "Anime Wallpaper",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "high resolution",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1920,
+          "height": 1080
+        },
+        "file_size": 1325361,
+        "added_at": "2025-07-16T20:56:15.396436",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_013.jpg"
+      },
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/009.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/009.jpg"
+      }
+    },
+    {
+      "id": "anime_010",
+      "category": "anime",
+      "title": "Anime Wallpaper",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "high resolution",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 5120,
+          "height": 2880
+        },
+        "file_size": 14627186,
+        "added_at": "2025-07-16T20:56:15.705953",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_014.jpg"
+      },
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/010.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/010.jpg"
+      }
+    },
+    {
+      "id": "anime_011",
+      "category": "anime",
+      "title": "Anime Wallpaper",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "high resolution",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 3840,
+          "height": 1451
+        },
+        "file_size": 1166446,
+        "added_at": "2025-07-16T20:56:15.745077",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_015.jpg"
+      },
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/011.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/011.jpg"
+      }
+    },
+    {
+      "id": "anime_012",
+      "category": "anime",
+      "title": "Anime Wallpaper",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "high resolution",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 6190130,
+        "added_at": "2025-07-16T20:56:15.913082",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_016.jpg"
+      },
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/012.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/012.jpg"
+      }
+    },
+    {
+      "id": "anime_013",
+      "category": "anime",
+      "title": "Anime Wallpaper",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "high resolution",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 3000,
+          "height": 2207
+        },
+        "file_size": 1428068,
+        "added_at": "2025-07-16T20:56:16.007790",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_017.jpg"
+      },
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/013.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/013.jpg"
+      }
+    },
+    {
+      "id": "anime_014",
+      "category": "anime",
+      "title": "Anime Wallpaper",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "high resolution",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 4320,
+          "height": 7680
+        },
+        "file_size": 7249712,
+        "added_at": "2025-07-16T20:56:16.234409",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_020.jpg"
+      },
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/014.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/014.jpg"
+      }
+    },
+    {
+      "id": "anime_015",
+      "category": "anime",
+      "title": "Anime Wallpaper",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "high resolution",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 3966,
+          "height": 2230
+        },
+        "file_size": 2999712,
+        "added_at": "2025-07-16T20:56:16.300077",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_021.jpg"
+      },
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/015.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/015.jpg"
+      }
+    }
+  ]
+}

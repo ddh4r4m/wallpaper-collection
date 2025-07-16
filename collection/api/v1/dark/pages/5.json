@@ -1,0 +1,408 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-17T00:06:19.072196",
+    "category": "dark",
+    "page": 5,
+    "per_page": 15,
+    "total_pages": 6,
+    "total_count": 80,
+    "count_on_page": 15,
+    "has_next": true,
+    "has_prev": true,
+    "next_page_url": "/api/v1/dark/pages/6.json",
+    "prev_page_url": "/api/v1/dark/pages/4.json"
+  },
+  "data": [
+    {
+      "id": "dark_061",
+      "category": "dark",
+      "title": "Dark Wallpaper 061",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/061.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/061.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 160991,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:34.674077",
+        "hash": "79fe3b1ad54d4e9135abf0c18b3dd894",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_062",
+      "category": "dark",
+      "title": "Dark Wallpaper 062",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/062.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/062.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 512728,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:35.431752",
+        "hash": "7eebc489ff43775edc7ea336ca4af2f1",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_063",
+      "category": "dark",
+      "title": "Dark Wallpaper 063",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/063.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/063.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 258960,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:35.942566",
+        "hash": "63d93f723eb6ef93ea8b5fd9a26cd27b",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_064",
+      "category": "dark",
+      "title": "Dark Wallpaper 064",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/064.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/064.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 214480,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:36.204149",
+        "hash": "0fa17f0029e805d36c88b43cf3190d51",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_065",
+      "category": "dark",
+      "title": "Dark Wallpaper 065",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/065.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/065.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 199409,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:36.526702",
+        "hash": "9872e503b2ce828f9c19b5a7f32a262b",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_066",
+      "category": "dark",
+      "title": "Dark Wallpaper 066",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/066.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/066.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 313191,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:36.691356",
+        "hash": "522b628fbe91ffff115d42c54134810b",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_067",
+      "category": "dark",
+      "title": "Dark Wallpaper 067",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/067.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/067.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 248225,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:36.856489",
+        "hash": "2b8f9673e9cb9f5151283a444a3db3b4",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_068",
+      "category": "dark",
+      "title": "Dark Wallpaper 068",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/068.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/068.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 242014,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:37.038176",
+        "hash": "662c2d2870bc4b70d7aee2bd2609fd99",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_069",
+      "category": "dark",
+      "title": "Dark Wallpaper 069",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/069.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/069.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 61582,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:37.213894",
+        "hash": "20f04eab6eb5535f304215ddc2154bf8",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_070",
+      "category": "dark",
+      "title": "Dark Wallpaper 070",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/070.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/070.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 364287,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:37.519883",
+        "hash": "f497e0ca4202aff94bd1883c94add225",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_071",
+      "category": "dark",
+      "title": "Dark Wallpaper 071",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/071.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/071.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 220294,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:38.014073",
+        "hash": "aed979f20b8e19216b0e7dc49c77558d",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_072",
+      "category": "dark",
+      "title": "Dark Wallpaper 072",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/072.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/072.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 130895,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:38.212819",
+        "hash": "9c0eed4b86d3d10a0f0b6c450d13f545",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_073",
+      "category": "dark",
+      "title": "Dark Wallpaper 073",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/073.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/073.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 267727,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:38.456803",
+        "hash": "63e90e68dcff0fc82231567e32c021e7",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_074",
+      "category": "dark",
+      "title": "Dark Wallpaper 074",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/074.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/074.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 215396,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:38.781550",
+        "hash": "a267faaed3b78a8b47544fb8000df345",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_075",
+      "category": "dark",
+      "title": "Dark Wallpaper 075",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/075.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/075.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 212331,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:39.118942",
+        "hash": "19358f04562fb8fad038a8dc103e98b1",
+        "source": "migrated"
+      }
+    }
+  ]
+}

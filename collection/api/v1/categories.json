@@ -1,24 +1,94 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-16T22:22:47.973645",
-    "total_categories": 3
+    "generated_at": "2025-07-17T00:06:19.072196",
+    "total_categories": 17
   },
   "data": {
-    "abstract": {
-      "name": "Abstract",
-      "count": 2,
-      "description": "Abstract patterns, geometric designs, and artistic visualizations"
+    "minimal": {
+      "name": "Minimal",
+      "count": 46,
+      "description": "Clean, simple designs with minimalist aesthetics"
     },
-    "anime": {
-      "name": "Anime",
-      "count": 58,
-      "description": "Anime characters, manga art, and Japanese animation styles"
+    "technology": {
+      "name": "Technology",
+      "count": 10,
+      "description": "Gadgets, circuits, futuristic tech, and digital interfaces"
+    },
+    "cyberpunk": {
+      "name": "Cyberpunk",
+      "count": 41,
+      "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
     },
     "4k": {
       "name": "4K",
       "count": 200,
       "description": "Ultra high-definition wallpapers optimized for 4K displays"
+    },
+    "art": {
+      "name": "Art",
+      "count": 47,
+      "description": "Digital art, paintings, illustrations, and creative designs"
+    },
+    "gaming": {
+      "name": "Gaming",
+      "count": 76,
+      "description": "Video game characters, scenes, and gaming-inspired artwork"
+    },
+    "anime": {
+      "name": "Anime",
+      "count": 116,
+      "description": "Anime characters, manga art, and Japanese animation styles"
+    },
+    "seasonal": {
+      "name": "Seasonal",
+      "count": 85,
+      "description": "Holiday themes, seasonal changes, and weather phenomena"
+    },
+    "nature": {
+      "name": "Nature",
+      "count": 284,
+      "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
+    },
+    "space": {
+      "name": "Space",
+      "count": 86,
+      "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
+    },
+    "pastel": {
+      "name": "Pastel",
+      "count": 49,
+      "description": "Soft colors, gentle aesthetics, and dream-like themes"
+    },
+    "abstract": {
+      "name": "Abstract",
+      "count": 219,
+      "description": "Abstract patterns, geometric designs, and artistic visualizations"
+    },
+    "neon": {
+      "name": "Neon",
+      "count": 78,
+      "description": "Neon lighting, synthwave aesthetics, and electric themes"
+    },
+    "architecture": {
+      "name": "Architecture",
+      "count": 275,
+      "description": "Buildings, bridges, modern structures, and urban photography"
+    },
+    "cars": {
+      "name": "Cars",
+      "count": 29,
+      "description": "Automotive photography, sports cars, and vehicle designs"
+    },
+    "vintage": {
+      "name": "Vintage",
+      "count": 30,
+      "description": "Retro designs, nostalgic themes, and classic aesthetics"
+    },
+    "dark": {
+      "name": "Dark",
+      "count": 80,
+      "description": "Dark themes, gothic aesthetics, and mysterious atmospheres"
     }
   }
 }

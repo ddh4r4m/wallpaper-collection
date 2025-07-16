@@ -1,0 +1,408 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-17T00:06:19.072196",
+    "category": "art",
+    "page": 1,
+    "per_page": 15,
+    "total_pages": 4,
+    "total_count": 47,
+    "count_on_page": 15,
+    "has_next": true,
+    "has_prev": false,
+    "next_page_url": "/api/v1/art/pages/2.json",
+    "prev_page_url": null
+  },
+  "data": [
+    {
+      "id": "art_001",
+      "category": "art",
+      "title": "Art Wallpaper 001",
+      "tags": [
+        "art",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/001.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/001.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 68346,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:02.037661",
+        "hash": "7076bc94f1f3d91861904b360f9d06f5",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "art_002",
+      "category": "art",
+      "title": "Art Wallpaper 002",
+      "tags": [
+        "art",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/002.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/002.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 140787,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:02.086412",
+        "hash": "9ce5f42cfb98a2eefeb5e77b9c29dca1",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "art_003",
+      "category": "art",
+      "title": "Art Wallpaper 003",
+      "tags": [
+        "art",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/003.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/003.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 66889,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:02.130188",
+        "hash": "9c7d2c6488ee2b1651aa72e1c46c378e",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "art_004",
+      "category": "art",
+      "title": "Art Wallpaper 004",
+      "tags": [
+        "art",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/004.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/004.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 858763,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:02.217412",
+        "hash": "b57a1cfa7a8c2f2b7891ec52454d5f22",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "art_005",
+      "category": "art",
+      "title": "Art Wallpaper 005",
+      "tags": [
+        "art",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/005.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/005.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 117058,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:02.267366",
+        "hash": "4f38b2d4e58099d98b5a8a8e66cc1c12",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "art_006",
+      "category": "art",
+      "title": "Art Wallpaper 006",
+      "tags": [
+        "art",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/006.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/006.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 246735,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:02.321048",
+        "hash": "40f886dc8494d19a27b601ad5c0895b0",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "art_007",
+      "category": "art",
+      "title": "Art Wallpaper 007",
+      "tags": [
+        "art",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/007.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/007.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 95626,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:02.367950",
+        "hash": "f90f9a3740475a35554109248bdb854b",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "art_008",
+      "category": "art",
+      "title": "Art Wallpaper 008",
+      "tags": [
+        "art",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/008.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/008.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 392408,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:02.430497",
+        "hash": "e0e31e3cebf32b6e7756bf8b28f0644e",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "art_009",
+      "category": "art",
+      "title": "Art Wallpaper 009",
+      "tags": [
+        "art",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/009.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/009.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 405893,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:02.491898",
+        "hash": "977e24f9d05de2e73d89c5bc37da2eb1",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "art_010",
+      "category": "art",
+      "title": "Art Wallpaper 010",
+      "tags": [
+        "art",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/010.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/010.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 301781,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:02.551894",
+        "hash": "fc64b15dd3804f9da46ecefe045b3b3d",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "art_011",
+      "category": "art",
+      "title": "Art Wallpaper 011",
+      "tags": [
+        "art",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/011.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/011.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 160232,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:02.635573",
+        "hash": "9498427c01741d04b8b2b25233c19a96",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "art_012",
+      "category": "art",
+      "title": "Art Wallpaper 012",
+      "tags": [
+        "art",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/012.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/012.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 483426,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:02.703050",
+        "hash": "f495c3711799f3cfd9d9ad40ff90dc72",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "art_013",
+      "category": "art",
+      "title": "Art Wallpaper 013",
+      "tags": [
+        "art",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/013.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/013.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 155702,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:02.752965",
+        "hash": "55e40b3976f7ea78b29793a6d9c98468",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "art_014",
+      "category": "art",
+      "title": "Art Wallpaper 014",
+      "tags": [
+        "art",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/014.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/014.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 31442,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:02.797237",
+        "hash": "d76166f9708a07259afb9094d0fc8a42",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "art_015",
+      "category": "art",
+      "title": "Art Wallpaper 015",
+      "tags": [
+        "art",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/015.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/015.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 159316,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:02.918349",
+        "hash": "bd4f0357ca51aa3956759bf6e8e6b5e7",
+        "source": "migrated"
+      }
+    }
+  ]
+}

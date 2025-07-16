@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-17T00:06:19.072196",
+    "category": "architecture",
+    "page": 19,
+    "per_page": 15,
+    "total_pages": 19,
+    "total_count": 275,
+    "count_on_page": 5,
+    "has_next": false,
+    "has_prev": true,
+    "next_page_url": null,
+    "prev_page_url": "/api/v1/architecture/pages/18.json"
+  },
+  "data": [
+    {
+      "id": "architecture_271",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 271",
+      "tags": [
+        "architecture",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/271.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/271.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 569980,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:01.700638",
+        "hash": "35cd2f583f87e2bb167e32de286d43c3",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "architecture_272",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 272",
+      "tags": [
+        "architecture",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/272.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/272.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 332213,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:01.760979",
+        "hash": "341350fae9a615150f6da1a2e4847465",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "architecture_273",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 273",
+      "tags": [
+        "architecture",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/273.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/273.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 520176,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:01.832104",
+        "hash": "e0363656714db9d59fede7bf00119fd3",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "architecture_274",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 274",
+      "tags": [
+        "architecture",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/274.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/274.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 494567,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:01.900451",
+        "hash": "f4d3ce8e6657d0a0f5252c49c6199f0d",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "architecture_275",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 275",
+      "tags": [
+        "architecture",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/275.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/275.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 355387,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:01.986465",
+        "hash": "d9965eb445279736335cea577d988a66",
+        "source": "migrated"
+      }
+    }
+  ]
+}

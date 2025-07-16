@@ -1,0 +1,408 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-17T00:06:19.072196",
+    "category": "anime",
+    "page": 5,
+    "per_page": 15,
+    "total_pages": 8,
+    "total_count": 116,
+    "count_on_page": 15,
+    "has_next": true,
+    "has_prev": true,
+    "next_page_url": "/api/v1/anime/pages/6.json",
+    "prev_page_url": "/api/v1/anime/pages/4.json"
+  },
+  "data": [
+    {
+      "id": "anime_061",
+      "category": "anime",
+      "title": "Anime Wallpaper 061",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/061.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/061.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 343723,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:02:28.255259",
+        "hash": "c3dd102197bc14bc7ac255681d419071",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "anime_062",
+      "category": "anime",
+      "title": "Anime Wallpaper 062",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/062.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/062.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 277355,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:02:28.628606",
+        "hash": "a759c6784230742f519b63f113d331ed",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "anime_063",
+      "category": "anime",
+      "title": "Anime Wallpaper 063",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/063.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/063.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 424709,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:02:29.133532",
+        "hash": "8bfbf9af6fdd00032e0974e4358ac04f",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "anime_064",
+      "category": "anime",
+      "title": "Anime Wallpaper 064",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/064.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/064.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 132746,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:02:29.411976",
+        "hash": "8c5798e5d38244c1c3352b029a4db41f",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "anime_065",
+      "category": "anime",
+      "title": "Anime Wallpaper 065",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/065.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/065.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 292081,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:02:29.573619",
+        "hash": "f15d06899f9cb0e36a00396073e6c61c",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "anime_066",
+      "category": "anime",
+      "title": "Anime Wallpaper 066",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/066.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/066.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 161576,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:02:29.942220",
+        "hash": "263b742018a72bc5aa9434516a062bae",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "anime_067",
+      "category": "anime",
+      "title": "Anime Wallpaper 067",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/067.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/067.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 262882,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:02:30.089199",
+        "hash": "dfac225ca63a267dce8a3fd8a0640e8c",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "anime_068",
+      "category": "anime",
+      "title": "Anime Wallpaper 068",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/068.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/068.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 335829,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:02:30.584473",
+        "hash": "6415539d4132f82267c6e986e747869b",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "anime_069",
+      "category": "anime",
+      "title": "Anime Wallpaper 069",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/069.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/069.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 311232,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:02:30.792196",
+        "hash": "c7e8f8b974b793a5f4bd824bd416c1cc",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "anime_070",
+      "category": "anime",
+      "title": "Anime Wallpaper 070",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/070.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/070.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 142576,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:02:31.079933",
+        "hash": "d9d59edb02d5c90aa16f927a8916f1f3",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "anime_071",
+      "category": "anime",
+      "title": "Anime Wallpaper 071",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/071.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/071.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 126813,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:02:31.284181",
+        "hash": "8b96ed390738f4b3543669e47335d6de",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "anime_072",
+      "category": "anime",
+      "title": "Anime Wallpaper 072",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/072.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/072.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 129079,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:02:31.744156",
+        "hash": "e8db6e7e9863c74b01238d057d063000",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "anime_073",
+      "category": "anime",
+      "title": "Anime Wallpaper 073",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/073.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/073.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 327582,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:02:31.953623",
+        "hash": "17513818510bbf852ff6c873a260f5d4",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "anime_074",
+      "category": "anime",
+      "title": "Anime Wallpaper 074",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/074.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/074.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 191513,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:02:32.350634",
+        "hash": "8b596b7f2bf39c03fd3015776bfb4596",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "anime_075",
+      "category": "anime",
+      "title": "Anime Wallpaper 075",
+      "tags": [
+        "anime",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/075.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/075.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 404290,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:02:32.762580",
+        "hash": "e87ff3adbe79208a399d887273736306",
+        "source": "migrated"
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-17T00:06:19.072196",
+    "category": "pastel",
+    "page": 4,
+    "per_page": 15,
+    "total_pages": 4,
+    "total_count": 49,
+    "count_on_page": 4,
+    "has_next": false,
+    "has_prev": true,
+    "next_page_url": null,
+    "prev_page_url": "/api/v1/pastel/pages/3.json"
+  },
+  "data": [
+    {
+      "id": "pastel_046",
+      "category": "pastel",
+      "title": "Pastel Wallpaper 046",
+      "tags": [
+        "pastel",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/046.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/046.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 230081,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:38.542983",
+        "hash": "aecd94b7dd929bccc4c39b413fa0067f",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "pastel_047",
+      "category": "pastel",
+      "title": "Pastel Wallpaper 047",
+      "tags": [
+        "pastel",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/047.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/047.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 91587,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:38.590360",
+        "hash": "ebca6202cd58cd546af37725cea31d3a",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "pastel_048",
+      "category": "pastel",
+      "title": "Pastel Wallpaper 048",
+      "tags": [
+        "pastel",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/048.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/048.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 151863,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:38.640986",
+        "hash": "8d11cb30dbaf482fae8d00c8c038ca4b",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "pastel_049",
+      "category": "pastel",
+      "title": "Pastel Wallpaper 049",
+      "tags": [
+        "pastel",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/049.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/049.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 201942,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:38.695238",
+        "hash": "74fa919f986bfcc5cf69df34e2812a53",
+        "source": "migrated"
+      }
+    }
+  ]
+}

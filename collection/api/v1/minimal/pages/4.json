@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-17T00:06:19.072196",
+    "category": "minimal",
+    "page": 4,
+    "per_page": 15,
+    "total_pages": 4,
+    "total_count": 46,
+    "count_on_page": 1,
+    "has_next": false,
+    "has_prev": true,
+    "next_page_url": null,
+    "prev_page_url": "/api/v1/minimal/pages/3.json"
+  },
+  "data": [
+    {
+      "id": "minimal_046",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 046",
+      "tags": [
+        "minimal",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/046.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/046.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 499737,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:11.886739",
+        "hash": "7a1a0c9d1c322e4b4f99e6fcf311ce40",
+        "source": "migrated"
+      }
+    }
+  ]
+}

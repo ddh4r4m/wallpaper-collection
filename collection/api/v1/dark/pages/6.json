@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-17T00:06:19.072196",
+    "category": "dark",
+    "page": 6,
+    "per_page": 15,
+    "total_pages": 6,
+    "total_count": 80,
+    "count_on_page": 5,
+    "has_next": false,
+    "has_prev": true,
+    "next_page_url": null,
+    "prev_page_url": "/api/v1/dark/pages/5.json"
+  },
+  "data": [
+    {
+      "id": "dark_076",
+      "category": "dark",
+      "title": "Dark Wallpaper 076",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/076.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/076.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 266232,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:39.582519",
+        "hash": "9d7d2b29cf63695ad4a0942fd7c32a35",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_077",
+      "category": "dark",
+      "title": "Dark Wallpaper 077",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/077.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/077.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 294669,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:39.780746",
+        "hash": "207863db362e6d4d0317e7825ad37ec8",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_078",
+      "category": "dark",
+      "title": "Dark Wallpaper 078",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/078.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/078.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 262975,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:39.974911",
+        "hash": "f9c65b62c8d7245f2c10ae38cfab37dc",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_079",
+      "category": "dark",
+      "title": "Dark Wallpaper 079",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/079.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/079.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 191191,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:40.138784",
+        "hash": "5475f1f72a65bb44c834866ee7b755a8",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_080",
+      "category": "dark",
+      "title": "Dark Wallpaper 080",
+      "tags": [
+        "dark",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/080.jpg",
+        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/080.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 188962,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:03:40.292183",
+        "hash": "f545ebaf2a336037c6feb2b90fe6927a",
+        "source": "migrated"
+      }
+    }
+  ]
+}

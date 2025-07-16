@@ -1,242 +1,392 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-16T22:22:47.973645"
+    "generated_at": "2025-07-17T00:06:19.072196"
   },
   "data": {
-    "total_wallpapers": 260,
-    "total_categories": 3,
+    "total_wallpapers": 1751,
+    "total_categories": 17,
     "categories": {
-      "abstract": {
-        "name": "Abstract",
-        "count": 2,
-        "description": "Abstract patterns, geometric designs, and artistic visualizations"
+      "minimal": {
+        "name": "Minimal",
+        "count": 46,
+        "description": "Clean, simple designs with minimalist aesthetics"
       },
-      "anime": {
-        "name": "Anime",
-        "count": 58,
-        "description": "Anime characters, manga art, and Japanese animation styles"
+      "technology": {
+        "name": "Technology",
+        "count": 10,
+        "description": "Gadgets, circuits, futuristic tech, and digital interfaces"
+      },
+      "cyberpunk": {
+        "name": "Cyberpunk",
+        "count": 41,
+        "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
       },
       "4k": {
         "name": "4K",
         "count": 200,
         "description": "Ultra high-definition wallpapers optimized for 4K displays"
+      },
+      "art": {
+        "name": "Art",
+        "count": 47,
+        "description": "Digital art, paintings, illustrations, and creative designs"
+      },
+      "gaming": {
+        "name": "Gaming",
+        "count": 76,
+        "description": "Video game characters, scenes, and gaming-inspired artwork"
+      },
+      "anime": {
+        "name": "Anime",
+        "count": 116,
+        "description": "Anime characters, manga art, and Japanese animation styles"
+      },
+      "seasonal": {
+        "name": "Seasonal",
+        "count": 85,
+        "description": "Holiday themes, seasonal changes, and weather phenomena"
+      },
+      "nature": {
+        "name": "Nature",
+        "count": 284,
+        "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
+      },
+      "space": {
+        "name": "Space",
+        "count": 86,
+        "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
+      },
+      "pastel": {
+        "name": "Pastel",
+        "count": 49,
+        "description": "Soft colors, gentle aesthetics, and dream-like themes"
+      },
+      "abstract": {
+        "name": "Abstract",
+        "count": 219,
+        "description": "Abstract patterns, geometric designs, and artistic visualizations"
+      },
+      "neon": {
+        "name": "Neon",
+        "count": 78,
+        "description": "Neon lighting, synthwave aesthetics, and electric themes"
+      },
+      "architecture": {
+        "name": "Architecture",
+        "count": 275,
+        "description": "Buildings, bridges, modern structures, and urban photography"
+      },
+      "cars": {
+        "name": "Cars",
+        "count": 29,
+        "description": "Automotive photography, sports cars, and vehicle designs"
+      },
+      "vintage": {
+        "name": "Vintage",
+        "count": 30,
+        "description": "Retro designs, nostalgic themes, and classic aesthetics"
+      },
+      "dark": {
+        "name": "Dark",
+        "count": 80,
+        "description": "Dark themes, gothic aesthetics, and mysterious atmospheres"
       }
     },
     "recent_additions": [
       {
-        "id": "4k_155",
-        "category": "4k",
-        "title": "4K Wallpaper 155",
+        "id": "vintage_030",
+        "category": "vintage",
+        "title": "Vintage Wallpaper 030",
         "tags": [
-          "4k"
+          "vintage",
+          "wallpaper",
+          "hd",
+          "mobile"
         ],
         "urls": {
-          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/155.jpg",
-          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/155.jpg"
+          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/030.jpg",
+          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/030.jpg"
         },
         "metadata": {
-          "added_at": "2025-07-16T22:20:43.047200",
-          "file_size": 336377,
           "dimensions": {
             "width": 1080,
             "height": 1920
-          }
+          },
+          "file_size": 314414,
+          "format": "JPEG",
+          "added_at": "2025-07-17T00:04:51.623234",
+          "hash": "bdfaad6edbe6e68ebc7cdf537a153259",
+          "source": "migrated"
         }
       },
       {
-        "id": "4k_154",
-        "category": "4k",
-        "title": "4K Wallpaper 154",
+        "id": "vintage_029",
+        "category": "vintage",
+        "title": "Vintage Wallpaper 029",
         "tags": [
-          "4k"
+          "vintage",
+          "wallpaper",
+          "hd",
+          "mobile"
         ],
         "urls": {
-          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/154.jpg",
-          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/154.jpg"
+          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/029.jpg",
+          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/029.jpg"
         },
         "metadata": {
-          "added_at": "2025-07-16T22:20:42.964627",
-          "file_size": 395787,
           "dimensions": {
             "width": 1080,
             "height": 1920
-          }
+          },
+          "file_size": 263969,
+          "format": "JPEG",
+          "added_at": "2025-07-17T00:04:51.565590",
+          "hash": "b38e22fda613aaaffa0f9d3d7d796cf8",
+          "source": "migrated"
         }
       },
       {
-        "id": "4k_153",
-        "category": "4k",
-        "title": "4K Wallpaper 153",
+        "id": "vintage_028",
+        "category": "vintage",
+        "title": "Vintage Wallpaper 028",
         "tags": [
-          "4k"
+          "vintage",
+          "wallpaper",
+          "hd",
+          "mobile"
         ],
         "urls": {
-          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/153.jpg",
-          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/153.jpg"
+          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/028.jpg",
+          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/028.jpg"
         },
         "metadata": {
-          "added_at": "2025-07-16T22:20:42.890813",
-          "file_size": 352452,
           "dimensions": {
             "width": 1080,
             "height": 1920
-          }
+          },
+          "file_size": 373366,
+          "format": "JPEG",
+          "added_at": "2025-07-17T00:04:51.511723",
+          "hash": "f24d6af82673d83c59f20d465a598dfe",
+          "source": "migrated"
         }
       },
       {
-        "id": "4k_152",
-        "category": "4k",
-        "title": "4K Wallpaper 152",
+        "id": "vintage_027",
+        "category": "vintage",
+        "title": "Vintage Wallpaper 027",
         "tags": [
-          "4k"
+          "vintage",
+          "wallpaper",
+          "hd",
+          "mobile"
         ],
         "urls": {
-          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/152.jpg",
-          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/152.jpg"
+          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/027.jpg",
+          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/027.jpg"
         },
         "metadata": {
-          "added_at": "2025-07-16T22:20:42.829400",
-          "file_size": 338031,
           "dimensions": {
             "width": 1080,
             "height": 1920
-          }
+          },
+          "file_size": 360667,
+          "format": "JPEG",
+          "added_at": "2025-07-17T00:04:51.451285",
+          "hash": "f1e3623a80dd3f830444f6bf537dedaa",
+          "source": "migrated"
         }
       },
       {
-        "id": "4k_151",
-        "category": "4k",
-        "title": "4K Wallpaper 151",
+        "id": "vintage_026",
+        "category": "vintage",
+        "title": "Vintage Wallpaper 026",
         "tags": [
-          "4k"
+          "vintage",
+          "wallpaper",
+          "hd",
+          "mobile"
         ],
         "urls": {
-          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/151.jpg",
-          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/151.jpg"
+          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/026.jpg",
+          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/026.jpg"
         },
         "metadata": {
-          "added_at": "2025-07-16T22:20:42.757440",
-          "file_size": 611160,
           "dimensions": {
             "width": 1080,
             "height": 1920
-          }
+          },
+          "file_size": 346767,
+          "format": "JPEG",
+          "added_at": "2025-07-17T00:04:51.391555",
+          "hash": "bc1d714a2042f8a62e94f39f84e56c69",
+          "source": "migrated"
         }
       },
       {
-        "id": "4k_150",
-        "category": "4k",
-        "title": "4K Wallpaper 150",
+        "id": "vintage_025",
+        "category": "vintage",
+        "title": "Vintage Wallpaper 025",
         "tags": [
-          "4k"
+          "vintage",
+          "wallpaper",
+          "hd",
+          "mobile"
         ],
         "urls": {
-          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/150.jpg",
-          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/150.jpg"
+          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/025.jpg",
+          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/025.jpg"
         },
         "metadata": {
-          "added_at": "2025-07-16T22:20:42.681126",
-          "file_size": 232421,
           "dimensions": {
             "width": 1080,
             "height": 1920
-          }
+          },
+          "file_size": 411485,
+          "format": "JPEG",
+          "added_at": "2025-07-17T00:04:51.332699",
+          "hash": "d1c080ce80d1a31d35ce035b966b476b",
+          "source": "migrated"
         }
       },
       {
-        "id": "4k_149",
-        "category": "4k",
-        "title": "4K Wallpaper 149",
+        "id": "vintage_024",
+        "category": "vintage",
+        "title": "Vintage Wallpaper 024",
         "tags": [
-          "4k"
+          "vintage",
+          "wallpaper",
+          "hd",
+          "mobile"
         ],
         "urls": {
-          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/149.jpg",
-          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/149.jpg"
+          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/024.jpg",
+          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/024.jpg"
         },
         "metadata": {
-          "added_at": "2025-07-16T22:20:42.621743",
-          "file_size": 328544,
           "dimensions": {
             "width": 1080,
             "height": 1920
-          }
+          },
+          "file_size": 299922,
+          "format": "JPEG",
+          "added_at": "2025-07-17T00:04:51.271422",
+          "hash": "5d2a87d613e92fa0b16e462d84f5cbb0",
+          "source": "migrated"
         }
       },
       {
-        "id": "4k_148",
-        "category": "4k",
-        "title": "4K Wallpaper 148",
+        "id": "vintage_023",
+        "category": "vintage",
+        "title": "Vintage Wallpaper 023",
         "tags": [
-          "4k"
+          "vintage",
+          "wallpaper",
+          "hd",
+          "mobile"
         ],
         "urls": {
-          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/148.jpg",
-          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/148.jpg"
+          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/023.jpg",
+          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/023.jpg"
         },
         "metadata": {
-          "added_at": "2025-07-16T22:20:42.546427",
-          "file_size": 254754,
           "dimensions": {
             "width": 1080,
             "height": 1920
-          }
+          },
+          "file_size": 278892,
+          "format": "JPEG",
+          "added_at": "2025-07-17T00:04:51.215754",
+          "hash": "289aa78c878f70492e572f65625a0ea3",
+          "source": "migrated"
         }
       },
       {
-        "id": "4k_147",
-        "category": "4k",
-        "title": "4K Wallpaper 147",
+        "id": "vintage_022",
+        "category": "vintage",
+        "title": "Vintage Wallpaper 022",
         "tags": [
-          "4k"
+          "vintage",
+          "wallpaper",
+          "hd",
+          "mobile"
         ],
         "urls": {
-          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/147.jpg",
-          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/147.jpg"
+          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/022.jpg",
+          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/022.jpg"
         },
         "metadata": {
-          "added_at": "2025-07-16T22:20:42.486695",
-          "file_size": 767425,
           "dimensions": {
             "width": 1080,
             "height": 1920
-          }
+          },
+          "file_size": 653416,
+          "format": "JPEG",
+          "added_at": "2025-07-17T00:04:51.162680",
+          "hash": "30e9460ce9b3018b39b5e724fcff2944",
+          "source": "migrated"
         }
       },
       {
-        "id": "4k_146",
-        "category": "4k",
-        "title": "4K Wallpaper 146",
+        "id": "vintage_021",
+        "category": "vintage",
+        "title": "Vintage Wallpaper 021",
         "tags": [
-          "4k"
+          "vintage",
+          "wallpaper",
+          "hd",
+          "mobile"
         ],
         "urls": {
-          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/146.jpg",
-          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/146.jpg"
+          "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/021.jpg",
+          "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/021.jpg"
         },
         "metadata": {
-          "added_at": "2025-07-16T22:20:42.398865",
-          "file_size": 471217,
           "dimensions": {
             "width": 1080,
             "height": 1920
-          }
+          },
+          "file_size": 399832,
+          "format": "JPEG",
+          "added_at": "2025-07-17T00:04:51.089785",
+          "hash": "a9888cab25fb6bf3c46ba557326d5a0e",
+          "source": "migrated"
         }
       }
     ],
     "popular_tags": [
       [
         "wallpaper",
-        167
+        1658
       ],
       [
         "hd",
-        162
+        1653
+      ],
+      [
+        "mobile",
+        1549
+      ],
+      [
+        "nature",
+        286
+      ],
+      [
+        "architecture",
+        275
+      ],
+      [
+        "abstract",
+        220
       ],
       [
         "4k",
         155
+      ],
+      [
+        "anime",
+        116
       ],
       [
         "portrait",
@@ -247,74 +397,54 @@
         104
       ],
       [
-        "anime",
-        58
+        "space",
+        86
+      ],
+      [
+        "seasonal",
+        85
+      ],
+      [
+        "dark",
+        81
+      ],
+      [
+        "neon",
+        78
+      ],
+      [
+        "gaming",
+        76
       ],
       [
         "high resolution",
         58
       ],
       [
-        "mobile",
-        58
-      ],
-      [
-        "abstract",
-        3
-      ],
-      [
-        "nature",
-        2
+        "pastel",
+        50
       ],
       [
         "minimal",
-        2
+        48
       ],
       [
-        "blue",
-        2
+        "art",
+        47
       ],
       [
-        "pink",
-        1
-      ],
-      [
-        "flower",
-        1
-      ],
-      [
-        "teal",
-        1
-      ],
-      [
-        "geometric",
-        1
-      ],
-      [
-        "dark",
-        1
-      ],
-      [
-        "forest",
-        1
-      ],
-      [
-        "gradient",
-        1
-      ],
-      [
-        "light",
-        1
+        "cyberpunk",
+        41
       ]
     ],
     "file_stats": {
-      "total_size_mb": 385.15,
-      "average_file_size_kb": 1516.91,
+      "total_size_mb": 904.8,
+      "average_file_size_kb": 529.14,
       "average_dimensions": {
-        "width": 1917,
-        "height": 2142
+        "width": 1186,
+        "height": 1948
       },
-      "total_files": 260
+      "total_files": 1751
     }
   }
 }
