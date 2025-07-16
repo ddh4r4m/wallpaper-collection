@@ -1,0 +1,26 @@
+{
+  "id": "art_001",
+  "category": "art",
+  "title": "Art Wallpaper 001",
+  "tags": [
+    "art",
+    "wallpaper",
+    "hd",
+    "mobile"
+  ],
+  "urls": {
+    "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/001.jpg",
+    "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/001.jpg"
+  },
+  "metadata": {
+    "dimensions": {
+      "width": 1080,
+      "height": 1920
+    },
+    "file_size": 68346,
+    "format": "JPEG",
+    "added_at": "2025-07-17T00:03:02.037661",
+    "hash": "7076bc94f1f3d91861904b360f9d06f5",
+    "source": "migrated"
+  }
+}
