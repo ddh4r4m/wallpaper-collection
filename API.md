@@ -15,26 +15,26 @@ Complete API documentation for the **bulletproof WallCraft collection**. **No AP
 ### Test the APIs
 ```bash
 # Get all wallpapers
-curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/all.json
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/all.json
 
 # Get collection statistics
-curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/stats.json
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/stats.json
 
 # Get 4K wallpapers  
-curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k.json
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k.json
 
 # Download a 4K wallpaper (sequential numbering)
-curl -o 4k_001.jpg "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/001.jpg"
+curl -o 4k_001.jpg "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/001.jpg"
 
 # Download 4K thumbnail
-curl -o 4k_001_thumb.jpg "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/001.jpg"
+curl -o 4k_001_thumb.jpg "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/001.jpg"
 ```
 
 ## 🔗 API Endpoints
 
 ### Base URL
 ```
-https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/
+https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/
 ```
 
 ### Core API Endpoints (v1)
@@ -79,28 +79,28 @@ https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/
 #### Category API Examples
 ```bash
 # Get 4K wallpapers (200 wallpapers)
-curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k.json
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k.json
 
 # Get anime wallpapers (58 wallpapers)
-curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/anime.json
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/anime.json
 
 # Get abstract wallpapers (2 wallpapers)
-curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/abstract.json
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/abstract.json
 ```
 
 #### 🚀 Pagination Examples
 ```bash
 # Get first page of all wallpapers (15 wallpapers)
-curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/all/pages/1.json
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/all/pages/1.json
 
 # Get first page of 4K wallpapers (15 wallpapers) 
-curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k/pages/1.json
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k/pages/1.json
 
 # Get page 5 of 4K wallpapers
-curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k/pages/5.json
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k/pages/5.json
 
 # Get first page of anime wallpapers
-curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/anime/pages/1.json
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/anime/pages/1.json
 
 # Available pages: All (1-18), 4K (1-14), Anime (1-4)
 ```
@@ -153,8 +153,8 @@ Complete collection with all wallpapers and metadata.
         "portrait"
       ],
       "urls": {
-        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/001.jpg",
-        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/001.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/001.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/001.jpg"
       },
       "metadata": {
         "dimensions": {
@@ -206,8 +206,8 @@ Paginated response with navigation metadata and 15 wallpapers per page.
         "portrait"
       ],
       "urls": {
-        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/001.jpg",
-        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/001.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/001.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/001.jpg"
       },
       "metadata": {
         "dimensions": {
@@ -282,8 +282,8 @@ All wallpapers in a specific category.
         "portrait"
       ],
       "urls": {
-        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/001.jpg",
-        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/001.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/001.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/001.jpg"
       },
       "metadata": {
         "dimensions": {
@@ -321,8 +321,8 @@ Latest 20 wallpapers across all categories.
         "4k"
       ],
       "urls": {
-        "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/155.jpg",
-        "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/155.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/155.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/155.jpg"
       },
       "metadata": {
         "added_at": "2025-07-16T22:20:43.047200",
@@ -430,25 +430,25 @@ Our flagship **4K collection** contains **200 carefully curated wallpapers** fro
 #### Quick Start with 4K Collection
 ```bash
 # Get all 200 4K wallpapers
-curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k.json
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k.json
 
 # Access specific 4K wallpaper (sequential numbering)
-curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/001.jpg
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/001.jpg
 
 # Get 4K thumbnail for fast preview
-curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/001.jpg
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/001.jpg
 ```
 
 #### 4K URL Pattern
 ```typescript
 // Wallpaper URLs (001-200)
-const wallpaperUrl = `https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/${id.padStart(3, '0')}.jpg`;
+const wallpaperUrl = `https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/${id.padStart(3, '0')}.jpg`;
 
 // Thumbnail URLs (001-200)  
-const thumbnailUrl = `https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/${id.padStart(3, '0')}.jpg`;
+const thumbnailUrl = `https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/${id.padStart(3, '0')}.jpg`;
 
 // Example: 4K wallpaper #42
-const wallpaper42 = "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/042.jpg";
+const wallpaper42 = "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/042.jpg";
 ```
 
 #### Implementation Examples
@@ -456,7 +456,7 @@ const wallpaper42 = "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collect
 **Flutter/Dart**
 ```dart
 class WallpaperService {
-  static const String baseUrl = 'https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection';
+  static const String baseUrl = 'https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection';
   
   String getWallpaperUrl(String category, int id) {
     final paddedId = id.toString().padLeft(3, '0');
@@ -477,7 +477,7 @@ final thumbnailUrl = WallpaperService().getThumbnailUrl('4k', 150); // 150.jpg
 **JavaScript/React**
 ```javascript
 class WallpaperAPI {
-  static baseUrl = 'https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection';
+  static baseUrl = 'https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection';
   
   static getWallpaperUrl(category, id) {
     const paddedId = id.toString().padStart(3, '0');
@@ -596,7 +596,7 @@ interface CategoryInfo {
 **Flutter/Dart Implementation:**
 ```dart
 class WallpaperPagination {
-  static const String baseUrl = 'https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1';
+  static const String baseUrl = 'https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1';
   
   // Get paginated wallpapers
   Future<PaginatedResponse> getPage(String category, int page) async {
@@ -666,7 +666,7 @@ class PaginationMeta {
 **JavaScript/React Implementation:**
 ```javascript
 class WallpaperPagination {
-  static baseUrl = 'https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1';
+  static baseUrl = 'https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1';
   
   // Get paginated wallpapers
   static async getPage(category, page) {
@@ -730,7 +730,7 @@ If you're using the old API structure, here's how to migrate:
 curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/categories/nature.json
 
 # NEW (bulletproof, always correct)
-curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k.json
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k.json
 ```
 
 ### Response Structure Changes
@@ -763,8 +763,8 @@ curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collect
 // NEW format (bulletproof)
 {
   "urls": {
-    "raw": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/001.jpg",
-    "thumb": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/001.jpg"
+    "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/001.jpg",
+    "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/001.jpg"
   }
 }
 ```
@@ -779,10 +779,10 @@ curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collect
 ### Error Handling
 ```bash
 # Test API availability
-curl -I https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/all.json
+curl -I https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/all.json
 
 # Check 4K category
-curl -I https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k.json
+curl -I https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k.json
 ```
 
 ## 📞 Support & Documentation
@@ -798,5 +798,5 @@ curl -I https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/coll
 
 ```bash
 # Start using the bulletproof API today
-curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/all.json | jq '.meta.total_count'
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/all.json | jq '.meta.total_count'
 ```

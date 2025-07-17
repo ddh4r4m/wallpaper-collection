@@ -35,7 +35,7 @@ class APIBuilder:
         self.github_user = "ddh4r4m"
         self.github_repo = "wallpaper-collection"
         self.github_branch = "main"
-        self.base_url = f"https://raw.githubusercontent.com/{self.github_user}/{self.github_repo}/{self.github_branch}"
+        self.base_url = f"https://media.githubusercontent.com/media/{self.github_user}/{self.github_repo}/{self.github_branch}"
         
         # Valid categories
         self.valid_categories = {
@@ -161,6 +161,99 @@ class APIBuilder:
         print(f"Total: {len(wallpapers)} wallpapers")
         return wallpapers
     
+    def _build_paginated_category(self, category, wallpapers, timestamp):
+        """Build paginated endpoints for a category with 15 wallpapers per page"""
+        page_size = 15
+        total_wallpapers = len(wallpapers)
+        total_pages = (total_wallpapers + page_size - 1) // page_size  # Round up division
+        
+        if total_pages <= 1:
+            return  # Skip pagination for categories with <= 15 wallpapers
+        
+        # Create pagination directory
+        pagination_dir = self.api_dir / category / "pages"
+        pagination_dir.mkdir(parents=True, exist_ok=True)
+        
+        print(f"    Building {total_pages} paginated endpoints for {category}...")
+        
+        for page_num in range(1, total_pages + 1):
+            start_idx = (page_num - 1) * page_size
+            end_idx = min(start_idx + page_size, total_wallpapers)
+            page_wallpapers = wallpapers[start_idx:end_idx]
+            
+            # Calculate pagination metadata
+            has_next = page_num < total_pages
+            has_prev = page_num > 1
+            next_page_url = f"/api/v1/{category}/pages/{page_num + 1}.json" if has_next else None
+            prev_page_url = f"/api/v1/{category}/pages/{page_num - 1}.json" if has_prev else None
+            
+            page_data = {
+                'meta': {
+                    'version': '1.0',
+                    'generated_at': timestamp,
+                    'category': category,
+                    'page': page_num,
+                    'per_page': page_size,
+                    'total_pages': total_pages,
+                    'total_count': total_wallpapers,
+                    'count_on_page': len(page_wallpapers),
+                    'has_next': has_next,
+                    'has_prev': has_prev,
+                    'next_page_url': next_page_url,
+                    'prev_page_url': prev_page_url
+                },
+                'data': page_wallpapers
+            }
+            
+            # Save page file
+            with open(pagination_dir / f"{page_num}.json", 'w') as f:
+                json.dump(page_data, f, indent=2)
+
+    def _build_paginated_all(self, wallpapers, timestamp):
+        """Build paginated endpoints for all wallpapers with 15 wallpapers per page"""
+        page_size = 15
+        total_wallpapers = len(wallpapers)
+        total_pages = (total_wallpapers + page_size - 1) // page_size  # Round up division
+        
+        # Create pagination directory
+        pagination_dir = self.api_dir / "all" / "pages"
+        pagination_dir.mkdir(parents=True, exist_ok=True)
+        
+        print(f"  Building {total_pages} paginated endpoints for all wallpapers...")
+        
+        for page_num in range(1, total_pages + 1):
+            start_idx = (page_num - 1) * page_size
+            end_idx = min(start_idx + page_size, total_wallpapers)
+            page_wallpapers = wallpapers[start_idx:end_idx]
+            
+            # Calculate pagination metadata
+            has_next = page_num < total_pages
+            has_prev = page_num > 1
+            next_page_url = f"/api/v1/all/pages/{page_num + 1}.json" if has_next else None
+            prev_page_url = f"/api/v1/all/pages/{page_num - 1}.json" if has_prev else None
+            
+            page_data = {
+                'meta': {
+                    'version': '1.0',
+                    'generated_at': timestamp,
+                    'page': page_num,
+                    'per_page': page_size,
+                    'total_pages': total_pages,
+                    'total_count': total_wallpapers,
+                    'count_on_page': len(page_wallpapers),
+                    'categories': len(set(w['category'] for w in wallpapers)),
+                    'has_next': has_next,
+                    'has_prev': has_prev,
+                    'next_page_url': next_page_url,
+                    'prev_page_url': prev_page_url
+                },
+                'data': page_wallpapers
+            }
+            
+            # Save page file
+            with open(pagination_dir / f"{page_num}.json", 'w') as f:
+                json.dump(page_data, f, indent=2)
+
     def build_all_apis(self):
         """Build all API endpoints"""
         print("Building APIs...")
@@ -189,6 +282,9 @@ class APIBuilder:
         
         with open(self.api_dir / 'all.json', 'w') as f:
             json.dump(all_data, f, indent=2)
+        
+        # Build paginated "all" endpoints
+        self._build_paginated_all(wallpapers, timestamp)
         
         # Build categories.json
         print("  Building categories.json...")
@@ -220,6 +316,7 @@ class APIBuilder:
             category_wallpapers = [w for w in wallpapers if w['category'] == category]
             
             if category_wallpapers:
+                # Build full category file
                 category_data = {
                     'meta': {
                         'version': '1.0',
@@ -232,6 +329,9 @@ class APIBuilder:
                 
                 with open(self.api_dir / f'{category}.json', 'w') as f:
                     json.dump(category_data, f, indent=2)
+                
+                # Build paginated endpoints (15 per page)
+                self._build_paginated_category(category, category_wallpapers, timestamp)
         
         # Build featured.json (most recent 20 wallpapers)
         print("  Building featured.json...")

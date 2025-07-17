@@ -1,89 +1,89 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T00:06:19.072196",
+    "generated_at": "2025-07-17T21:14:17.488868",
     "total_categories": 17
   },
   "data": {
-    "minimal": {
-      "name": "Minimal",
-      "count": 46,
-      "description": "Clean, simple designs with minimalist aesthetics"
-    },
-    "technology": {
-      "name": "Technology",
-      "count": 10,
-      "description": "Gadgets, circuits, futuristic tech, and digital interfaces"
-    },
-    "cyberpunk": {
-      "name": "Cyberpunk",
-      "count": 41,
-      "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
-    },
-    "4k": {
-      "name": "4K",
-      "count": 200,
-      "description": "Ultra high-definition wallpapers optimized for 4K displays"
-    },
-    "art": {
-      "name": "Art",
-      "count": 47,
-      "description": "Digital art, paintings, illustrations, and creative designs"
-    },
-    "gaming": {
-      "name": "Gaming",
-      "count": 76,
-      "description": "Video game characters, scenes, and gaming-inspired artwork"
-    },
-    "anime": {
-      "name": "Anime",
-      "count": 116,
-      "description": "Anime characters, manga art, and Japanese animation styles"
+    "cars": {
+      "name": "Cars",
+      "count": 29,
+      "description": "Automotive photography, sports cars, and vehicle designs"
     },
     "seasonal": {
       "name": "Seasonal",
       "count": 85,
       "description": "Holiday themes, seasonal changes, and weather phenomena"
     },
-    "nature": {
-      "name": "Nature",
-      "count": 284,
-      "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
-    },
-    "space": {
-      "name": "Space",
-      "count": 86,
-      "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
-    },
-    "pastel": {
-      "name": "Pastel",
-      "count": 49,
-      "description": "Soft colors, gentle aesthetics, and dream-like themes"
-    },
-    "abstract": {
-      "name": "Abstract",
-      "count": 219,
-      "description": "Abstract patterns, geometric designs, and artistic visualizations"
-    },
     "neon": {
       "name": "Neon",
       "count": 78,
       "description": "Neon lighting, synthwave aesthetics, and electric themes"
+    },
+    "cyberpunk": {
+      "name": "Cyberpunk",
+      "count": 41,
+      "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
+    },
+    "gaming": {
+      "name": "Gaming",
+      "count": 76,
+      "description": "Video game characters, scenes, and gaming-inspired artwork"
     },
     "architecture": {
       "name": "Architecture",
       "count": 275,
       "description": "Buildings, bridges, modern structures, and urban photography"
     },
-    "cars": {
-      "name": "Cars",
-      "count": 29,
-      "description": "Automotive photography, sports cars, and vehicle designs"
+    "pastel": {
+      "name": "Pastel",
+      "count": 49,
+      "description": "Soft colors, gentle aesthetics, and dream-like themes"
+    },
+    "minimal": {
+      "name": "Minimal",
+      "count": 46,
+      "description": "Clean, simple designs with minimalist aesthetics"
+    },
+    "art": {
+      "name": "Art",
+      "count": 47,
+      "description": "Digital art, paintings, illustrations, and creative designs"
+    },
+    "4k": {
+      "name": "4K",
+      "count": 200,
+      "description": "Ultra high-definition wallpapers optimized for 4K displays"
+    },
+    "nature": {
+      "name": "Nature",
+      "count": 284,
+      "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
+    },
+    "technology": {
+      "name": "Technology",
+      "count": 10,
+      "description": "Gadgets, circuits, futuristic tech, and digital interfaces"
+    },
+    "anime": {
+      "name": "Anime",
+      "count": 116,
+      "description": "Anime characters, manga art, and Japanese animation styles"
     },
     "vintage": {
       "name": "Vintage",
       "count": 30,
       "description": "Retro designs, nostalgic themes, and classic aesthetics"
+    },
+    "abstract": {
+      "name": "Abstract",
+      "count": 219,
+      "description": "Abstract patterns, geometric designs, and artistic visualizations"
+    },
+    "space": {
+      "name": "Space",
+      "count": 86,
+      "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
     },
     "dark": {
       "name": "Dark",
