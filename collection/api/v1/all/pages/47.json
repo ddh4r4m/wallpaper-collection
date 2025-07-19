@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 47,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/48.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "architecture_156",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 156",
+      "id": "anime_067",
+      "category": "anime",
+      "title": "Anime Wallpaper 067",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/156.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/156.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/067.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/067.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 191360,
+        "file_size": 262882,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:54.600071",
-        "hash": "f10bff14dd6c64631baf57423f499c96",
+        "added_at": "2025-07-17T00:02:30.089199",
+        "hash": "dfac225ca63a267dce8a3fd8a0640e8c",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_157",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 157",
+      "id": "anime_068",
+      "category": "anime",
+      "title": "Anime Wallpaper 068",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/157.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/157.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/068.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/068.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 190202,
+        "file_size": 335829,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:54.652308",
-        "hash": "2dc153dc1ec5e0f322b877cae97350e7",
+        "added_at": "2025-07-17T00:02:30.584473",
+        "hash": "6415539d4132f82267c6e986e747869b",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_158",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 158",
+      "id": "anime_069",
+      "category": "anime",
+      "title": "Anime Wallpaper 069",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/158.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/158.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/069.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/069.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 177872,
+        "file_size": 311232,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:54.703386",
-        "hash": "38f963492f8e91da48a16af1cf1a7862",
+        "added_at": "2025-07-17T00:02:30.792196",
+        "hash": "c7e8f8b974b793a5f4bd824bd416c1cc",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_159",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 159",
+      "id": "anime_070",
+      "category": "anime",
+      "title": "Anime Wallpaper 070",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/159.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/159.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/070.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/070.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 220638,
+        "file_size": 142576,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:54.756204",
-        "hash": "3f59c67d6ec067ce2a020fb3dc60ea63",
+        "added_at": "2025-07-17T00:02:31.079933",
+        "hash": "d9d59edb02d5c90aa16f927a8916f1f3",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_160",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 160",
+      "id": "anime_071",
+      "category": "anime",
+      "title": "Anime Wallpaper 071",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/160.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/160.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/071.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/071.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 228044,
+        "file_size": 126813,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:54.808114",
-        "hash": "058959f885bdb72ebd5a63f5ecedf46b",
+        "added_at": "2025-07-17T00:02:31.284181",
+        "hash": "8b96ed390738f4b3543669e47335d6de",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_161",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 161",
+      "id": "anime_072",
+      "category": "anime",
+      "title": "Anime Wallpaper 072",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/161.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/161.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/072.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/072.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 115510,
+        "file_size": 129079,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:54.855228",
-        "hash": "fe6548e67bde545d0b98b18f1437ad0e",
+        "added_at": "2025-07-17T00:02:31.744156",
+        "hash": "e8db6e7e9863c74b01238d057d063000",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_162",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 162",
+      "id": "anime_073",
+      "category": "anime",
+      "title": "Anime Wallpaper 073",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/162.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/162.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/073.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/073.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 405830,
+        "file_size": 327582,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:54.918946",
-        "hash": "2c1d452e90eb396963d7755be0b8abf6",
+        "added_at": "2025-07-17T00:02:31.953623",
+        "hash": "17513818510bbf852ff6c873a260f5d4",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_163",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 163",
+      "id": "anime_074",
+      "category": "anime",
+      "title": "Anime Wallpaper 074",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/163.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/163.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/074.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/074.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 422176,
+        "file_size": 191513,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:54.984904",
-        "hash": "1b90362d79ea501031c22c0f78a45bb3",
+        "added_at": "2025-07-17T00:02:32.350634",
+        "hash": "8b596b7f2bf39c03fd3015776bfb4596",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_164",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 164",
+      "id": "anime_075",
+      "category": "anime",
+      "title": "Anime Wallpaper 075",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/164.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/164.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/075.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/075.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 253860,
+        "file_size": 404290,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:55.043143",
-        "hash": "8b4f4962bd7d0be1d9d88dc609b381ed",
+        "added_at": "2025-07-17T00:02:32.762580",
+        "hash": "e87ff3adbe79208a399d887273736306",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_165",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 165",
+      "id": "anime_076",
+      "category": "anime",
+      "title": "Anime Wallpaper 076",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/165.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/165.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/076.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/076.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 133002,
+        "file_size": 247990,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:55.091171",
-        "hash": "744968bfacbad298feef6ab1e974ff0d",
+        "added_at": "2025-07-17T00:02:33.116330",
+        "hash": "8fdeea68bbd69087ebd0dc6f1833d85a",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_166",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 166",
+      "id": "anime_077",
+      "category": "anime",
+      "title": "Anime Wallpaper 077",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/166.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/166.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/077.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/077.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 354808,
+        "file_size": 184254,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:55.153239",
-        "hash": "347681a1036e3e6798ebba0709094600",
+        "added_at": "2025-07-17T00:02:33.652528",
+        "hash": "930f904ab478caf959811f8f715b16e1",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_167",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 167",
+      "id": "anime_078",
+      "category": "anime",
+      "title": "Anime Wallpaper 078",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/167.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/167.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/078.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/078.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 200626,
+        "file_size": 217862,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:55.205675",
-        "hash": "0403bae006b7b22c12ef3445895a3ac3",
+        "added_at": "2025-07-17T00:02:34.459132",
+        "hash": "6f1027ad63c18eeaf1a2e9a0463e2422",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_168",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 168",
+      "id": "anime_079",
+      "category": "anime",
+      "title": "Anime Wallpaper 079",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/168.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/168.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/079.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/079.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 286895,
+        "file_size": 181090,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:55.263350",
-        "hash": "e755bd2f51196b8680f6ebb11ce3e45c",
+        "added_at": "2025-07-17T00:02:34.707884",
+        "hash": "1b040b215e80a194d70a97c8381876c2",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_169",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 169",
+      "id": "anime_080",
+      "category": "anime",
+      "title": "Anime Wallpaper 080",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/169.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/169.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/080.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/080.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 548630,
+        "file_size": 196255,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:55.333153",
-        "hash": "ea7762980cadd422ed9004a725c02a77",
+        "added_at": "2025-07-17T00:02:34.881913",
+        "hash": "34270f2307f6404bc6b5e28ffa83f4b0",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_170",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 170",
+      "id": "anime_081",
+      "category": "anime",
+      "title": "Anime Wallpaper 081",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/170.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/170.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/081.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/081.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 556993,
+        "file_size": 410652,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:55.404611",
-        "hash": "84dada6a68d8d0e1c55cd063fe44dfaf",
+        "added_at": "2025-07-17T00:02:35.113216",
+        "hash": "6adc3bf73b1674b043ec3b88ea8e937e",
         "source": "migrated"
       }
     }

@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 115,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/116.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "space_086",
-      "category": "space",
-      "title": "Space Wallpaper 086",
+      "id": "nature_179",
+      "category": "nature",
+      "title": "Nature Wallpaper 179",
       "tags": [
-        "space",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/086.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/086.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/179.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/179.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 435438,
+        "file_size": 448271,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.233497",
-        "hash": "c455c662d50c207beece7f671262673b",
+        "added_at": "2025-07-17T00:04:23.942789",
+        "hash": "0ef9874612cc9c9e7a5e8188e56db240",
         "source": "migrated"
       }
     },
     {
-      "id": "technology_001",
-      "category": "technology",
-      "title": "Technology Wallpaper 001",
+      "id": "nature_180",
+      "category": "nature",
+      "title": "Nature Wallpaper 180",
       "tags": [
-        "technology",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/001.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/001.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/180.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/180.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 337241,
+        "file_size": 673469,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.295132",
-        "hash": "6eeb8e1a32bfdb038ae1a5c84470d42e",
+        "added_at": "2025-07-17T00:04:24.023599",
+        "hash": "02743bfb83ecaafe890e75ce4b7b0ef4",
         "source": "migrated"
       }
     },
     {
-      "id": "technology_002",
-      "category": "technology",
-      "title": "Technology Wallpaper 002",
+      "id": "nature_181",
+      "category": "nature",
+      "title": "Nature Wallpaper 181",
       "tags": [
-        "technology",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/002.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/002.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/181.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/181.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 326064,
+        "file_size": 798535,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.351692",
-        "hash": "d8443cb4ae87a96d942eb3e1ece7498e",
+        "added_at": "2025-07-17T00:04:24.106298",
+        "hash": "dd96f6055760d4fab19ebb4788be58ea",
         "source": "migrated"
       }
     },
     {
-      "id": "technology_003",
-      "category": "technology",
-      "title": "Technology Wallpaper 003",
+      "id": "nature_182",
+      "category": "nature",
+      "title": "Nature Wallpaper 182",
       "tags": [
-        "technology",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/003.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/003.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/182.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/182.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 337241,
+        "file_size": 385750,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.409880",
-        "hash": "6eeb8e1a32bfdb038ae1a5c84470d42e",
+        "added_at": "2025-07-17T00:04:24.170136",
+        "hash": "a91a0cd4720617d965517b7a92b119b5",
         "source": "migrated"
       }
     },
     {
-      "id": "technology_004",
-      "category": "technology",
-      "title": "Technology Wallpaper 004",
+      "id": "nature_183",
+      "category": "nature",
+      "title": "Nature Wallpaper 183",
       "tags": [
-        "technology",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/004.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/004.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/183.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/183.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 393048,
+        "file_size": 461267,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.474426",
-        "hash": "cb518cb0b329f889e15eb6d8b13fa79f",
+        "added_at": "2025-07-17T00:04:24.234685",
+        "hash": "b0026dc94345a560bd77f26b3e6e078c",
         "source": "migrated"
       }
     },
     {
-      "id": "technology_005",
-      "category": "technology",
-      "title": "Technology Wallpaper 005",
+      "id": "nature_184",
+      "category": "nature",
+      "title": "Nature Wallpaper 184",
       "tags": [
-        "technology",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/005.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/005.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/184.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/184.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 357226,
+        "file_size": 449104,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.535827",
-        "hash": "3fbfb757d890f7d16110638a5d3268d3",
+        "added_at": "2025-07-17T00:04:24.300123",
+        "hash": "33228aff88ba38d831f43c24e48f54ed",
         "source": "migrated"
       }
     },
     {
-      "id": "technology_006",
-      "category": "technology",
-      "title": "Technology Wallpaper 006",
+      "id": "nature_185",
+      "category": "nature",
+      "title": "Nature Wallpaper 185",
       "tags": [
-        "technology",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/006.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/006.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/185.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/185.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 389362,
+        "file_size": 285115,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.597760",
-        "hash": "0e0f2f8bb76c036794b549c44821f62d",
+        "added_at": "2025-07-17T00:04:24.356970",
+        "hash": "5b87dc3567e288a033a8fa179e12ec0c",
         "source": "migrated"
       }
     },
     {
-      "id": "technology_007",
-      "category": "technology",
-      "title": "Technology Wallpaper 007",
+      "id": "nature_186",
+      "category": "nature",
+      "title": "Nature Wallpaper 186",
       "tags": [
-        "technology",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/007.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/007.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/186.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/186.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 399474,
+        "file_size": 478268,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.659551",
-        "hash": "5c57ab29f7a65be36af09c44189a4d4b",
+        "added_at": "2025-07-17T00:04:24.423485",
+        "hash": "e280119cd33b255fdee00173bee52569",
         "source": "migrated"
       }
     },
     {
-      "id": "technology_008",
-      "category": "technology",
-      "title": "Technology Wallpaper 008",
+      "id": "nature_187",
+      "category": "nature",
+      "title": "Nature Wallpaper 187",
       "tags": [
-        "technology",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/008.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/008.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/187.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/187.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 399474,
+        "file_size": 826028,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.720324",
-        "hash": "5c57ab29f7a65be36af09c44189a4d4b",
+        "added_at": "2025-07-17T00:04:24.508427",
+        "hash": "2afcd1fc3dff40cad87f8a71fb7e7805",
         "source": "migrated"
       }
     },
     {
-      "id": "technology_009",
-      "category": "technology",
-      "title": "Technology Wallpaper 009",
+      "id": "nature_188",
+      "category": "nature",
+      "title": "Nature Wallpaper 188",
       "tags": [
-        "technology",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/009.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/009.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/188.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/188.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 444282,
+        "file_size": 611868,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.787716",
-        "hash": "c289c9c8fc8741d491a11b10fd94605a",
+        "added_at": "2025-07-17T00:04:24.585843",
+        "hash": "7dacec2c90ced41289b41fd7758e08fa",
         "source": "migrated"
       }
     },
     {
-      "id": "technology_010",
-      "category": "technology",
-      "title": "Technology Wallpaper 010",
+      "id": "nature_189",
+      "category": "nature",
+      "title": "Nature Wallpaper 189",
       "tags": [
-        "technology",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/010.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/010.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/189.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/189.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 375456,
+        "file_size": 551748,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.847604",
-        "hash": "f6aa42330a23e1978f0a032e4f76abfa",
+        "added_at": "2025-07-17T00:04:24.656002",
+        "hash": "17c943e91c9e314ef9b9c290ac1a4b0c",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_001",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 001",
+      "id": "nature_190",
+      "category": "nature",
+      "title": "Nature Wallpaper 190",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/001.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/001.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/190.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/190.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 213286,
+        "file_size": 563477,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.900251",
-        "hash": "923144fbf876f7c59f47fd2432bc0c98",
+        "added_at": "2025-07-17T00:04:24.727290",
+        "hash": "86d1d2c2cd4e3fd8bd1e5f32b3e5cda1",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_002",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 002",
+      "id": "nature_191",
+      "category": "nature",
+      "title": "Nature Wallpaper 191",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/002.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/002.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/191.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/191.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 746552,
+        "file_size": 471052,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.977804",
-        "hash": "04511a77ca07bf887e2aeb7d59651383",
+        "added_at": "2025-07-17T00:04:24.794986",
+        "hash": "6c9da257670b7e56506a7aad2dbae67c",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_003",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 003",
+      "id": "nature_192",
+      "category": "nature",
+      "title": "Nature Wallpaper 192",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/003.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/003.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/192.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/192.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 216610,
+        "file_size": 390683,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.030591",
-        "hash": "7c8588632edd9b6d8de53158a9ac8f51",
+        "added_at": "2025-07-17T00:04:24.858888",
+        "hash": "3067b8e9fbf5f68e2eef1e7e5ec1b1a8",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_004",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 004",
+      "id": "nature_193",
+      "category": "nature",
+      "title": "Nature Wallpaper 193",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/004.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/004.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/193.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/193.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 253776,
+        "file_size": 394700,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.084573",
-        "hash": "23ede91a0a9a331c59066af1d1095e30",
+        "added_at": "2025-07-17T00:04:24.919833",
+        "hash": "506fb9450c3f776bcdd2cc02daef95e3",
         "source": "migrated"
       }
     }

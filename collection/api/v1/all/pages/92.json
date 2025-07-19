@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 92,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/93.json",
@@ -15,393 +15,411 @@
   },
   "data": [
     {
-      "id": "nature_237",
-      "category": "nature",
-      "title": "Nature Wallpaper 237",
+      "id": "dark_072",
+      "category": "dark",
+      "title": "Dark Wallpaper 072",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/237.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/237.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/072.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/072.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 411301,
+        "file_size": 130895,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:28.012501",
-        "hash": "fe6914f1a5ce6978385eb1dc382a8a4e",
+        "added_at": "2025-07-17T00:03:38.212819",
+        "hash": "9c0eed4b86d3d10a0f0b6c450d13f545",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_238",
-      "category": "nature",
-      "title": "Nature Wallpaper 238",
+      "id": "dark_073",
+      "category": "dark",
+      "title": "Dark Wallpaper 073",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/238.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/238.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/073.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/073.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 1009544,
+        "file_size": 267727,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:28.105738",
-        "hash": "454cab147bd12e96807a942c67516a2d",
+        "added_at": "2025-07-17T00:03:38.456803",
+        "hash": "63e90e68dcff0fc82231567e32c021e7",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_239",
-      "category": "nature",
-      "title": "Nature Wallpaper 239",
+      "id": "dark_074",
+      "category": "dark",
+      "title": "Dark Wallpaper 074",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/239.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/239.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/074.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/074.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 345456,
+        "file_size": 215396,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:28.166542",
-        "hash": "f5646012c3088f23476284a62f5446c5",
+        "added_at": "2025-07-17T00:03:38.781550",
+        "hash": "a267faaed3b78a8b47544fb8000df345",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_240",
-      "category": "nature",
-      "title": "Nature Wallpaper 240",
+      "id": "dark_075",
+      "category": "dark",
+      "title": "Dark Wallpaper 075",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/240.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/240.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/075.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/075.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 780200,
+        "file_size": 212331,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:28.246275",
-        "hash": "e6672fca25956e0629a40b76e28bfeeb",
+        "added_at": "2025-07-17T00:03:39.118942",
+        "hash": "19358f04562fb8fad038a8dc103e98b1",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_241",
-      "category": "nature",
-      "title": "Nature Wallpaper 241",
+      "id": "dark_076",
+      "category": "dark",
+      "title": "Dark Wallpaper 076",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/241.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/241.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/076.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/076.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 268772,
+        "file_size": 266232,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:28.301684",
-        "hash": "a18e6c6c2133175b9c9f23c637f9a338",
+        "added_at": "2025-07-17T00:03:39.582519",
+        "hash": "9d7d2b29cf63695ad4a0942fd7c32a35",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_242",
-      "category": "nature",
-      "title": "Nature Wallpaper 242",
+      "id": "dark_077",
+      "category": "dark",
+      "title": "Dark Wallpaper 077",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/242.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/242.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/077.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/077.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 508848,
+        "file_size": 294669,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:28.371022",
-        "hash": "5e432714d64a938d79e317b02681d478",
+        "added_at": "2025-07-17T00:03:39.780746",
+        "hash": "207863db362e6d4d0317e7825ad37ec8",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_243",
-      "category": "nature",
-      "title": "Nature Wallpaper 243",
+      "id": "dark_078",
+      "category": "dark",
+      "title": "Dark Wallpaper 078",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/243.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/243.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/078.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/078.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 317599,
+        "file_size": 262975,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:28.429865",
-        "hash": "a172293fe6137faf6e1262f829ac4e41",
+        "added_at": "2025-07-17T00:03:39.974911",
+        "hash": "f9c65b62c8d7245f2c10ae38cfab37dc",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_244",
-      "category": "nature",
-      "title": "Nature Wallpaper 244",
+      "id": "dark_079",
+      "category": "dark",
+      "title": "Dark Wallpaper 079",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/244.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/244.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/079.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/079.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 909608,
+        "file_size": 191191,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:28.517582",
-        "hash": "74e73efac06644851605f5c3bc5cfed7",
+        "added_at": "2025-07-17T00:03:40.138784",
+        "hash": "5475f1f72a65bb44c834866ee7b755a8",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_245",
-      "category": "nature",
-      "title": "Nature Wallpaper 245",
+      "id": "dark_080",
+      "category": "dark",
+      "title": "Dark Wallpaper 080",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/245.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/245.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/080.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/080.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 306034,
+        "file_size": 188962,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:28.575620",
-        "hash": "52cc398262795ecf6b61c7d7e44d7610",
+        "added_at": "2025-07-17T00:03:40.292183",
+        "hash": "f545ebaf2a336037c6feb2b90fe6927a",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_246",
-      "category": "nature",
-      "title": "Nature Wallpaper 246",
+      "id": "dark_081",
+      "category": "dark",
+      "title": "Edgar Allan Poe - Art by me - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "dark",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/246.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/246.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 959
         },
-        "file_size": 498461,
+        "file_size": 97916,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:28.644584",
-        "hash": "4291a26fbf3c37478f20b94e7787a7cc",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:29:29.253804",
+        "hash": "89d206ce49637b66bad50f9fcc676f64",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 13
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/081.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/081.jpg"
       }
     },
     {
-      "id": "nature_247",
-      "category": "nature",
-      "title": "Nature Wallpaper 247",
+      "id": "dark_082",
+      "category": "dark",
+      "title": "Skull, Vincent van Gogh, 1887. - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "dark",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/247.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/247.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 882,
+          "height": 1200
         },
-        "file_size": 642457,
+        "file_size": 180159,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:28.721139",
-        "hash": "4259ad63cfc38a29852587719f9e4de3",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:29:30.561450",
+        "hash": "3061d5c941e19ecfefd078bb0b050546",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 19
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/082.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/082.jpg"
       }
     },
     {
-      "id": "nature_248",
-      "category": "nature",
-      "title": "Nature Wallpaper 248",
+      "id": "dark_083",
+      "category": "dark",
+      "title": "Satan in Red, Edward Hopper, 1 - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "dark",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/248.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/248.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1453
         },
-        "file_size": 731130,
+        "file_size": 310815,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:28.800472",
-        "hash": "47f511e526f6df9519656234ce09f91a",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:29:32.046647",
+        "hash": "588a4021bd3d4c9b305d07983ce0ff77",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 12
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/083.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/083.jpg"
       }
     },
     {
-      "id": "nature_249",
-      "category": "nature",
-      "title": "Nature Wallpaper 249",
+      "id": "dark_084",
+      "category": "dark",
+      "title": "The Meaning of Night, Rene Mag - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "dark",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/249.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/249.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1458
         },
-        "file_size": 400086,
+        "file_size": 431687,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:28.890498",
-        "hash": "5f3f850a0aee890160e011f2e9bc04dd",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:29:34.687462",
+        "hash": "7df51e8c3b5f629e009cd024a6bede3e",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 13
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/084.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/084.jpg"
       }
     },
     {
-      "id": "nature_250",
-      "category": "nature",
-      "title": "Nature Wallpaper 250",
+      "id": "dark_085",
+      "category": "dark",
+      "title": "The Flayed Angel, Jacques Fabi - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "dark",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/250.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/250.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1337
         },
-        "file_size": 335084,
+        "file_size": 464185,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:28.951692",
-        "hash": "414d26b6e10b8b65287a89096ccb0498",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:29:38.691136",
+        "hash": "9c100d3e612a9dc8e47fa2bd27b58a9b",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 24
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/085.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/085.jpg"
       }
     },
     {
-      "id": "nature_251",
-      "category": "nature",
-      "title": "Nature Wallpaper 251",
+      "id": "dark_086",
+      "category": "dark",
+      "title": "Edgar Allan Poe - Art by me - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "dark",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/251.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/251.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 959
         },
-        "file_size": 540936,
+        "file_size": 97916,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:29.022042",
-        "hash": "da3d9a595a829bd91eb8fecb65bc0995",
-        "source": "migrated"
+        "added_at": "2025-07-19T11:47:01.907401",
+        "hash": "89d206ce49637b66bad50f9fcc676f64",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 12
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/086.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/086.jpg"
       }
     }
   ]

@@ -1,35 +1,30 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868"
+    "generated_at": "2025-07-19T12:26:57.111378"
   },
   "data": {
-    "total_wallpapers": 1751,
-    "total_categories": 17,
+    "total_wallpapers": 2387,
+    "total_categories": 19,
     "categories": {
-      "cars": {
-        "name": "Cars",
-        "count": 29,
-        "description": "Automotive photography, sports cars, and vehicle designs"
+      "art": {
+        "name": "Art",
+        "count": 90,
+        "description": "Digital art, paintings, illustrations, and creative designs"
       },
-      "seasonal": {
-        "name": "Seasonal",
-        "count": 85,
-        "description": "Holiday themes, seasonal changes, and weather phenomena"
+      "animals": {
+        "name": "Animals",
+        "count": 84,
+        "description": "Wildlife photography, pets, and animal portraits"
       },
-      "neon": {
-        "name": "Neon",
-        "count": 78,
-        "description": "Neon lighting, synthwave aesthetics, and electric themes"
-      },
-      "cyberpunk": {
-        "name": "Cyberpunk",
-        "count": 41,
-        "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
+      "abstract": {
+        "name": "Abstract",
+        "count": 257,
+        "description": "Abstract patterns, geometric designs, and artistic visualizations"
       },
       "gaming": {
         "name": "Gaming",
-        "count": 76,
+        "count": 84,
         "description": "Video game characters, scenes, and gaming-inspired artwork"
       },
       "architecture": {
@@ -39,286 +34,547 @@
       },
       "pastel": {
         "name": "Pastel",
-        "count": 49,
+        "count": 69,
         "description": "Soft colors, gentle aesthetics, and dream-like themes"
       },
-      "minimal": {
-        "name": "Minimal",
-        "count": 46,
-        "description": "Clean, simple designs with minimalist aesthetics"
+      "vintage": {
+        "name": "Vintage",
+        "count": 99,
+        "description": "Retro designs, nostalgic themes, and classic aesthetics"
       },
-      "art": {
-        "name": "Art",
-        "count": 47,
-        "description": "Digital art, paintings, illustrations, and creative designs"
+      "seasonal": {
+        "name": "Seasonal",
+        "count": 90,
+        "description": "Holiday themes, seasonal changes, and weather phenomena"
       },
       "4k": {
         "name": "4K",
         "count": 200,
         "description": "Ultra high-definition wallpapers optimized for 4K displays"
       },
-      "nature": {
-        "name": "Nature",
-        "count": 284,
-        "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
-      },
-      "technology": {
-        "name": "Technology",
-        "count": 10,
-        "description": "Gadgets, circuits, futuristic tech, and digital interfaces"
+      "space": {
+        "name": "Space",
+        "count": 122,
+        "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
       },
       "anime": {
         "name": "Anime",
-        "count": 116,
+        "count": 133,
         "description": "Anime characters, manga art, and Japanese animation styles"
-      },
-      "vintage": {
-        "name": "Vintage",
-        "count": 30,
-        "description": "Retro designs, nostalgic themes, and classic aesthetics"
-      },
-      "abstract": {
-        "name": "Abstract",
-        "count": 219,
-        "description": "Abstract patterns, geometric designs, and artistic visualizations"
-      },
-      "space": {
-        "name": "Space",
-        "count": 86,
-        "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
       },
       "dark": {
         "name": "Dark",
-        "count": 80,
+        "count": 90,
         "description": "Dark themes, gothic aesthetics, and mysterious atmospheres"
+      },
+      "neon": {
+        "name": "Neon",
+        "count": 88,
+        "description": "Neon lighting, synthwave aesthetics, and electric themes"
+      },
+      "nature": {
+        "name": "Nature",
+        "count": 304,
+        "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
+      },
+      "ai": {
+        "name": "Ai",
+        "count": 83,
+        "description": "AI-generated wallpapers from Stable Diffusion, Midjourney, and other AI models"
+      },
+      "cyberpunk": {
+        "name": "Cyberpunk",
+        "count": 88,
+        "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
+      },
+      "minimal": {
+        "name": "Minimal",
+        "count": 64,
+        "description": "Clean, simple designs with minimalist aesthetics"
+      },
+      "cars": {
+        "name": "Cars",
+        "count": 84,
+        "description": "Automotive photography, sports cars, and vehicle designs"
+      },
+      "technology": {
+        "name": "Technology",
+        "count": 83,
+        "description": "Gadgets, circuits, futuristic tech, and digital interfaces"
       }
     },
     "recent_additions": [
       {
-        "id": "abstract_001",
-        "category": "abstract",
-        "title": "Abstract Wallpaper 001",
+        "id": "ai_083",
+        "category": "ai",
+        "title": "Ai Premium AI - Civitai",
         "tags": [
-          "abstract"
+          "ai",
+          "ai-generated",
+          "civitai",
+          "stable-diffusion",
+          "hd",
+          "mobile",
+          "viral",
+          "community-rated"
         ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/001.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/001.jpg"
-        },
         "metadata": {
-          "added_at": "2025-07-17T00:41:05.433594",
-          "file_size": 13480,
           "dimensions": {
-            "width": 1080,
-            "height": 1920
-          }
+            "width": 864,
+            "height": 1152
+          },
+          "file_size": 130023,
+          "format": "JPEG",
+          "added_at": "2025-07-19T12:26:55.601485",
+          "hash": "441bc33f994e807b72fa3df7558263be",
+          "ai_source": "civitai",
+          "ai_generated": true,
+          "source_platform": "civitai.com",
+          "scraping_method": "scroll_based",
+          "civitai_tag_id": 4,
+          "civitai_stats": {
+            "cryCount": 192,
+            "laughCount": 1058,
+            "likeCount": 2176,
+            "dislikeCount": 0,
+            "heartCount": 746,
+            "commentCount": 4
+          },
+          "total_reactions": 2922
+        },
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/083.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/083.jpg"
         }
       },
       {
-        "id": "4k_155",
-        "category": "4k",
-        "title": "4K Wallpaper 155",
+        "id": "ai_082",
+        "category": "ai",
+        "title": "Ai Premium AI - Civitai",
         "tags": [
-          "4k"
+          "ai",
+          "ai-generated",
+          "civitai",
+          "stable-diffusion",
+          "hd",
+          "mobile",
+          "viral",
+          "community-rated"
         ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/155.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/155.jpg"
-        },
         "metadata": {
-          "added_at": "2025-07-17T00:41:05.433122",
-          "file_size": 336377,
           "dimensions": {
-            "width": 1080,
-            "height": 1920
-          }
+            "width": 832,
+            "height": 1216
+          },
+          "file_size": 79069,
+          "format": "JPEG",
+          "added_at": "2025-07-19T12:26:54.286982",
+          "hash": "4b68b2028ad6842cda1f5f30e61ed459",
+          "ai_source": "civitai",
+          "ai_generated": true,
+          "source_platform": "civitai.com",
+          "scraping_method": "scroll_based",
+          "civitai_tag_id": 4,
+          "civitai_stats": {
+            "cryCount": 409,
+            "laughCount": 461,
+            "likeCount": 2315,
+            "dislikeCount": 0,
+            "heartCount": 963,
+            "commentCount": 47
+          },
+          "total_reactions": 3278
+        },
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/082.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/082.jpg"
         }
       },
       {
-        "id": "4k_154",
-        "category": "4k",
-        "title": "4K Wallpaper 154",
+        "id": "ai_081",
+        "category": "ai",
+        "title": "Ai Premium AI - Civitai",
         "tags": [
-          "4k"
+          "ai",
+          "ai-generated",
+          "civitai",
+          "stable-diffusion",
+          "hd",
+          "mobile",
+          "viral",
+          "community-rated"
         ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/154.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/154.jpg"
-        },
         "metadata": {
-          "added_at": "2025-07-17T00:41:05.433110",
-          "file_size": 395787,
           "dimensions": {
-            "width": 1080,
-            "height": 1920
-          }
+            "width": 992,
+            "height": 1544
+          },
+          "file_size": 194197,
+          "format": "JPEG",
+          "added_at": "2025-07-19T12:26:52.946567",
+          "hash": "af233c679f35d4e327b0777ae159eabc",
+          "ai_source": "civitai",
+          "ai_generated": true,
+          "source_platform": "civitai.com",
+          "scraping_method": "scroll_based",
+          "civitai_tag_id": 4,
+          "civitai_stats": {
+            "cryCount": 192,
+            "laughCount": 523,
+            "likeCount": 2179,
+            "dislikeCount": 0,
+            "heartCount": 1253,
+            "commentCount": 2
+          },
+          "total_reactions": 3432
+        },
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/081.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/081.jpg"
         }
       },
       {
-        "id": "4k_153",
-        "category": "4k",
-        "title": "4K Wallpaper 153",
+        "id": "ai_080",
+        "category": "ai",
+        "title": "Ai Premium AI - Civitai",
         "tags": [
-          "4k"
+          "ai",
+          "ai-generated",
+          "civitai",
+          "stable-diffusion",
+          "hd",
+          "mobile",
+          "viral",
+          "community-rated"
         ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/153.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/153.jpg"
-        },
         "metadata": {
-          "added_at": "2025-07-17T00:41:05.433099",
-          "file_size": 352452,
           "dimensions": {
-            "width": 1080,
-            "height": 1920
-          }
+            "width": 832,
+            "height": 1216
+          },
+          "file_size": 114107,
+          "format": "JPEG",
+          "added_at": "2025-07-19T12:26:51.620948",
+          "hash": "01029076587024b960d57cc15b2d9e8f",
+          "ai_source": "civitai",
+          "ai_generated": true,
+          "source_platform": "civitai.com",
+          "scraping_method": "scroll_based",
+          "civitai_tag_id": 4,
+          "civitai_stats": {
+            "cryCount": 208,
+            "laughCount": 433,
+            "likeCount": 2664,
+            "dislikeCount": 0,
+            "heartCount": 808,
+            "commentCount": 2
+          },
+          "total_reactions": 3472
+        },
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/080.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/080.jpg"
         }
       },
       {
-        "id": "4k_152",
-        "category": "4k",
-        "title": "4K Wallpaper 152",
+        "id": "ai_079",
+        "category": "ai",
+        "title": "Ai Premium AI - Civitai",
         "tags": [
-          "4k"
+          "ai",
+          "ai-generated",
+          "civitai",
+          "stable-diffusion",
+          "hd",
+          "mobile",
+          "viral",
+          "high-resolution",
+          "community-rated"
         ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/152.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/152.jpg"
-        },
         "metadata": {
-          "added_at": "2025-07-17T00:41:05.433088",
-          "file_size": 338031,
           "dimensions": {
             "width": 1080,
-            "height": 1920
-          }
+            "height": 1620
+          },
+          "file_size": 420287,
+          "format": "JPEG",
+          "added_at": "2025-07-19T12:26:50.273333",
+          "hash": "481a8cede7157486b0e120f783564d72",
+          "ai_source": "civitai",
+          "ai_generated": true,
+          "source_platform": "civitai.com",
+          "scraping_method": "scroll_based",
+          "civitai_tag_id": 4,
+          "civitai_stats": {
+            "cryCount": 230,
+            "laughCount": 420,
+            "likeCount": 2693,
+            "dislikeCount": 0,
+            "heartCount": 797,
+            "commentCount": 5
+          },
+          "total_reactions": 3490
+        },
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/079.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/079.jpg"
         }
       },
       {
-        "id": "4k_151",
-        "category": "4k",
-        "title": "4K Wallpaper 151",
+        "id": "ai_078",
+        "category": "ai",
+        "title": "Ai Premium AI - Civitai",
         "tags": [
-          "4k"
+          "ai",
+          "ai-generated",
+          "civitai",
+          "stable-diffusion",
+          "hd",
+          "mobile",
+          "viral",
+          "high-resolution",
+          "community-rated"
         ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/151.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/151.jpg"
-        },
         "metadata": {
-          "added_at": "2025-07-17T00:41:05.433078",
-          "file_size": 611160,
           "dimensions": {
             "width": 1080,
-            "height": 1920
-          }
+            "height": 1620
+          },
+          "file_size": 495139,
+          "format": "JPEG",
+          "added_at": "2025-07-19T12:26:48.236487",
+          "hash": "f055a7e246eb0ce542672d653015eae7",
+          "ai_source": "civitai",
+          "ai_generated": true,
+          "source_platform": "civitai.com",
+          "scraping_method": "scroll_based",
+          "civitai_tag_id": 4,
+          "civitai_stats": {
+            "cryCount": 236,
+            "laughCount": 413,
+            "likeCount": 2660,
+            "dislikeCount": 0,
+            "heartCount": 830,
+            "commentCount": 3
+          },
+          "total_reactions": 3490
+        },
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/078.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/078.jpg"
         }
       },
       {
-        "id": "4k_150",
-        "category": "4k",
-        "title": "4K Wallpaper 150",
+        "id": "ai_077",
+        "category": "ai",
+        "title": "Ai Premium AI - Civitai",
         "tags": [
-          "4k"
+          "ai",
+          "ai-generated",
+          "civitai",
+          "stable-diffusion",
+          "hd",
+          "mobile",
+          "viral",
+          "community-rated"
         ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/150.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/150.jpg"
-        },
         "metadata": {
-          "added_at": "2025-07-17T00:41:05.433067",
-          "file_size": 232421,
           "dimensions": {
             "width": 1080,
-            "height": 1920
-          }
+            "height": 1620
+          },
+          "file_size": 241916,
+          "format": "JPEG",
+          "added_at": "2025-07-19T12:26:45.239800",
+          "hash": "7cbfc03de84bb0d016a4b5be363c0660",
+          "ai_source": "civitai",
+          "ai_generated": true,
+          "source_platform": "civitai.com",
+          "scraping_method": "scroll_based",
+          "civitai_tag_id": 4,
+          "civitai_stats": {
+            "cryCount": 118,
+            "laughCount": 477,
+            "likeCount": 2704,
+            "dislikeCount": 0,
+            "heartCount": 821,
+            "commentCount": 5
+          },
+          "total_reactions": 3525
+        },
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/077.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/077.jpg"
         }
       },
       {
-        "id": "4k_149",
-        "category": "4k",
-        "title": "4K Wallpaper 149",
+        "id": "ai_076",
+        "category": "ai",
+        "title": "Ai Premium AI - Civitai",
         "tags": [
-          "4k"
+          "ai",
+          "ai-generated",
+          "civitai",
+          "stable-diffusion",
+          "hd",
+          "mobile",
+          "viral",
+          "high-resolution",
+          "community-rated"
         ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/149.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/149.jpg"
-        },
         "metadata": {
-          "added_at": "2025-07-17T00:41:05.433057",
-          "file_size": 328544,
           "dimensions": {
             "width": 1080,
-            "height": 1920
-          }
+            "height": 1409
+          },
+          "file_size": 164105,
+          "format": "JPEG",
+          "added_at": "2025-07-19T12:26:42.981595",
+          "hash": "439abef4f6c7a4decb591a8061922905",
+          "ai_source": "civitai",
+          "ai_generated": true,
+          "source_platform": "civitai.com",
+          "scraping_method": "scroll_based",
+          "civitai_tag_id": 4,
+          "civitai_stats": {
+            "cryCount": 251,
+            "laughCount": 378,
+            "likeCount": 2715,
+            "dislikeCount": 0,
+            "heartCount": 824,
+            "commentCount": 2
+          },
+          "total_reactions": 3539
+        },
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/076.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/076.jpg"
         }
       },
       {
-        "id": "4k_148",
-        "category": "4k",
-        "title": "4K Wallpaper 148",
+        "id": "ai_075",
+        "category": "ai",
+        "title": "Ai Premium AI - Civitai",
         "tags": [
-          "4k"
+          "ai",
+          "ai-generated",
+          "civitai",
+          "stable-diffusion",
+          "hd",
+          "mobile",
+          "viral",
+          "high-resolution",
+          "community-rated"
         ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/148.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/148.jpg"
-        },
         "metadata": {
-          "added_at": "2025-07-17T00:41:05.433048",
-          "file_size": 254754,
           "dimensions": {
             "width": 1080,
-            "height": 1920
-          }
+            "height": 1543
+          },
+          "file_size": 296086,
+          "format": "JPEG",
+          "added_at": "2025-07-19T12:26:41.528839",
+          "hash": "9c7e0c6a5ee5e954f46a10537a0349c1",
+          "ai_source": "civitai",
+          "ai_generated": true,
+          "source_platform": "civitai.com",
+          "scraping_method": "scroll_based",
+          "civitai_tag_id": 4,
+          "civitai_stats": {
+            "cryCount": 237,
+            "laughCount": 368,
+            "likeCount": 2697,
+            "dislikeCount": 0,
+            "heartCount": 845,
+            "commentCount": 5
+          },
+          "total_reactions": 3542
+        },
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/075.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/075.jpg"
         }
       },
       {
-        "id": "4k_147",
-        "category": "4k",
-        "title": "4K Wallpaper 147",
+        "id": "ai_074",
+        "category": "ai",
+        "title": "Ai Premium AI - Civitai",
         "tags": [
-          "4k"
+          "ai",
+          "ai-generated",
+          "civitai",
+          "stable-diffusion",
+          "hd",
+          "mobile",
+          "viral",
+          "community-rated"
         ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/147.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/147.jpg"
-        },
         "metadata": {
-          "added_at": "2025-07-17T00:41:05.433039",
-          "file_size": 767425,
           "dimensions": {
-            "width": 1080,
-            "height": 1920
-          }
+            "width": 832,
+            "height": 1216
+          },
+          "file_size": 104684,
+          "format": "JPEG",
+          "added_at": "2025-07-19T12:26:39.462546",
+          "hash": "5e5e8deb2c8a5b9c57303b5ae98eb8f1",
+          "ai_source": "civitai",
+          "ai_generated": true,
+          "source_platform": "civitai.com",
+          "scraping_method": "scroll_based",
+          "civitai_tag_id": 4,
+          "civitai_stats": {
+            "cryCount": 201,
+            "laughCount": 379,
+            "likeCount": 2668,
+            "dislikeCount": 0,
+            "heartCount": 879,
+            "commentCount": 2
+          },
+          "total_reactions": 3547
+        },
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/074.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/074.jpg"
         }
       }
     ],
     "popular_tags": [
       [
+        "hd",
+        2289
+      ],
+      [
+        "mobile",
+        2185
+      ],
+      [
         "wallpaper",
         1658
       ],
       [
-        "hd",
-        1653
-      ],
-      [
-        "mobile",
-        1549
+        "unsplash",
+        374
       ],
       [
         "nature",
-        286
+        306
       ],
       [
         "architecture",
         275
       ],
       [
+        "ai-generated",
+        262
+      ],
+      [
         "abstract",
-        220
+        258
+      ],
+      [
+        "community",
+        158
       ],
       [
         "4k",
@@ -326,7 +582,11 @@
       ],
       [
         "anime",
-        116
+        133
+      ],
+      [
+        "space",
+        122
       ],
       [
         "portrait",
@@ -337,54 +597,38 @@
         104
       ],
       [
-        "space",
-        86
+        "civitai",
+        104
       ],
       [
-        "seasonal",
-        85
+        "stable-diffusion",
+        104
+      ],
+      [
+        "community-rated",
+        104
+      ],
+      [
+        "vintage",
+        99
       ],
       [
         "dark",
-        81
-      ],
-      [
-        "neon",
-        78
-      ],
-      [
-        "gaming",
-        76
-      ],
-      [
-        "high resolution",
-        58
-      ],
-      [
-        "pastel",
-        50
-      ],
-      [
-        "minimal",
-        48
+        91
       ],
       [
         "art",
-        47
-      ],
-      [
-        "cyberpunk",
-        41
+        90
       ]
     ],
     "file_stats": {
-      "total_size_mb": 904.8,
-      "average_file_size_kb": 529.14,
+      "total_size_mb": 1018.95,
+      "average_file_size_kb": 437.12,
       "average_dimensions": {
-        "width": 1186,
-        "height": 1948
+        "width": 1151,
+        "height": 1731
       },
-      "total_files": 1751
+      "total_files": 2387
     }
   }
 }

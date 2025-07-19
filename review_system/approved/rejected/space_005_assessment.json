@@ -1,0 +1,49 @@
+{
+  "path": "review_system/staging/space_005.jpg",
+  "filename": "space_005.jpg",
+  "status": "rejected",
+  "reason": "Low quality image",
+  "overall_score": 3.97,
+  "detailed_scores": {
+    "sharpness": 0.13,
+    "contrast": 1.04,
+    "brightness": 0.31,
+    "color_quality": 3.3,
+    "composition": 5.03,
+    "technical_quality": 9.98
+  },
+  "watermark_penalty": 0.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "space_005",
+    "source": "wallhaven",
+    "category": "space",
+    "title": "Space Wallpaper 5",
+    "description": "High-quality space wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "space",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/l8/wallhaven-l8x352.jpg",
+    "source_url": "https://w.wallhaven.cc/full/l8/wallhaven-l8x352.jpg",
+    "original_info": {
+      "id": "wallhaven_l8x352",
+      "url": "https://w.wallhaven.cc/full/l8/wallhaven-l8x352.jpg",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "galaxy wallpaper",
+      "width": 2000,
+      "height": 3000
+    },
+    "crawled_at": "2025-07-14T20:59:08.709871Z"
+  },
+  "assessed_at": "2025-07-14T15:32:18.991808Z"
+}

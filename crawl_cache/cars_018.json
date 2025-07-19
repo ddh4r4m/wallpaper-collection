@@ -1,0 +1,28 @@
+{
+  "id": "cars_018",
+  "source": "comprehensive_crawler",
+  "category": "cars",
+  "title": "Cars Wallpaper 18",
+  "description": "High-quality cars wallpaper from curated sources",
+  "width": 1080,
+  "height": 1920,
+  "tags": [
+    "cars",
+    "wallpaper",
+    "hd",
+    "high resolution",
+    "mobile",
+    "automotive",
+    "racing",
+    "speed",
+    "vehicle",
+    "transportation"
+  ],
+  "download_url": "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+  "source_url": "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+  "variation": {
+    "crop": "entropy",
+    "auto": "enhance"
+  },
+  "crawled_at": "2025-07-14T20:49:11.930136Z"
+}

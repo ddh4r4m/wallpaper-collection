@@ -1,0 +1,49 @@
+{
+  "path": "review_system/staging/space_047.jpg",
+  "filename": "space_047.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 4.59,
+  "detailed_scores": {
+    "sharpness": 0.15,
+    "contrast": 2.41,
+    "brightness": 1.65,
+    "color_quality": 5.07,
+    "composition": 5.09,
+    "technical_quality": 9.98
+  },
+  "watermark_penalty": 0.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "space_047",
+    "source": "wallhaven",
+    "category": "space",
+    "title": "Space Wallpaper 47",
+    "description": "High-quality space wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "space",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/dg/wallhaven-dgpmvm.jpg",
+    "source_url": "https://w.wallhaven.cc/full/dg/wallhaven-dgpmvm.jpg",
+    "original_info": {
+      "id": "wallhaven_dgpmvm",
+      "url": "https://w.wallhaven.cc/full/dg/wallhaven-dgpmvm.jpg",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "nebula wallpaper",
+      "width": 2160,
+      "height": 2340
+    },
+    "crawled_at": "2025-07-14T20:59:40.525603Z"
+  },
+  "assessed_at": "2025-07-14T15:31:51.171739Z"
+}

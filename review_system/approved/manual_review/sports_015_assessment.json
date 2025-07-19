@@ -1,0 +1,49 @@
+{
+  "path": "review_system/staging/sports_015.jpg",
+  "filename": "sports_015.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 7.83,
+  "detailed_scores": {
+    "sharpness": 7.53,
+    "contrast": 6.75,
+    "brightness": 8.61,
+    "color_quality": 3.65,
+    "composition": 7.05,
+    "technical_quality": 9.84
+  },
+  "watermark_penalty": 0.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "sports_015",
+    "source": "wallhaven",
+    "category": "sports",
+    "title": "Sports Wallpaper 15",
+    "description": "High-quality sports wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "sports",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/6o/wallhaven-6o3oeq.png",
+    "source_url": "https://w.wallhaven.cc/full/6o/wallhaven-6o3oeq.png",
+    "original_info": {
+      "id": "wallhaven_6o3oeq",
+      "url": "https://w.wallhaven.cc/full/6o/wallhaven-6o3oeq.png",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "basketball wallpaper",
+      "width": 2160,
+      "height": 3840
+    },
+    "crawled_at": "2025-07-14T20:59:17.007962Z"
+  },
+  "assessed_at": "2025-07-14T15:31:57.567993Z"
+}

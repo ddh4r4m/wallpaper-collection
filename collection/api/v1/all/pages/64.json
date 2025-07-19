@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 64,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/65.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "dark_019",
-      "category": "dark",
-      "title": "Dark Wallpaper 019",
+      "id": "architecture_189",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 189",
       "tags": [
-        "dark",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/019.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/019.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/189.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/189.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 177159,
+        "file_size": 268229,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:26.546469",
-        "hash": "ba723038d73eab42a2218d8c19302ab1",
+        "added_at": "2025-07-17T00:02:56.535776",
+        "hash": "ccde4c2c95bdd92f95a7b3437c6c68d7",
         "source": "migrated"
       }
     },
     {
-      "id": "dark_020",
-      "category": "dark",
-      "title": "Dark Wallpaper 020",
+      "id": "architecture_190",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 190",
       "tags": [
-        "dark",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/020.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/020.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/190.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/190.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 180812,
+        "file_size": 360738,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:26.749902",
-        "hash": "1e21c9719266e763e786ac049e4e10ae",
+        "added_at": "2025-07-17T00:02:56.597377",
+        "hash": "25955da2b27fac8cec623a01450796c5",
         "source": "migrated"
       }
     },
     {
-      "id": "dark_021",
-      "category": "dark",
-      "title": "Dark Wallpaper 021",
+      "id": "architecture_191",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 191",
       "tags": [
-        "dark",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/021.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/021.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/191.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/191.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 142529,
+        "file_size": 162341,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:26.893225",
-        "hash": "f5dc4eb4c071f63ae670e931f07212bd",
+        "added_at": "2025-07-17T00:02:56.646941",
+        "hash": "144e65022a052142e3f2767dc49d7eda",
         "source": "migrated"
       }
     },
     {
-      "id": "dark_022",
-      "category": "dark",
-      "title": "Dark Wallpaper 022",
+      "id": "architecture_192",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 192",
       "tags": [
-        "dark",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/022.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/022.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/192.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/192.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 182307,
+        "file_size": 456475,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:26.945454",
-        "hash": "a41ad906c581c5cdb63efb7a49f2ba4a",
+        "added_at": "2025-07-17T00:02:56.711622",
+        "hash": "8400e6e525406f395e1def7a90ee1f5f",
         "source": "migrated"
       }
     },
     {
-      "id": "dark_023",
-      "category": "dark",
-      "title": "Dark Wallpaper 023",
+      "id": "architecture_193",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 193",
       "tags": [
-        "dark",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/023.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/023.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/193.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/193.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 186669,
+        "file_size": 679760,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:27.000994",
-        "hash": "c8396bfb19cdcaba0c36f0c948e25264",
+        "added_at": "2025-07-17T00:02:56.788095",
+        "hash": "755ea35c96a6f1d2a6e54b8c8622c50f",
         "source": "migrated"
       }
     },
     {
-      "id": "dark_024",
-      "category": "dark",
-      "title": "Dark Wallpaper 024",
+      "id": "architecture_194",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 194",
       "tags": [
-        "dark",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/024.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/024.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/194.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/194.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 153757,
+        "file_size": 252803,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:27.050776",
-        "hash": "938c2de05d8547d8361003cef81d319f",
+        "added_at": "2025-07-17T00:02:56.844476",
+        "hash": "4bc9cce940d44a7f602ba864b693bf5c",
         "source": "migrated"
       }
     },
     {
-      "id": "dark_025",
-      "category": "dark",
-      "title": "Dark Wallpaper 025",
+      "id": "architecture_195",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 195",
       "tags": [
-        "dark",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/025.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/025.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/195.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/195.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 293262,
+        "file_size": 256417,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:27.193551",
-        "hash": "12834a1a6439c10f6bbc5f88407e581c",
+        "added_at": "2025-07-17T00:02:56.910998",
+        "hash": "11761915a0ca6a68a04a532137a85715",
         "source": "migrated"
       }
     },
     {
-      "id": "dark_026",
-      "category": "dark",
-      "title": "Dark Wallpaper 026",
+      "id": "architecture_196",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 196",
       "tags": [
-        "dark",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/026.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/026.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/196.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/196.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 318748,
+        "file_size": 541882,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:27.587740",
-        "hash": "855e4e57f5163c30ae1dcf18aa066481",
+        "added_at": "2025-07-17T00:02:56.981958",
+        "hash": "ddaee9a228efa943d9fde6cc3eda91e6",
         "source": "migrated"
       }
     },
     {
-      "id": "dark_027",
-      "category": "dark",
-      "title": "Dark Wallpaper 027",
+      "id": "architecture_197",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 197",
       "tags": [
-        "dark",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/027.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/027.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/197.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/197.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 286810,
+        "file_size": 261255,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:27.645450",
-        "hash": "d8fad48526cdcdcb8c1c48a9117c83f6",
+        "added_at": "2025-07-17T00:02:57.036785",
+        "hash": "0220aaf46ed2f711bb6d0fb177a40702",
         "source": "migrated"
       }
     },
     {
-      "id": "dark_028",
-      "category": "dark",
-      "title": "Dark Wallpaper 028",
+      "id": "architecture_198",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 198",
       "tags": [
-        "dark",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/028.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/028.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/198.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/198.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 287548,
+        "file_size": 658011,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:27.854597",
-        "hash": "cd64fa473e9ebe7a0bd5501122bfe34d",
+        "added_at": "2025-07-17T00:02:57.115995",
+        "hash": "bf98cc453d6f25f9ee50a7281a1cb82b",
         "source": "migrated"
       }
     },
     {
-      "id": "dark_029",
-      "category": "dark",
-      "title": "Dark Wallpaper 029",
+      "id": "architecture_199",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 199",
       "tags": [
-        "dark",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/029.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/029.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/199.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/199.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 425843,
+        "file_size": 437830,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:28.011658",
-        "hash": "599e591be1fdf598c9513d620a5939d4",
+        "added_at": "2025-07-17T00:02:57.182292",
+        "hash": "b56687e10037bcaf1eab2db1b11fb8eb",
         "source": "migrated"
       }
     },
     {
-      "id": "dark_030",
-      "category": "dark",
-      "title": "Dark Wallpaper 030",
+      "id": "architecture_200",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 200",
       "tags": [
-        "dark",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/030.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/030.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/200.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/200.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 453491,
+        "file_size": 151930,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:28.253940",
-        "hash": "1b63e7b16f62b3b635c9923b0c317560",
+        "added_at": "2025-07-17T00:02:57.233734",
+        "hash": "5b228fb3a42cf493d64334bdee126cdd",
         "source": "migrated"
       }
     },
     {
-      "id": "dark_031",
-      "category": "dark",
-      "title": "Dark Wallpaper 031",
+      "id": "architecture_201",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 201",
       "tags": [
-        "dark",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/031.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/031.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/201.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/201.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 87601,
+        "file_size": 363840,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:28.711601",
-        "hash": "e2e72a48faab07f5da89446b1b2a177c",
+        "added_at": "2025-07-17T00:02:57.294414",
+        "hash": "64af90cf49cb9e0865ca1ca399b6e31b",
         "source": "migrated"
       }
     },
     {
-      "id": "dark_032",
-      "category": "dark",
-      "title": "Dark Wallpaper 032",
+      "id": "architecture_202",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 202",
       "tags": [
-        "dark",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/032.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/032.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/202.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/202.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 253820,
+        "file_size": 371326,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:28.768538",
-        "hash": "dc70f5e506399f07657b9ad39e978062",
+        "added_at": "2025-07-17T00:02:57.355659",
+        "hash": "a3c3c916906d843b35193574b4d38be1",
         "source": "migrated"
       }
     },
     {
-      "id": "dark_033",
-      "category": "dark",
-      "title": "Dark Wallpaper 033",
+      "id": "architecture_203",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 203",
       "tags": [
-        "dark",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/033.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/033.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/203.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/203.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 240096,
+        "file_size": 310382,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:28.959836",
-        "hash": "cc5853a6bbb046906e6f183079ea09cd",
+        "added_at": "2025-07-17T00:02:57.415792",
+        "hash": "deb74c067f582902cfbb835e3268970f",
         "source": "migrated"
       }
     }

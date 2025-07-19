@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "category": "dark",
-    "total_count": 80
+    "total_count": 90
   },
   "data": [
     {
@@ -2084,6 +2084,296 @@
         "added_at": "2025-07-17T00:03:40.292183",
         "hash": "f545ebaf2a336037c6feb2b90fe6927a",
         "source": "migrated"
+      }
+    },
+    {
+      "id": "dark_081",
+      "category": "dark",
+      "title": "Edgar Allan Poe - Art by me - Reddit AI",
+      "tags": [
+        "dark",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 959
+        },
+        "file_size": 97916,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:29:29.253804",
+        "hash": "89d206ce49637b66bad50f9fcc676f64",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 13
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/081.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/081.jpg"
+      }
+    },
+    {
+      "id": "dark_082",
+      "category": "dark",
+      "title": "Skull, Vincent van Gogh, 1887. - Reddit AI",
+      "tags": [
+        "dark",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 882,
+          "height": 1200
+        },
+        "file_size": 180159,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:29:30.561450",
+        "hash": "3061d5c941e19ecfefd078bb0b050546",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 19
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/082.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/082.jpg"
+      }
+    },
+    {
+      "id": "dark_083",
+      "category": "dark",
+      "title": "Satan in Red, Edward Hopper, 1 - Reddit AI",
+      "tags": [
+        "dark",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1453
+        },
+        "file_size": 310815,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:29:32.046647",
+        "hash": "588a4021bd3d4c9b305d07983ce0ff77",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 12
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/083.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/083.jpg"
+      }
+    },
+    {
+      "id": "dark_084",
+      "category": "dark",
+      "title": "The Meaning of Night, Rene Mag - Reddit AI",
+      "tags": [
+        "dark",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1458
+        },
+        "file_size": 431687,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:29:34.687462",
+        "hash": "7df51e8c3b5f629e009cd024a6bede3e",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 13
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/084.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/084.jpg"
+      }
+    },
+    {
+      "id": "dark_085",
+      "category": "dark",
+      "title": "The Flayed Angel, Jacques Fabi - Reddit AI",
+      "tags": [
+        "dark",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1337
+        },
+        "file_size": 464185,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:29:38.691136",
+        "hash": "9c100d3e612a9dc8e47fa2bd27b58a9b",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 24
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/085.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/085.jpg"
+      }
+    },
+    {
+      "id": "dark_086",
+      "category": "dark",
+      "title": "Edgar Allan Poe - Art by me - Reddit AI",
+      "tags": [
+        "dark",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 959
+        },
+        "file_size": 97916,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:47:01.907401",
+        "hash": "89d206ce49637b66bad50f9fcc676f64",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 12
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/086.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/086.jpg"
+      }
+    },
+    {
+      "id": "dark_087",
+      "category": "dark",
+      "title": "Skull, Vincent van Gogh, 1887. - Reddit AI",
+      "tags": [
+        "dark",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 882,
+          "height": 1200
+        },
+        "file_size": 180159,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:47:02.981661",
+        "hash": "3061d5c941e19ecfefd078bb0b050546",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 19
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/087.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/087.jpg"
+      }
+    },
+    {
+      "id": "dark_088",
+      "category": "dark",
+      "title": "Satan in Red, Edward Hopper, 1 - Reddit AI",
+      "tags": [
+        "dark",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1453
+        },
+        "file_size": 310815,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:47:04.142429",
+        "hash": "588a4021bd3d4c9b305d07983ce0ff77",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 10
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/088.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/088.jpg"
+      }
+    },
+    {
+      "id": "dark_089",
+      "category": "dark",
+      "title": "The Meaning of Night, Rene Mag - Reddit AI",
+      "tags": [
+        "dark",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1458
+        },
+        "file_size": 431687,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:47:06.326296",
+        "hash": "7df51e8c3b5f629e009cd024a6bede3e",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 14
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/089.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/089.jpg"
+      }
+    },
+    {
+      "id": "dark_090",
+      "category": "dark",
+      "title": "The Flayed Angel, Jacques Fabi - Reddit AI",
+      "tags": [
+        "dark",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1337
+        },
+        "file_size": 464185,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:47:09.529658",
+        "hash": "9c100d3e612a9dc8e47fa2bd27b58a9b",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 24
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/090.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/090.jpg"
       }
     }
   ]

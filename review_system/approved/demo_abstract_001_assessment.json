@@ -1,0 +1,38 @@
+{
+  "path": "crawl_cache/demo_abstract_001.jpg",
+  "filename": "demo_abstract_001.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 6.42,
+  "detailed_scores": {
+    "sharpness": 1.49,
+    "contrast": 9.47,
+    "brightness": 6.26,
+    "color_quality": 4.58,
+    "composition": 5.59,
+    "technical_quality": 9.85
+  },
+  "watermark_penalty": 0.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "abstract_001",
+    "source": "unsplash_demo",
+    "category": "abstract",
+    "title": "Abstract Demo Wallpaper 1",
+    "description": "Demo abstract wallpaper from Unsplash",
+    "width": 1080,
+    "height": 1920,
+    "tags": [
+      "abstract",
+      "demo",
+      "wallpaper",
+      "mobile"
+    ],
+    "download_url": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366?w=1080&h=1920&fit=crop",
+    "source_url": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366?w=1080&h=1920&fit=crop",
+    "crawled_at": "2025-07-14T14:45:12.916121Z"
+  },
+  "assessed_at": "2025-07-14T14:45:26.524187Z"
+}

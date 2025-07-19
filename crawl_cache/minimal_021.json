@@ -1,0 +1,29 @@
+{
+  "id": "minimal_021",
+  "source": "comprehensive_crawler",
+  "category": "minimal",
+  "title": "Minimal Wallpaper 21",
+  "description": "High-quality minimal wallpaper from curated sources",
+  "width": 1080,
+  "height": 1920,
+  "tags": [
+    "minimal",
+    "wallpaper",
+    "hd",
+    "high resolution",
+    "mobile",
+    "clean",
+    "simple",
+    "zen",
+    "monochrome",
+    "elegant"
+  ],
+  "download_url": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80",
+  "source_url": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80",
+  "variation": {
+    "crop": "faces",
+    "fm": "jpg",
+    "q": "80"
+  },
+  "crawled_at": "2025-07-14T20:42:12.875852Z"
+}

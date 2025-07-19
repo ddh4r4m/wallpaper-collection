@@ -1,0 +1,1202 @@
+2025-07-14 20:14:25,325 - INFO - Processing directory: crawl_cache
+2025-07-14 20:14:25,326 - INFO - Found 3 images to process
+2025-07-14 20:14:25,326 - INFO - Processing 1/3: demo_nature_001.jpg
+2025-07-14 20:14:25,326 - INFO - Assessing image: demo_nature_001.jpg
+2025-07-14 20:14:25,606 - INFO - Moved demo_nature_001.jpg to manual_review directory
+2025-07-14 20:14:25,606 - INFO - Processing 2/3: demo_nature_002.jpg
+2025-07-14 20:14:25,606 - INFO - Assessing image: demo_nature_002.jpg
+2025-07-14 20:14:25,690 - INFO - Moved demo_nature_002.jpg to manual_review directory
+2025-07-14 20:14:25,690 - INFO - Processing 3/3: demo_nature_003.jpg
+2025-07-14 20:14:25,690 - INFO - Assessing image: demo_nature_003.jpg
+2025-07-14 20:14:25,772 - INFO - Moved demo_nature_003.jpg to manual_review directory
+2025-07-14 20:15:26,407 - INFO - Processing directory: crawl_cache
+2025-07-14 20:15:26,407 - INFO - Found 1 images to process
+2025-07-14 20:15:26,407 - INFO - Processing 1/1: demo_abstract_001.jpg
+2025-07-14 20:15:26,407 - INFO - Assessing image: demo_abstract_001.jpg
+2025-07-14 20:15:26,525 - INFO - Moved demo_abstract_001.jpg to manual_review directory
+2025-07-14 20:15:49,601 - INFO - Processing directory: crawl_cache
+2025-07-14 20:15:49,602 - INFO - Found 2 images to process
+2025-07-14 20:15:49,602 - INFO - Processing 1/2: demo_space_002.jpg
+2025-07-14 20:15:49,602 - INFO - Assessing image: demo_space_002.jpg
+2025-07-14 20:15:49,736 - INFO - Moved demo_space_002.jpg to manual_review directory
+2025-07-14 20:15:49,736 - INFO - Processing 2/2: demo_space_001.jpg
+2025-07-14 20:15:49,736 - INFO - Assessing image: demo_space_001.jpg
+2025-07-14 20:15:49,808 - INFO - Moved demo_space_001.jpg to manual_review directory
+2025-07-14 20:30:21,331 - INFO - Processing directory: crawl_cache
+2025-07-14 20:30:21,334 - INFO - Found 115 images to process
+2025-07-14 20:30:21,334 - INFO - Processing 1/115: demo_nature_045.jpg
+2025-07-14 20:30:21,334 - INFO - Assessing image: demo_nature_045.jpg
+2025-07-14 20:30:21,463 - INFO - Moved demo_nature_045.jpg to manual_review directory
+2025-07-14 20:30:21,463 - INFO - Processing 2/115: demo_abstract_004.jpg
+2025-07-14 20:30:21,463 - INFO - Assessing image: demo_abstract_004.jpg
+2025-07-14 20:30:21,547 - INFO - Moved demo_abstract_004.jpg to manual_review directory
+2025-07-14 20:30:21,547 - INFO - Processing 3/115: demo_nature_086.jpg
+2025-07-14 20:30:21,547 - INFO - Assessing image: demo_nature_086.jpg
+2025-07-14 20:30:21,623 - INFO - Moved demo_nature_086.jpg to manual_review directory
+2025-07-14 20:30:21,623 - INFO - Processing 4/115: demo_abstract_010.jpg
+2025-07-14 20:30:21,623 - INFO - Assessing image: demo_abstract_010.jpg
+2025-07-14 20:30:21,684 - INFO - Moved demo_abstract_010.jpg to manual_review directory
+2025-07-14 20:30:21,684 - INFO - Processing 5/115: demo_abstract_038.jpg
+2025-07-14 20:30:21,684 - INFO - Assessing image: demo_abstract_038.jpg
+2025-07-14 20:30:21,771 - INFO - Moved demo_abstract_038.jpg to manual_review directory
+2025-07-14 20:30:21,771 - INFO - Processing 6/115: demo_space_032.jpg
+2025-07-14 20:30:21,771 - INFO - Assessing image: demo_space_032.jpg
+2025-07-14 20:30:21,855 - INFO - Moved demo_space_032.jpg to manual_review directory
+2025-07-14 20:30:21,855 - INFO - Processing 7/115: demo_nature_046.jpg
+2025-07-14 20:30:21,855 - INFO - Assessing image: demo_nature_046.jpg
+2025-07-14 20:30:21,936 - INFO - Moved demo_nature_046.jpg to manual_review directory
+2025-07-14 20:30:21,936 - INFO - Processing 8/115: demo_nature_085.jpg
+2025-07-14 20:30:21,936 - INFO - Assessing image: demo_nature_085.jpg
+2025-07-14 20:30:22,051 - INFO - Moved demo_nature_085.jpg to manual_review directory
+2025-07-14 20:30:22,052 - INFO - Processing 9/115: demo_abstract_007.jpg
+2025-07-14 20:30:22,052 - INFO - Assessing image: demo_abstract_007.jpg
+2025-07-14 20:30:22,124 - INFO - Moved demo_abstract_007.jpg to manual_review directory
+2025-07-14 20:30:22,124 - INFO - Processing 10/115: demo_abstract_006.jpg
+2025-07-14 20:30:22,124 - INFO - Assessing image: demo_abstract_006.jpg
+2025-07-14 20:30:22,206 - INFO - Moved demo_abstract_006.jpg to manual_review directory
+2025-07-14 20:30:22,206 - INFO - Processing 11/115: demo_nature_090.jpg
+2025-07-14 20:30:22,206 - INFO - Assessing image: demo_nature_090.jpg
+2025-07-14 20:30:22,311 - INFO - Moved demo_nature_090.jpg to manual_review directory
+2025-07-14 20:30:22,311 - INFO - Processing 12/115: demo_space_033.jpg
+2025-07-14 20:30:22,311 - INFO - Assessing image: demo_space_033.jpg
+2025-07-14 20:30:22,382 - INFO - Moved demo_space_033.jpg to manual_review directory
+2025-07-14 20:30:22,382 - INFO - Processing 13/115: demo_space_027.jpg
+2025-07-14 20:30:22,382 - INFO - Assessing image: demo_space_027.jpg
+2025-07-14 20:30:22,458 - INFO - Moved demo_space_027.jpg to manual_review directory
+2025-07-14 20:30:22,458 - INFO - Processing 14/115: demo_space_023.jpg
+2025-07-14 20:30:22,458 - INFO - Assessing image: demo_space_023.jpg
+2025-07-14 20:30:22,541 - INFO - Moved demo_space_023.jpg to manual_review directory
+2025-07-14 20:30:22,541 - INFO - Processing 15/115: demo_space_157.jpg
+2025-07-14 20:30:22,541 - INFO - Assessing image: demo_space_157.jpg
+2025-07-14 20:30:22,617 - INFO - Moved demo_space_157.jpg to manual_review directory
+2025-07-14 20:30:22,617 - INFO - Processing 16/115: demo_abstract_016.jpg
+2025-07-14 20:30:22,618 - INFO - Assessing image: demo_abstract_016.jpg
+2025-07-14 20:30:22,690 - INFO - Moved demo_abstract_016.jpg to manual_review directory
+2025-07-14 20:30:22,690 - INFO - Processing 17/115: demo_abstract_002.jpg
+2025-07-14 20:30:22,690 - INFO - Assessing image: demo_abstract_002.jpg
+2025-07-14 20:30:22,753 - INFO - Moved demo_abstract_002.jpg to manual_review directory
+2025-07-14 20:30:22,753 - INFO - Processing 18/115: demo_abstract_003.jpg
+2025-07-14 20:30:22,753 - INFO - Assessing image: demo_abstract_003.jpg
+2025-07-14 20:30:22,831 - INFO - Moved demo_abstract_003.jpg to manual_review directory
+2025-07-14 20:30:22,831 - INFO - Processing 19/115: demo_nature_095.jpg
+2025-07-14 20:30:22,831 - INFO - Assessing image: demo_nature_095.jpg
+2025-07-14 20:30:22,940 - INFO - Moved demo_nature_095.jpg to manual_review directory
+2025-07-14 20:30:22,940 - INFO - Processing 20/115: demo_nature_042.jpg
+2025-07-14 20:30:22,940 - INFO - Assessing image: demo_nature_042.jpg
+2025-07-14 20:30:23,025 - INFO - Moved demo_nature_042.jpg to manual_review directory
+2025-07-14 20:30:23,025 - INFO - Processing 21/115: demo_space_022.jpg
+2025-07-14 20:30:23,025 - INFO - Assessing image: demo_space_022.jpg
+2025-07-14 20:30:23,114 - INFO - Moved demo_space_022.jpg to manual_review directory
+2025-07-14 20:30:23,114 - INFO - Processing 22/115: demo_space_008.jpg
+2025-07-14 20:30:23,114 - INFO - Assessing image: demo_space_008.jpg
+2025-07-14 20:30:23,214 - INFO - Moved demo_space_008.jpg to approved directory
+2025-07-14 20:30:23,214 - INFO - Processing 23/115: demo_abstract_001.jpg
+2025-07-14 20:30:23,214 - INFO - Assessing image: demo_abstract_001.jpg
+2025-07-14 20:30:23,281 - INFO - Moved demo_abstract_001.jpg to manual_review directory
+2025-07-14 20:30:23,281 - INFO - Processing 24/115: demo_nature_083.jpg
+2025-07-14 20:30:23,281 - INFO - Assessing image: demo_nature_083.jpg
+2025-07-14 20:30:23,385 - INFO - Moved demo_nature_083.jpg to manual_review directory
+2025-07-14 20:30:23,385 - INFO - Processing 25/115: demo_abstract_014.jpg
+2025-07-14 20:30:23,385 - INFO - Assessing image: demo_abstract_014.jpg
+2025-07-14 20:30:23,448 - INFO - Moved demo_abstract_014.jpg to manual_review directory
+2025-07-14 20:30:23,448 - INFO - Processing 26/115: demo_nature_082.jpg
+2025-07-14 20:30:23,448 - INFO - Assessing image: demo_nature_082.jpg
+2025-07-14 20:30:23,542 - INFO - Moved demo_nature_082.jpg to manual_review directory
+2025-07-14 20:30:23,542 - INFO - Processing 27/115: demo_space_009.jpg
+2025-07-14 20:30:23,542 - INFO - Assessing image: demo_space_009.jpg
+2025-07-14 20:30:23,642 - INFO - Moved demo_space_009.jpg to manual_review directory
+2025-07-14 20:30:23,642 - INFO - Processing 28/115: demo_space_091.jpg
+2025-07-14 20:30:23,642 - INFO - Assessing image: demo_space_091.jpg
+2025-07-14 20:30:23,760 - INFO - Moved demo_space_091.jpg to approved directory
+2025-07-14 20:30:23,760 - INFO - Processing 29/115: demo_nature_026.jpg
+2025-07-14 20:30:23,760 - INFO - Assessing image: demo_nature_026.jpg
+2025-07-14 20:30:23,843 - INFO - Moved demo_nature_026.jpg to approved directory
+2025-07-14 20:30:23,843 - INFO - Processing 30/115: demo_nature_027.jpg
+2025-07-14 20:30:23,843 - INFO - Assessing image: demo_nature_027.jpg
+2025-07-14 20:30:23,956 - INFO - Moved demo_nature_027.jpg to manual_review directory
+2025-07-14 20:30:23,957 - INFO - Processing 31/115: demo_nature_033.jpg
+2025-07-14 20:30:23,957 - INFO - Assessing image: demo_nature_033.jpg
+2025-07-14 20:30:24,038 - INFO - Moved demo_nature_033.jpg to manual_review directory
+2025-07-14 20:30:24,038 - INFO - Processing 32/115: demo_space_090.jpg
+2025-07-14 20:30:24,038 - INFO - Assessing image: demo_space_090.jpg
+2025-07-14 20:30:24,123 - INFO - Moved demo_space_090.jpg to approved directory
+2025-07-14 20:30:24,123 - INFO - Processing 33/115: demo_space_053.jpg
+2025-07-14 20:30:24,123 - INFO - Assessing image: demo_space_053.jpg
+2025-07-14 20:30:24,207 - INFO - Moved demo_space_053.jpg to approved directory
+2025-07-14 20:30:24,207 - INFO - Processing 34/115: demo_space_045.jpg
+2025-07-14 20:30:24,207 - INFO - Assessing image: demo_space_045.jpg
+2025-07-14 20:30:24,299 - INFO - Moved demo_space_045.jpg to approved directory
+2025-07-14 20:30:24,299 - INFO - Processing 35/115: demo_nature_025.jpg
+2025-07-14 20:30:24,299 - INFO - Assessing image: demo_nature_025.jpg
+2025-07-14 20:30:24,405 - INFO - Moved demo_nature_025.jpg to manual_review directory
+2025-07-14 20:30:24,405 - INFO - Processing 36/115: demo_nature_031.jpg
+2025-07-14 20:30:24,406 - INFO - Assessing image: demo_nature_031.jpg
+2025-07-14 20:30:24,481 - INFO - Moved demo_nature_031.jpg to manual_review directory
+2025-07-14 20:30:24,481 - INFO - Processing 37/115: demo_abstract_070.jpg
+2025-07-14 20:30:24,481 - INFO - Assessing image: demo_abstract_070.jpg
+2025-07-14 20:30:24,552 - INFO - Moved demo_abstract_070.jpg to manual_review directory
+2025-07-14 20:30:24,552 - INFO - Processing 38/115: demo_abstract_059.jpg
+2025-07-14 20:30:24,552 - INFO - Assessing image: demo_abstract_059.jpg
+2025-07-14 20:30:24,635 - INFO - Moved demo_abstract_059.jpg to approved directory
+2025-07-14 20:30:24,635 - INFO - Processing 39/115: demo_abstract_071.jpg
+2025-07-14 20:30:24,635 - INFO - Assessing image: demo_abstract_071.jpg
+2025-07-14 20:30:24,693 - INFO - Moved demo_abstract_071.jpg to manual_review directory
+2025-07-14 20:30:24,693 - INFO - Processing 40/115: demo_abstract_111.jpg
+2025-07-14 20:30:24,693 - INFO - Assessing image: demo_abstract_111.jpg
+2025-07-14 20:30:24,758 - INFO - Moved demo_abstract_111.jpg to manual_review directory
+2025-07-14 20:30:24,758 - INFO - Processing 41/115: demo_space_040.jpg
+2025-07-14 20:30:24,758 - INFO - Assessing image: demo_space_040.jpg
+2025-07-14 20:30:24,837 - INFO - Moved demo_space_040.jpg to manual_review directory
+2025-07-14 20:30:24,837 - INFO - Processing 42/115: demo_space_054.jpg
+2025-07-14 20:30:24,837 - INFO - Assessing image: demo_space_054.jpg
+2025-07-14 20:30:24,917 - INFO - Moved demo_space_054.jpg to manual_review directory
+2025-07-14 20:30:24,917 - INFO - Processing 43/115: demo_nature_008.jpg
+2025-07-14 20:30:24,917 - INFO - Assessing image: demo_nature_008.jpg
+2025-07-14 20:30:25,003 - INFO - Moved demo_nature_008.jpg to manual_review directory
+2025-07-14 20:30:25,003 - INFO - Processing 44/115: demo_space_108.jpg
+2025-07-14 20:30:25,004 - INFO - Assessing image: demo_space_108.jpg
+2025-07-14 20:30:25,088 - INFO - Moved demo_space_108.jpg to manual_review directory
+2025-07-14 20:30:25,088 - INFO - Processing 45/115: demo_nature_034.jpg
+2025-07-14 20:30:25,088 - INFO - Assessing image: demo_nature_034.jpg
+2025-07-14 20:30:25,190 - INFO - Moved demo_nature_034.jpg to manual_review directory
+2025-07-14 20:30:25,190 - INFO - Processing 46/115: demo_abstract_049.jpg
+2025-07-14 20:30:25,190 - INFO - Assessing image: demo_abstract_049.jpg
+2025-07-14 20:30:25,259 - INFO - Moved demo_abstract_049.jpg to manual_review directory
+2025-07-14 20:30:25,259 - INFO - Processing 47/115: demo_abstract_061.jpg
+2025-07-14 20:30:25,259 - INFO - Assessing image: demo_abstract_061.jpg
+2025-07-14 20:30:25,338 - INFO - Moved demo_abstract_061.jpg to approved directory
+2025-07-14 20:30:25,338 - INFO - Processing 48/115: demo_abstract_060.jpg
+2025-07-14 20:30:25,338 - INFO - Assessing image: demo_abstract_060.jpg
+2025-07-14 20:30:25,403 - INFO - Moved demo_abstract_060.jpg to manual_review directory
+2025-07-14 20:30:25,403 - INFO - Processing 49/115: demo_abstract_074.jpg
+2025-07-14 20:30:25,403 - INFO - Assessing image: demo_abstract_074.jpg
+2025-07-14 20:30:25,476 - INFO - Moved demo_abstract_074.jpg to manual_review directory
+2025-07-14 20:30:25,476 - INFO - Processing 50/115: demo_nature_021.jpg
+2025-07-14 20:30:25,476 - INFO - Assessing image: demo_nature_021.jpg
+2025-07-14 20:30:25,578 - INFO - Moved demo_nature_021.jpg to manual_review directory
+2025-07-14 20:30:25,578 - INFO - Processing 51/115: demo_abstract_114.jpg
+2025-07-14 20:30:25,578 - INFO - Assessing image: demo_abstract_114.jpg
+2025-07-14 20:30:25,650 - INFO - Moved demo_abstract_114.jpg to manual_review directory
+2025-07-14 20:30:25,651 - INFO - Processing 52/115: demo_space_055.jpg
+2025-07-14 20:30:25,651 - INFO - Assessing image: demo_space_055.jpg
+2025-07-14 20:30:25,732 - INFO - Moved demo_space_055.jpg to manual_review directory
+2025-07-14 20:30:25,732 - INFO - Processing 53/115: demo_space_043.jpg
+2025-07-14 20:30:25,732 - INFO - Assessing image: demo_space_043.jpg
+2025-07-14 20:30:25,821 - INFO - Moved demo_space_043.jpg to approved directory
+2025-07-14 20:30:25,821 - INFO - Processing 54/115: demo_space_080.jpg
+2025-07-14 20:30:25,821 - INFO - Assessing image: demo_space_080.jpg
+2025-07-14 20:30:25,924 - INFO - Moved demo_space_080.jpg to manual_review directory
+2025-07-14 20:30:25,924 - INFO - Processing 55/115: demo_nature_037.jpg
+2025-07-14 20:30:25,925 - INFO - Assessing image: demo_nature_037.jpg
+2025-07-14 20:30:26,004 - INFO - Moved demo_nature_037.jpg to manual_review directory
+2025-07-14 20:30:26,004 - INFO - Processing 56/115: demo_nature_023.jpg
+2025-07-14 20:30:26,004 - INFO - Assessing image: demo_nature_023.jpg
+2025-07-14 20:30:26,110 - INFO - Moved demo_nature_023.jpg to manual_review directory
+2025-07-14 20:30:26,110 - INFO - Processing 57/115: demo_nature_022.jpg
+2025-07-14 20:30:26,111 - INFO - Assessing image: demo_nature_022.jpg
+2025-07-14 20:30:26,220 - INFO - Moved demo_nature_022.jpg to manual_review directory
+2025-07-14 20:30:26,220 - INFO - Processing 58/115: demo_nature_036.jpg
+2025-07-14 20:30:26,220 - INFO - Assessing image: demo_nature_036.jpg
+2025-07-14 20:30:26,327 - INFO - Moved demo_nature_036.jpg to manual_review directory
+2025-07-14 20:30:26,327 - INFO - Processing 59/115: demo_space_081.jpg
+2025-07-14 20:30:26,327 - INFO - Assessing image: demo_space_081.jpg
+2025-07-14 20:30:26,400 - INFO - Moved demo_space_081.jpg to manual_review directory
+2025-07-14 20:30:26,400 - INFO - Processing 60/115: demo_space_056.jpg
+2025-07-14 20:30:26,400 - INFO - Assessing image: demo_space_056.jpg
+2025-07-14 20:30:26,488 - INFO - Moved demo_space_056.jpg to manual_review directory
+2025-07-14 20:30:26,488 - INFO - Processing 61/115: demo_nature_013.jpg
+2025-07-14 20:30:26,488 - INFO - Assessing image: demo_nature_013.jpg
+2025-07-14 20:30:26,567 - INFO - Moved demo_nature_013.jpg to manual_review directory
+2025-07-14 20:30:26,567 - INFO - Processing 62/115: demo_abstract_091.jpg
+2025-07-14 20:30:26,567 - INFO - Assessing image: demo_abstract_091.jpg
+2025-07-14 20:30:26,643 - INFO - Moved demo_abstract_091.jpg to manual_review directory
+2025-07-14 20:30:26,643 - INFO - Processing 63/115: demo_nature_006.jpg
+2025-07-14 20:30:26,643 - INFO - Assessing image: demo_nature_006.jpg
+2025-07-14 20:30:26,724 - INFO - Moved demo_nature_006.jpg to manual_review directory
+2025-07-14 20:30:26,725 - INFO - Processing 64/115: demo_abstract_090.jpg
+2025-07-14 20:30:26,725 - INFO - Assessing image: demo_abstract_090.jpg
+2025-07-14 20:30:26,799 - INFO - Moved demo_abstract_090.jpg to manual_review directory
+2025-07-14 20:30:26,800 - INFO - Processing 65/115: demo_abstract_084.jpg
+2025-07-14 20:30:26,800 - INFO - Assessing image: demo_abstract_084.jpg
+2025-07-14 20:30:26,874 - INFO - Moved demo_abstract_084.jpg to manual_review directory
+2025-07-14 20:30:26,874 - INFO - Processing 66/115: demo_space_066.jpg
+2025-07-14 20:30:26,874 - INFO - Assessing image: demo_space_066.jpg
+2025-07-14 20:30:26,952 - INFO - Moved demo_space_066.jpg to manual_review directory
+2025-07-14 20:30:26,953 - INFO - Processing 67/115: demo_space_072.jpg
+2025-07-14 20:30:26,953 - INFO - Assessing image: demo_space_072.jpg
+2025-07-14 20:30:27,026 - INFO - Moved demo_space_072.jpg to manual_review directory
+2025-07-14 20:30:27,026 - INFO - Processing 68/115: demo_space_058.jpg
+2025-07-14 20:30:27,026 - INFO - Assessing image: demo_space_058.jpg
+2025-07-14 20:30:27,110 - INFO - Moved demo_space_058.jpg to manual_review directory
+2025-07-14 20:30:27,110 - INFO - Processing 69/115: demo_nature_004.jpg
+2025-07-14 20:30:27,110 - INFO - Assessing image: demo_nature_004.jpg
+2025-07-14 20:30:27,214 - INFO - Moved demo_nature_004.jpg to manual_review directory
+2025-07-14 20:30:27,214 - INFO - Processing 70/115: demo_nature_038.jpg
+2025-07-14 20:30:27,214 - INFO - Assessing image: demo_nature_038.jpg
+2025-07-14 20:30:27,342 - INFO - Moved demo_nature_038.jpg to manual_review directory
+2025-07-14 20:30:27,342 - INFO - Processing 71/115: demo_abstract_051.jpg
+2025-07-14 20:30:27,342 - INFO - Assessing image: demo_abstract_051.jpg
+2025-07-14 20:30:27,413 - INFO - Moved demo_abstract_051.jpg to manual_review directory
+2025-07-14 20:30:27,413 - INFO - Processing 72/115: demo_abstract_079.jpg
+2025-07-14 20:30:27,413 - INFO - Assessing image: demo_abstract_079.jpg
+2025-07-14 20:30:27,476 - INFO - Moved demo_abstract_079.jpg to manual_review directory
+2025-07-14 20:30:27,476 - INFO - Processing 73/115: demo_nature_039.jpg
+2025-07-14 20:30:27,476 - INFO - Assessing image: demo_nature_039.jpg
+2025-07-14 20:30:27,579 - INFO - Moved demo_nature_039.jpg to manual_review directory
+2025-07-14 20:30:27,579 - INFO - Processing 74/115: demo_nature_011.jpg
+2025-07-14 20:30:27,579 - INFO - Assessing image: demo_nature_011.jpg
+2025-07-14 20:30:27,663 - INFO - Moved demo_nature_011.jpg to manual_review directory
+2025-07-14 20:30:27,663 - INFO - Processing 75/115: demo_nature_005.jpg
+2025-07-14 20:30:27,663 - INFO - Assessing image: demo_nature_005.jpg
+2025-07-14 20:30:27,742 - INFO - Moved demo_nature_005.jpg to manual_review directory
+2025-07-14 20:30:27,742 - INFO - Processing 76/115: demo_nature_001.jpg
+2025-07-14 20:30:27,742 - INFO - Assessing image: demo_nature_001.jpg
+2025-07-14 20:30:27,820 - INFO - Moved demo_nature_001.jpg to manual_review directory
+2025-07-14 20:30:27,820 - INFO - Processing 77/115: demo_nature_015.jpg
+2025-07-14 20:30:27,820 - INFO - Assessing image: demo_nature_015.jpg
+2025-07-14 20:30:27,906 - INFO - Moved demo_nature_015.jpg to manual_review directory
+2025-07-14 20:30:27,906 - INFO - Processing 78/115: demo_abstract_068.jpg
+2025-07-14 20:30:27,906 - INFO - Assessing image: demo_abstract_068.jpg
+2025-07-14 20:30:27,982 - INFO - Moved demo_abstract_068.jpg to manual_review directory
+2025-07-14 20:30:27,982 - INFO - Processing 79/115: demo_abstract_040.jpg
+2025-07-14 20:30:27,982 - INFO - Assessing image: demo_abstract_040.jpg
+2025-07-14 20:30:28,066 - INFO - Moved demo_abstract_040.jpg to manual_review directory
+2025-07-14 20:30:28,066 - INFO - Processing 80/115: demo_abstract_041.jpg
+2025-07-14 20:30:28,066 - INFO - Assessing image: demo_abstract_041.jpg
+2025-07-14 20:30:28,157 - INFO - Moved demo_abstract_041.jpg to manual_review directory
+2025-07-14 20:30:28,157 - INFO - Processing 81/115: demo_abstract_055.jpg
+2025-07-14 20:30:28,157 - INFO - Assessing image: demo_abstract_055.jpg
+2025-07-14 20:30:28,233 - INFO - Moved demo_abstract_055.jpg to manual_review directory
+2025-07-14 20:30:28,233 - INFO - Processing 82/115: demo_space_048.jpg
+2025-07-14 20:30:28,233 - INFO - Assessing image: demo_space_048.jpg
+2025-07-14 20:30:28,315 - INFO - Moved demo_space_048.jpg to manual_review directory
+2025-07-14 20:30:28,315 - INFO - Processing 83/115: demo_space_060.jpg
+2025-07-14 20:30:28,315 - INFO - Assessing image: demo_space_060.jpg
+2025-07-14 20:30:28,397 - INFO - Moved demo_space_060.jpg to manual_review directory
+2025-07-14 20:30:28,397 - INFO - Processing 84/115: demo_nature_016.jpg
+2025-07-14 20:30:28,397 - INFO - Assessing image: demo_nature_016.jpg
+2025-07-14 20:30:28,501 - INFO - Moved demo_nature_016.jpg to manual_review directory
+2025-07-14 20:30:28,501 - INFO - Processing 85/115: demo_nature_002.jpg
+2025-07-14 20:30:28,501 - INFO - Assessing image: demo_nature_002.jpg
+2025-07-14 20:30:28,578 - INFO - Moved demo_nature_002.jpg to approved directory
+2025-07-14 20:30:28,578 - INFO - Processing 86/115: demo_abstract_043.jpg
+2025-07-14 20:30:28,578 - INFO - Assessing image: demo_abstract_043.jpg
+2025-07-14 20:30:28,662 - INFO - Moved demo_abstract_043.jpg to manual_review directory
+2025-07-14 20:30:28,662 - INFO - Processing 87/115: demo_abstract_042.jpg
+2025-07-14 20:30:28,662 - INFO - Assessing image: demo_abstract_042.jpg
+2025-07-14 20:30:28,720 - INFO - Moved demo_abstract_042.jpg to manual_review directory
+2025-07-14 20:30:28,720 - INFO - Processing 88/115: demo_nature_017.jpg
+2025-07-14 20:30:28,720 - INFO - Assessing image: demo_nature_017.jpg
+2025-07-14 20:30:28,821 - INFO - Moved demo_nature_017.jpg to manual_review directory
+2025-07-14 20:30:28,821 - INFO - Processing 89/115: demo_space_088.jpg
+2025-07-14 20:30:28,821 - INFO - Assessing image: demo_space_088.jpg
+2025-07-14 20:30:28,900 - INFO - Moved demo_space_088.jpg to manual_review directory
+2025-07-14 20:30:28,900 - INFO - Processing 90/115: demo_space_077.jpg
+2025-07-14 20:30:28,900 - INFO - Assessing image: demo_space_077.jpg
+2025-07-14 20:30:28,976 - INFO - Moved demo_space_077.jpg to manual_review directory
+2025-07-14 20:30:28,976 - INFO - Processing 91/115: demo_abstract_025.jpg
+2025-07-14 20:30:28,976 - INFO - Assessing image: demo_abstract_025.jpg
+2025-07-14 20:30:29,041 - INFO - Moved demo_abstract_025.jpg to manual_review directory
+2025-07-14 20:30:29,041 - INFO - Processing 92/115: demo_abstract_018.jpg
+2025-07-14 20:30:29,041 - INFO - Assessing image: demo_abstract_018.jpg
+2025-07-14 20:30:29,123 - INFO - Moved demo_abstract_018.jpg to manual_review directory
+2025-07-14 20:30:29,123 - INFO - Processing 93/115: demo_abstract_024.jpg
+2025-07-14 20:30:29,123 - INFO - Assessing image: demo_abstract_024.jpg
+2025-07-14 20:30:29,198 - INFO - Moved demo_abstract_024.jpg to manual_review directory
+2025-07-14 20:30:29,199 - INFO - Processing 94/115: demo_nature_059.jpg
+2025-07-14 20:30:29,199 - INFO - Assessing image: demo_nature_059.jpg
+2025-07-14 20:30:29,277 - INFO - Moved demo_nature_059.jpg to manual_review directory
+2025-07-14 20:30:29,277 - INFO - Processing 95/115: demo_space_005.jpg
+2025-07-14 20:30:29,277 - INFO - Assessing image: demo_space_005.jpg
+2025-07-14 20:30:29,359 - INFO - Moved demo_space_005.jpg to approved directory
+2025-07-14 20:30:29,360 - INFO - Processing 96/115: demo_space_011.jpg
+2025-07-14 20:30:29,360 - INFO - Assessing image: demo_space_011.jpg
+2025-07-14 20:30:29,433 - INFO - Moved demo_space_011.jpg to manual_review directory
+2025-07-14 20:30:29,434 - INFO - Processing 97/115: demo_space_013.jpg
+2025-07-14 20:30:29,434 - INFO - Assessing image: demo_space_013.jpg
+2025-07-14 20:30:29,524 - INFO - Moved demo_space_013.jpg to manual_review directory
+2025-07-14 20:30:29,524 - INFO - Processing 98/115: demo_nature_067.jpg
+2025-07-14 20:30:29,524 - INFO - Assessing image: demo_nature_067.jpg
+2025-07-14 20:30:29,609 - INFO - Moved demo_nature_067.jpg to manual_review directory
+2025-07-14 20:30:29,609 - INFO - Processing 99/115: demo_abstract_032.jpg
+2025-07-14 20:30:29,609 - INFO - Assessing image: demo_abstract_032.jpg
+2025-07-14 20:30:29,698 - INFO - Moved demo_abstract_032.jpg to manual_review directory
+2025-07-14 20:30:29,698 - INFO - Processing 100/115: demo_abstract_027.jpg
+2025-07-14 20:30:29,698 - INFO - Assessing image: demo_abstract_027.jpg
+2025-07-14 20:30:29,763 - INFO - Moved demo_abstract_027.jpg to manual_review directory
+2025-07-14 20:30:29,763 - INFO - Processing 101/115: demo_abstract_033.jpg
+2025-07-14 20:30:29,763 - INFO - Assessing image: demo_abstract_033.jpg
+2025-07-14 20:30:29,846 - INFO - Moved demo_abstract_033.jpg to approved directory
+2025-07-14 20:30:29,846 - INFO - Processing 102/115: demo_space_012.jpg
+2025-07-14 20:30:29,846 - INFO - Assessing image: demo_space_012.jpg
+2025-07-14 20:30:29,918 - INFO - Moved demo_space_012.jpg to manual_review directory
+2025-07-14 20:30:29,918 - INFO - Processing 103/115: demo_space_006.jpg
+2025-07-14 20:30:29,918 - INFO - Assessing image: demo_space_006.jpg
+2025-07-14 20:30:29,989 - INFO - Moved demo_space_006.jpg to manual_review directory
+2025-07-14 20:30:29,989 - INFO - Processing 104/115: demo_nature_062.jpg
+2025-07-14 20:30:29,989 - INFO - Assessing image: demo_nature_062.jpg
+2025-07-14 20:30:30,093 - INFO - Moved demo_nature_062.jpg to manual_review directory
+2025-07-14 20:30:30,093 - INFO - Processing 105/115: demo_nature_076.jpg
+2025-07-14 20:30:30,093 - INFO - Assessing image: demo_nature_076.jpg
+2025-07-14 20:30:30,192 - INFO - Moved demo_nature_076.jpg to manual_review directory
+2025-07-14 20:30:30,192 - INFO - Processing 106/115: demo_abstract_037.jpg
+2025-07-14 20:30:30,192 - INFO - Assessing image: demo_abstract_037.jpg
+2025-07-14 20:30:30,256 - INFO - Moved demo_abstract_037.jpg to manual_review directory
+2025-07-14 20:30:30,256 - INFO - Processing 107/115: demo_abstract_023.jpg
+2025-07-14 20:30:30,256 - INFO - Assessing image: demo_abstract_023.jpg
+2025-07-14 20:30:30,327 - INFO - Moved demo_abstract_023.jpg to manual_review directory
+2025-07-14 20:30:30,327 - INFO - Processing 108/115: demo_abstract_036.jpg
+2025-07-14 20:30:30,327 - INFO - Assessing image: demo_abstract_036.jpg
+2025-07-14 20:30:30,410 - INFO - Moved demo_abstract_036.jpg to manual_review directory
+2025-07-14 20:30:30,410 - INFO - Processing 109/115: demo_space_003.jpg
+2025-07-14 20:30:30,410 - INFO - Assessing image: demo_space_003.jpg
+2025-07-14 20:30:30,493 - INFO - Moved demo_space_003.jpg to manual_review directory
+2025-07-14 20:30:30,493 - INFO - Processing 110/115: demo_space_015.jpg
+2025-07-14 20:30:30,493 - INFO - Assessing image: demo_space_015.jpg
+2025-07-14 20:30:30,579 - INFO - Moved demo_space_015.jpg to approved directory
+2025-07-14 20:30:30,579 - INFO - Processing 111/115: demo_space_001.jpg
+2025-07-14 20:30:30,579 - INFO - Assessing image: demo_space_001.jpg
+2025-07-14 20:30:30,665 - INFO - Moved demo_space_001.jpg to manual_review directory
+2025-07-14 20:30:30,665 - INFO - Processing 112/115: demo_abstract_034.jpg
+2025-07-14 20:30:30,665 - INFO - Assessing image: demo_abstract_034.jpg
+2025-07-14 20:30:30,738 - INFO - Moved demo_abstract_034.jpg to manual_review directory
+2025-07-14 20:30:30,738 - INFO - Processing 113/115: demo_abstract_021.jpg
+2025-07-14 20:30:30,738 - INFO - Assessing image: demo_abstract_021.jpg
+2025-07-14 20:30:30,835 - INFO - Moved demo_abstract_021.jpg to manual_review directory
+2025-07-14 20:30:30,835 - INFO - Processing 114/115: demo_nature_060.jpg
+2025-07-14 20:30:30,835 - INFO - Assessing image: demo_nature_060.jpg
+2025-07-14 20:30:30,940 - INFO - Moved demo_nature_060.jpg to manual_review directory
+2025-07-14 20:30:30,940 - INFO - Processing 115/115: demo_space_014.jpg
+2025-07-14 20:30:30,940 - INFO - Assessing image: demo_space_014.jpg
+2025-07-14 20:30:31,020 - INFO - Moved demo_space_014.jpg to manual_review directory
+2025-07-14 20:45:25,792 - INFO - Processing directory: review_system/staging
+2025-07-14 20:45:25,795 - INFO - Found 129 images to process
+2025-07-14 20:45:25,795 - INFO - Processing 1/129: minimal_002.jpg
+2025-07-14 20:45:25,795 - INFO - Assessing image: minimal_002.jpg
+2025-07-14 20:45:25,910 - INFO - Moved minimal_002.jpg to manual_review directory
+2025-07-14 20:45:25,910 - INFO - Processing 2/129: minimal_016.jpg
+2025-07-14 20:45:25,910 - INFO - Assessing image: minimal_016.jpg
+2025-07-14 20:45:25,995 - INFO - Moved minimal_016.jpg to manual_review directory
+2025-07-14 20:45:25,995 - INFO - Processing 3/129: nature_013.jpg
+2025-07-14 20:45:25,995 - INFO - Assessing image: nature_013.jpg
+2025-07-14 20:45:26,100 - INFO - Moved nature_013.jpg to manual_review directory
+2025-07-14 20:45:26,100 - INFO - Processing 4/129: nature_007.jpg
+2025-07-14 20:45:26,100 - INFO - Assessing image: nature_007.jpg
+2025-07-14 20:45:26,205 - INFO - Moved nature_007.jpg to manual_review directory
+2025-07-14 20:45:26,205 - INFO - Processing 5/129: abstract_007.jpg
+2025-07-14 20:45:26,206 - INFO - Assessing image: abstract_007.jpg
+2025-07-14 20:45:26,277 - INFO - Moved abstract_007.jpg to manual_review directory
+2025-07-14 20:45:26,277 - INFO - Processing 6/129: space_019.jpg
+2025-07-14 20:45:26,277 - INFO - Assessing image: space_019.jpg
+2025-07-14 20:45:26,362 - INFO - Moved space_019.jpg to approved directory
+2025-07-14 20:45:26,362 - INFO - Processing 7/129: abstract_013.jpg
+2025-07-14 20:45:26,362 - INFO - Assessing image: abstract_013.jpg
+2025-07-14 20:45:26,422 - INFO - Moved abstract_013.jpg to manual_review directory
+2025-07-14 20:45:26,422 - INFO - Processing 8/129: space_025.jpg
+2025-07-14 20:45:26,422 - INFO - Assessing image: space_025.jpg
+2025-07-14 20:45:26,500 - INFO - Moved space_025.jpg to manual_review directory
+2025-07-14 20:45:26,500 - INFO - Processing 9/129: space_024.jpg
+2025-07-14 20:45:26,500 - INFO - Assessing image: space_024.jpg
+2025-07-14 20:45:26,580 - INFO - Moved space_024.jpg to manual_review directory
+2025-07-14 20:45:26,580 - INFO - Processing 10/129: space_030.jpg
+2025-07-14 20:45:26,580 - INFO - Assessing image: space_030.jpg
+2025-07-14 20:45:26,661 - INFO - Moved space_030.jpg to approved directory
+2025-07-14 20:45:26,661 - INFO - Processing 11/129: space_018.jpg
+2025-07-14 20:45:26,661 - INFO - Assessing image: space_018.jpg
+2025-07-14 20:45:26,736 - INFO - Moved space_018.jpg to manual_review directory
+2025-07-14 20:45:26,736 - INFO - Processing 12/129: abstract_012.jpg
+2025-07-14 20:45:26,736 - INFO - Assessing image: abstract_012.jpg
+2025-07-14 20:45:26,816 - INFO - Moved abstract_012.jpg to approved directory
+2025-07-14 20:45:26,816 - INFO - Processing 13/129: abstract_006.jpg
+2025-07-14 20:45:26,816 - INFO - Assessing image: abstract_006.jpg
+2025-07-14 20:45:26,889 - INFO - Moved abstract_006.jpg to manual_review directory
+2025-07-14 20:45:26,889 - INFO - Processing 14/129: nature_006.jpg
+2025-07-14 20:45:26,889 - INFO - Assessing image: nature_006.jpg
+2025-07-14 20:45:26,994 - INFO - Moved nature_006.jpg to manual_review directory
+2025-07-14 20:45:26,994 - INFO - Processing 15/129: nature_012.jpg
+2025-07-14 20:45:26,994 - INFO - Assessing image: nature_012.jpg
+2025-07-14 20:45:27,083 - INFO - Moved nature_012.jpg to manual_review directory
+2025-07-14 20:45:27,083 - INFO - Processing 16/129: minimal_017.jpg
+2025-07-14 20:45:27,083 - INFO - Assessing image: minimal_017.jpg
+2025-07-14 20:45:27,142 - INFO - Moved minimal_017.jpg to manual_review directory
+2025-07-14 20:45:27,143 - INFO - Processing 17/129: minimal_003.jpg
+2025-07-14 20:45:27,143 - INFO - Assessing image: minimal_003.jpg
+2025-07-14 20:45:27,225 - INFO - Moved minimal_003.jpg to manual_review directory
+2025-07-14 20:45:27,225 - INFO - Processing 18/129: minimal_015.jpg
+2025-07-14 20:45:27,225 - INFO - Assessing image: minimal_015.jpg
+2025-07-14 20:45:27,330 - INFO - Moved minimal_015.jpg to manual_review directory
+2025-07-14 20:45:27,331 - INFO - Processing 19/129: minimal_001.jpg
+2025-07-14 20:45:27,331 - INFO - Assessing image: minimal_001.jpg
+2025-07-14 20:45:27,400 - INFO - Moved minimal_001.jpg to manual_review directory
+2025-07-14 20:45:27,400 - INFO - Processing 20/129: nature_004.jpg
+2025-07-14 20:45:27,400 - INFO - Assessing image: nature_004.jpg
+2025-07-14 20:45:27,485 - INFO - Moved nature_004.jpg to manual_review directory
+2025-07-14 20:45:27,485 - INFO - Processing 21/129: nature_010.jpg
+2025-07-14 20:45:27,485 - INFO - Assessing image: nature_010.jpg
+2025-07-14 20:45:27,577 - INFO - Moved nature_010.jpg to manual_review directory
+2025-07-14 20:45:27,577 - INFO - Processing 22/129: abstract_010.jpg
+2025-07-14 20:45:27,577 - INFO - Assessing image: abstract_010.jpg
+2025-07-14 20:45:27,656 - INFO - Moved abstract_010.jpg to manual_review directory
+2025-07-14 20:45:27,656 - INFO - Processing 23/129: abstract_004.jpg
+2025-07-14 20:45:27,656 - INFO - Assessing image: abstract_004.jpg
+2025-07-14 20:45:27,728 - INFO - Moved abstract_004.jpg to manual_review directory
+2025-07-14 20:45:27,728 - INFO - Processing 24/129: space_026.jpg
+2025-07-14 20:45:27,728 - INFO - Assessing image: space_026.jpg
+2025-07-14 20:45:27,803 - INFO - Moved space_026.jpg to manual_review directory
+2025-07-14 20:45:27,803 - INFO - Processing 25/129: space_027.jpg
+2025-07-14 20:45:27,803 - INFO - Assessing image: space_027.jpg
+2025-07-14 20:45:27,876 - INFO - Moved space_027.jpg to manual_review directory
+2025-07-14 20:45:27,876 - INFO - Processing 26/129: abstract_005.jpg
+2025-07-14 20:45:27,876 - INFO - Assessing image: abstract_005.jpg
+2025-07-14 20:45:27,941 - INFO - Moved abstract_005.jpg to manual_review directory
+2025-07-14 20:45:27,941 - INFO - Processing 27/129: abstract_011.jpg
+2025-07-14 20:45:27,941 - INFO - Assessing image: abstract_011.jpg
+2025-07-14 20:45:28,015 - INFO - Moved abstract_011.jpg to manual_review directory
+2025-07-14 20:45:28,015 - INFO - Processing 28/129: nature_011.jpg
+2025-07-14 20:45:28,015 - INFO - Assessing image: nature_011.jpg
+2025-07-14 20:45:28,123 - INFO - Moved nature_011.jpg to manual_review directory
+2025-07-14 20:45:28,123 - INFO - Processing 29/129: nature_005.jpg
+2025-07-14 20:45:28,123 - INFO - Assessing image: nature_005.jpg
+2025-07-14 20:45:28,208 - INFO - Moved nature_005.jpg to manual_review directory
+2025-07-14 20:45:28,208 - INFO - Processing 30/129: minimal_014.jpg
+2025-07-14 20:45:28,208 - INFO - Assessing image: minimal_014.jpg
+2025-07-14 20:45:28,289 - INFO - Moved minimal_014.jpg to manual_review directory
+2025-07-14 20:45:28,289 - INFO - Processing 31/129: minimal_010.jpg
+2025-07-14 20:45:28,289 - INFO - Assessing image: minimal_010.jpg
+2025-07-14 20:45:28,355 - INFO - Moved minimal_010.jpg to manual_review directory
+2025-07-14 20:45:28,355 - INFO - Processing 32/129: minimal_004.jpg
+2025-07-14 20:45:28,355 - INFO - Assessing image: minimal_004.jpg
+2025-07-14 20:45:28,419 - INFO - Moved minimal_004.jpg to manual_review directory
+2025-07-14 20:45:28,420 - INFO - Processing 33/129: nature_029.jpg
+2025-07-14 20:45:28,420 - INFO - Assessing image: nature_029.jpg
+2025-07-14 20:45:28,525 - INFO - Moved nature_029.jpg to manual_review directory
+2025-07-14 20:45:28,525 - INFO - Processing 34/129: nature_001.jpg
+2025-07-14 20:45:28,525 - INFO - Assessing image: nature_001.jpg
+2025-07-14 20:45:28,640 - INFO - Moved nature_001.jpg to manual_review directory
+2025-07-14 20:45:28,640 - INFO - Processing 35/129: nature_015.jpg
+2025-07-14 20:45:28,640 - INFO - Assessing image: nature_015.jpg
+2025-07-14 20:45:28,750 - INFO - Moved nature_015.jpg to manual_review directory
+2025-07-14 20:45:28,750 - INFO - Processing 36/129: space_023.jpg
+2025-07-14 20:45:28,750 - INFO - Assessing image: space_023.jpg
+2025-07-14 20:45:28,832 - INFO - Moved space_023.jpg to approved directory
+2025-07-14 20:45:28,833 - INFO - Processing 37/129: abstract_029.jpg
+2025-07-14 20:45:28,833 - INFO - Assessing image: abstract_029.jpg
+2025-07-14 20:45:28,909 - INFO - Moved abstract_029.jpg to approved directory
+2025-07-14 20:45:28,909 - INFO - Processing 38/129: abstract_015.jpg
+2025-07-14 20:45:28,909 - INFO - Assessing image: abstract_015.jpg
+2025-07-14 20:45:28,977 - INFO - Moved abstract_015.jpg to manual_review directory
+2025-07-14 20:45:28,977 - INFO - Processing 39/129: abstract_001.jpg
+2025-07-14 20:45:28,977 - INFO - Assessing image: abstract_001.jpg
+2025-07-14 20:45:29,059 - INFO - Moved abstract_001.jpg to approved directory
+2025-07-14 20:45:29,059 - INFO - Processing 40/129: abstract_014.jpg
+2025-07-14 20:45:29,059 - INFO - Assessing image: abstract_014.jpg
+2025-07-14 20:45:29,146 - INFO - Moved abstract_014.jpg to approved directory
+2025-07-14 20:45:29,147 - INFO - Processing 41/129: space_022.jpg
+2025-07-14 20:45:29,147 - INFO - Assessing image: space_022.jpg
+2025-07-14 20:45:29,228 - INFO - Moved space_022.jpg to manual_review directory
+2025-07-14 20:45:29,228 - INFO - Processing 42/129: abstract_028.jpg
+2025-07-14 20:45:29,228 - INFO - Assessing image: abstract_028.jpg
+2025-07-14 20:45:29,295 - INFO - Moved abstract_028.jpg to manual_review directory
+2025-07-14 20:45:29,295 - INFO - Processing 43/129: nature_014.jpg
+2025-07-14 20:45:29,295 - INFO - Assessing image: nature_014.jpg
+2025-07-14 20:45:29,400 - INFO - Moved nature_014.jpg to manual_review directory
+2025-07-14 20:45:29,400 - INFO - Processing 44/129: nature_028.jpg
+2025-07-14 20:45:29,400 - INFO - Assessing image: nature_028.jpg
+2025-07-14 20:45:29,503 - INFO - Moved nature_028.jpg to manual_review directory
+2025-07-14 20:45:29,503 - INFO - Processing 45/129: minimal_005.jpg
+2025-07-14 20:45:29,503 - INFO - Assessing image: minimal_005.jpg
+2025-07-14 20:45:29,593 - INFO - Moved minimal_005.jpg to manual_review directory
+2025-07-14 20:45:29,593 - INFO - Processing 46/129: minimal_011.jpg
+2025-07-14 20:45:29,593 - INFO - Assessing image: minimal_011.jpg
+2025-07-14 20:45:29,668 - INFO - Moved minimal_011.jpg to manual_review directory
+2025-07-14 20:45:29,668 - INFO - Processing 47/129: minimal_007.jpg
+2025-07-14 20:45:29,668 - INFO - Assessing image: minimal_007.jpg
+2025-07-14 20:45:29,746 - INFO - Moved minimal_007.jpg to manual_review directory
+2025-07-14 20:45:29,746 - INFO - Processing 48/129: technology_009.jpg
+2025-07-14 20:45:29,746 - INFO - Assessing image: technology_009.jpg
+2025-07-14 20:45:29,829 - INFO - Moved technology_009.jpg to approved directory
+2025-07-14 20:45:29,829 - INFO - Processing 49/129: minimal_013.jpg
+2025-07-14 20:45:29,829 - INFO - Assessing image: minimal_013.jpg
+2025-07-14 20:45:29,904 - INFO - Moved minimal_013.jpg to manual_review directory
+2025-07-14 20:45:29,904 - INFO - Processing 50/129: nature_016.jpg
+2025-07-14 20:45:29,904 - INFO - Assessing image: nature_016.jpg
+2025-07-14 20:45:30,004 - INFO - Moved nature_016.jpg to manual_review directory
+2025-07-14 20:45:30,004 - INFO - Processing 51/129: nature_002.jpg
+2025-07-14 20:45:30,004 - INFO - Assessing image: nature_002.jpg
+2025-07-14 20:45:30,109 - INFO - Moved nature_002.jpg to manual_review directory
+2025-07-14 20:45:30,109 - INFO - Processing 52/129: space_020.jpg
+2025-07-14 20:45:30,109 - INFO - Assessing image: space_020.jpg
+2025-07-14 20:45:30,184 - INFO - Moved space_020.jpg to manual_review directory
+2025-07-14 20:45:30,184 - INFO - Processing 53/129: space_008.jpg
+2025-07-14 20:45:30,184 - INFO - Assessing image: space_008.jpg
+2025-07-14 20:45:30,264 - INFO - Moved space_008.jpg to manual_review directory
+2025-07-14 20:45:30,264 - INFO - Processing 54/129: abstract_002.jpg
+2025-07-14 20:45:30,264 - INFO - Assessing image: abstract_002.jpg
+2025-07-14 20:45:30,334 - INFO - Moved abstract_002.jpg to manual_review directory
+2025-07-14 20:45:30,334 - INFO - Processing 55/129: abstract_016.jpg
+2025-07-14 20:45:30,334 - INFO - Assessing image: abstract_016.jpg
+2025-07-14 20:45:30,408 - INFO - Moved abstract_016.jpg to manual_review directory
+2025-07-14 20:45:30,408 - INFO - Processing 56/129: abstract_017.jpg
+2025-07-14 20:45:30,408 - INFO - Assessing image: abstract_017.jpg
+2025-07-14 20:45:30,479 - INFO - Moved abstract_017.jpg to manual_review directory
+2025-07-14 20:45:30,479 - INFO - Processing 57/129: space_009.jpg
+2025-07-14 20:45:30,479 - INFO - Assessing image: space_009.jpg
+2025-07-14 20:45:30,550 - INFO - Moved space_009.jpg to manual_review directory
+2025-07-14 20:45:30,550 - INFO - Processing 58/129: abstract_003.jpg
+2025-07-14 20:45:30,550 - INFO - Assessing image: abstract_003.jpg
+2025-07-14 20:45:30,628 - INFO - Moved abstract_003.jpg to manual_review directory
+2025-07-14 20:45:30,628 - INFO - Processing 59/129: space_021.jpg
+2025-07-14 20:45:30,628 - INFO - Assessing image: space_021.jpg
+2025-07-14 20:45:30,705 - INFO - Moved space_021.jpg to manual_review directory
+2025-07-14 20:45:30,705 - INFO - Processing 60/129: nature_003.jpg
+2025-07-14 20:45:30,705 - INFO - Assessing image: nature_003.jpg
+2025-07-14 20:45:30,790 - INFO - Moved nature_003.jpg to manual_review directory
+2025-07-14 20:45:30,790 - INFO - Processing 61/129: nature_017.jpg
+2025-07-14 20:45:30,790 - INFO - Assessing image: nature_017.jpg
+2025-07-14 20:45:30,895 - INFO - Moved nature_017.jpg to manual_review directory
+2025-07-14 20:45:30,895 - INFO - Processing 62/129: technology_008.jpg
+2025-07-14 20:45:30,895 - INFO - Assessing image: technology_008.jpg
+2025-07-14 20:45:30,976 - INFO - Moved technology_008.jpg to approved directory
+2025-07-14 20:45:30,976 - INFO - Processing 63/129: minimal_012.jpg
+2025-07-14 20:45:30,976 - INFO - Assessing image: minimal_012.jpg
+2025-07-14 20:45:31,049 - INFO - Moved minimal_012.jpg to manual_review directory
+2025-07-14 20:45:31,049 - INFO - Processing 64/129: minimal_006.jpg
+2025-07-14 20:45:31,049 - INFO - Assessing image: minimal_006.jpg
+2025-07-14 20:45:31,129 - INFO - Moved minimal_006.jpg to manual_review directory
+2025-07-14 20:45:31,129 - INFO - Processing 65/129: minimal_023.jpg
+2025-07-14 20:45:31,129 - INFO - Assessing image: minimal_023.jpg
+2025-07-14 20:45:31,188 - INFO - Moved minimal_023.jpg to manual_review directory
+2025-07-14 20:45:31,188 - INFO - Processing 66/129: technology_005.jpg
+2025-07-14 20:45:31,188 - INFO - Assessing image: technology_005.jpg
+2025-07-14 20:45:31,269 - INFO - Moved technology_005.jpg to approved directory
+2025-07-14 20:45:31,269 - INFO - Processing 67/129: technology_011.jpg
+2025-07-14 20:45:31,269 - INFO - Assessing image: technology_011.jpg
+2025-07-14 20:45:31,354 - INFO - Moved technology_011.jpg to approved directory
+2025-07-14 20:45:31,354 - INFO - Processing 68/129: nature_026.jpg
+2025-07-14 20:45:31,354 - INFO - Assessing image: nature_026.jpg
+2025-07-14 20:45:31,479 - INFO - Moved nature_026.jpg to manual_review directory
+2025-07-14 20:45:31,479 - INFO - Processing 69/129: abstract_026.jpg
+2025-07-14 20:45:31,479 - INFO - Assessing image: abstract_026.jpg
+2025-07-14 20:45:31,562 - INFO - Moved abstract_026.jpg to approved directory
+2025-07-14 20:45:31,562 - INFO - Processing 70/129: space_010.jpg
+2025-07-14 20:45:31,562 - INFO - Assessing image: space_010.jpg
+2025-07-14 20:45:31,639 - INFO - Moved space_010.jpg to manual_review directory
+2025-07-14 20:45:31,639 - INFO - Processing 71/129: space_004.jpg
+2025-07-14 20:45:31,639 - INFO - Assessing image: space_004.jpg
+2025-07-14 20:45:31,727 - INFO - Moved space_004.jpg to manual_review directory
+2025-07-14 20:45:31,727 - INFO - Processing 72/129: space_005.jpg
+2025-07-14 20:45:31,727 - INFO - Assessing image: space_005.jpg
+2025-07-14 20:45:31,812 - INFO - Moved space_005.jpg to manual_review directory
+2025-07-14 20:45:31,812 - INFO - Processing 73/129: space_011.jpg
+2025-07-14 20:45:31,812 - INFO - Assessing image: space_011.jpg
+2025-07-14 20:45:31,894 - INFO - Moved space_011.jpg to manual_review directory
+2025-07-14 20:45:31,895 - INFO - Processing 74/129: abstract_027.jpg
+2025-07-14 20:45:31,895 - INFO - Assessing image: abstract_027.jpg
+2025-07-14 20:45:31,966 - INFO - Moved abstract_027.jpg to manual_review directory
+2025-07-14 20:45:31,966 - INFO - Processing 75/129: nature_027.jpg
+2025-07-14 20:45:31,966 - INFO - Assessing image: nature_027.jpg
+2025-07-14 20:45:32,075 - INFO - Moved nature_027.jpg to manual_review directory
+2025-07-14 20:45:32,075 - INFO - Processing 76/129: technology_010.jpg
+2025-07-14 20:45:32,075 - INFO - Assessing image: technology_010.jpg
+2025-07-14 20:45:32,152 - INFO - Moved technology_010.jpg to manual_review directory
+2025-07-14 20:45:32,152 - INFO - Processing 77/129: technology_004.jpg
+2025-07-14 20:45:32,152 - INFO - Assessing image: technology_004.jpg
+2025-07-14 20:45:32,245 - INFO - Moved technology_004.jpg to approved directory
+2025-07-14 20:45:32,245 - INFO - Processing 78/129: minimal_022.jpg
+2025-07-14 20:45:32,245 - INFO - Assessing image: minimal_022.jpg
+2025-07-14 20:45:32,328 - INFO - Moved minimal_022.jpg to manual_review directory
+2025-07-14 20:45:32,328 - INFO - Processing 79/129: minimal_020.jpg
+2025-07-14 20:45:32,328 - INFO - Assessing image: minimal_020.jpg
+2025-07-14 20:45:32,399 - INFO - Moved minimal_020.jpg to manual_review directory
+2025-07-14 20:45:32,399 - INFO - Processing 80/129: technology_012.jpg
+2025-07-14 20:45:32,399 - INFO - Assessing image: technology_012.jpg
+2025-07-14 20:45:32,480 - INFO - Moved technology_012.jpg to approved directory
+2025-07-14 20:45:32,480 - INFO - Processing 81/129: minimal_008.jpg
+2025-07-14 20:45:32,480 - INFO - Assessing image: minimal_008.jpg
+2025-07-14 20:45:32,548 - INFO - Moved minimal_008.jpg to manual_review directory
+2025-07-14 20:45:32,548 - INFO - Processing 82/129: technology_006.jpg
+2025-07-14 20:45:32,548 - INFO - Assessing image: technology_006.jpg
+2025-07-14 20:45:32,639 - INFO - Moved technology_006.jpg to approved directory
+2025-07-14 20:45:32,639 - INFO - Processing 83/129: nature_025.jpg
+2025-07-14 20:45:32,639 - INFO - Assessing image: nature_025.jpg
+2025-07-14 20:45:32,723 - INFO - Moved nature_025.jpg to approved directory
+2025-07-14 20:45:32,723 - INFO - Processing 84/129: nature_019.jpg
+2025-07-14 20:45:32,723 - INFO - Assessing image: nature_019.jpg
+2025-07-14 20:45:32,823 - INFO - Moved nature_019.jpg to manual_review directory
+2025-07-14 20:45:32,823 - INFO - Processing 85/129: abstract_025.jpg
+2025-07-14 20:45:32,823 - INFO - Assessing image: abstract_025.jpg
+2025-07-14 20:45:32,893 - INFO - Moved abstract_025.jpg to manual_review directory
+2025-07-14 20:45:32,893 - INFO - Processing 86/129: space_007.jpg
+2025-07-14 20:45:32,893 - INFO - Assessing image: space_007.jpg
+2025-07-14 20:45:32,975 - INFO - Moved space_007.jpg to manual_review directory
+2025-07-14 20:45:32,975 - INFO - Processing 87/129: space_013.jpg
+2025-07-14 20:45:32,975 - INFO - Assessing image: space_013.jpg
+2025-07-14 20:45:33,064 - INFO - Moved space_013.jpg to manual_review directory
+2025-07-14 20:45:33,064 - INFO - Processing 88/129: abstract_019.jpg
+2025-07-14 20:45:33,064 - INFO - Assessing image: abstract_019.jpg
+2025-07-14 20:45:33,141 - INFO - Moved abstract_019.jpg to manual_review directory
+2025-07-14 20:45:33,141 - INFO - Processing 89/129: space_012.jpg
+2025-07-14 20:45:33,141 - INFO - Assessing image: space_012.jpg
+2025-07-14 20:45:33,226 - INFO - Moved space_012.jpg to manual_review directory
+2025-07-14 20:45:33,226 - INFO - Processing 90/129: abstract_018.jpg
+2025-07-14 20:45:33,226 - INFO - Assessing image: abstract_018.jpg
+2025-07-14 20:45:33,303 - INFO - Moved abstract_018.jpg to manual_review directory
+2025-07-14 20:45:33,303 - INFO - Processing 91/129: space_006.jpg
+2025-07-14 20:45:33,303 - INFO - Assessing image: space_006.jpg
+2025-07-14 20:45:33,396 - INFO - Moved space_006.jpg to approved directory
+2025-07-14 20:45:33,396 - INFO - Processing 92/129: abstract_024.jpg
+2025-07-14 20:45:33,396 - INFO - Assessing image: abstract_024.jpg
+2025-07-14 20:45:33,475 - INFO - Moved abstract_024.jpg to manual_review directory
+2025-07-14 20:45:33,475 - INFO - Processing 93/129: abstract_030.jpg
+2025-07-14 20:45:33,475 - INFO - Assessing image: abstract_030.jpg
+2025-07-14 20:45:33,540 - INFO - Moved abstract_030.jpg to manual_review directory
+2025-07-14 20:45:33,541 - INFO - Processing 94/129: nature_018.jpg
+2025-07-14 20:45:33,541 - INFO - Assessing image: nature_018.jpg
+2025-07-14 20:45:33,622 - INFO - Moved nature_018.jpg to manual_review directory
+2025-07-14 20:45:33,622 - INFO - Processing 95/129: nature_030.jpg
+2025-07-14 20:45:33,622 - INFO - Assessing image: nature_030.jpg
+2025-07-14 20:45:33,732 - INFO - Moved nature_030.jpg to manual_review directory
+2025-07-14 20:45:33,732 - INFO - Processing 96/129: nature_024.jpg
+2025-07-14 20:45:33,732 - INFO - Assessing image: nature_024.jpg
+2025-07-14 20:45:33,811 - INFO - Moved nature_024.jpg to manual_review directory
+2025-07-14 20:45:33,811 - INFO - Processing 97/129: technology_007.jpg
+2025-07-14 20:45:33,811 - INFO - Assessing image: technology_007.jpg
+2025-07-14 20:45:33,879 - INFO - Moved technology_007.jpg to manual_review directory
+2025-07-14 20:45:33,879 - INFO - Processing 98/129: technology_013.jpg
+2025-07-14 20:45:33,879 - INFO - Assessing image: technology_013.jpg
+2025-07-14 20:45:33,968 - INFO - Moved technology_013.jpg to approved directory
+2025-07-14 20:45:33,968 - INFO - Processing 99/129: minimal_009.jpg
+2025-07-14 20:45:33,968 - INFO - Assessing image: minimal_009.jpg
+2025-07-14 20:45:34,038 - INFO - Moved minimal_009.jpg to manual_review directory
+2025-07-14 20:45:34,038 - INFO - Processing 100/129: minimal_021.jpg
+2025-07-14 20:45:34,038 - INFO - Assessing image: minimal_021.jpg
+2025-07-14 20:45:34,115 - INFO - Moved minimal_021.jpg to manual_review directory
+2025-07-14 20:45:34,115 - INFO - Processing 101/129: technology_003.jpg
+2025-07-14 20:45:34,115 - INFO - Assessing image: technology_003.jpg
+2025-07-14 20:45:34,186 - INFO - Moved technology_003.jpg to manual_review directory
+2025-07-14 20:45:34,186 - INFO - Processing 102/129: minimal_019.jpg
+2025-07-14 20:45:34,186 - INFO - Assessing image: minimal_019.jpg
+2025-07-14 20:45:34,264 - INFO - Moved minimal_019.jpg to manual_review directory
+2025-07-14 20:45:34,264 - INFO - Processing 103/129: minimal_025.jpg
+2025-07-14 20:45:34,264 - INFO - Assessing image: minimal_025.jpg
+2025-07-14 20:45:34,339 - INFO - Moved minimal_025.jpg to manual_review directory
+2025-07-14 20:45:34,339 - INFO - Processing 104/129: nature_008.jpg
+2025-07-14 20:45:34,339 - INFO - Assessing image: nature_008.jpg
+2025-07-14 20:45:34,431 - INFO - Moved nature_008.jpg to manual_review directory
+2025-07-14 20:45:34,431 - INFO - Processing 105/129: nature_020.jpg
+2025-07-14 20:45:34,431 - INFO - Assessing image: nature_020.jpg
+2025-07-14 20:45:34,517 - INFO - Moved nature_020.jpg to manual_review directory
+2025-07-14 20:45:34,517 - INFO - Processing 106/129: space_002.jpg
+2025-07-14 20:45:34,517 - INFO - Assessing image: space_002.jpg
+2025-07-14 20:45:34,613 - INFO - Moved space_002.jpg to manual_review directory
+2025-07-14 20:45:34,613 - INFO - Processing 107/129: abstract_008.jpg
+2025-07-14 20:45:34,613 - INFO - Assessing image: abstract_008.jpg
+2025-07-14 20:45:34,703 - INFO - Moved abstract_008.jpg to manual_review directory
+2025-07-14 20:45:34,704 - INFO - Processing 108/129: space_016.jpg
+2025-07-14 20:45:34,704 - INFO - Assessing image: space_016.jpg
+2025-07-14 20:45:34,793 - INFO - Moved space_016.jpg to manual_review directory
+2025-07-14 20:45:34,793 - INFO - Processing 109/129: abstract_020.jpg
+2025-07-14 20:45:34,793 - INFO - Assessing image: abstract_020.jpg
+2025-07-14 20:45:34,877 - INFO - Moved abstract_020.jpg to manual_review directory
+2025-07-14 20:45:34,877 - INFO - Processing 110/129: abstract_021.jpg
+2025-07-14 20:45:34,877 - INFO - Assessing image: abstract_021.jpg
+2025-07-14 20:45:34,953 - INFO - Moved abstract_021.jpg to manual_review directory
+2025-07-14 20:45:34,953 - INFO - Processing 111/129: space_017.jpg
+2025-07-14 20:45:34,953 - INFO - Assessing image: space_017.jpg
+2025-07-14 20:45:35,055 - INFO - Moved space_017.jpg to approved directory
+2025-07-14 20:45:35,055 - INFO - Processing 112/129: space_003.jpg
+2025-07-14 20:45:35,055 - INFO - Assessing image: space_003.jpg
+2025-07-14 20:45:35,148 - INFO - Moved space_003.jpg to manual_review directory
+2025-07-14 20:45:35,148 - INFO - Processing 113/129: abstract_009.jpg
+2025-07-14 20:45:35,148 - INFO - Assessing image: abstract_009.jpg
+2025-07-14 20:45:35,212 - INFO - Moved abstract_009.jpg to manual_review directory
+2025-07-14 20:45:35,212 - INFO - Processing 114/129: nature_021.jpg
+2025-07-14 20:45:35,212 - INFO - Assessing image: nature_021.jpg
+2025-07-14 20:45:35,293 - INFO - Moved nature_021.jpg to manual_review directory
+2025-07-14 20:45:35,293 - INFO - Processing 115/129: nature_009.jpg
+2025-07-14 20:45:35,294 - INFO - Assessing image: nature_009.jpg
+2025-07-14 20:45:35,378 - INFO - Moved nature_009.jpg to approved directory
+2025-07-14 20:45:35,378 - INFO - Processing 116/129: minimal_024.jpg
+2025-07-14 20:45:35,378 - INFO - Assessing image: minimal_024.jpg
+2025-07-14 20:45:35,469 - INFO - Moved minimal_024.jpg to manual_review directory
+2025-07-14 20:45:35,469 - INFO - Processing 117/129: technology_002.jpg
+2025-07-14 20:45:35,469 - INFO - Assessing image: technology_002.jpg
+2025-07-14 20:45:35,567 - INFO - Moved technology_002.jpg to approved directory
+2025-07-14 20:45:35,567 - INFO - Processing 118/129: minimal_018.jpg
+2025-07-14 20:45:35,567 - INFO - Assessing image: minimal_018.jpg
+2025-07-14 20:45:35,653 - INFO - Moved minimal_018.jpg to manual_review directory
+2025-07-14 20:45:35,653 - INFO - Processing 119/129: technology_014.jpg
+2025-07-14 20:45:35,653 - INFO - Assessing image: technology_014.jpg
+2025-07-14 20:45:35,730 - INFO - Moved technology_014.jpg to manual_review directory
+2025-07-14 20:45:35,731 - INFO - Processing 120/129: nature_023.jpg
+2025-07-14 20:45:35,731 - INFO - Assessing image: nature_023.jpg
+2025-07-14 20:45:35,848 - INFO - Moved nature_023.jpg to manual_review directory
+2025-07-14 20:45:35,849 - INFO - Processing 121/129: space_015.jpg
+2025-07-14 20:45:35,849 - INFO - Assessing image: space_015.jpg
+2025-07-14 20:45:35,938 - INFO - Moved space_015.jpg to manual_review directory
+2025-07-14 20:45:35,938 - INFO - Processing 122/129: space_001.jpg
+2025-07-14 20:45:35,938 - INFO - Assessing image: space_001.jpg
+2025-07-14 20:45:36,035 - INFO - Moved space_001.jpg to approved directory
+2025-07-14 20:45:36,035 - INFO - Processing 123/129: space_029.jpg
+2025-07-14 20:45:36,035 - INFO - Assessing image: space_029.jpg
+2025-07-14 20:45:36,120 - INFO - Moved space_029.jpg to manual_review directory
+2025-07-14 20:45:36,120 - INFO - Processing 124/129: abstract_023.jpg
+2025-07-14 20:45:36,120 - INFO - Assessing image: abstract_023.jpg
+2025-07-14 20:45:36,204 - INFO - Moved abstract_023.jpg to approved directory
+2025-07-14 20:45:36,204 - INFO - Processing 125/129: space_028.jpg
+2025-07-14 20:45:36,204 - INFO - Assessing image: space_028.jpg
+2025-07-14 20:45:36,286 - INFO - Moved space_028.jpg to manual_review directory
+2025-07-14 20:45:36,286 - INFO - Processing 126/129: abstract_022.jpg
+2025-07-14 20:45:36,286 - INFO - Assessing image: abstract_022.jpg
+2025-07-14 20:45:36,367 - INFO - Moved abstract_022.jpg to manual_review directory
+2025-07-14 20:45:36,367 - INFO - Processing 127/129: space_014.jpg
+2025-07-14 20:45:36,367 - INFO - Assessing image: space_014.jpg
+2025-07-14 20:45:36,455 - INFO - Moved space_014.jpg to manual_review directory
+2025-07-14 20:45:36,455 - INFO - Processing 128/129: nature_022.jpg
+2025-07-14 20:45:36,455 - INFO - Assessing image: nature_022.jpg
+2025-07-14 20:45:36,545 - INFO - Moved nature_022.jpg to manual_review directory
+2025-07-14 20:45:36,545 - INFO - Processing 129/129: technology_001.jpg
+2025-07-14 20:45:36,545 - INFO - Assessing image: technology_001.jpg
+2025-07-14 20:45:36,633 - INFO - Moved technology_001.jpg to approved directory
+2025-07-14 20:49:37,160 - INFO - Processing directory: review_system/staging
+2025-07-14 20:49:37,162 - INFO - Found 40 images to process
+2025-07-14 20:49:37,162 - INFO - Processing 1/40: sports_003.jpg
+2025-07-14 20:49:37,162 - INFO - Assessing image: sports_003.jpg
+2025-07-14 20:49:37,322 - INFO - Moved sports_003.jpg to manual_review directory
+2025-07-14 20:49:37,322 - INFO - Processing 2/40: sports_017.jpg
+2025-07-14 20:49:37,322 - INFO - Assessing image: sports_017.jpg
+2025-07-14 20:49:37,404 - INFO - Moved sports_017.jpg to manual_review directory
+2025-07-14 20:49:37,404 - INFO - Processing 3/40: sports_016.jpg
+2025-07-14 20:49:37,404 - INFO - Assessing image: sports_016.jpg
+2025-07-14 20:49:37,526 - INFO - Moved sports_016.jpg to manual_review directory
+2025-07-14 20:49:37,526 - INFO - Processing 4/40: sports_002.jpg
+2025-07-14 20:49:37,526 - INFO - Assessing image: sports_002.jpg
+2025-07-14 20:49:37,641 - INFO - Moved sports_002.jpg to manual_review directory
+2025-07-14 20:49:37,641 - INFO - Processing 5/40: sports_014.jpg
+2025-07-14 20:49:37,641 - INFO - Assessing image: sports_014.jpg
+2025-07-14 20:49:37,748 - INFO - Moved sports_014.jpg to manual_review directory
+2025-07-14 20:49:37,748 - INFO - Processing 6/40: cars_008.jpg
+2025-07-14 20:49:37,748 - INFO - Assessing image: cars_008.jpg
+2025-07-14 20:49:37,829 - INFO - Moved cars_008.jpg to manual_review directory
+2025-07-14 20:49:37,829 - INFO - Processing 7/40: cars_020.jpg
+2025-07-14 20:49:37,829 - INFO - Assessing image: cars_020.jpg
+2025-07-14 20:49:37,919 - INFO - Moved cars_020.jpg to manual_review directory
+2025-07-14 20:49:37,919 - INFO - Processing 8/40: cars_009.jpg
+2025-07-14 20:49:37,919 - INFO - Assessing image: cars_009.jpg
+2025-07-14 20:49:37,982 - INFO - Moved cars_009.jpg to manual_review directory
+2025-07-14 20:49:37,982 - INFO - Processing 9/40: sports_001.jpg
+2025-07-14 20:49:37,982 - INFO - Assessing image: sports_001.jpg
+2025-07-14 20:49:38,044 - INFO - Moved sports_001.jpg to manual_review directory
+2025-07-14 20:49:38,044 - INFO - Processing 10/40: sports_015.jpg
+2025-07-14 20:49:38,044 - INFO - Assessing image: sports_015.jpg
+2025-07-14 20:49:38,109 - INFO - Moved sports_015.jpg to approved directory
+2025-07-14 20:49:38,109 - INFO - Processing 11/40: sports_011.jpg
+2025-07-14 20:49:38,109 - INFO - Assessing image: sports_011.jpg
+2025-07-14 20:49:38,174 - INFO - Moved sports_011.jpg to manual_review directory
+2025-07-14 20:49:38,174 - INFO - Processing 12/40: sports_005.jpg
+2025-07-14 20:49:38,174 - INFO - Assessing image: sports_005.jpg
+2025-07-14 20:49:38,277 - INFO - Moved sports_005.jpg to manual_review directory
+2025-07-14 20:49:38,277 - INFO - Processing 13/40: cars_019.jpg
+2025-07-14 20:49:38,277 - INFO - Assessing image: cars_019.jpg
+2025-07-14 20:49:38,354 - INFO - Moved cars_019.jpg to approved directory
+2025-07-14 20:49:38,355 - INFO - Processing 14/40: cars_018.jpg
+2025-07-14 20:49:38,355 - INFO - Assessing image: cars_018.jpg
+2025-07-14 20:49:38,443 - INFO - Moved cars_018.jpg to manual_review directory
+2025-07-14 20:49:38,443 - INFO - Processing 15/40: sports_004.jpg
+2025-07-14 20:49:38,443 - INFO - Assessing image: sports_004.jpg
+2025-07-14 20:49:38,539 - INFO - Moved sports_004.jpg to manual_review directory
+2025-07-14 20:49:38,539 - INFO - Processing 16/40: sports_010.jpg
+2025-07-14 20:49:38,539 - INFO - Assessing image: sports_010.jpg
+2025-07-14 20:49:38,607 - INFO - Moved sports_010.jpg to manual_review directory
+2025-07-14 20:49:38,607 - INFO - Processing 17/40: sports_006.jpg
+2025-07-14 20:49:38,607 - INFO - Assessing image: sports_006.jpg
+2025-07-14 20:49:38,673 - INFO - Moved sports_006.jpg to manual_review directory
+2025-07-14 20:49:38,674 - INFO - Processing 18/40: sports_012.jpg
+2025-07-14 20:49:38,674 - INFO - Assessing image: sports_012.jpg
+2025-07-14 20:49:38,763 - INFO - Moved sports_012.jpg to manual_review directory
+2025-07-14 20:49:38,763 - INFO - Processing 19/40: sports_013.jpg
+2025-07-14 20:49:38,763 - INFO - Assessing image: sports_013.jpg
+2025-07-14 20:49:38,842 - INFO - Moved sports_013.jpg to manual_review directory
+2025-07-14 20:49:38,842 - INFO - Processing 20/40: sports_007.jpg
+2025-07-14 20:49:38,842 - INFO - Assessing image: sports_007.jpg
+2025-07-14 20:49:38,912 - INFO - Moved sports_007.jpg to manual_review directory
+2025-07-14 20:49:38,912 - INFO - Processing 21/40: cars_016.jpg
+2025-07-14 20:49:38,912 - INFO - Assessing image: cars_016.jpg
+2025-07-14 20:49:38,998 - INFO - Moved cars_016.jpg to manual_review directory
+2025-07-14 20:49:38,998 - INFO - Processing 22/40: cars_002.jpg
+2025-07-14 20:49:38,998 - INFO - Assessing image: cars_002.jpg
+2025-07-14 20:49:39,071 - INFO - Moved cars_002.jpg to manual_review directory
+2025-07-14 20:49:39,071 - INFO - Processing 23/40: cars_003.jpg
+2025-07-14 20:49:39,071 - INFO - Assessing image: cars_003.jpg
+2025-07-14 20:49:39,140 - INFO - Moved cars_003.jpg to manual_review directory
+2025-07-14 20:49:39,140 - INFO - Processing 24/40: cars_017.jpg
+2025-07-14 20:49:39,140 - INFO - Assessing image: cars_017.jpg
+2025-07-14 20:49:39,228 - INFO - Moved cars_017.jpg to manual_review directory
+2025-07-14 20:49:39,228 - INFO - Processing 25/40: sports_009.jpg
+2025-07-14 20:49:39,228 - INFO - Assessing image: sports_009.jpg
+2025-07-14 20:49:39,301 - INFO - Moved sports_009.jpg to approved directory
+2025-07-14 20:49:39,301 - INFO - Processing 26/40: cars_001.jpg
+2025-07-14 20:49:39,301 - INFO - Assessing image: cars_001.jpg
+2025-07-14 20:49:39,374 - INFO - Moved cars_001.jpg to manual_review directory
+2025-07-14 20:49:39,374 - INFO - Processing 27/40: cars_015.jpg
+2025-07-14 20:49:39,374 - INFO - Assessing image: cars_015.jpg
+2025-07-14 20:49:39,460 - INFO - Moved cars_015.jpg to manual_review directory
+2025-07-14 20:49:39,460 - INFO - Processing 28/40: cars_014.jpg
+2025-07-14 20:49:39,460 - INFO - Assessing image: cars_014.jpg
+2025-07-14 20:49:39,534 - INFO - Moved cars_014.jpg to manual_review directory
+2025-07-14 20:49:39,534 - INFO - Processing 29/40: sports_008.jpg
+2025-07-14 20:49:39,534 - INFO - Assessing image: sports_008.jpg
+2025-07-14 20:49:39,620 - INFO - Moved sports_008.jpg to manual_review directory
+2025-07-14 20:49:39,620 - INFO - Processing 30/40: sports_020.jpg
+2025-07-14 20:49:39,620 - INFO - Assessing image: sports_020.jpg
+2025-07-14 20:49:39,713 - INFO - Moved sports_020.jpg to manual_review directory
+2025-07-14 20:49:39,713 - INFO - Processing 31/40: sports_018.jpg
+2025-07-14 20:49:39,713 - INFO - Assessing image: sports_018.jpg
+2025-07-14 20:49:39,810 - INFO - Moved sports_018.jpg to manual_review directory
+2025-07-14 20:49:39,810 - INFO - Processing 32/40: cars_004.jpg
+2025-07-14 20:49:39,810 - INFO - Assessing image: cars_004.jpg
+2025-07-14 20:49:39,900 - INFO - Moved cars_004.jpg to manual_review directory
+2025-07-14 20:49:39,900 - INFO - Processing 33/40: cars_010.jpg
+2025-07-14 20:49:39,900 - INFO - Assessing image: cars_010.jpg
+2025-07-14 20:49:39,982 - INFO - Moved cars_010.jpg to manual_review directory
+2025-07-14 20:49:39,982 - INFO - Processing 34/40: cars_011.jpg
+2025-07-14 20:49:39,982 - INFO - Assessing image: cars_011.jpg
+2025-07-14 20:49:40,061 - INFO - Moved cars_011.jpg to approved directory
+2025-07-14 20:49:40,061 - INFO - Processing 35/40: cars_005.jpg
+2025-07-14 20:49:40,061 - INFO - Assessing image: cars_005.jpg
+2025-07-14 20:49:40,186 - INFO - Moved cars_005.jpg to manual_review directory
+2025-07-14 20:49:40,186 - INFO - Processing 36/40: sports_019.jpg
+2025-07-14 20:49:40,187 - INFO - Assessing image: sports_019.jpg
+2025-07-14 20:49:40,251 - INFO - Moved sports_019.jpg to manual_review directory
+2025-07-14 20:49:40,251 - INFO - Processing 37/40: cars_013.jpg
+2025-07-14 20:49:40,251 - INFO - Assessing image: cars_013.jpg
+2025-07-14 20:49:40,342 - INFO - Moved cars_013.jpg to approved directory
+2025-07-14 20:49:40,342 - INFO - Processing 38/40: cars_007.jpg
+2025-07-14 20:49:40,342 - INFO - Assessing image: cars_007.jpg
+2025-07-14 20:49:40,432 - INFO - Moved cars_007.jpg to manual_review directory
+2025-07-14 20:49:40,432 - INFO - Processing 39/40: cars_006.jpg
+2025-07-14 20:49:40,432 - INFO - Assessing image: cars_006.jpg
+2025-07-14 20:49:40,530 - INFO - Moved cars_006.jpg to manual_review directory
+2025-07-14 20:49:40,530 - INFO - Processing 40/40: cars_012.jpg
+2025-07-14 20:49:40,530 - INFO - Assessing image: cars_012.jpg
+2025-07-14 20:49:40,639 - INFO - Moved cars_012.jpg to manual_review directory
+2025-07-14 21:01:37,116 - INFO - Processing directory: review_system/staging
+2025-07-14 21:01:37,118 - INFO - Found 106 images to process
+2025-07-14 21:01:37,119 - INFO - Processing 1/106: nature_007.jpg
+2025-07-14 21:01:37,119 - INFO - Assessing image: nature_007.jpg
+2025-07-14 21:01:38,996 - INFO - Moved nature_007.jpg to manual_review directory
+2025-07-14 21:01:38,996 - INFO - Processing 2/106: space_019.jpg
+2025-07-14 21:01:38,996 - INFO - Assessing image: space_019.jpg
+2025-07-14 21:01:39,513 - INFO - Moved space_019.jpg to manual_review directory
+2025-07-14 21:01:39,513 - INFO - Processing 3/106: space_031.jpg
+2025-07-14 21:01:39,513 - INFO - Assessing image: space_031.jpg
+2025-07-14 21:01:40,269 - INFO - Moved space_031.jpg to rejected directory
+2025-07-14 21:01:40,269 - INFO - Processing 4/106: space_025.jpg
+2025-07-14 21:01:40,269 - INFO - Assessing image: space_025.jpg
+2025-07-14 21:01:40,557 - INFO - Moved space_025.jpg to manual_review directory
+2025-07-14 21:01:40,557 - INFO - Processing 5/106: space_024.jpg
+2025-07-14 21:01:40,557 - INFO - Assessing image: space_024.jpg
+2025-07-14 21:01:40,771 - INFO - Moved space_024.jpg to approved directory
+2025-07-14 21:01:40,771 - INFO - Processing 6/106: space_030.jpg
+2025-07-14 21:01:40,771 - INFO - Assessing image: space_030.jpg
+2025-07-14 21:01:40,952 - INFO - Moved space_030.jpg to manual_review directory
+2025-07-14 21:01:40,952 - INFO - Processing 7/106: space_018.jpg
+2025-07-14 21:01:40,952 - INFO - Assessing image: space_018.jpg
+2025-07-14 21:01:41,325 - INFO - Moved space_018.jpg to approved directory
+2025-07-14 21:01:41,326 - INFO - Processing 8/106: nature_006.jpg
+2025-07-14 21:01:41,326 - INFO - Assessing image: nature_006.jpg
+2025-07-14 21:01:41,519 - INFO - Moved nature_006.jpg to manual_review directory
+2025-07-14 21:01:41,519 - INFO - Processing 9/106: nature_004.jpg
+2025-07-14 21:01:41,519 - INFO - Assessing image: nature_004.jpg
+2025-07-14 21:01:41,854 - INFO - Moved nature_004.jpg to approved directory
+2025-07-14 21:01:41,855 - INFO - Processing 10/106: nature_010.jpg
+2025-07-14 21:01:41,855 - INFO - Assessing image: nature_010.jpg
+2025-07-14 21:01:42,725 - INFO - Moved nature_010.jpg to manual_review directory
+2025-07-14 21:01:42,726 - INFO - Processing 11/106: nature_038.jpg
+2025-07-14 21:01:42,726 - INFO - Assessing image: nature_038.jpg
+2025-07-14 21:01:43,259 - INFO - Moved nature_038.jpg to manual_review directory
+2025-07-14 21:01:43,259 - INFO - Processing 12/106: space_026.jpg
+2025-07-14 21:01:43,259 - INFO - Assessing image: space_026.jpg
+2025-07-14 21:01:43,536 - INFO - Moved space_026.jpg to manual_review directory
+2025-07-14 21:01:43,536 - INFO - Processing 13/106: space_032.jpg
+2025-07-14 21:01:43,536 - INFO - Assessing image: space_032.jpg
+2025-07-14 21:01:43,960 - INFO - Moved space_032.jpg to manual_review directory
+2025-07-14 21:01:43,960 - INFO - Processing 14/106: space_033.jpg
+2025-07-14 21:01:43,960 - INFO - Assessing image: space_033.jpg
+2025-07-14 21:01:44,617 - INFO - Moved space_033.jpg to rejected directory
+2025-07-14 21:01:44,617 - INFO - Processing 15/106: space_027.jpg
+2025-07-14 21:01:44,617 - INFO - Assessing image: space_027.jpg
+2025-07-14 21:01:45,107 - INFO - Moved space_027.jpg to manual_review directory
+2025-07-14 21:01:45,107 - INFO - Processing 16/106: space_023.jpg
+2025-07-14 21:01:45,107 - INFO - Assessing image: space_023.jpg
+2025-07-14 21:01:45,447 - INFO - Moved space_023.jpg to manual_review directory
+2025-07-14 21:01:45,447 - INFO - Processing 17/106: space_036.jpg
+2025-07-14 21:01:45,447 - INFO - Assessing image: space_036.jpg
+2025-07-14 21:01:45,800 - INFO - Moved space_036.jpg to manual_review directory
+2025-07-14 21:01:45,800 - INFO - Processing 18/106: nature_028.jpg
+2025-07-14 21:01:45,800 - INFO - Assessing image: nature_028.jpg
+2025-07-14 21:01:46,604 - INFO - Moved nature_028.jpg to manual_review directory
+2025-07-14 21:01:46,604 - INFO - Processing 19/106: nature_016.jpg
+2025-07-14 21:01:46,604 - INFO - Assessing image: nature_016.jpg
+2025-07-14 21:01:46,888 - INFO - Moved nature_016.jpg to manual_review directory
+2025-07-14 21:01:46,888 - INFO - Processing 20/106: space_034.jpg
+2025-07-14 21:01:46,888 - INFO - Assessing image: space_034.jpg
+2025-07-14 21:01:48,021 - INFO - Moved space_034.jpg to manual_review directory
+2025-07-14 21:01:48,021 - INFO - Processing 21/106: space_020.jpg
+2025-07-14 21:01:48,021 - INFO - Assessing image: space_020.jpg
+2025-07-14 21:01:48,276 - INFO - Moved space_020.jpg to manual_review directory
+2025-07-14 21:01:48,276 - INFO - Processing 22/106: space_008.jpg
+2025-07-14 21:01:48,276 - INFO - Assessing image: space_008.jpg
+2025-07-14 21:01:48,629 - INFO - Moved space_008.jpg to manual_review directory
+2025-07-14 21:01:48,629 - INFO - Processing 23/106: space_035.jpg
+2025-07-14 21:01:48,629 - INFO - Assessing image: space_035.jpg
+2025-07-14 21:01:49,219 - INFO - Moved space_035.jpg to manual_review directory
+2025-07-14 21:01:49,219 - INFO - Processing 24/106: nature_017.jpg
+2025-07-14 21:01:49,219 - INFO - Assessing image: nature_017.jpg
+2025-07-14 21:01:49,798 - INFO - Moved nature_017.jpg to manual_review directory
+2025-07-14 21:01:49,798 - INFO - Processing 25/106: sports_003.jpg
+2025-07-14 21:01:49,798 - INFO - Assessing image: sports_003.jpg
+2025-07-14 21:01:50,498 - INFO - Moved sports_003.jpg to manual_review directory
+2025-07-14 21:01:50,498 - INFO - Processing 26/106: space_046.jpg
+2025-07-14 21:01:50,498 - INFO - Assessing image: space_046.jpg
+2025-07-14 21:01:51,046 - INFO - Moved space_046.jpg to manual_review directory
+2025-07-14 21:01:51,046 - INFO - Processing 27/106: space_047.jpg
+2025-07-14 21:01:51,046 - INFO - Assessing image: space_047.jpg
+2025-07-14 21:01:51,174 - INFO - Moved space_047.jpg to manual_review directory
+2025-07-14 21:01:51,174 - INFO - Processing 28/106: sports_002.jpg
+2025-07-14 21:01:51,174 - INFO - Assessing image: sports_002.jpg
+2025-07-14 21:01:51,515 - INFO - Moved sports_002.jpg to manual_review directory
+2025-07-14 21:01:51,515 - INFO - Processing 29/106: sports_014.jpg
+2025-07-14 21:01:51,515 - INFO - Assessing image: sports_014.jpg
+2025-07-14 21:01:51,843 - INFO - Moved sports_014.jpg to manual_review directory
+2025-07-14 21:01:51,843 - INFO - Processing 30/106: cars_008.jpg
+2025-07-14 21:01:51,843 - INFO - Assessing image: cars_008.jpg
+2025-07-14 21:01:53,849 - INFO - Moved cars_008.jpg to rejected directory
+2025-07-14 21:01:53,849 - INFO - Processing 31/106: cars_020.jpg
+2025-07-14 21:01:53,849 - INFO - Assessing image: cars_020.jpg
+2025-07-14 21:01:54,729 - INFO - Moved cars_020.jpg to manual_review directory
+2025-07-14 21:01:54,729 - INFO - Processing 32/106: cars_009.jpg
+2025-07-14 21:01:54,729 - INFO - Assessing image: cars_009.jpg
+2025-07-14 21:01:54,908 - INFO - Moved cars_009.jpg to approved directory
+2025-07-14 21:01:54,908 - INFO - Processing 33/106: space_050.jpg
+2025-07-14 21:01:54,908 - INFO - Assessing image: space_050.jpg
+2025-07-14 21:01:55,428 - INFO - Moved space_050.jpg to manual_review directory
+2025-07-14 21:01:55,429 - INFO - Processing 34/106: space_044.jpg
+2025-07-14 21:01:55,429 - INFO - Assessing image: space_044.jpg
+2025-07-14 21:01:56,021 - INFO - Moved space_044.jpg to manual_review directory
+2025-07-14 21:01:56,021 - INFO - Processing 35/106: sports_029.jpg
+2025-07-14 21:01:56,021 - INFO - Assessing image: sports_029.jpg
+2025-07-14 21:01:56,291 - INFO - Moved sports_029.jpg to manual_review directory
+2025-07-14 21:01:56,291 - INFO - Processing 36/106: sports_001.jpg
+2025-07-14 21:01:56,291 - INFO - Assessing image: sports_001.jpg
+2025-07-14 21:01:57,238 - INFO - Moved sports_001.jpg to rejected directory
+2025-07-14 21:01:57,238 - INFO - Processing 37/106: sports_015.jpg
+2025-07-14 21:01:57,238 - INFO - Assessing image: sports_015.jpg
+2025-07-14 21:01:57,569 - INFO - Moved sports_015.jpg to manual_review directory
+2025-07-14 21:01:57,570 - INFO - Processing 38/106: sports_011.jpg
+2025-07-14 21:01:57,570 - INFO - Assessing image: sports_011.jpg
+2025-07-14 21:01:57,983 - INFO - Moved sports_011.jpg to manual_review directory
+2025-07-14 21:01:57,984 - INFO - Processing 39/106: sports_005.jpg
+2025-07-14 21:01:57,984 - INFO - Assessing image: sports_005.jpg
+2025-07-14 21:01:58,589 - INFO - Moved sports_005.jpg to manual_review directory
+2025-07-14 21:01:58,589 - INFO - Processing 40/106: space_040.jpg
+2025-07-14 21:01:58,589 - INFO - Assessing image: space_040.jpg
+2025-07-14 21:01:58,810 - INFO - Moved space_040.jpg to approved directory
+2025-07-14 21:01:58,810 - INFO - Processing 41/106: cars_025.jpg
+2025-07-14 21:01:58,810 - INFO - Assessing image: cars_025.jpg
+2025-07-14 21:01:59,619 - INFO - Moved cars_025.jpg to manual_review directory
+2025-07-14 21:01:59,619 - INFO - Processing 42/106: cars_019.jpg
+2025-07-14 21:01:59,619 - INFO - Assessing image: cars_019.jpg
+2025-07-14 21:01:59,894 - INFO - Moved cars_019.jpg to manual_review directory
+2025-07-14 21:01:59,894 - INFO - Processing 43/106: cars_018.jpg
+2025-07-14 21:01:59,894 - INFO - Assessing image: cars_018.jpg
+2025-07-14 21:02:00,503 - INFO - Moved cars_018.jpg to manual_review directory
+2025-07-14 21:02:00,503 - INFO - Processing 44/106: cars_024.jpg
+2025-07-14 21:02:00,503 - INFO - Assessing image: cars_024.jpg
+2025-07-14 21:02:00,877 - INFO - Moved cars_024.jpg to manual_review directory
+2025-07-14 21:02:00,877 - INFO - Processing 45/106: space_041.jpg
+2025-07-14 21:02:00,877 - INFO - Assessing image: space_041.jpg
+2025-07-14 21:02:01,351 - INFO - Moved space_041.jpg to manual_review directory
+2025-07-14 21:02:01,351 - INFO - Processing 46/106: sports_010.jpg
+2025-07-14 21:02:01,351 - INFO - Assessing image: sports_010.jpg
+2025-07-14 21:02:01,640 - INFO - Moved sports_010.jpg to approved directory
+2025-07-14 21:02:01,640 - INFO - Processing 47/106: sports_006.jpg
+2025-07-14 21:02:01,640 - INFO - Assessing image: sports_006.jpg
+2025-07-14 21:02:02,057 - INFO - Moved sports_006.jpg to manual_review directory
+2025-07-14 21:02:02,057 - INFO - Processing 48/106: sports_012.jpg
+2025-07-14 21:02:02,057 - INFO - Assessing image: sports_012.jpg
+2025-07-14 21:02:02,497 - INFO - Moved sports_012.jpg to manual_review directory
+2025-07-14 21:02:02,497 - INFO - Processing 49/106: nature_049.jpg
+2025-07-14 21:02:02,497 - INFO - Assessing image: nature_049.jpg
+2025-07-14 21:02:02,906 - INFO - Moved nature_049.jpg to manual_review directory
+2025-07-14 21:02:02,906 - INFO - Processing 50/106: space_043.jpg
+2025-07-14 21:02:02,906 - INFO - Assessing image: space_043.jpg
+2025-07-14 21:02:03,097 - INFO - Moved space_043.jpg to manual_review directory
+2025-07-14 21:02:03,097 - INFO - Processing 51/106: cars_032.jpg
+2025-07-14 21:02:03,097 - INFO - Assessing image: cars_032.jpg
+2025-07-14 21:02:03,706 - INFO - Moved cars_032.jpg to manual_review directory
+2025-07-14 21:02:03,706 - INFO - Processing 52/106: space_042.jpg
+2025-07-14 21:02:03,706 - INFO - Assessing image: space_042.jpg
+2025-07-14 21:02:04,299 - INFO - Moved space_042.jpg to manual_review directory
+2025-07-14 21:02:04,299 - INFO - Processing 53/106: nature_048.jpg
+2025-07-14 21:02:04,299 - INFO - Assessing image: nature_048.jpg
+2025-07-14 21:02:04,619 - INFO - Moved nature_048.jpg to manual_review directory
+2025-07-14 21:02:04,619 - INFO - Processing 54/106: sports_007.jpg
+2025-07-14 21:02:04,619 - INFO - Assessing image: sports_007.jpg
+2025-07-14 21:02:04,831 - INFO - Moved sports_007.jpg to manual_review directory
+2025-07-14 21:02:04,831 - INFO - Processing 55/106: sports_022.jpg
+2025-07-14 21:02:04,831 - INFO - Assessing image: sports_022.jpg
+2025-07-14 21:02:05,069 - INFO - Moved sports_022.jpg to manual_review directory
+2025-07-14 21:02:05,069 - INFO - Processing 56/106: nature_045.jpg
+2025-07-14 21:02:05,069 - INFO - Assessing image: nature_045.jpg
+2025-07-14 21:02:05,703 - INFO - Moved nature_045.jpg to approved directory
+2025-07-14 21:02:05,703 - INFO - Processing 57/106: cars_003.jpg
+2025-07-14 21:02:05,703 - INFO - Assessing image: cars_003.jpg
+2025-07-14 21:02:07,182 - INFO - Moved cars_003.jpg to rejected directory
+2025-07-14 21:02:07,182 - INFO - Processing 58/106: cars_017.jpg
+2025-07-14 21:02:07,182 - INFO - Assessing image: cars_017.jpg
+2025-07-14 21:02:07,518 - INFO - Moved cars_017.jpg to approved directory
+2025-07-14 21:02:07,518 - INFO - Processing 59/106: nature_044.jpg
+2025-07-14 21:02:07,518 - INFO - Assessing image: nature_044.jpg
+2025-07-14 21:02:08,506 - INFO - Moved nature_044.jpg to manual_review directory
+2025-07-14 21:02:08,506 - INFO - Processing 60/106: nature_050.jpg
+2025-07-14 21:02:08,506 - INFO - Assessing image: nature_050.jpg
+2025-07-14 21:02:08,901 - INFO - Moved nature_050.jpg to rejected directory
+2025-07-14 21:02:08,901 - INFO - Processing 61/106: cars_029.jpg
+2025-07-14 21:02:08,901 - INFO - Assessing image: cars_029.jpg
+2025-07-14 21:02:09,334 - INFO - Moved cars_029.jpg to manual_review directory
+2025-07-14 21:02:09,334 - INFO - Processing 62/106: sports_008.jpg
+2025-07-14 21:02:09,334 - INFO - Assessing image: sports_008.jpg
+2025-07-14 21:02:09,876 - INFO - Moved sports_008.jpg to manual_review directory
+2025-07-14 21:02:09,876 - INFO - Processing 63/106: sports_018.jpg
+2025-07-14 21:02:09,876 - INFO - Assessing image: sports_018.jpg
+2025-07-14 21:02:11,804 - INFO - Moved sports_018.jpg to manual_review directory
+2025-07-14 21:02:11,805 - INFO - Processing 64/106: space_049.jpg
+2025-07-14 21:02:11,805 - INFO - Assessing image: space_049.jpg
+2025-07-14 21:02:12,151 - INFO - Moved space_049.jpg to approved directory
+2025-07-14 21:02:12,151 - INFO - Processing 65/106: cars_004.jpg
+2025-07-14 21:02:12,151 - INFO - Assessing image: cars_004.jpg
+2025-07-14 21:02:12,714 - INFO - Moved cars_004.jpg to manual_review directory
+2025-07-14 21:02:12,714 - INFO - Processing 66/106: cars_038.jpg
+2025-07-14 21:02:12,714 - INFO - Assessing image: cars_038.jpg
+2025-07-14 21:02:13,568 - INFO - Moved cars_038.jpg to rejected directory
+2025-07-14 21:02:13,568 - INFO - Processing 67/106: cars_039.jpg
+2025-07-14 21:02:13,568 - INFO - Assessing image: cars_039.jpg
+2025-07-14 21:02:13,935 - INFO - Moved cars_039.jpg to approved directory
+2025-07-14 21:02:13,935 - INFO - Processing 68/106: cars_011.jpg
+2025-07-14 21:02:13,935 - INFO - Assessing image: cars_011.jpg
+2025-07-14 21:02:14,326 - INFO - Moved cars_011.jpg to manual_review directory
+2025-07-14 21:02:14,326 - INFO - Processing 69/106: cars_005.jpg
+2025-07-14 21:02:14,326 - INFO - Assessing image: cars_005.jpg
+2025-07-14 21:02:14,544 - INFO - Moved cars_005.jpg to manual_review directory
+2025-07-14 21:02:14,544 - INFO - Processing 70/106: space_048.jpg
+2025-07-14 21:02:14,544 - INFO - Assessing image: space_048.jpg
+2025-07-14 21:02:14,724 - INFO - Moved space_048.jpg to manual_review directory
+2025-07-14 21:02:14,724 - INFO - Processing 71/106: nature_042.jpg
+2025-07-14 21:02:14,724 - INFO - Assessing image: nature_042.jpg
+2025-07-14 21:02:15,163 - INFO - Moved nature_042.jpg to manual_review directory
+2025-07-14 21:02:15,163 - INFO - Processing 72/106: sports_025.jpg
+2025-07-14 21:02:15,163 - INFO - Assessing image: sports_025.jpg
+2025-07-14 21:02:15,560 - INFO - Moved sports_025.jpg to manual_review directory
+2025-07-14 21:02:15,560 - INFO - Processing 73/106: nature_040.jpg
+2025-07-14 21:02:15,560 - INFO - Assessing image: nature_040.jpg
+2025-07-14 21:02:15,931 - INFO - Moved nature_040.jpg to manual_review directory
+2025-07-14 21:02:15,931 - INFO - Processing 74/106: cars_013.jpg
+2025-07-14 21:02:15,931 - INFO - Assessing image: cars_013.jpg
+2025-07-14 21:02:16,269 - INFO - Moved cars_013.jpg to manual_review directory
+2025-07-14 21:02:16,269 - INFO - Processing 75/106: cars_007.jpg
+2025-07-14 21:02:16,269 - INFO - Assessing image: cars_007.jpg
+2025-07-14 21:02:16,435 - INFO - Moved cars_007.jpg to approved directory
+2025-07-14 21:02:16,435 - INFO - Processing 76/106: nature_041.jpg
+2025-07-14 21:02:16,435 - INFO - Assessing image: nature_041.jpg
+2025-07-14 21:02:17,071 - INFO - Moved nature_041.jpg to approved directory
+2025-07-14 21:02:17,071 - INFO - Processing 77/106: sports_026.jpg
+2025-07-14 21:02:17,071 - INFO - Assessing image: sports_026.jpg
+2025-07-14 21:02:17,648 - INFO - Moved sports_026.jpg to manual_review directory
+2025-07-14 21:02:17,648 - INFO - Processing 78/106: nature_032.jpg
+2025-07-14 21:02:17,648 - INFO - Assessing image: nature_032.jpg
+2025-07-14 21:02:17,931 - INFO - Moved nature_032.jpg to approved directory
+2025-07-14 21:02:17,931 - INFO - Processing 79/106: space_038.jpg
+2025-07-14 21:02:17,931 - INFO - Assessing image: space_038.jpg
+2025-07-14 21:02:18,487 - INFO - Moved space_038.jpg to manual_review directory
+2025-07-14 21:02:18,487 - INFO - Processing 80/106: space_004.jpg
+2025-07-14 21:02:18,487 - INFO - Assessing image: space_004.jpg
+2025-07-14 21:02:18,838 - INFO - Moved space_004.jpg to manual_review directory
+2025-07-14 21:02:18,838 - INFO - Processing 81/106: space_005.jpg
+2025-07-14 21:02:18,838 - INFO - Assessing image: space_005.jpg
+2025-07-14 21:02:18,992 - INFO - Moved space_005.jpg to rejected directory
+2025-07-14 21:02:18,993 - INFO - Processing 82/106: space_011.jpg
+2025-07-14 21:02:18,993 - INFO - Assessing image: space_011.jpg
+2025-07-14 21:02:19,490 - INFO - Moved space_011.jpg to manual_review directory
+2025-07-14 21:02:19,490 - INFO - Processing 83/106: nature_027.jpg
+2025-07-14 21:02:19,490 - INFO - Assessing image: nature_027.jpg
+2025-07-14 21:02:20,276 - INFO - Moved nature_027.jpg to manual_review directory
+2025-07-14 21:02:20,276 - INFO - Processing 84/106: nature_033.jpg
+2025-07-14 21:02:20,276 - INFO - Assessing image: nature_033.jpg
+2025-07-14 21:02:21,723 - INFO - Moved nature_033.jpg to rejected directory
+2025-07-14 21:02:21,723 - INFO - Processing 85/106: nature_025.jpg
+2025-07-14 21:02:21,723 - INFO - Assessing image: nature_025.jpg
+2025-07-14 21:02:22,318 - INFO - Moved nature_025.jpg to manual_review directory
+2025-07-14 21:02:22,318 - INFO - Processing 86/106: nature_019.jpg
+2025-07-14 21:02:22,318 - INFO - Assessing image: nature_019.jpg
+2025-07-14 21:02:22,758 - INFO - Moved nature_019.jpg to approved directory
+2025-07-14 21:02:22,758 - INFO - Processing 87/106: space_007.jpg
+2025-07-14 21:02:22,758 - INFO - Assessing image: space_007.jpg
+2025-07-14 21:02:23,423 - INFO - Moved space_007.jpg to manual_review directory
+2025-07-14 21:02:23,423 - INFO - Processing 88/106: space_013.jpg
+2025-07-14 21:02:23,423 - INFO - Assessing image: space_013.jpg
+2025-07-14 21:02:23,761 - INFO - Moved space_013.jpg to manual_review directory
+2025-07-14 21:02:23,761 - INFO - Processing 89/106: space_012.jpg
+2025-07-14 21:02:23,761 - INFO - Assessing image: space_012.jpg
+2025-07-14 21:02:23,924 - INFO - Moved space_012.jpg to manual_review directory
+2025-07-14 21:02:23,924 - INFO - Processing 90/106: nature_018.jpg
+2025-07-14 21:02:23,924 - INFO - Assessing image: nature_018.jpg
+2025-07-14 21:02:24,265 - INFO - Moved nature_018.jpg to approved directory
+2025-07-14 21:02:24,265 - INFO - Processing 91/106: nature_008.jpg
+2025-07-14 21:02:24,265 - INFO - Assessing image: nature_008.jpg
+2025-07-14 21:02:25,010 - INFO - Moved nature_008.jpg to manual_review directory
+2025-07-14 21:02:25,010 - INFO - Processing 92/106: nature_020.jpg
+2025-07-14 21:02:25,011 - INFO - Assessing image: nature_020.jpg
+2025-07-14 21:02:25,182 - INFO - Moved nature_020.jpg to approved directory
+2025-07-14 21:02:25,182 - INFO - Processing 93/106: nature_034.jpg
+2025-07-14 21:02:25,182 - INFO - Assessing image: nature_034.jpg
+2025-07-14 21:02:26,113 - INFO - Moved nature_034.jpg to manual_review directory
+2025-07-14 21:02:26,113 - INFO - Processing 94/106: space_002.jpg
+2025-07-14 21:02:26,113 - INFO - Assessing image: space_002.jpg
+2025-07-14 21:02:29,604 - INFO - Moved space_002.jpg to rejected directory
+2025-07-14 21:02:29,604 - INFO - Processing 95/106: space_016.jpg
+2025-07-14 21:02:29,604 - INFO - Assessing image: space_016.jpg
+2025-07-14 21:02:29,782 - INFO - Moved space_016.jpg to manual_review directory
+2025-07-14 21:02:29,782 - INFO - Processing 96/106: space_017.jpg
+2025-07-14 21:02:29,782 - INFO - Assessing image: space_017.jpg
+2025-07-14 21:02:30,119 - INFO - Moved space_017.jpg to manual_review directory
+2025-07-14 21:02:30,119 - INFO - Processing 97/106: space_003.jpg
+2025-07-14 21:02:30,119 - INFO - Assessing image: space_003.jpg
+2025-07-14 21:02:30,357 - INFO - Moved space_003.jpg to manual_review directory
+2025-07-14 21:02:30,357 - INFO - Processing 98/106: nature_035.jpg
+2025-07-14 21:02:30,357 - INFO - Assessing image: nature_035.jpg
+2025-07-14 21:02:30,493 - INFO - Moved nature_035.jpg to manual_review directory
+2025-07-14 21:02:30,493 - INFO - Processing 99/106: nature_009.jpg
+2025-07-14 21:02:30,493 - INFO - Assessing image: nature_009.jpg
+2025-07-14 21:02:30,940 - INFO - Moved nature_009.jpg to approved directory
+2025-07-14 21:02:30,940 - INFO - Processing 100/106: nature_037.jpg
+2025-07-14 21:02:30,940 - INFO - Assessing image: nature_037.jpg
+2025-07-14 21:02:31,719 - INFO - Moved nature_037.jpg to manual_review directory
+2025-07-14 21:02:31,719 - INFO - Processing 101/106: nature_023.jpg
+2025-07-14 21:02:31,719 - INFO - Assessing image: nature_023.jpg
+2025-07-14 21:02:32,145 - INFO - Moved nature_023.jpg to manual_review directory
+2025-07-14 21:02:32,145 - INFO - Processing 102/106: space_015.jpg
+2025-07-14 21:02:32,145 - INFO - Assessing image: space_015.jpg
+2025-07-14 21:02:32,748 - INFO - Moved space_015.jpg to manual_review directory
+2025-07-14 21:02:32,749 - INFO - Processing 103/106: space_029.jpg
+2025-07-14 21:02:32,749 - INFO - Assessing image: space_029.jpg
+2025-07-14 21:02:33,008 - INFO - Moved space_029.jpg to approved directory
+2025-07-14 21:02:33,008 - INFO - Processing 104/106: space_028.jpg
+2025-07-14 21:02:33,008 - INFO - Assessing image: space_028.jpg
+2025-07-14 21:02:33,276 - INFO - Moved space_028.jpg to manual_review directory
+2025-07-14 21:02:33,276 - INFO - Processing 105/106: nature_022.jpg
+2025-07-14 21:02:33,276 - INFO - Assessing image: nature_022.jpg
+2025-07-14 21:02:33,639 - INFO - Moved nature_022.jpg to manual_review directory
+2025-07-14 21:02:33,639 - INFO - Processing 106/106: nature_036.jpg
+2025-07-14 21:02:33,639 - INFO - Assessing image: nature_036.jpg
+2025-07-14 21:02:34,272 - INFO - Moved nature_036.jpg to manual_review directory

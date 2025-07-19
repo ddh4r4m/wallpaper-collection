@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-19T12:26:57.111378",
+    "category": "abstract",
+    "page": 18,
+    "per_page": 15,
+    "total_pages": 18,
+    "total_count": 257,
+    "count_on_page": 2,
+    "has_next": false,
+    "has_prev": true,
+    "next_page_url": null,
+    "prev_page_url": "/api/v1/abstract/pages/17.json"
+  },
+  "data": [
+    {
+      "id": "abstract_256",
+      "category": "abstract",
+      "title": "Abstract AI Art - Civitai",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1076,
+          "height": 1920
+        },
+        "file_size": 617602,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:57.447277",
+        "hash": "c873c0a08faf53df2be5fedfc9922e6d",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_stats": {
+          "cryCount": 184,
+          "laughCount": 337,
+          "likeCount": 2752,
+          "dislikeCount": 0,
+          "heartCount": 893,
+          "commentCount": 3
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/256.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/256.jpg"
+      }
+    },
+    {
+      "id": "abstract_257",
+      "category": "abstract",
+      "title": "stained glass style reclines upon a moss - Civitai AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1566
+        },
+        "file_size": 273541,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:59.261443",
+        "hash": "d909714a7ee08c037e40037a3eb1af89",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "stained glass style reclines upon a moss covered islet, surrounded by a halo of soft luminescence that seeps from the wispy tendrils of fog curling around. the surface of a glassy lake, where ripples ",
+        "civitai_stats": {
+          "cryCount": 171,
+          "laughCount": 283,
+          "likeCount": 2685,
+          "dislikeCount": 0,
+          "heartCount": 819,
+          "commentCount": 2
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/257.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/257.jpg"
+      }
+    }
+  ]
+}

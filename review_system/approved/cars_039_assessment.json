@@ -1,0 +1,49 @@
+{
+  "path": "review_system/staging/cars_039.jpg",
+  "filename": "cars_039.jpg",
+  "status": "approved",
+  "reason": "High quality image",
+  "overall_score": 8.5,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 8.52,
+    "brightness": 8.08,
+    "color_quality": 2.35,
+    "composition": 9.73,
+    "technical_quality": 9.23
+  },
+  "watermark_penalty": 2.5,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "cars_039",
+    "source": "wallhaven",
+    "category": "cars",
+    "title": "Cars Wallpaper 39",
+    "description": "High-quality cars wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "cars",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/qz/wallhaven-qzregr.jpg",
+    "source_url": "https://w.wallhaven.cc/full/qz/wallhaven-qzregr.jpg",
+    "original_info": {
+      "id": "wallhaven_qzregr",
+      "url": "https://w.wallhaven.cc/full/qz/wallhaven-qzregr.jpg",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "racing wallpaper",
+      "width": 3072,
+      "height": 3840
+    },
+    "crawled_at": "2025-07-14T20:59:17.676417Z"
+  },
+  "assessed_at": "2025-07-14T15:32:13.932889Z"
+}

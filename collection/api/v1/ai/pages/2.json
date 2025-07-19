@@ -1,0 +1,616 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-19T12:26:57.111378",
+    "category": "ai",
+    "page": 2,
+    "per_page": 15,
+    "total_pages": 6,
+    "total_count": 83,
+    "count_on_page": 15,
+    "has_next": true,
+    "has_prev": true,
+    "next_page_url": "/api/v1/ai/pages/3.json",
+    "prev_page_url": "/api/v1/ai/pages/1.json"
+  },
+  "data": [
+    {
+      "id": "ai_017",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "high-resolution",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 960,
+          "height": 1920
+        },
+        "file_size": 394338,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:11:32.628982",
+        "hash": "f8ec75f268a4c0bb9d6319d2710bf012",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "civitai_stats": {
+          "cryCount": 773,
+          "laughCount": 1175,
+          "likeCount": 10432,
+          "dislikeCount": 0,
+          "heartCount": 4120,
+          "commentCount": 53
+        },
+        "total_reactions": 14552
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/016.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/016.jpg"
+      }
+    },
+    {
+      "id": "ai_028",
+      "category": "ai",
+      "title": "masterpiece best quality very aesthetic absurdres - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "ems-325360-ems",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1024,
+          "height": 1440
+        },
+        "file_size": 267964,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:11:51.808512",
+        "hash": "8527516b0f207fbe4f9acc4eca790249",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "masterpiece, best quality, very aesthetic, absurdres\nwlop miimalism  \n  cinematic  lighting \n   1girl, aged up\n  walking in the alley black suit white collar shirt \n perspective from above\n cyberpunk, neon",
+        "ai_model": "EMS-325360-EMS",
+        "civitai_stats": {
+          "cryCount": 533,
+          "laughCount": 1094,
+          "likeCount": 8486,
+          "dislikeCount": 0,
+          "heartCount": 3459,
+          "commentCount": 5
+        },
+        "total_reactions": 11945
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/017.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/017.jpg"
+      }
+    },
+    {
+      "id": "ai_029",
+      "category": "ai",
+      "title": "realistic vibrant detailed a cinematic photograph - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1024,
+          "height": 1536
+        },
+        "file_size": 150934,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:11:54.411201",
+        "hash": "8373856f58d91ae0c558189340678e8c",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "realistic, vibrant, detailed. a cinematic photograph classily depicts a prestigious beautiful woman dressed in an all white dress. The woman has no face. Her head is a sphere, a colorful gradient foreign planet, and not a human head. Her outfit is adorned by luxurious gold trim and other attire. Her",
+        "civitai_stats": {
+          "cryCount": 728,
+          "laughCount": 1512,
+          "likeCount": 8740,
+          "dislikeCount": 0,
+          "heartCount": 3183,
+          "commentCount": 4
+        },
+        "total_reactions": 11923
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/018.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/018.jpg"
+      }
+    },
+    {
+      "id": "ai_046",
+      "category": "ai",
+      "title": "score_9 score_8_up score_7_up score_6_up score_5_u - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "autismmixsdxl-autism",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 864,
+          "height": 1152
+        },
+        "file_size": 157971,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:12:53.308211",
+        "hash": "2636c01626c0493a9b2e154a53403156",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up,   <lora:r3dgl0wXLP:0.7> r3dgl0w, red eyes, red background, 1girl, dark, horns",
+        "ai_model": "autismmixSDXL_autismmixPony",
+        "civitai_stats": {
+          "cryCount": 612,
+          "laughCount": 1171,
+          "likeCount": 9328,
+          "dislikeCount": 0,
+          "heartCount": 3713,
+          "commentCount": 6
+        },
+        "total_reactions": 13041
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/019.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/019.jpg"
+      }
+    },
+    {
+      "id": "ai_047",
+      "category": "ai",
+      "title": "score_9 score_8_up score_7_up  first person perspe - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 162761,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:12:55.054999",
+        "hash": "89382d758c31cd23116debdae0b55041",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "score_9, score_8_up, score_7_up,  ((first person perspective)), landscape photo, tron, heaven, ascendance, god rays, light, gold, sky,  advntr, underwater, alien, colorful, ((zdzislaw beksinski)),translucent,transparent,reelmech, mechanical parts, cable, wires, machinery, joints, body suit",
+        "civitai_stats": {
+          "cryCount": 595,
+          "laughCount": 1338,
+          "likeCount": 9694,
+          "dislikeCount": 0,
+          "heartCount": 3326,
+          "commentCount": 5
+        },
+        "total_reactions": 13020
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/020.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/020.jpg"
+      }
+    },
+    {
+      "id": "ai_048",
+      "category": "ai",
+      "title": "Dead can dance misty morning unreal shapes emerge - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1024,
+          "height": 1536
+        },
+        "file_size": 93601,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:12:57.198872",
+        "hash": "3da989275225d720153957d8adb47fd2",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "Dead can dance, misty morning, unreal shapes emerge from the fog, photo realism.",
+        "civitai_stats": {
+          "cryCount": 991,
+          "laughCount": 1488,
+          "likeCount": 9504,
+          "dislikeCount": 0,
+          "heartCount": 3372,
+          "commentCount": 21
+        },
+        "total_reactions": 12876
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/021.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/021.jpg"
+      }
+    },
+    {
+      "id": "ai_049",
+      "category": "ai",
+      "title": "Bosstyle Silhouette of a Woman fighting a giant DA - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 146016,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:12:59.066746",
+        "hash": "5e47efd1db561e2d37c0ef8481cef21b",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "Bosstyle, Silhouette of a Woman fighting a giant DARK mononoke Monster Boss resembling a ethereal fox with seven tails: Capture the essence of nostalgia and color in this vintage photograph. Dominating the scene is a meticulously detailed, translucent dark-red Blood filled firefox, adorned with vibr",
+        "civitai_stats": {
+          "cryCount": 476,
+          "laughCount": 975,
+          "likeCount": 9265,
+          "dislikeCount": 0,
+          "heartCount": 3482,
+          "commentCount": 11
+        },
+        "total_reactions": 12747
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/022.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/022.jpg"
+      }
+    },
+    {
+      "id": "ai_052",
+      "category": "ai",
+      "title": "nistyle in the style of ck-mgs Mh1AgThS2 intricate - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 218575,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:13:04.476308",
+        "hash": "4b7597ed52d6fbae279b9aebb45ed50d",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "nistyle, in the style of ck-mgs, Mh1$AgThS2, intricate linework with expressive contrasts, soft lighting with dynamic highlights, image of a dusty desert with a 1930s female explorer, blonde hair, safari hat and jacket, standing looking up at an Egyptian pyramid, silhouetted at sunset, sparse clouds",
+        "civitai_stats": {
+          "cryCount": 637,
+          "laughCount": 1110,
+          "likeCount": 8902,
+          "dislikeCount": 0,
+          "heartCount": 3274,
+          "commentCount": 8
+        },
+        "total_reactions": 12176
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/023.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/023.jpg"
+      }
+    },
+    {
+      "id": "ai_053",
+      "category": "ai",
+      "title": "score_9 score_8_up score_7_up detailed 1girl solo - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "incursio-smemedifv2-",
+        "high-resolution",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1578
+        },
+        "file_size": 280002,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:13:07.049835",
+        "hash": "a3039cf414d283b54e6dcd8bc3d69b2b",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "score_9, score_8_up, score_7_up, detailed, 1girl, solo, intricate details, chromatic aberration, realistic, long hair, pink hair, red head ornament, pink highlights, hair over one eye, purple eyes, earrings, sharp eyes, choker, neon shirt, torn legwear, open jacket, turtleneck sweater, night,against",
+        "ai_model": "Incursio'sMemeDifV2.1.fp16",
+        "civitai_stats": {
+          "cryCount": 551,
+          "laughCount": 999,
+          "likeCount": 8576,
+          "dislikeCount": 0,
+          "heartCount": 3551,
+          "commentCount": 5
+        },
+        "total_reactions": 12127
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/024.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/024.jpg"
+      }
+    },
+    {
+      "id": "ai_055",
+      "category": "ai",
+      "title": "How I imagine ancient Rome wou - Reddit AI",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "file_size": 234304,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:48:15.402788",
+        "hash": "efd12905ccb229eb122960133a91faea",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 793
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/025.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/025.jpg"
+      }
+    },
+    {
+      "id": "ai_056",
+      "category": "ai",
+      "title": "Be your own boss - Reddit AI",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 176660,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:48:16.560181",
+        "hash": "ff0c54110facb606796c64ccc7a8adbb",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 34
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/026.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/026.jpg"
+      }
+    },
+    {
+      "id": "ai_057",
+      "category": "ai",
+      "title": "Ok. - Reddit AI",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 928,
+          "height": 1232
+        },
+        "file_size": 138473,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:48:17.675814",
+        "hash": "0f88e8dc7be55c54b5ec54ed03c1e0aa",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 9
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/027.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/027.jpg"
+      }
+    },
+    {
+      "id": "ai_058",
+      "category": "ai",
+      "title": "Ai AI Art - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1078,
+          "height": 1920
+        },
+        "file_size": 203797,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:59:58.858768",
+        "hash": "7824a48c216a914e98d9d8e04c802863",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_stats": {
+          "cryCount": 30,
+          "laughCount": 53,
+          "likeCount": 836,
+          "dislikeCount": 0,
+          "heartCount": 232,
+          "commentCount": 1
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/028.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/028.jpg"
+      }
+    },
+    {
+      "id": "ai_059",
+      "category": "ai",
+      "title": "Ai AI Art - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1078,
+          "height": 1920
+        },
+        "file_size": 457281,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:00:00.333856",
+        "hash": "32bb15f3fa6e7ecee24b4fb3ce5e9df6",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_stats": {
+          "cryCount": 37,
+          "laughCount": 60,
+          "likeCount": 779,
+          "dislikeCount": 0,
+          "heartCount": 244,
+          "commentCount": 0
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/029.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/029.jpg"
+      }
+    },
+    {
+      "id": "ai_060",
+      "category": "ai",
+      "title": "Ai AI Art - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1078,
+          "height": 1920
+        },
+        "file_size": 451667,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:00:03.161370",
+        "hash": "a777ade7477ade296306d0452e368124",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_stats": {
+          "cryCount": 39,
+          "laughCount": 63,
+          "likeCount": 809,
+          "dislikeCount": 0,
+          "heartCount": 203,
+          "commentCount": 3
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/030.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/030.jpg"
+      }
+    }
+  ]
+}

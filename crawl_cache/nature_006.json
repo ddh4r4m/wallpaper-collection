@@ -1,0 +1,27 @@
+{
+  "id": "nature_006",
+  "source": "comprehensive_crawler",
+  "category": "nature",
+  "title": "Nature Wallpaper 6",
+  "description": "High-quality nature wallpaper from curated sources",
+  "width": 1080,
+  "height": 1920,
+  "tags": [
+    "nature",
+    "wallpaper",
+    "hd",
+    "high resolution",
+    "mobile",
+    "landscape",
+    "natural",
+    "outdoor",
+    "scenic",
+    "wildlife"
+  ],
+  "download_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&auto=compress",
+  "source_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&auto=compress",
+  "variation": {
+    "auto": "compress"
+  },
+  "crawled_at": "2025-07-14T20:40:34.357149Z"
+}

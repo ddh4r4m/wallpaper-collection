@@ -1,0 +1,47 @@
+{
+  "path": "review_system/staging/cars_019.jpg",
+  "filename": "cars_019.jpg",
+  "status": "approved",
+  "reason": "High quality image",
+  "overall_score": 8.69,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 9.21,
+    "brightness": 9.82,
+    "color_quality": 1.95,
+    "composition": 7.43,
+    "technical_quality": 9.58
+  },
+  "watermark_penalty": 0.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "cars_019",
+    "source": "comprehensive_crawler",
+    "category": "cars",
+    "title": "Cars Wallpaper 19",
+    "description": "High-quality cars wallpaper from curated sources",
+    "width": 1080,
+    "height": 1920,
+    "tags": [
+      "cars",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile",
+      "automotive",
+      "racing",
+      "speed",
+      "vehicle",
+      "transportation"
+    ],
+    "download_url": "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?w=1080&h=1920&fit=crop&crop=entropy",
+    "source_url": "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?w=1080&h=1920&fit=crop&crop=entropy",
+    "variation": {
+      "crop": "entropy"
+    },
+    "crawled_at": "2025-07-14T20:49:13.846602Z"
+  },
+  "assessed_at": "2025-07-14T15:19:38.354302Z"
+}

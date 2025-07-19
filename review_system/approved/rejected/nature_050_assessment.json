@@ -1,0 +1,51 @@
+{
+  "path": "review_system/staging/nature_050.jpg",
+  "filename": "nature_050.jpg",
+  "status": "rejected",
+  "reason": "Basic requirements failed: File too large: 10.1MB",
+  "overall_score": 6.24,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 7.86,
+    "brightness": 7.11,
+    "color_quality": 4.61,
+    "composition": 0.0,
+    "technical_quality": 8.3
+  },
+  "watermark_penalty": 10.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": false,
+  "issues": [
+    "File too large: 10.1MB"
+  ],
+  "metadata": {
+    "id": "nature_050",
+    "source": "wallhaven",
+    "category": "nature",
+    "title": "Nature Wallpaper 50",
+    "description": "High-quality nature wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "nature",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/5w/wallhaven-5w3mp5.jpg",
+    "source_url": "https://w.wallhaven.cc/full/5w/wallhaven-5w3mp5.jpg",
+    "original_info": {
+      "id": "wallhaven_5w3mp5",
+      "url": "https://w.wallhaven.cc/full/5w/wallhaven-5w3mp5.jpg",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "landscape wallpaper",
+      "width": 2160,
+      "height": 3840
+    },
+    "crawled_at": "2025-07-14T20:59:28.108993Z"
+  },
+  "assessed_at": "2025-07-14T15:32:08.900377Z"
+}

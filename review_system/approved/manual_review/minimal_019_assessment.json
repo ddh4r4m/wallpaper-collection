@@ -1,0 +1,48 @@
+{
+  "path": "review_system/staging/minimal_019.jpg",
+  "filename": "minimal_019.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 7.94,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 6.42,
+    "brightness": 4.96,
+    "color_quality": 2.72,
+    "composition": 7.66,
+    "technical_quality": 9.64
+  },
+  "watermark_penalty": 0.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "minimal_019",
+    "source": "comprehensive_crawler",
+    "category": "minimal",
+    "title": "Minimal Wallpaper 19",
+    "description": "High-quality minimal wallpaper from curated sources",
+    "width": 1080,
+    "height": 1920,
+    "tags": [
+      "minimal",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile",
+      "clean",
+      "simple",
+      "zen",
+      "monochrome",
+      "elegant"
+    ],
+    "download_url": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+    "source_url": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+    "variation": {
+      "crop": "entropy",
+      "auto": "enhance"
+    },
+    "crawled_at": "2025-07-14T20:42:11.336928Z"
+  },
+  "assessed_at": "2025-07-14T15:15:34.264184Z"
+}

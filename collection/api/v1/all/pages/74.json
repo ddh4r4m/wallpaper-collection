@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 74,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/75.json",
@@ -15,393 +15,411 @@
   },
   "data": [
     {
-      "id": "minimal_013",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 013",
+      "id": "art_064",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/013.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/013.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1633
         },
-        "file_size": 32003,
+        "file_size": 133139,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:02.756168",
-        "hash": "b933895f3f5c1e768cdf36d90287550f",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:54:48.591238",
+        "hash": "c62395ba2237af175a04af84904e2ba3",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/064.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/064.jpg"
       }
     },
     {
-      "id": "minimal_014",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 014",
+      "id": "art_065",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/014.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/014.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 670
         },
-        "file_size": 19445,
+        "file_size": 244780,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:02.946099",
-        "hash": "b03dd4c00d78b352c90850e38114d292",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:54:49.999943",
+        "hash": "0d7207d24730f83388cbf28022122d28",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/065.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/065.jpg"
       }
     },
     {
-      "id": "minimal_015",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 015",
+      "id": "art_066",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/015.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/015.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1480
         },
-        "file_size": 92870,
+        "file_size": 370624,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:03.103877",
-        "hash": "75c396fc2ccfd2f75d1e45e70bd2080b",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:54:51.462916",
+        "hash": "febc0150a09dadb4b4047ef2ab1119b0",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/066.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/066.jpg"
       }
     },
     {
-      "id": "minimal_016",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 016",
+      "id": "art_067",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/016.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/016.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 720
         },
-        "file_size": 58117,
+        "file_size": 56437,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:03.382423",
-        "hash": "39d08cb71a9e6875b4b21c93edeb6dd6",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:54:53.902786",
+        "hash": "5984047b09ff2ac7038f7a113a8f5d59",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/067.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/067.jpg"
       }
     },
     {
-      "id": "minimal_017",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 017",
+      "id": "art_068",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/017.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/017.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1620
         },
-        "file_size": 146223,
+        "file_size": 235910,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:03.599248",
-        "hash": "791902219135e5d8193c56b0e5666a07",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:54:56.455681",
+        "hash": "ed46a642b52e897d3fdbb9dadb75fce3",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/068.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/068.jpg"
       }
     },
     {
-      "id": "minimal_018",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 018",
+      "id": "art_069",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/018.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/018.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1080
         },
-        "file_size": 62772,
+        "file_size": 400892,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:03.776060",
-        "hash": "fcddf52165b282af2848f4b068a455fa",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:54:58.952678",
+        "hash": "787512dddd570967bcc250ec64505dbf",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/069.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/069.jpg"
       }
     },
     {
-      "id": "minimal_019",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 019",
+      "id": "art_070",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/019.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/019.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1616
         },
-        "file_size": 32636,
+        "file_size": 82013,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:03.990438",
-        "hash": "e0e151706ff36342d03b7a2ac10d00de",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:55:02.518210",
+        "hash": "481174804260a5533560877bb22f221c",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/070.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/070.jpg"
       }
     },
     {
-      "id": "minimal_020",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 020",
+      "id": "art_071",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/020.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/020.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1618
         },
-        "file_size": 122723,
+        "file_size": 198934,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:04.376914",
-        "hash": "3e894fd1ad828ba43cb7d6536a6a36c9",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:55:04.985464",
+        "hash": "be29267c72090bbe34c6d0f6b1144b01",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/071.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/071.jpg"
       }
     },
     {
-      "id": "minimal_021",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 021",
+      "id": "art_072",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/021.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/021.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 720
         },
-        "file_size": 12524,
+        "file_size": 140934,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:05.015106",
-        "hash": "63fcc8d5d3acaa029664f6a1d4f4a66c",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:55:07.320966",
+        "hash": "c6f198b66b95b28423aa437b69b6e753",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/072.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/072.jpg"
       }
     },
     {
-      "id": "minimal_022",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 022",
+      "id": "art_073",
+      "category": "art",
+      "title": "Quick sketch study... - Reddit AI",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/022.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/022.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1325
         },
-        "file_size": 12527,
+        "file_size": 83602,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:05.164096",
-        "hash": "0df761605e683954bb39c78de2d7c1ea",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:33:57.373711",
+        "hash": "5d4f159d58b3a9bacdaf5447feb76bc7",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 177
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/073.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/073.jpg"
       }
     },
     {
-      "id": "minimal_023",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 023",
+      "id": "art_074",
+      "category": "art",
+      "title": "Study - Lasso tool is my fav - Reddit AI",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/023.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/023.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1528
         },
-        "file_size": 122279,
+        "file_size": 180226,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:05.292240",
-        "hash": "08e59f7d4a3b5fd5c0f6dedc4be88ceb",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:33:59.835599",
+        "hash": "8843b9817460d65f5a65eef88778d397",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 37
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/074.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/074.jpg"
       }
     },
     {
-      "id": "minimal_024",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 024",
+      "id": "art_075",
+      "category": "art",
+      "title": "Blue - Reddit AI",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/024.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/024.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1800
         },
-        "file_size": 190172,
+        "file_size": 132833,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:05.435912",
-        "hash": "939f005b21bfa9a994c61ef080304b0a",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:34:01.484623",
+        "hash": "8c8d11c46d759b2c8f62b9c562ffd5a9",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 36
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/075.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/075.jpg"
       }
     },
     {
-      "id": "minimal_025",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 025",
+      "id": "art_076",
+      "category": "art",
+      "title": "\u201cBefore the Void\u201d by me, blend - Reddit AI",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/025.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/025.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1728
         },
-        "file_size": 35531,
+        "file_size": 222504,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:05.650603",
-        "hash": "d4ddd86275e4cc699b5911453daa13d1",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:34:02.934895",
+        "hash": "277d4a1c95965863ea026d6b20b01cc0",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 580
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/076.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/076.jpg"
       }
     },
     {
-      "id": "minimal_026",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 026",
+      "id": "art_077",
+      "category": "art",
+      "title": "I quit my j*b to do art. Was i - Reddit AI",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/026.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/026.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1441
         },
-        "file_size": 45023,
+        "file_size": 276311,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:05.898125",
-        "hash": "41fd94151a372742077915e925772c90",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:34:04.100273",
+        "hash": "1f9e92605022e4cc08390361ae7cef25",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 4017
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/077.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/077.jpg"
       }
     },
     {
-      "id": "minimal_027",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 027",
+      "id": "art_078",
+      "category": "art",
+      "title": "Glowing - Reddit AI",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/027.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/027.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
+          "width": 1062,
           "height": 1920
         },
-        "file_size": 29234,
+        "file_size": 184604,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:06.111564",
-        "hash": "c239d4e8075b119fe4a5b07f5ce2338b",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:34:05.398336",
+        "hash": "d058bfc7401eeb3999a32855068b168c",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 272
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/078.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/078.jpg"
       }
     }
   ]

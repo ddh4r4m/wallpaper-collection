@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-19T12:26:57.111378",
+    "category": "art",
+    "page": 5,
+    "per_page": 15,
+    "total_pages": 6,
+    "total_count": 90,
+    "count_on_page": 15,
+    "has_next": true,
+    "has_prev": true,
+    "next_page_url": "/api/v1/art/pages/6.json",
+    "prev_page_url": "/api/v1/art/pages/4.json"
+  },
+  "data": [
+    {
+      "id": "art_061",
+      "category": "art",
+      "title": "Art Wallpaper",
+      "tags": [
+        "art",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1410
+        },
+        "file_size": 351660,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:54:41.315262",
+        "hash": "65301d1e43aaa130026f560ced2c669c",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/061.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/061.jpg"
+      }
+    },
+    {
+      "id": "art_062",
+      "category": "art",
+      "title": "Art Wallpaper",
+      "tags": [
+        "art",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1500
+        },
+        "file_size": 313170,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:54:42.842285",
+        "hash": "2318509d627188ada7d6c7fdad99cdb7",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/062.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/062.jpg"
+      }
+    },
+    {
+      "id": "art_063",
+      "category": "art",
+      "title": "Art Wallpaper",
+      "tags": [
+        "art",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1536
+        },
+        "file_size": 362451,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:54:44.206056",
+        "hash": "da9ebc6b019be061727c21e58c16e169",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/063.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/063.jpg"
+      }
+    },
+    {
+      "id": "art_064",
+      "category": "art",
+      "title": "Art Wallpaper",
+      "tags": [
+        "art",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1633
+        },
+        "file_size": 133139,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:54:48.591238",
+        "hash": "c62395ba2237af175a04af84904e2ba3",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/064.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/064.jpg"
+      }
+    },
+    {
+      "id": "art_065",
+      "category": "art",
+      "title": "Art Wallpaper",
+      "tags": [
+        "art",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 670
+        },
+        "file_size": 244780,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:54:49.999943",
+        "hash": "0d7207d24730f83388cbf28022122d28",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/065.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/065.jpg"
+      }
+    },
+    {
+      "id": "art_066",
+      "category": "art",
+      "title": "Art Wallpaper",
+      "tags": [
+        "art",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1480
+        },
+        "file_size": 370624,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:54:51.462916",
+        "hash": "febc0150a09dadb4b4047ef2ab1119b0",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/066.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/066.jpg"
+      }
+    },
+    {
+      "id": "art_067",
+      "category": "art",
+      "title": "Art Wallpaper",
+      "tags": [
+        "art",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 56437,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:54:53.902786",
+        "hash": "5984047b09ff2ac7038f7a113a8f5d59",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/067.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/067.jpg"
+      }
+    },
+    {
+      "id": "art_068",
+      "category": "art",
+      "title": "Art Wallpaper",
+      "tags": [
+        "art",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1620
+        },
+        "file_size": 235910,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:54:56.455681",
+        "hash": "ed46a642b52e897d3fdbb9dadb75fce3",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/068.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/068.jpg"
+      }
+    },
+    {
+      "id": "art_069",
+      "category": "art",
+      "title": "Art Wallpaper",
+      "tags": [
+        "art",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1080
+        },
+        "file_size": 400892,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:54:58.952678",
+        "hash": "787512dddd570967bcc250ec64505dbf",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/069.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/069.jpg"
+      }
+    },
+    {
+      "id": "art_070",
+      "category": "art",
+      "title": "Art Wallpaper",
+      "tags": [
+        "art",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1616
+        },
+        "file_size": 82013,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:55:02.518210",
+        "hash": "481174804260a5533560877bb22f221c",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/070.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/070.jpg"
+      }
+    },
+    {
+      "id": "art_071",
+      "category": "art",
+      "title": "Art Wallpaper",
+      "tags": [
+        "art",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1618
+        },
+        "file_size": 198934,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:55:04.985464",
+        "hash": "be29267c72090bbe34c6d0f6b1144b01",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/071.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/071.jpg"
+      }
+    },
+    {
+      "id": "art_072",
+      "category": "art",
+      "title": "Art Wallpaper",
+      "tags": [
+        "art",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 140934,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:55:07.320966",
+        "hash": "c6f198b66b95b28423aa437b69b6e753",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/072.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/072.jpg"
+      }
+    },
+    {
+      "id": "art_073",
+      "category": "art",
+      "title": "Quick sketch study... - Reddit AI",
+      "tags": [
+        "art",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1325
+        },
+        "file_size": 83602,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:33:57.373711",
+        "hash": "5d4f159d58b3a9bacdaf5447feb76bc7",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 177
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/073.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/073.jpg"
+      }
+    },
+    {
+      "id": "art_074",
+      "category": "art",
+      "title": "Study - Lasso tool is my fav - Reddit AI",
+      "tags": [
+        "art",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1528
+        },
+        "file_size": 180226,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:33:59.835599",
+        "hash": "8843b9817460d65f5a65eef88778d397",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 37
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/074.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/074.jpg"
+      }
+    },
+    {
+      "id": "art_075",
+      "category": "art",
+      "title": "Blue - Reddit AI",
+      "tags": [
+        "art",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1800
+        },
+        "file_size": 132833,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:34:01.484623",
+        "hash": "8c8d11c46d759b2c8f62b9c562ffd5a9",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 36
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/075.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/075.jpg"
+      }
+    }
+  ]
+}

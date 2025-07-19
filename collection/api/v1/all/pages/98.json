@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 98,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/99.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "neon_043",
-      "category": "neon",
-      "title": "Neon Wallpaper 043",
+      "id": "gaming_072",
+      "category": "gaming",
+      "title": "Gaming Wallpaper 072",
       "tags": [
-        "neon",
+        "gaming",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/043.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/043.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/072.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/072.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 122301,
+        "file_size": 103660,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:33.787448",
-        "hash": "92be0d6a9e2665ef867c36573102e087",
+        "added_at": "2025-07-17T00:03:59.264838",
+        "hash": "9218a903e0900d3639fdbc3a452bfb59",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_044",
-      "category": "neon",
-      "title": "Neon Wallpaper 044",
+      "id": "gaming_073",
+      "category": "gaming",
+      "title": "Gaming Wallpaper 073",
       "tags": [
-        "neon",
+        "gaming",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/044.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/044.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/073.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/073.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 260835,
+        "file_size": 301902,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:33.843104",
-        "hash": "ad8e88dea4b78aa49347217f95c367c6",
+        "added_at": "2025-07-17T00:03:59.493472",
+        "hash": "6c595a8041999e4a24e9b3237bc53956",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_045",
-      "category": "neon",
-      "title": "Neon Wallpaper 045",
+      "id": "gaming_074",
+      "category": "gaming",
+      "title": "Gaming Wallpaper 074",
       "tags": [
-        "neon",
+        "gaming",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/045.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/045.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/074.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/074.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 161052,
+        "file_size": 317329,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:33.893294",
-        "hash": "b637c12ad86ebd9cd518009654e192de",
+        "added_at": "2025-07-17T00:03:59.792003",
+        "hash": "69e6a3093e2580216258f2cb5170d385",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_046",
-      "category": "neon",
-      "title": "Neon Wallpaper 046",
+      "id": "gaming_075",
+      "category": "gaming",
+      "title": "Gaming Wallpaper 075",
       "tags": [
-        "neon",
+        "gaming",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/046.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/046.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/075.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/075.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 257538,
+        "file_size": 35834,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:33.949625",
-        "hash": "e6ba1f23301d20abdcec364c04de95c6",
+        "added_at": "2025-07-17T00:03:59.999485",
+        "hash": "b4d75bffb2cd69d72f7ccc92962ef9d2",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_047",
-      "category": "neon",
-      "title": "Neon Wallpaper 047",
+      "id": "gaming_076",
+      "category": "gaming",
+      "title": "Gaming Wallpaper 076",
       "tags": [
-        "neon",
+        "gaming",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/047.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/047.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/076.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/076.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 94249,
+        "file_size": 617679,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:33.995519",
-        "hash": "1182c7a11d82450060951cfdd6e4b76c",
+        "added_at": "2025-07-17T00:04:00.225084",
+        "hash": "d3be692e87b6405ea040b1028df7c680",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_048",
-      "category": "neon",
-      "title": "Neon Wallpaper 048",
+      "id": "gaming_077",
+      "category": "gaming",
+      "title": "Gaming Wallpaper",
       "tags": [
-        "neon",
+        "gaming",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 90489,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:30:28.731568",
+        "hash": "fec21c45cc583f13ab7297731e69b54b",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/077.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/077.jpg"
+      }
+    },
+    {
+      "id": "gaming_078",
+      "category": "gaming",
+      "title": "Gaming Wallpaper",
+      "tags": [
+        "gaming",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 127693,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:30:31.033033",
+        "hash": "99a4fc308971f1bf5907e977ff9c166e",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/078.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/078.jpg"
+      }
+    },
+    {
+      "id": "gaming_079",
+      "category": "gaming",
+      "title": "Gaming Wallpaper",
+      "tags": [
+        "gaming",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 74328,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:30:34.466734",
+        "hash": "3e0eb1ae4e68c908776f80caa69ff600",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/079.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/079.jpg"
+      }
+    },
+    {
+      "id": "gaming_080",
+      "category": "gaming",
+      "title": "Gaming Wallpaper",
+      "tags": [
+        "gaming",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 689
+        },
+        "file_size": 58291,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:30:36.764478",
+        "hash": "e84f6af6d6527ac97e10bcff24929bd6",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/080.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/080.jpg"
+      }
+    },
+    {
+      "id": "gaming_081",
+      "category": "gaming",
+      "title": "Gaming Wallpaper",
+      "tags": [
+        "gaming",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 90489,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:30:39.982295",
+        "hash": "fec21c45cc583f13ab7297731e69b54b",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/081.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/081.jpg"
+      }
+    },
+    {
+      "id": "gaming_082",
+      "category": "gaming",
+      "title": "Gaming Wallpaper",
+      "tags": [
+        "gaming",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 719
+        },
+        "file_size": 56718,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:30:42.405835",
+        "hash": "4933fcc5efdb8ebd77ccafeaee47305f",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/082.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/082.jpg"
+      }
+    },
+    {
+      "id": "gaming_083",
+      "category": "gaming",
+      "title": "Gaming Wallpaper",
+      "tags": [
+        "gaming",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1809
+        },
+        "file_size": 222012,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:30:44.031397",
+        "hash": "2d806ab1c7b9a5a9e7a5e80f24053d74",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/083.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/083.jpg"
+      }
+    },
+    {
+      "id": "gaming_084",
+      "category": "gaming",
+      "title": "Gaming Wallpaper",
+      "tags": [
+        "gaming",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 723
+        },
+        "file_size": 55817,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:30:46.311152",
+        "hash": "904be06127d944d758539ef1dceb2d14",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/084.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/084.jpg"
+      }
+    },
+    {
+      "id": "minimal_001",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 001",
+      "tags": [
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/048.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/048.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/001.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/001.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 295072,
+        "file_size": 14539,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:34.053733",
-        "hash": "6146f31f670ec54f027549a5de4d4aff",
+        "added_at": "2025-07-17T00:04:00.384859",
+        "hash": "9b6f9901397b459c29ea6f30f3ead674",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_049",
-      "category": "neon",
-      "title": "Neon Wallpaper 049",
+      "id": "minimal_002",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 002",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/049.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/049.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/002.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/002.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 135162,
+        "file_size": 106901,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:34.103293",
-        "hash": "d6e9e7a8f0950e3914f704bad2aa9dd8",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "neon_050",
-      "category": "neon",
-      "title": "Neon Wallpaper 050",
-      "tags": [
-        "neon",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/050.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/050.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 536954,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:34.172768",
-        "hash": "a25d8beb384aa441cb43e90a0c61321a",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "neon_051",
-      "category": "neon",
-      "title": "Neon Wallpaper 051",
-      "tags": [
-        "neon",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/051.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/051.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 494543,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:34.240465",
-        "hash": "bec0b3f4b9a95435dcfba98ef4270554",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "neon_052",
-      "category": "neon",
-      "title": "Neon Wallpaper 052",
-      "tags": [
-        "neon",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/052.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/052.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 329560,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:34.300504",
-        "hash": "06082a590f8c6c80d1d8b1562e43aefa",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "neon_053",
-      "category": "neon",
-      "title": "Neon Wallpaper 053",
-      "tags": [
-        "neon",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/053.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/053.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 268996,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:34.356436",
-        "hash": "4c88c3de1efb882512cd6df6f531d4b6",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "neon_054",
-      "category": "neon",
-      "title": "Neon Wallpaper 054",
-      "tags": [
-        "neon",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/054.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/054.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 224187,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:34.408903",
-        "hash": "82eac1f8b7d4cc21982df7d6b46bbe71",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "neon_055",
-      "category": "neon",
-      "title": "Neon Wallpaper 055",
-      "tags": [
-        "neon",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/055.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/055.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 264292,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:34.465224",
-        "hash": "fa339bd046dd395966921ce2d44b1be5",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "neon_056",
-      "category": "neon",
-      "title": "Neon Wallpaper 056",
-      "tags": [
-        "neon",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/056.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/056.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 316798,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:34.523362",
-        "hash": "6cad793f5c0a2c97aa08395cfba25c89",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "neon_057",
-      "category": "neon",
-      "title": "Neon Wallpaper 057",
-      "tags": [
-        "neon",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/057.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/057.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 88679,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:34.570477",
-        "hash": "eeb0203e7ff7e6408b3e686bd332ae33",
+        "added_at": "2025-07-17T00:04:00.535052",
+        "hash": "2c5d28dea64eb6485336c7d3c0ce6ab5",
         "source": "migrated"
       }
     }

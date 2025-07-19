@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 99,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/100.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "neon_058",
-      "category": "neon",
-      "title": "Neon Wallpaper 058",
+      "id": "minimal_003",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 003",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/058.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/058.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/003.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/003.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 338249,
+        "file_size": 35239,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:34.629574",
-        "hash": "047f49162368f7ecbe63659ee48fb920",
+        "added_at": "2025-07-17T00:04:00.751082",
+        "hash": "06127cca133d2cf12317650d18a302eb",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_059",
-      "category": "neon",
-      "title": "Neon Wallpaper 059",
+      "id": "minimal_004",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 004",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/059.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/059.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/004.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/004.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 219637,
+        "file_size": 12526,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:34.682295",
-        "hash": "0aeb38133d6ae8901e7a417235af00ce",
+        "added_at": "2025-07-17T00:04:00.968116",
+        "hash": "3bb9d740e795d5ac06b404dc78cce91a",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_060",
-      "category": "neon",
-      "title": "Neon Wallpaper 060",
+      "id": "minimal_005",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 005",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/060.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/060.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/005.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/005.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 310647,
+        "file_size": 422081,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:34.741483",
-        "hash": "018aef0a843dac134a6b1e6c5cdd4146",
+        "added_at": "2025-07-17T00:04:01.179344",
+        "hash": "61033eac90023431564c688d1c9e99b0",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_061",
-      "category": "neon",
-      "title": "Neon Wallpaper 061",
+      "id": "minimal_006",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 006",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/061.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/061.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/006.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/006.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 288169,
+        "file_size": 91681,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:34.798619",
-        "hash": "bf009bda9e2ac73e6c9b4bc55c0c3aaf",
+        "added_at": "2025-07-17T00:04:01.390204",
+        "hash": "6a25d8b0515674cc71b0ec052185ce07",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_062",
-      "category": "neon",
-      "title": "Neon Wallpaper 062",
+      "id": "minimal_007",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 007",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/062.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/062.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/007.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/007.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 483051,
+        "file_size": 144049,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:34.866122",
-        "hash": "01bf31774873392563c3a5362c727058",
+        "added_at": "2025-07-17T00:04:01.549741",
+        "hash": "ba984e260d39cf01ae4b9ecbfa7f7821",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_063",
-      "category": "neon",
-      "title": "Neon Wallpaper 063",
+      "id": "minimal_008",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 008",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/063.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/063.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/008.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/008.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 173286,
+        "file_size": 31912,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:34.916082",
-        "hash": "101e5914f92fc704a3a1ddc4e47242d6",
+        "added_at": "2025-07-17T00:04:01.759189",
+        "hash": "90ec2b90c76c067d949e2c476636eba1",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_064",
-      "category": "neon",
-      "title": "Neon Wallpaper 064",
+      "id": "minimal_009",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 009",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/064.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/064.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/009.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/009.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 198441,
+        "file_size": 114695,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:34.969687",
-        "hash": "f88e075da207c811bb8025f2948c25fb",
+        "added_at": "2025-07-17T00:04:01.972377",
+        "hash": "bd6a9af9633cd5ed77d987bf04e6f88c",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_065",
-      "category": "neon",
-      "title": "Neon Wallpaper 065",
+      "id": "minimal_010",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 010",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/065.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/065.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/010.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/010.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 183005,
+        "file_size": 380669,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.020141",
-        "hash": "4f68e453fe71ab18117a131d8666ef47",
+        "added_at": "2025-07-17T00:04:02.246169",
+        "hash": "95fa630b5f3a0cdc340ecf587dbdbf3f",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_066",
-      "category": "neon",
-      "title": "Neon Wallpaper 066",
+      "id": "minimal_011",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 011",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/066.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/066.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/011.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/011.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 329530,
+        "file_size": 13656,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.083839",
-        "hash": "64654f664c0974da4b0d33a2a052dbb2",
+        "added_at": "2025-07-17T00:04:02.399942",
+        "hash": "42b707933c1d17beb2e4fd0a0bedac51",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_067",
-      "category": "neon",
-      "title": "Neon Wallpaper 067",
+      "id": "minimal_012",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 012",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/067.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/067.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/012.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/012.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 177148,
+        "file_size": 152135,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.138093",
-        "hash": "0396a0ece73e631416709fbabd5428b3",
+        "added_at": "2025-07-17T00:04:02.538068",
+        "hash": "e9398214e38b2f6c32c28ed4813778eb",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_068",
-      "category": "neon",
-      "title": "Neon Wallpaper 068",
+      "id": "minimal_013",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 013",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/068.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/068.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/013.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/013.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 486716,
+        "file_size": 32003,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.218980",
-        "hash": "4bfb996148cca9bdfd82bc5e23a411ed",
+        "added_at": "2025-07-17T00:04:02.756168",
+        "hash": "b933895f3f5c1e768cdf36d90287550f",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_069",
-      "category": "neon",
-      "title": "Neon Wallpaper 069",
+      "id": "minimal_014",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 014",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/069.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/069.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/014.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/014.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 339323,
+        "file_size": 19445,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.279711",
-        "hash": "a7c8b8281b309372dc16e71a082e517c",
+        "added_at": "2025-07-17T00:04:02.946099",
+        "hash": "b03dd4c00d78b352c90850e38114d292",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_070",
-      "category": "neon",
-      "title": "Neon Wallpaper 070",
+      "id": "minimal_015",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 015",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/070.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/070.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/015.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/015.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 166997,
+        "file_size": 92870,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.330271",
-        "hash": "0d58b4e2c3095288af5258f48d7bf1ab",
+        "added_at": "2025-07-17T00:04:03.103877",
+        "hash": "75c396fc2ccfd2f75d1e45e70bd2080b",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_071",
-      "category": "neon",
-      "title": "Neon Wallpaper 071",
+      "id": "minimal_016",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 016",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/071.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/071.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/016.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/016.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 211715,
+        "file_size": 58117,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.383432",
-        "hash": "8eaeff967726106e61acdd9a6e7d7d25",
+        "added_at": "2025-07-17T00:04:03.382423",
+        "hash": "39d08cb71a9e6875b4b21c93edeb6dd6",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_072",
-      "category": "neon",
-      "title": "Neon Wallpaper 072",
+      "id": "minimal_017",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 017",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/072.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/072.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/017.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/017.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 162013,
+        "file_size": 146223,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.432726",
-        "hash": "0a7d40c6382f0b745600a15615f5971d",
+        "added_at": "2025-07-17T00:04:03.599248",
+        "hash": "791902219135e5d8193c56b0e5666a07",
         "source": "migrated"
       }
     }

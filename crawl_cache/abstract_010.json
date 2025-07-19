@@ -1,0 +1,28 @@
+{
+  "id": "abstract_010",
+  "source": "comprehensive_crawler",
+  "category": "abstract",
+  "title": "Abstract Wallpaper 10",
+  "description": "High-quality abstract wallpaper from curated sources",
+  "width": 1080,
+  "height": 1920,
+  "tags": [
+    "abstract",
+    "wallpaper",
+    "hd",
+    "high resolution",
+    "mobile",
+    "geometric",
+    "modern",
+    "artistic",
+    "pattern",
+    "creative"
+  ],
+  "download_url": "https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=1080&h=1920&fit=crop&fm=jpg&q=95",
+  "source_url": "https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=1080&h=1920&fit=crop&fm=jpg&q=95",
+  "variation": {
+    "fm": "jpg",
+    "q": "95"
+  },
+  "crawled_at": "2025-07-14T20:40:44.801944Z"
+}

@@ -1,0 +1,49 @@
+{
+  "path": "review_system/staging/nature_037.jpg",
+  "filename": "nature_037.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 6.51,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 4.86,
+    "brightness": 5.64,
+    "color_quality": 2.55,
+    "composition": 1.49,
+    "technical_quality": 9.29
+  },
+  "watermark_penalty": 2.5,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "nature_037",
+    "source": "wallhaven",
+    "category": "nature",
+    "title": "Nature Wallpaper 37",
+    "description": "High-quality nature wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "nature",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/gp/wallhaven-gp7oml.jpg",
+    "source_url": "https://w.wallhaven.cc/full/gp/wallhaven-gp7oml.jpg",
+    "original_info": {
+      "id": "wallhaven_gp7oml",
+      "url": "https://w.wallhaven.cc/full/gp/wallhaven-gp7oml.jpg",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "landscape wallpaper",
+      "width": 3724,
+      "height": 5430
+    },
+    "crawled_at": "2025-07-14T20:59:23.931572Z"
+  },
+  "assessed_at": "2025-07-14T15:32:31.714728Z"
+}

@@ -1,0 +1,642 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-19T12:26:57.111378",
+    "category": "ai",
+    "page": 3,
+    "per_page": 15,
+    "total_pages": 6,
+    "total_count": 83,
+    "count_on_page": 15,
+    "has_next": true,
+    "has_prev": true,
+    "next_page_url": "/api/v1/ai/pages/4.json",
+    "prev_page_url": "/api/v1/ai/pages/2.json"
+  },
+  "data": [
+    {
+      "id": "ai_061",
+      "category": "ai",
+      "title": "Ai AI Art - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1078,
+          "height": 1920
+        },
+        "file_size": 363158,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:00:04.916467",
+        "hash": "910615790ae16c2c9516b179530d8113",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_stats": {
+          "cryCount": 23,
+          "laughCount": 57,
+          "likeCount": 777,
+          "dislikeCount": 0,
+          "heartCount": 204,
+          "commentCount": 0
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/031.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/031.jpg"
+      }
+    },
+    {
+      "id": "ai_062",
+      "category": "ai",
+      "title": "Ai AI Art - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1080
+        },
+        "file_size": 310330,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:00:07.681988",
+        "hash": "7097139bbdb02b2fcf4c2efa0dd314bd",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_stats": {
+          "cryCount": 23,
+          "laughCount": 61,
+          "likeCount": 625,
+          "dislikeCount": 0,
+          "heartCount": 163,
+          "commentCount": 1
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/032.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/032.jpg"
+      }
+    },
+    {
+      "id": "ai_063",
+      "category": "ai",
+      "title": "Ai AI Art - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1078,
+          "height": 1920
+        },
+        "file_size": 416664,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:00:09.184109",
+        "hash": "c2ddbcbdf3783273328d33bcccf26851",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_stats": {
+          "cryCount": 20,
+          "laughCount": 40,
+          "likeCount": 615,
+          "dislikeCount": 0,
+          "heartCount": 157,
+          "commentCount": 0
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/033.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/033.jpg"
+      }
+    },
+    {
+      "id": "ai_074",
+      "category": "ai",
+      "title": "Ai AI Art - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1080
+        },
+        "file_size": 343349,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:04:32.014297",
+        "hash": "84eb4900387ac27550baade0d70ecaf9",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_stats": {
+          "cryCount": 26,
+          "laughCount": 44,
+          "likeCount": 599,
+          "dislikeCount": 0,
+          "heartCount": 134,
+          "commentCount": 2
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/034.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/034.jpg"
+      }
+    },
+    {
+      "id": "ai_075",
+      "category": "ai",
+      "title": "Ai AI Art - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1078,
+          "height": 1920
+        },
+        "file_size": 364537,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:04:35.046321",
+        "hash": "bab61c88d2fbd797b416d392a26be236",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_stats": {
+          "cryCount": 19,
+          "laughCount": 39,
+          "likeCount": 590,
+          "dislikeCount": 0,
+          "heartCount": 146,
+          "commentCount": 0
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/035.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/035.jpg"
+      }
+    },
+    {
+      "id": "ai_076",
+      "category": "ai",
+      "title": "Ai AI Art - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 960,
+          "height": 1920
+        },
+        "file_size": 435601,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:04:37.249871",
+        "hash": "144606724d10f4034d81645cc9645904",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_stats": {
+          "cryCount": 21,
+          "laughCount": 35,
+          "likeCount": 556,
+          "dislikeCount": 0,
+          "heartCount": 134,
+          "commentCount": 0
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/036.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/036.jpg"
+      }
+    },
+    {
+      "id": "ai_077",
+      "category": "ai",
+      "title": "Ai AI Art - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1078,
+          "height": 1920
+        },
+        "file_size": 424885,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:04:39.091326",
+        "hash": "9e84023fb8cbe2e9ee7aa2c41beaa28a",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_stats": {
+          "cryCount": 17,
+          "laughCount": 42,
+          "likeCount": 551,
+          "dislikeCount": 0,
+          "heartCount": 141,
+          "commentCount": 0
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/037.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/037.jpg"
+      }
+    },
+    {
+      "id": "ai_084",
+      "category": "ai",
+      "title": "lorack-shadow-circuit-IL078\nmasterpiece best quali - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "hassakuxlillustrious",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1576
+        },
+        "file_size": 219875,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:13:29.542458",
+        "hash": "2735b3619bb57cbb982ff1ced0ab6896",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "<lora:ck-shadow-circuit-IL:0.78>,\nmasterpiece, best quality, good quality, very aesthetic, absurdres, newest, 8K, depth of field, focused subject,\n close up, stylized, in gold and neon shades, wabi sabi, 1girl, rainbow angel wings,  looking at viewer, dynamic angle, from below, from side, relaxing\n<",
+        "ai_model": "hassakuXLIllustrious_v13StyleA",
+        "civitai_stats": {
+          "cryCount": 611,
+          "laughCount": 1190,
+          "likeCount": 9840,
+          "dislikeCount": 0,
+          "heartCount": 4116,
+          "commentCount": 12
+        },
+        "total_reactions": 13956
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/038.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/038.jpg"
+      }
+    },
+    {
+      "id": "ai_085",
+      "category": "ai",
+      "title": "loraGEN 01v08loraExpressive_H-000001loramodern_ani - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "meichidarkmix-meichi",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1680
+        },
+        "file_size": 212222,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:13:30.764724",
+        "hash": "2eb269623e81964f7786739957a23575",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "<lora:GEN 0.1v:0.8>,<lora:Expressive_H-000001>,<lora:modern_anime_screencap_v1_0:0.8>,source_anime,score_9,score_8_up,score_7_up,score_6_up,dark background,low light,\n1girl,solo,<lora:age_slider_v4:1.2>,adult,tall female,black hair,medium hair,bangs,full bangs,straight hair,red eyes,pale skin,skinde",
+        "ai_model": "meichidarkMix_meichidarkanimxlV1",
+        "civitai_stats": {
+          "cryCount": 609,
+          "laughCount": 1114,
+          "likeCount": 9648,
+          "dislikeCount": 0,
+          "heartCount": 3703,
+          "commentCount": 2
+        },
+        "total_reactions": 13351
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/039.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/039.jpg"
+      }
+    },
+    {
+      "id": "ai_090",
+      "category": "ai",
+      "title": "The image is a digital illustration in a detailed - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1024,
+          "height": 1536
+        },
+        "file_size": 541289,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:13:36.395788",
+        "hash": "fa0c86c4fb82b6a4e378945dcda0c715",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "The image is a digital illustration in a detailed, vibrant, high contrast, semi-realistic art style with 90s retro futuristic anime elements without noise or comic halftone effect. The subject is a woman with dark shoulder length hair and green eyes. Her face showing a serious expression. The theme ",
+        "civitai_stats": {
+          "cryCount": 622,
+          "laughCount": 1067,
+          "likeCount": 9115,
+          "dislikeCount": 0,
+          "heartCount": 3491,
+          "commentCount": 12
+        },
+        "total_reactions": 12606
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/040.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/040.jpg"
+      }
+    },
+    {
+      "id": "ai_091",
+      "category": "ai",
+      "title": "silhouette_with_gold_foil15 1girl pretty woman gre - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 194691,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:13:37.497776",
+        "hash": "cd03014cf2ed182bf9e120853f9e2740",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "(silhouette_with_gold_foil:1.5), 1girl, pretty woman, grey eyes, detailed face, long hair, twintails, capelet, dress, gloves, cherry blossom flower petals floating around her, setting sun in back ground illuminating the body, lost the deep forest, many trees and foliage around her, a mysterious terr",
+        "civitai_stats": {
+          "cryCount": 709,
+          "laughCount": 1225,
+          "likeCount": 8948,
+          "dislikeCount": 0,
+          "heartCount": 3328,
+          "commentCount": 8
+        },
+        "total_reactions": 12276
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/041.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/041.jpg"
+      }
+    },
+    {
+      "id": "ai_096",
+      "category": "ai",
+      "title": "loragr33nXLP1 gr33n solo 1girl long hair plant flo - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 177149,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:13:44.201611",
+        "hash": "4533d1ad2dfb97f416351a6f3161886e",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "<lora:gr33nXLP:1> gr33n, solo, 1girl, long hair, plant, flower, score_9, score_8_up, score_7_up, score_6_up,",
+        "civitai_stats": {
+          "cryCount": 534,
+          "laughCount": 996,
+          "likeCount": 8594,
+          "dislikeCount": 0,
+          "heartCount": 3204,
+          "commentCount": 9
+        },
+        "total_reactions": 11798
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/042.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/042.jpg"
+      }
+    },
+    {
+      "id": "ai_097",
+      "category": "ai",
+      "title": "in the style of ck-mgs nistyle Special Ink-drawing - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 254721,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:13:45.531939",
+        "hash": "d09d0f98cac4f0cf1092a28cb6899e3e",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "in the style of ck-mgs, nistyle, Special Ink-drawing mode, intricate linework with expressive contrasts, Mh1$AgThS2, Inkplash art on rice paper, sepia, henna , Silhouette Art, magnificent, inksplash closeup portrait of Chinese woman punting, sunset, calm lake, redlection",
+        "civitai_stats": {
+          "cryCount": 629,
+          "laughCount": 1105,
+          "likeCount": 8611,
+          "dislikeCount": 0,
+          "heartCount": 3164,
+          "commentCount": 9
+        },
+        "total_reactions": 11775
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/043.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/043.jpg"
+      }
+    },
+    {
+      "id": "ai_098",
+      "category": "ai",
+      "title": "in the style of ck-mgs nistyle Special Ink-drawing - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 296324,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:13:47.509857",
+        "hash": "cc56051801b75cb2ff023808e9d68264",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "in the style of ck-mgs, nistyle, Special Ink-drawing mode, intricate linework with expressive contrasts, Mh1$AgThS2, Inkplash art on rice paper, sepia, henna , Silhouette Art, magnificent, inksplash closeup portrait of stunning japanese female sc-fi soldier, helmet, mirrored visor reflecting jungle ",
+        "civitai_stats": {
+          "cryCount": 674,
+          "laughCount": 1040,
+          "likeCount": 8443,
+          "dislikeCount": 0,
+          "heartCount": 3193,
+          "commentCount": 7
+        },
+        "total_reactions": 11636
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/044.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/044.jpg"
+      }
+    },
+    {
+      "id": "ai_099",
+      "category": "ai",
+      "title": "concept art hidden face mysterious hooded full bod - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "wildcardxxlfusion-fu",
+        "high-resolution",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1389
+        },
+        "file_size": 208778,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:13:49.190566",
+        "hash": "0a6dd0ae43f1024e371fefe2c0852934",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "concept art hidden face, mysterious, hooded, full body, dark enigmatic warrior, standing, storm of falling shards, glowing ethereal giant heavy thick sword in hand, warrior\u00e2\u0080\u0099s intricate armor, tattered cloak that billows in the wind, atmosphere is charged with an otherworldly energy, fantasy realis",
+        "ai_model": "wildcardxXLFusion_fusionOG",
+        "civitai_stats": {
+          "cryCount": 557,
+          "laughCount": 1018,
+          "likeCount": 8477,
+          "dislikeCount": 0,
+          "heartCount": 3138,
+          "commentCount": 11
+        },
+        "total_reactions": 11615
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/045.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/045.jpg"
+      }
+    }
+  ]
+}

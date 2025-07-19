@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 93,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/94.json",
@@ -15,392 +15,404 @@
   },
   "data": [
     {
-      "id": "nature_252",
-      "category": "nature",
-      "title": "Nature Wallpaper 252",
+      "id": "dark_087",
+      "category": "dark",
+      "title": "Skull, Vincent van Gogh, 1887. - Reddit AI",
       "tags": [
-        "nature",
+        "dark",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 882,
+          "height": 1200
+        },
+        "file_size": 180159,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:47:02.981661",
+        "hash": "3061d5c941e19ecfefd078bb0b050546",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 19
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/087.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/087.jpg"
+      }
+    },
+    {
+      "id": "dark_088",
+      "category": "dark",
+      "title": "Satan in Red, Edward Hopper, 1 - Reddit AI",
+      "tags": [
+        "dark",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1453
+        },
+        "file_size": 310815,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:47:04.142429",
+        "hash": "588a4021bd3d4c9b305d07983ce0ff77",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 10
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/088.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/088.jpg"
+      }
+    },
+    {
+      "id": "dark_089",
+      "category": "dark",
+      "title": "The Meaning of Night, Rene Mag - Reddit AI",
+      "tags": [
+        "dark",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1458
+        },
+        "file_size": 431687,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:47:06.326296",
+        "hash": "7df51e8c3b5f629e009cd024a6bede3e",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 14
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/089.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/089.jpg"
+      }
+    },
+    {
+      "id": "dark_090",
+      "category": "dark",
+      "title": "The Flayed Angel, Jacques Fabi - Reddit AI",
+      "tags": [
+        "dark",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1337
+        },
+        "file_size": 464185,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:47:09.529658",
+        "hash": "9c100d3e612a9dc8e47fa2bd27b58a9b",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 24
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/090.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/090.jpg"
+      }
+    },
+    {
+      "id": "gaming_001",
+      "category": "gaming",
+      "title": "Gaming Wallpaper 001",
+      "tags": [
+        "gaming",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/252.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/252.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/001.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/001.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 533712,
+        "file_size": 367817,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:29.092380",
-        "hash": "0d4a02ce4fe0e25c5def93e439aefd7d",
+        "added_at": "2025-07-17T00:03:40.484613",
+        "hash": "aa8b9e6ea5950f327b74fd0803083e7d",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_253",
-      "category": "nature",
-      "title": "Nature Wallpaper 253",
+      "id": "gaming_002",
+      "category": "gaming",
+      "title": "Gaming Wallpaper 002",
       "tags": [
-        "nature",
+        "gaming",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/253.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/253.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/002.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/002.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 355529,
+        "file_size": 295008,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:29.153087",
-        "hash": "cf4dc280c0e5b2714f40ee1466e16afc",
+        "added_at": "2025-07-17T00:03:40.729302",
+        "hash": "a038d153b3124eebba41e8ac626b4ede",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_254",
-      "category": "nature",
-      "title": "Nature Wallpaper 254",
+      "id": "gaming_003",
+      "category": "gaming",
+      "title": "Gaming Wallpaper 003",
       "tags": [
-        "nature",
+        "gaming",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/254.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/254.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/003.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/003.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 715569,
+        "file_size": 216972,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:29.230568",
-        "hash": "6632117749f736bc83b1435c4b1ffa9e",
+        "added_at": "2025-07-17T00:03:41.012928",
+        "hash": "1cb38b2a1cd52ab3ac1c679c624696b9",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_255",
-      "category": "nature",
-      "title": "Nature Wallpaper 255",
+      "id": "gaming_004",
+      "category": "gaming",
+      "title": "Gaming Wallpaper 004",
       "tags": [
-        "nature",
+        "gaming",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/255.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/255.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/004.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/004.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 398957,
+        "file_size": 257938,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:29.294412",
-        "hash": "1dc5044ac01bcfb76fc0b1b6a2a6f6ca",
+        "added_at": "2025-07-17T00:03:41.167756",
+        "hash": "8bcc15e227cd4bc293a834d97240bfd8",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_256",
-      "category": "nature",
-      "title": "Nature Wallpaper 256",
+      "id": "gaming_005",
+      "category": "gaming",
+      "title": "Gaming Wallpaper 005",
       "tags": [
-        "nature",
+        "gaming",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/256.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/256.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/005.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/005.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 150770,
+        "file_size": 323079,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:29.348837",
-        "hash": "06b1b748fdef7b6a6e8118a4c06c3bb5",
+        "added_at": "2025-07-17T00:03:41.443412",
+        "hash": "3c104c307968ca996a44dcb8953c90f0",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_257",
-      "category": "nature",
-      "title": "Nature Wallpaper 257",
+      "id": "gaming_006",
+      "category": "gaming",
+      "title": "Gaming Wallpaper 006",
       "tags": [
-        "nature",
+        "gaming",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/257.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/257.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/006.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/006.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 321764,
+        "file_size": 240977,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:29.407981",
-        "hash": "484f5a90124c7010568e3255ad694f48",
+        "added_at": "2025-07-17T00:03:41.710744",
+        "hash": "4d4cea3d4dc64dfde289c437a82743a5",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_258",
-      "category": "nature",
-      "title": "Nature Wallpaper 258",
+      "id": "gaming_007",
+      "category": "gaming",
+      "title": "Gaming Wallpaper 007",
       "tags": [
-        "nature",
+        "gaming",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/258.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/258.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/007.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/007.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 328813,
+        "file_size": 461050,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:29.466745",
-        "hash": "2195f1a6ffcdc7bc0842ecd83e7d4e4d",
+        "added_at": "2025-07-17T00:03:41.881355",
+        "hash": "04dce92faad5b3f4827ee8a50a1f5f58",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_259",
-      "category": "nature",
-      "title": "Nature Wallpaper 259",
+      "id": "gaming_008",
+      "category": "gaming",
+      "title": "Gaming Wallpaper 008",
       "tags": [
-        "nature",
+        "gaming",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/259.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/259.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/008.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/008.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 755988,
+        "file_size": 161930,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:29.546954",
-        "hash": "b9473e3c7b42c19bd6066f85acf1397a",
+        "added_at": "2025-07-17T00:03:42.121135",
+        "hash": "ae46cc89fc8400507c02ce08e049ff4e",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_260",
-      "category": "nature",
-      "title": "Nature Wallpaper 260",
+      "id": "gaming_009",
+      "category": "gaming",
+      "title": "Gaming Wallpaper 009",
       "tags": [
-        "nature",
+        "gaming",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/260.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/260.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/009.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/009.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 445838,
+        "file_size": 245937,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:29.611470",
-        "hash": "b67e8a67b650b8ffc6930d26841d7e8a",
+        "added_at": "2025-07-17T00:03:42.294088",
+        "hash": "5e682b258f14abaa6f9e3e9ccf3752cb",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_261",
-      "category": "nature",
-      "title": "Nature Wallpaper 261",
+      "id": "gaming_010",
+      "category": "gaming",
+      "title": "Gaming Wallpaper 010",
       "tags": [
-        "nature",
+        "gaming",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/261.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/261.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/010.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/010.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 302253,
+        "file_size": 87132,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:29.669300",
-        "hash": "c77e400810861db17a6f7b5c40232fec",
+        "added_at": "2025-07-17T00:03:42.540767",
+        "hash": "6e9671fe758be87a7e38b61ae9ca3000",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_262",
-      "category": "nature",
-      "title": "Nature Wallpaper 262",
+      "id": "gaming_011",
+      "category": "gaming",
+      "title": "Gaming Wallpaper 011",
       "tags": [
-        "nature",
+        "gaming",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/262.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/262.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/011.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/011.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 219258,
+        "file_size": 33613,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:29.753281",
-        "hash": "162be48a8ad8793e18519a9b3fe2d344",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_263",
-      "category": "nature",
-      "title": "Nature Wallpaper 263",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/263.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/263.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 239571,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:29.807732",
-        "hash": "809bd37c5196aabc6e64e204f79b2ecb",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_264",
-      "category": "nature",
-      "title": "Nature Wallpaper 264",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/264.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/264.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 732084,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:29.885733",
-        "hash": "7134d8b37d2872b672bd7c56ffbd9595",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_265",
-      "category": "nature",
-      "title": "Nature Wallpaper 265",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/265.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/265.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 644165,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:29.960666",
-        "hash": "a370149415386ebce76d1bea75ef71c3",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_266",
-      "category": "nature",
-      "title": "Nature Wallpaper 266",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/266.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/266.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 434197,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:30.023354",
-        "hash": "8f671c1027a5001b20fe1ed83ded7000",
+        "added_at": "2025-07-17T00:03:42.756167",
+        "hash": "0959f93a810d06ee9c4fc2625d6db66a",
         "source": "migrated"
       }
     }

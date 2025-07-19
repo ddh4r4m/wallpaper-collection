@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-19T12:26:57.111378",
+    "category": "nature",
+    "page": 21,
+    "per_page": 15,
+    "total_pages": 21,
+    "total_count": 304,
+    "count_on_page": 4,
+    "has_next": false,
+    "has_prev": true,
+    "next_page_url": null,
+    "prev_page_url": "/api/v1/nature/pages/20.json"
+  },
+  "data": [
+    {
+      "id": "nature_301",
+      "category": "nature",
+      "title": "Tasmanian Rainforest [OC][3000 - Reddit AI",
+      "tags": [
+        "nature",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1620
+        },
+        "file_size": 573180,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:45:41.637445",
+        "hash": "788f5e876b13662ce2ea40f62a99569f",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 1182
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/301.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/301.jpg"
+      }
+    },
+    {
+      "id": "nature_302",
+      "category": "nature",
+      "title": "Arch Cape, OR [OC] [4000x6000] - Reddit AI",
+      "tags": [
+        "nature",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1620
+        },
+        "file_size": 453244,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:45:43.770092",
+        "hash": "1fd3ff40f5ee9afba439085b675236cc",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 36
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/302.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/302.jpg"
+      }
+    },
+    {
+      "id": "nature_303",
+      "category": "nature",
+      "title": "Ridges and glaciers in the Nor - Reddit AI",
+      "tags": [
+        "nature",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 113335,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:45:45.015701",
+        "hash": "e5d2d730c36e6ecb2b3ed72d3f18abf5",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 486
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/303.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/303.jpg"
+      }
+    },
+    {
+      "id": "nature_304",
+      "category": "nature",
+      "title": "The Deschutes River, Oregon [4 - Reddit AI",
+      "tags": [
+        "nature",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 810
+        },
+        "file_size": 268577,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:45:46.309020",
+        "hash": "edf86eb35c90367e8e2c41196cb1c2eb",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 96
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/304.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/304.jpg"
+      }
+    }
+  ]
+}

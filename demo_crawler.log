@@ -1,0 +1,20 @@
+2025-07-14 20:13:47,331 - INFO - Crawling demo images for category: nature
+2025-07-14 20:13:50,667 - INFO - Downloaded: demo_nature_001.jpg
+2025-07-14 20:13:51,813 - INFO - Downloaded: demo_nature_002.jpg
+2025-07-14 20:13:54,203 - INFO - Downloaded: demo_nature_003.jpg
+2025-07-14 20:13:55,209 - INFO - Demo crawl completed for nature: 3 images
+2025-07-14 20:15:12,915 - INFO - Crawling demo images for category: abstract
+2025-07-14 20:15:17,551 - INFO - Downloaded: demo_abstract_001.jpg
+2025-07-14 20:15:18,931 - ERROR - Failed to download https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop
+2025-07-14 20:15:19,946 - INFO - Demo crawl completed for abstract: 1 images
+2025-07-14 20:15:40,136 - INFO - Crawling demo images for category: space
+2025-07-14 20:15:40,554 - INFO - Downloaded: demo_space_001.jpg
+2025-07-14 20:15:42,057 - INFO - Downloaded: demo_space_002.jpg
+2025-07-14 20:15:43,064 - INFO - Demo crawl completed for space: 2 images
+2025-07-14 20:21:59,478 - INFO - Crawling demo images for category: nature
+2025-07-14 20:21:59,640 - INFO - Duplicate image skipped: demo_nature_001.jpg
+2025-07-14 20:22:00,668 - INFO - Duplicate image skipped: demo_nature_002.jpg
+2025-07-14 20:22:01,698 - INFO - Duplicate image skipped: demo_nature_003.jpg
+2025-07-14 20:22:03,957 - INFO - Downloaded: demo_nature_004.jpg
+2025-07-14 20:22:06,295 - INFO - Downloaded: demo_nature_005.jpg
+2025-07-14 20:22:07,308 - INFO - Demo crawl completed for nature: 2 images

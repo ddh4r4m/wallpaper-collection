@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 29,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/30.json",
@@ -15,378 +15,438 @@
   },
   "data": [
     {
-      "id": "anime_002",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_221",
+      "category": "abstract",
+      "title": "HiDream image editing model re - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 2184,
-          "height": 3089
+          "width": 1080,
+          "height": 445
         },
-        "file_size": 7500202,
-        "added_at": "2025-07-16T20:56:14.529346",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_004.jpg"
+        "file_size": 144067,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:24:43.356451",
+        "hash": "6df9cdfd51538bc589848fcfa205a62d",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 220
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/002.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/002.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/221.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/221.jpg"
       }
     },
     {
-      "id": "anime_003",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_222",
+      "category": "abstract",
+      "title": "Wan 2.2 is coming this month. - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 6000,
-          "height": 2571
+          "width": 1080,
+          "height": 1296
         },
-        "file_size": 7902904,
-        "added_at": "2025-07-16T20:56:14.684690",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_005.jpg"
+        "file_size": 138209,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:24:44.457405",
+        "hash": "ea19541abf06bfe015a6b45e51365687",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 277
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/003.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/003.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/222.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/222.jpg"
       }
     },
     {
-      "id": "anime_004",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_223",
+      "category": "abstract",
+      "title": "I've released Place it - Fuse  - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 3840,
-          "height": 2160
+          "width": 1080,
+          "height": 720
         },
-        "file_size": 13502782,
-        "added_at": "2025-07-16T20:56:14.883858",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_006.jpg"
+        "file_size": 125210,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:24:45.906452",
+        "hash": "db02b531f07963a6e8d888923a98302f",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 443
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/004.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/004.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/223.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/223.jpg"
       }
     },
     {
-      "id": "anime_005",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_224",
+      "category": "abstract",
+      "title": "Smoking coffee - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 6000,
-          "height": 2800
+          "width": 1024,
+          "height": 1024
         },
-        "file_size": 18097715,
-        "added_at": "2025-07-16T20:56:15.131120",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_008.jpg"
+        "file_size": 116221,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:24:46.997390",
+        "hash": "e65893e5ead55a1d1ede3a75275746eb",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 22
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/005.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/005.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/224.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/224.jpg"
       }
     },
     {
-      "id": "anime_006",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_225",
+      "category": "abstract",
+      "title": "Midjourney's V7 Model is Here! - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 5640,
-          "height": 2400
+          "width": 1080,
+          "height": 541
         },
-        "file_size": 2972150,
-        "added_at": "2025-07-16T20:56:15.210695",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_010.jpg"
+        "file_size": 157410,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:24:49.845095",
+        "hash": "fe7fb60566de5cb3cbd1652507c2c3a2",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 64
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/006.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/006.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/225.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/225.jpg"
       }
     },
     {
-      "id": "anime_007",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_226",
+      "category": "abstract",
+      "title": "The Lone Wanderer - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 2500,
-          "height": 1124
+          "width": 900,
+          "height": 900
         },
-        "file_size": 758379,
-        "added_at": "2025-07-16T20:56:15.235573",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_011.jpg"
+        "file_size": 206607,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:24:51.252391",
+        "hash": "ac9db80c7048ecb3359cf0cfad0a1824",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 30
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/007.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/007.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/226.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/226.jpg"
       }
     },
     {
-      "id": "anime_008",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_227",
+      "category": "abstract",
+      "title": "Waspbewwy - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 5974,
-          "height": 3216
+          "width": 1080,
+          "height": 893
         },
-        "file_size": 5500740,
-        "added_at": "2025-07-16T20:56:15.360458",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_012.jpg"
+        "file_size": 135098,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:24:52.385936",
+        "hash": "564cdd8919f980928535588644d1532b",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 68
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/008.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/008.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/227.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/227.jpg"
       }
     },
     {
-      "id": "anime_009",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_228",
+      "category": "abstract",
+      "title": "The Veilstone Reliquary - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 1920,
-          "height": 1080
+          "width": 1080,
+          "height": 1620
         },
-        "file_size": 1325361,
-        "added_at": "2025-07-16T20:56:15.396436",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_013.jpg"
+        "file_size": 422237,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:24:54.482539",
+        "hash": "e681b3fb7fbd0aa6bf575c0551a76ee4",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 15
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/009.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/009.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/228.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/228.jpg"
       }
     },
     {
-      "id": "anime_010",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_229",
+      "category": "abstract",
+      "title": "InScene: Flux Kontext LoRA for - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 5120,
-          "height": 2880
+          "width": 1080,
+          "height": 1237
         },
-        "file_size": 14627186,
-        "added_at": "2025-07-16T20:56:15.705953",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_014.jpg"
+        "file_size": 184489,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:43:53.900058",
+        "hash": "fb0e599908bad4c59fae0ae91d0bd868",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 325
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/010.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/010.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/229.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/229.jpg"
       }
     },
     {
-      "id": "anime_011",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_230",
+      "category": "abstract",
+      "title": "Clearing up VAE latents even f - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 3840,
-          "height": 1451
+          "width": 1080,
+          "height": 599
         },
-        "file_size": 1166446,
-        "added_at": "2025-07-16T20:56:15.745077",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_015.jpg"
+        "file_size": 111366,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:43:59.589515",
+        "hash": "1417b4305a41f9af9a3ea448d01170d9",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 32
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/011.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/011.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/230.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/230.jpg"
       }
     },
     {
-      "id": "anime_012",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_231",
+      "category": "abstract",
+      "title": "Flux Kontext Mask Inpainting W - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 3840,
-          "height": 2160
+          "width": 1080,
+          "height": 559
         },
-        "file_size": 6190130,
-        "added_at": "2025-07-16T20:56:15.913082",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_016.jpg"
+        "file_size": 134114,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:44:03.583778",
+        "hash": "1644a7fdb3c119ad70070c9e32881d8b",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 8
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/012.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/012.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/231.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/231.jpg"
       }
     },
     {
-      "id": "anime_013",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_232",
+      "category": "abstract",
+      "title": "Midjourney's V7 Model is Here! - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 3000,
-          "height": 2207
+          "width": 1080,
+          "height": 541
         },
-        "file_size": 1428068,
-        "added_at": "2025-07-16T20:56:16.007790",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_017.jpg"
+        "file_size": 157410,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:44:21.163429",
+        "hash": "fe7fb60566de5cb3cbd1652507c2c3a2",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 66
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/013.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/013.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/232.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/232.jpg"
       }
     },
     {
-      "id": "anime_014",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_233",
+      "category": "abstract",
+      "title": "How I imagine ancient Rome wou - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 4320,
-          "height": 7680
+          "width": 1024,
+          "height": 1024
         },
-        "file_size": 7249712,
-        "added_at": "2025-07-16T20:56:16.234409",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_020.jpg"
+        "file_size": 234304,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:44:23.198148",
+        "hash": "efd12905ccb229eb122960133a91faea",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 797
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/014.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/014.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/233.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/233.jpg"
       }
     },
     {
-      "id": "anime_015",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_234",
+      "category": "abstract",
+      "title": "Be your own boss - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 3966,
-          "height": 2230
+          "width": 1080,
+          "height": 720
         },
-        "file_size": 2999712,
-        "added_at": "2025-07-16T20:56:16.300077",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_021.jpg"
+        "file_size": 176660,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:44:24.650071",
+        "hash": "ff0c54110facb606796c64ccc7a8adbb",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 34
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/015.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/015.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/234.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/234.jpg"
       }
     },
     {
-      "id": "anime_016",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_235",
+      "category": "abstract",
+      "title": "Ok. - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 5060,
-          "height": 2430
+          "width": 928,
+          "height": 1232
         },
-        "file_size": 8071637,
-        "added_at": "2025-07-16T20:56:16.499501",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_022.jpg"
+        "file_size": 138473,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:44:26.381590",
+        "hash": "0f88e8dc7be55c54b5ec54ed03c1e0aa",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 8
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/016.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/016.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/235.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/235.jpg"
       }
     }
   ]

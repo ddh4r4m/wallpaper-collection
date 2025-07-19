@@ -1,0 +1,49 @@
+{
+  "path": "review_system/staging/technology_006.jpg",
+  "filename": "technology_006.jpg",
+  "status": "approved",
+  "reason": "High quality image",
+  "overall_score": 8.57,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 9.17,
+    "brightness": 8.94,
+    "color_quality": 2.0,
+    "composition": 7.36,
+    "technical_quality": 9.47
+  },
+  "watermark_penalty": 0.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "technology_006",
+    "source": "comprehensive_crawler",
+    "category": "technology",
+    "title": "Technology Wallpaper 6",
+    "description": "High-quality technology wallpaper from curated sources",
+    "width": 1080,
+    "height": 1920,
+    "tags": [
+      "technology",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile",
+      "tech",
+      "digital",
+      "futuristic",
+      "electronic",
+      "innovation"
+    ],
+    "download_url": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=90",
+    "source_url": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=90",
+    "variation": {
+      "crop": "entropy",
+      "fm": "jpg",
+      "q": "90"
+    },
+    "crawled_at": "2025-07-14T20:41:59.063005Z"
+  },
+  "assessed_at": "2025-07-14T15:15:32.638306Z"
+}

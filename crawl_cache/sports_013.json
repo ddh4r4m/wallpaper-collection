@@ -1,0 +1,29 @@
+{
+  "id": "sports_013",
+  "source": "comprehensive_crawler",
+  "category": "sports",
+  "title": "Sports Wallpaper 13",
+  "description": "High-quality sports wallpaper from curated sources",
+  "width": 1080,
+  "height": 1920,
+  "tags": [
+    "sports",
+    "wallpaper",
+    "hd",
+    "high resolution",
+    "mobile",
+    "athletic",
+    "fitness",
+    "competition",
+    "action",
+    "energy"
+  ],
+  "download_url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=90",
+  "source_url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=90",
+  "variation": {
+    "crop": "entropy",
+    "fm": "jpg",
+    "q": "90"
+  },
+  "crawled_at": "2025-07-14T20:49:09.414345Z"
+}

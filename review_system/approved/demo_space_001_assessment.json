@@ -1,0 +1,38 @@
+{
+  "path": "crawl_cache/demo_space_001.jpg",
+  "filename": "demo_space_001.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 7.62,
+  "detailed_scores": {
+    "sharpness": 7.93,
+    "contrast": 7.4,
+    "brightness": 3.51,
+    "color_quality": 2.47,
+    "composition": 9.09,
+    "technical_quality": 9.71
+  },
+  "watermark_penalty": 0.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "space_001",
+    "source": "unsplash_demo",
+    "category": "space",
+    "title": "Space Demo Wallpaper 1",
+    "description": "Demo space wallpaper from Unsplash",
+    "width": 1080,
+    "height": 1920,
+    "tags": [
+      "space",
+      "demo",
+      "wallpaper",
+      "mobile"
+    ],
+    "download_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop",
+    "source_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop",
+    "crawled_at": "2025-07-14T14:45:40.137173Z"
+  },
+  "assessed_at": "2025-07-14T14:45:49.807782Z"
+}

@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 72,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/73.json",
@@ -15,393 +15,393 @@
   },
   "data": [
     {
-      "id": "gaming_059",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 059",
+      "id": "art_034",
+      "category": "art",
+      "title": "Art Wallpaper 034",
       "tags": [
-        "gaming",
+        "art",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/059.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/059.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/034.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/034.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 221578,
+        "file_size": 310138,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:55.504433",
-        "hash": "b066a64a4f8943dd8f4cdf8681b4636f",
+        "added_at": "2025-07-17T00:03:04.035335",
+        "hash": "0a138c6c1f53bfd3c05649d832645dbe",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_060",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 060",
+      "id": "art_035",
+      "category": "art",
+      "title": "Art Wallpaper 035",
       "tags": [
-        "gaming",
+        "art",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/060.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/060.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/035.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/035.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 492415,
+        "file_size": 412329,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:55.950235",
-        "hash": "f14598a18f830a8d3b289f3757fcd96e",
+        "added_at": "2025-07-17T00:03:04.099006",
+        "hash": "98cd64933b0eb6b7be7589de44043c34",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_061",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 061",
+      "id": "art_036",
+      "category": "art",
+      "title": "Art Wallpaper 036",
       "tags": [
-        "gaming",
+        "art",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/061.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/061.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/036.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/036.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 144059,
+        "file_size": 191459,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:56.129325",
-        "hash": "b4c0f7afd42a078ab69b876a12f4731f",
+        "added_at": "2025-07-17T00:03:04.151532",
+        "hash": "38db742b6c6f85d6d4b77cdf8d8c8f1a",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_062",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 062",
+      "id": "art_037",
+      "category": "art",
+      "title": "Art Wallpaper 037",
       "tags": [
-        "gaming",
+        "art",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/062.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/062.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/037.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/037.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 272188,
+        "file_size": 50280,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:56.850335",
-        "hash": "482fc81c19832dee6dcd5f2243d2f1cb",
+        "added_at": "2025-07-17T00:03:04.194932",
+        "hash": "1a01013f305f469d677b7503f1e3d7af",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_063",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 063",
+      "id": "art_038",
+      "category": "art",
+      "title": "Art Wallpaper 038",
       "tags": [
-        "gaming",
+        "art",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/063.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/063.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/038.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/038.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 249948,
+        "file_size": 102262,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:56.991538",
-        "hash": "f6f04431db616229657bb62648b01cb4",
+        "added_at": "2025-07-17T00:03:04.242125",
+        "hash": "d3bfd30b802b5f22cc3c46b3028181fd",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_064",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 064",
+      "id": "art_039",
+      "category": "art",
+      "title": "Art Wallpaper 039",
       "tags": [
-        "gaming",
+        "art",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/064.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/064.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/039.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/039.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 200743,
+        "file_size": 517883,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:57.152599",
-        "hash": "29364a3a6eb5139aa8629b448d84ae40",
+        "added_at": "2025-07-17T00:03:04.311810",
+        "hash": "19404aaa46470b9a997eddf0ed66d57d",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_065",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 065",
+      "id": "art_040",
+      "category": "art",
+      "title": "Art Wallpaper 040",
       "tags": [
-        "gaming",
+        "art",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/065.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/065.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/040.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/040.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 117678,
+        "file_size": 861916,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:57.307627",
-        "hash": "7ee0502fef0e2ad552a6f1f32edbf25b",
+        "added_at": "2025-07-17T00:03:04.399177",
+        "hash": "a215cf20503cd6225388f28c256e3381",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_066",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 066",
+      "id": "art_041",
+      "category": "art",
+      "title": "Art Wallpaper 041",
       "tags": [
-        "gaming",
+        "art",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/066.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/066.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/041.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/041.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 275237,
+        "file_size": 442853,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:57.450452",
-        "hash": "cbc5bc774f09a7d017e4abcad27cf71d",
+        "added_at": "2025-07-17T00:03:04.465727",
+        "hash": "6243ab312c5d3bc591ce3b3e2be02ff9",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_067",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 067",
+      "id": "art_042",
+      "category": "art",
+      "title": "Art Wallpaper 042",
       "tags": [
-        "gaming",
+        "art",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/067.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/067.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/042.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/042.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 215444,
+        "file_size": 755121,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:57.529195",
-        "hash": "9d5cf8461d44a721bcb23d659f9e16c2",
+        "added_at": "2025-07-17T00:03:04.548181",
+        "hash": "cee1052edbbb91d1fd9e179ba84dc25d",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_068",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 068",
+      "id": "art_043",
+      "category": "art",
+      "title": "Art Wallpaper 043",
       "tags": [
-        "gaming",
+        "art",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/068.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/068.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/043.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/043.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 238485,
+        "file_size": 204197,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:58.225573",
-        "hash": "5c1374488faa64c9f5aa49ef0a28982a",
+        "added_at": "2025-07-17T00:03:04.602211",
+        "hash": "241710256a08c2eafbaad135f6b8be4c",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_069",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 069",
+      "id": "art_044",
+      "category": "art",
+      "title": "Art Wallpaper 044",
       "tags": [
-        "gaming",
+        "art",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/069.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/069.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/044.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/044.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 404546,
+        "file_size": 166327,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:58.505307",
-        "hash": "834a8beda8a9cb70fbdcc37024f323b1",
+        "added_at": "2025-07-17T00:03:04.651220",
+        "hash": "11f2528b625c85e21db6788a97e96b0a",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_070",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 070",
+      "id": "art_045",
+      "category": "art",
+      "title": "Art Wallpaper 045",
       "tags": [
-        "gaming",
+        "art",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/070.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/070.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/045.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/045.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 131464,
+        "file_size": 148007,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:58.769215",
-        "hash": "3e3a2ebb057c60fd078b51a8471d4da3",
+        "added_at": "2025-07-17T00:03:04.701925",
+        "hash": "3862bf74b658ddbc0667a88f6d31bfd6",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_071",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 071",
+      "id": "art_046",
+      "category": "art",
+      "title": "Art Wallpaper 046",
       "tags": [
-        "gaming",
+        "art",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/071.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/071.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/046.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/046.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 529073,
+        "file_size": 119553,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:58.975352",
-        "hash": "b7d550cc5bbd85944d840ac324083acd",
+        "added_at": "2025-07-17T00:03:04.749696",
+        "hash": "4592bf84c261b60f1815ff206c9a77c5",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_072",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 072",
+      "id": "art_047",
+      "category": "art",
+      "title": "Art Wallpaper 047",
       "tags": [
-        "gaming",
+        "art",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/072.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/072.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/047.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/047.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 103660,
+        "file_size": 712140,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:59.264838",
-        "hash": "9218a903e0900d3639fdbc3a452bfb59",
+        "added_at": "2025-07-17T00:03:04.828062",
+        "hash": "5dcac967a2e52c275e33b24ff3cf3553",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_073",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 073",
+      "id": "art_048",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "gaming",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/073.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/073.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1440
         },
-        "file_size": 301902,
+        "file_size": 183906,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:59.493472",
-        "hash": "6c595a8041999e4a24e9b3237bc53956",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:23:38.696034",
+        "hash": "98e96f423186a602bebb4f32e1bf0716",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/048.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/048.jpg"
       }
     }
   ]

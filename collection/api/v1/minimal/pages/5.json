@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-19T12:26:57.111378",
+    "category": "minimal",
+    "page": 5,
+    "per_page": 15,
+    "total_pages": 5,
+    "total_count": 64,
+    "count_on_page": 4,
+    "has_next": false,
+    "has_prev": true,
+    "next_page_url": null,
+    "prev_page_url": "/api/v1/minimal/pages/4.json"
+  },
+  "data": [
+    {
+      "id": "minimal_061",
+      "category": "minimal",
+      "title": "Smoking coffee - Reddit AI",
+      "tags": [
+        "minimal",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "file_size": 116221,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:27:21.279492",
+        "hash": "e65893e5ead55a1d1ede3a75275746eb",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 23
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/061.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/061.jpg"
+      }
+    },
+    {
+      "id": "minimal_062",
+      "category": "minimal",
+      "title": "InScene: Flux Kontext LoRA for - Reddit AI",
+      "tags": [
+        "minimal",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1237
+        },
+        "file_size": 184489,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:46:12.164381",
+        "hash": "fb0e599908bad4c59fae0ae91d0bd868",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 327
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/062.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/062.jpg"
+      }
+    },
+    {
+      "id": "minimal_063",
+      "category": "minimal",
+      "title": "Clearing up VAE latents even f - Reddit AI",
+      "tags": [
+        "minimal",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 599
+        },
+        "file_size": 111366,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:46:13.382946",
+        "hash": "1417b4305a41f9af9a3ea448d01170d9",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 30
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/063.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/063.jpg"
+      }
+    },
+    {
+      "id": "minimal_064",
+      "category": "minimal",
+      "title": "Flux Kontext Mask Inpainting W - Reddit AI",
+      "tags": [
+        "minimal",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 559
+        },
+        "file_size": 134114,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:46:14.512896",
+        "hash": "1644a7fdb3c119ad70070c9e32881d8b",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 6
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/064.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/064.jpg"
+      }
+    }
+  ]
+}

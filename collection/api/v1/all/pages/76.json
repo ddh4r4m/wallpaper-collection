@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 76,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/77.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "minimal_043",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 043",
+      "id": "cars_004",
+      "category": "cars",
+      "title": "Cars Wallpaper 004",
       "tags": [
-        "minimal",
+        "cars",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/043.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/043.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/004.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/004.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 14612,
+        "file_size": 246325,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:11.278165",
-        "hash": "1ac9cde7f83354a31fb35b799f23df4f",
+        "added_at": "2025-07-17T00:03:05.896679",
+        "hash": "22ad96e0f693951f5fb4bc1b8cdcd788",
         "source": "migrated"
       }
     },
     {
-      "id": "minimal_044",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 044",
+      "id": "cars_005",
+      "category": "cars",
+      "title": "Cars Wallpaper 005",
       "tags": [
-        "minimal",
+        "cars",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/044.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/044.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/005.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/005.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 12724,
+        "file_size": 214497,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:11.495400",
-        "hash": "0c14d96fe4516058fa62ea25fd6b5042",
+        "added_at": "2025-07-17T00:03:06.105394",
+        "hash": "422b548aeec90542295969e3a1c2ce39",
         "source": "migrated"
       }
     },
     {
-      "id": "minimal_045",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 045",
+      "id": "cars_006",
+      "category": "cars",
+      "title": "Cars Wallpaper 006",
       "tags": [
-        "minimal",
+        "cars",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/045.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/045.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/006.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/006.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 23466,
+        "file_size": 158269,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:11.733509",
-        "hash": "9d81c835bec513ff1d65ff535c367440",
+        "added_at": "2025-07-17T00:03:06.542913",
+        "hash": "a6ccf382192543b284f1ad6524d4e0d5",
         "source": "migrated"
       }
     },
     {
-      "id": "minimal_046",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 046",
+      "id": "cars_007",
+      "category": "cars",
+      "title": "Cars Wallpaper 007",
       "tags": [
-        "minimal",
+        "cars",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/046.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/046.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/007.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/007.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 499737,
+        "file_size": 143348,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:11.886739",
-        "hash": "7a1a0c9d1c322e4b4f99e6fcf311ce40",
+        "added_at": "2025-07-17T00:03:06.831036",
+        "hash": "6d844d603e9929159e47381554de35e5",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_001",
-      "category": "nature",
-      "title": "Nature Wallpaper 001",
+      "id": "cars_008",
+      "category": "cars",
+      "title": "Cars Wallpaper 008",
       "tags": [
-        "nature",
+        "cars",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/001.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/001.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/008.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/008.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 697917,
+        "file_size": 286126,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:11.965564",
-        "hash": "3c273e19c690025db7dc9ab1d94bf985",
+        "added_at": "2025-07-17T00:03:07.032944",
+        "hash": "fbbcb3d2cfc285f19e4426466db1aedd",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_002",
-      "category": "nature",
-      "title": "Nature Wallpaper 002",
+      "id": "cars_009",
+      "category": "cars",
+      "title": "Cars Wallpaper 009",
       "tags": [
-        "nature",
+        "cars",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/002.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/002.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/009.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/009.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 692614,
+        "file_size": 364488,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:12.041958",
-        "hash": "023897eb05ffea369cc56c267308edeb",
+        "added_at": "2025-07-17T00:03:07.248285",
+        "hash": "357105247b7ebc82ae3ae232cc671153",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_003",
-      "category": "nature",
-      "title": "Nature Wallpaper 003",
+      "id": "cars_010",
+      "category": "cars",
+      "title": "Cars Wallpaper 010",
       "tags": [
-        "nature",
+        "cars",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/003.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/003.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/010.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/010.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 574117,
+        "file_size": 256900,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:12.113866",
-        "hash": "1f617ebb1245e8f2e6dc66ba98c0791c",
+        "added_at": "2025-07-17T00:03:07.506017",
+        "hash": "98e85b0e6f4547589baf4a9e8ef8b934",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_004",
-      "category": "nature",
-      "title": "Nature Wallpaper 004",
+      "id": "cars_011",
+      "category": "cars",
+      "title": "Cars Wallpaper 011",
       "tags": [
-        "nature",
+        "cars",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/004.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/004.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/011.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/011.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 333783,
+        "file_size": 208921,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:12.173038",
-        "hash": "b6841ddd85a758409ec63afeb97869d9",
+        "added_at": "2025-07-17T00:03:07.829928",
+        "hash": "9f809d9ca0bd5188b5b62a7b06f70037",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_005",
-      "category": "nature",
-      "title": "Nature Wallpaper 005",
+      "id": "cars_012",
+      "category": "cars",
+      "title": "Cars Wallpaper 012",
       "tags": [
-        "nature",
+        "cars",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/005.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/005.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/012.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/012.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 659994,
+        "file_size": 151467,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:12.247373",
-        "hash": "a016995f38be9b303fa0ea08a03991fe",
+        "added_at": "2025-07-17T00:03:08.176226",
+        "hash": "34b63082be1700bdc9301bbded51f031",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_006",
-      "category": "nature",
-      "title": "Nature Wallpaper 006",
+      "id": "cars_013",
+      "category": "cars",
+      "title": "Cars Wallpaper 013",
       "tags": [
-        "nature",
+        "cars",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/006.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/006.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/013.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/013.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 536059,
+        "file_size": 286027,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:12.317126",
-        "hash": "6d2bfd7fa2853278b63fd1287b7d970d",
+        "added_at": "2025-07-17T00:03:08.632046",
+        "hash": "cf1c3de82320f463c5251c989cc62e13",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_007",
-      "category": "nature",
-      "title": "Nature Wallpaper 007",
+      "id": "cars_014",
+      "category": "cars",
+      "title": "Cars Wallpaper 014",
       "tags": [
-        "nature",
+        "cars",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/007.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/007.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/014.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/014.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 649428,
+        "file_size": 272959,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:12.392893",
-        "hash": "575099575266d4aa4b479a9fee242277",
+        "added_at": "2025-07-17T00:03:08.912826",
+        "hash": "0b8cf85bfff49363a36c56475d0be664",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_008",
-      "category": "nature",
-      "title": "Nature Wallpaper 008",
+      "id": "cars_015",
+      "category": "cars",
+      "title": "Cars Wallpaper 015",
       "tags": [
-        "nature",
+        "cars",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/008.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/008.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/015.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/015.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 572554,
+        "file_size": 241339,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:12.463884",
-        "hash": "e47299e0a9f65f1c0918216b32990305",
+        "added_at": "2025-07-17T00:03:09.109804",
+        "hash": "5ae93e85a2f28feafb386711f7448607",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_009",
-      "category": "nature",
-      "title": "Nature Wallpaper 009",
+      "id": "cars_016",
+      "category": "cars",
+      "title": "Cars Wallpaper 016",
       "tags": [
-        "nature",
+        "cars",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/009.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/009.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/016.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/016.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 410075,
+        "file_size": 166924,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:12.528618",
-        "hash": "a321d3b086116421abaae02a3eda2d10",
+        "added_at": "2025-07-17T00:03:09.239473",
+        "hash": "05b9d8e75606ab7f7ae59aadf9bd7c90",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_010",
-      "category": "nature",
-      "title": "Nature Wallpaper 010",
+      "id": "cars_017",
+      "category": "cars",
+      "title": "Cars Wallpaper 017",
       "tags": [
-        "nature",
+        "cars",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/010.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/010.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/017.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/017.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 464465,
+        "file_size": 202024,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:12.595076",
-        "hash": "afb9dcbb85d09d3200617e33d65133a5",
+        "added_at": "2025-07-17T00:03:09.438054",
+        "hash": "fbc1ecef96af1bffd1ffcd8a5b01e1aa",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_011",
-      "category": "nature",
-      "title": "Nature Wallpaper 011",
+      "id": "cars_018",
+      "category": "cars",
+      "title": "Cars Wallpaper 018",
       "tags": [
-        "nature",
+        "cars",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/011.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/011.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/018.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/018.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 108805,
+        "file_size": 172727,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:12.642023",
-        "hash": "d5b4e7ea2618c5f1f3834883afe648bd",
+        "added_at": "2025-07-17T00:03:09.875995",
+        "hash": "523096820c5379430a54bb3163562cae",
         "source": "migrated"
       }
     }

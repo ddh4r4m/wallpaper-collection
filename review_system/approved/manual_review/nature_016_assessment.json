@@ -1,0 +1,49 @@
+{
+  "path": "review_system/staging/nature_016.jpg",
+  "filename": "nature_016.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 7.13,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 8.86,
+    "brightness": 7.88,
+    "color_quality": 2.04,
+    "composition": 2.27,
+    "technical_quality": 9.34
+  },
+  "watermark_penalty": 5.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "nature_016",
+    "source": "wallhaven",
+    "category": "nature",
+    "title": "Nature Wallpaper 16",
+    "description": "High-quality nature wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "nature",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/2e/wallhaven-2evkjm.jpg",
+    "source_url": "https://w.wallhaven.cc/full/2e/wallhaven-2evkjm.jpg",
+    "original_info": {
+      "id": "wallhaven_2evkjm",
+      "url": "https://w.wallhaven.cc/full/2e/wallhaven-2evkjm.jpg",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "landscape wallpaper",
+      "width": 2245,
+      "height": 3992
+    },
+    "crawled_at": "2025-07-14T20:59:12.063413Z"
+  },
+  "assessed_at": "2025-07-14T15:31:46.885856Z"
+}

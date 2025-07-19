@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-19T12:26:57.111378",
+    "category": "space",
+    "page": 9,
+    "per_page": 15,
+    "total_pages": 9,
+    "total_count": 122,
+    "count_on_page": 2,
+    "has_next": false,
+    "has_prev": true,
+    "next_page_url": null,
+    "prev_page_url": "/api/v1/space/pages/8.json"
+  },
+  "data": [
+    {
+      "id": "space_121",
+      "category": "space",
+      "title": "luxury magazine phtotography, Full body - Civitai AI",
+      "tags": [
+        "space",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 739
+        },
+        "file_size": 109417,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:59:48.007276",
+        "hash": "38b4949ab360edcd0fffa8a06d019332",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "luxury magazine phtotography, Full body photography of a sensual lady pirate, black hair blowing, tattoo at her neck, sits near the window, relaxed while holding a glass of whiskey. highly detailed dr",
+        "civitai_stats": {
+          "cryCount": 8,
+          "laughCount": 3,
+          "likeCount": 84,
+          "dislikeCount": 0,
+          "heartCount": 37,
+          "commentCount": 0
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/121.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/121.jpg"
+      }
+    },
+    {
+      "id": "space_122",
+      "category": "space",
+      "title": "full length photo, sensual elite woman, - Civitai AI",
+      "tags": [
+        "space",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 106142,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:59:50.201517",
+        "hash": "325ce54d4107a5e2749e59e97eea6cad",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "full length photo, sensual elite woman, sexy attire, photorealistic, glamour photography, artistic photo, seductive adult woman, sensual fashionista woman, sexy long grey hair with dark highlights, go",
+        "civitai_stats": {
+          "cryCount": 0,
+          "laughCount": 3,
+          "likeCount": 77,
+          "dislikeCount": 0,
+          "heartCount": 38,
+          "commentCount": 0
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/122.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/122.jpg"
+      }
+    }
+  ]
+}

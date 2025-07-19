@@ -1,0 +1,49 @@
+{
+  "path": "review_system/staging/space_044.jpg",
+  "filename": "space_044.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 7.03,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 6.6,
+    "brightness": 2.47,
+    "color_quality": 4.21,
+    "composition": 3.71,
+    "technical_quality": 9.3
+  },
+  "watermark_penalty": 2.5,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "space_044",
+    "source": "wallhaven",
+    "category": "space",
+    "title": "Space Wallpaper 44",
+    "description": "High-quality space wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "space",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/j8/wallhaven-j8e1zp.jpg",
+    "source_url": "https://w.wallhaven.cc/full/j8/wallhaven-j8e1zp.jpg",
+    "original_info": {
+      "id": "wallhaven_j8e1zp",
+      "url": "https://w.wallhaven.cc/full/j8/wallhaven-j8e1zp.jpg",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "stars wallpaper",
+      "width": 3456,
+      "height": 5184
+    },
+    "crawled_at": "2025-07-14T20:59:47.324967Z"
+  },
+  "assessed_at": "2025-07-14T15:31:56.018390Z"
+}

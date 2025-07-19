@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 57,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/58.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "art_031",
-      "category": "art",
-      "title": "Art Wallpaper 031",
+      "id": "architecture_084",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 084",
       "tags": [
-        "art",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/031.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/031.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/084.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/084.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 394516,
+        "file_size": 587016,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:03.868109",
-        "hash": "76da0763783831b41987136ca809055f",
+        "added_at": "2025-07-17T00:02:50.200409",
+        "hash": "90c05f95372839fcf5804101fdc8e02f",
         "source": "migrated"
       }
     },
     {
-      "id": "art_032",
-      "category": "art",
-      "title": "Art Wallpaper 032",
+      "id": "architecture_085",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 085",
       "tags": [
-        "art",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/032.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/032.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/085.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/085.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 306287,
+        "file_size": 431399,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:03.927078",
-        "hash": "f241b634c5a52b56d6e204a1dc751f5c",
+        "added_at": "2025-07-17T00:02:50.264680",
+        "hash": "1f10a3f57d9b3c3f02b282412a01a74f",
         "source": "migrated"
       }
     },
     {
-      "id": "art_033",
-      "category": "art",
-      "title": "Art Wallpaper 033",
+      "id": "architecture_086",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 086",
       "tags": [
-        "art",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/033.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/033.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/086.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/086.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 151659,
+        "file_size": 243114,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:03.975713",
-        "hash": "40c428dcde4fb797f5820e82bd9f4334",
+        "added_at": "2025-07-17T00:02:50.320989",
+        "hash": "7cb4469c64e3fc89323888ab1104fcb0",
         "source": "migrated"
       }
     },
     {
-      "id": "art_034",
-      "category": "art",
-      "title": "Art Wallpaper 034",
+      "id": "architecture_087",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 087",
       "tags": [
-        "art",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/034.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/034.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/087.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/087.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 310138,
+        "file_size": 474871,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:04.035335",
-        "hash": "0a138c6c1f53bfd3c05649d832645dbe",
+        "added_at": "2025-07-17T00:02:50.388307",
+        "hash": "c1f78e33d11dc60eeaa1313ce3c58501",
         "source": "migrated"
       }
     },
     {
-      "id": "art_035",
-      "category": "art",
-      "title": "Art Wallpaper 035",
+      "id": "architecture_088",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 088",
       "tags": [
-        "art",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/035.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/035.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/088.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/088.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 412329,
+        "file_size": 556589,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:04.099006",
-        "hash": "98cd64933b0eb6b7be7589de44043c34",
+        "added_at": "2025-07-17T00:02:50.460107",
+        "hash": "e187739db4de1645f0e29db6c27fc693",
         "source": "migrated"
       }
     },
     {
-      "id": "art_036",
-      "category": "art",
-      "title": "Art Wallpaper 036",
+      "id": "architecture_089",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 089",
       "tags": [
-        "art",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/036.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/036.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/089.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/089.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 191459,
+        "file_size": 472838,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:04.151532",
-        "hash": "38db742b6c6f85d6d4b77cdf8d8c8f1a",
+        "added_at": "2025-07-17T00:02:50.526953",
+        "hash": "0d4896bc6a98c60d73e31e9b1cf41edd",
         "source": "migrated"
       }
     },
     {
-      "id": "art_037",
-      "category": "art",
-      "title": "Art Wallpaper 037",
+      "id": "architecture_090",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 090",
       "tags": [
-        "art",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/037.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/037.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/090.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/090.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 50280,
+        "file_size": 425274,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:04.194932",
-        "hash": "1a01013f305f469d677b7503f1e3d7af",
+        "added_at": "2025-07-17T00:02:50.592141",
+        "hash": "b5e2dbaa7e157359bbcb57cb8560fdaa",
         "source": "migrated"
       }
     },
     {
-      "id": "art_038",
-      "category": "art",
-      "title": "Art Wallpaper 038",
+      "id": "architecture_091",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 091",
       "tags": [
-        "art",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/038.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/038.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/091.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/091.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 102262,
+        "file_size": 287960,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:04.242125",
-        "hash": "d3bfd30b802b5f22cc3c46b3028181fd",
+        "added_at": "2025-07-17T00:02:50.650355",
+        "hash": "5defb48d74d1492090e11d98cfab8e96",
         "source": "migrated"
       }
     },
     {
-      "id": "art_039",
-      "category": "art",
-      "title": "Art Wallpaper 039",
+      "id": "architecture_092",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 092",
       "tags": [
-        "art",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/039.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/039.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/092.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/092.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 517883,
+        "file_size": 326004,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:04.311810",
-        "hash": "19404aaa46470b9a997eddf0ed66d57d",
+        "added_at": "2025-07-17T00:02:50.710787",
+        "hash": "2c2bccd59540186f809bb481f268a204",
         "source": "migrated"
       }
     },
     {
-      "id": "art_040",
-      "category": "art",
-      "title": "Art Wallpaper 040",
+      "id": "architecture_093",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 093",
       "tags": [
-        "art",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/040.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/040.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/093.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/093.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 861916,
+        "file_size": 182714,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:04.399177",
-        "hash": "a215cf20503cd6225388f28c256e3381",
+        "added_at": "2025-07-17T00:02:50.761157",
+        "hash": "bd0512f7847dbc9a64cd227ca5bcd50c",
         "source": "migrated"
       }
     },
     {
-      "id": "art_041",
-      "category": "art",
-      "title": "Art Wallpaper 041",
+      "id": "architecture_094",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 094",
       "tags": [
-        "art",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/041.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/041.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/094.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/094.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 442853,
+        "file_size": 528058,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:04.465727",
-        "hash": "6243ab312c5d3bc591ce3b3e2be02ff9",
+        "added_at": "2025-07-17T00:02:50.829333",
+        "hash": "e734985cd1bf1a81a0189b75c52a8aa2",
         "source": "migrated"
       }
     },
     {
-      "id": "art_042",
-      "category": "art",
-      "title": "Art Wallpaper 042",
+      "id": "architecture_095",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 095",
       "tags": [
-        "art",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/042.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/042.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/095.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/095.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 755121,
+        "file_size": 372968,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:04.548181",
-        "hash": "cee1052edbbb91d1fd9e179ba84dc25d",
+        "added_at": "2025-07-17T00:02:50.889717",
+        "hash": "d47fdff1afc2327fd644234540c342aa",
         "source": "migrated"
       }
     },
     {
-      "id": "art_043",
-      "category": "art",
-      "title": "Art Wallpaper 043",
+      "id": "architecture_096",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 096",
       "tags": [
-        "art",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/043.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/043.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/096.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/096.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 204197,
+        "file_size": 54510,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:04.602211",
-        "hash": "241710256a08c2eafbaad135f6b8be4c",
+        "added_at": "2025-07-17T00:02:50.931733",
+        "hash": "4e102d751543ae0c69911b0c477ccc4e",
         "source": "migrated"
       }
     },
     {
-      "id": "art_044",
-      "category": "art",
-      "title": "Art Wallpaper 044",
+      "id": "architecture_097",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 097",
       "tags": [
-        "art",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/044.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/044.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/097.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/097.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 166327,
+        "file_size": 269549,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:04.651220",
-        "hash": "11f2528b625c85e21db6788a97e96b0a",
+        "added_at": "2025-07-17T00:02:50.987988",
+        "hash": "0771d95d664c36297ec068425b76147f",
         "source": "migrated"
       }
     },
     {
-      "id": "art_045",
-      "category": "art",
-      "title": "Art Wallpaper 045",
+      "id": "architecture_098",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 098",
       "tags": [
-        "art",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/045.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/045.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/098.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/098.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 148007,
+        "file_size": 316232,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:04.701925",
-        "hash": "3862bf74b658ddbc0667a88f6d31bfd6",
+        "added_at": "2025-07-17T00:02:51.048323",
+        "hash": "dd53e1821536d68854a7705edb3af2f1",
         "source": "migrated"
       }
     }

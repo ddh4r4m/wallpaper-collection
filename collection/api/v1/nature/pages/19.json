@@ -1,16 +1,16 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "category": "nature",
     "page": 19,
     "per_page": 15,
-    "total_pages": 19,
-    "total_count": 284,
-    "count_on_page": 14,
-    "has_next": false,
+    "total_pages": 21,
+    "total_count": 304,
+    "count_on_page": 15,
+    "has_next": true,
     "has_prev": true,
-    "next_page_url": null,
+    "next_page_url": "/api/v1/nature/pages/20.json",
     "prev_page_url": "/api/v1/nature/pages/18.json"
   },
   "data": [
@@ -376,6 +376,35 @@
         "added_at": "2025-07-17T00:04:31.273493",
         "hash": "7f861df45297b7f4eea6fec4a31ccefb",
         "source": "migrated"
+      }
+    },
+    {
+      "id": "nature_285",
+      "category": "nature",
+      "title": "Italian Alps [OC][1186x1472] - Reddit AI",
+      "tags": [
+        "nature",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1340
+        },
+        "file_size": 260419,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:28:55.741043",
+        "hash": "f09c32879cefd083b0d559f1aa908df0",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 1227
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/285.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/285.jpg"
       }
     }
   ]

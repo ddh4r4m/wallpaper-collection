@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 30,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/31.json",
@@ -15,378 +15,532 @@
   },
   "data": [
     {
-      "id": "anime_017",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_236",
+      "category": "abstract",
+      "title": "InScene: Flux Kontext LoRA for - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 3631,
-          "height": 5093
+          "width": 1080,
+          "height": 1237
         },
-        "file_size": 14070876,
-        "added_at": "2025-07-16T20:56:16.726095",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_023.jpg"
+        "file_size": 184489,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:48:37.774080",
+        "hash": "fb0e599908bad4c59fae0ae91d0bd868",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 321
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/017.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/017.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/236.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/236.jpg"
       }
     },
     {
-      "id": "anime_018",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_237",
+      "category": "abstract",
+      "title": "Clearing up VAE latents even f - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 2500,
-          "height": 4200
+          "width": 1080,
+          "height": 599
         },
-        "file_size": 18577023,
-        "added_at": "2025-07-16T20:56:16.984895",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_024.jpg"
+        "file_size": 111366,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:48:39.097989",
+        "hash": "1417b4305a41f9af9a3ea448d01170d9",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 36
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/018.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/018.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/237.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/237.jpg"
       }
     },
     {
-      "id": "anime_019",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_238",
+      "category": "abstract",
+      "title": "Flux Kontext Mask Inpainting W - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 3428,
-          "height": 5900
+          "width": 1080,
+          "height": 559
         },
-        "file_size": 7653744,
-        "added_at": "2025-07-16T20:56:17.333230",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_026.jpg"
+        "file_size": 134114,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:48:40.355113",
+        "hash": "1644a7fdb3c119ad70070c9e32881d8b",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 7
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/019.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/019.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/238.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/238.jpg"
       }
     },
     {
-      "id": "anime_020",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_239",
+      "category": "abstract",
+      "title": "Midjourney's V7 Model is Here! - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 9686,
-          "height": 5449
+          "width": 1080,
+          "height": 541
         },
-        "file_size": 6812528,
-        "added_at": "2025-07-16T20:56:17.593041",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_027.jpg"
+        "file_size": 157410,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:48:42.368512",
+        "hash": "fe7fb60566de5cb3cbd1652507c2c3a2",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 65
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/020.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/020.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/239.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/239.jpg"
       }
     },
     {
-      "id": "anime_021",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_240",
+      "category": "abstract",
+      "title": "How I imagine ancient Rome wou - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 2037,
-          "height": 3312
+          "width": 1024,
+          "height": 1024
         },
-        "file_size": 8699601,
-        "added_at": "2025-07-16T20:56:17.767646",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_028.jpg"
+        "file_size": 234304,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:48:43.653698",
+        "hash": "efd12905ccb229eb122960133a91faea",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 789
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/021.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/021.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/240.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/240.jpg"
       }
     },
     {
-      "id": "anime_022",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_241",
+      "category": "abstract",
+      "title": "Be your own boss - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 3600,
-          "height": 2250
+          "width": 1080,
+          "height": 720
         },
-        "file_size": 2775956,
-        "added_at": "2025-07-16T20:56:17.808154",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_029.jpg"
+        "file_size": 176660,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:48:44.922795",
+        "hash": "ff0c54110facb606796c64ccc7a8adbb",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 32
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/022.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/022.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/241.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/241.jpg"
       }
     },
     {
-      "id": "anime_023",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_242",
+      "category": "abstract",
+      "title": "Ok. - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 3840,
-          "height": 2160
+          "width": 928,
+          "height": 1232
         },
-        "file_size": 4296979,
-        "added_at": "2025-07-16T20:56:17.898751",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_031.jpg"
+        "file_size": 138473,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:48:46.196074",
+        "hash": "0f88e8dc7be55c54b5ec54ed03c1e0aa",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 9
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/023.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/023.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/242.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/242.jpg"
       }
     },
     {
-      "id": "anime_024",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_243",
+      "category": "abstract",
+      "title": "Masterpiece, best quality, amazing quali - Civitai AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
-          "width": 3840,
-          "height": 2160
+          "width": 1070,
+          "height": 1920
         },
-        "file_size": 989324,
-        "added_at": "2025-07-16T20:56:17.945422",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_033.jpg"
+        "file_size": 466342,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:10.364398",
+        "hash": "d8c7ee2ab07d70d092ec23f17c00d475",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "Masterpiece, best quality, amazing quality, newest, very aesthetic, scenery, 8k, good anatomy, good shading, ultra detailed, refined details, high resolution, HD, masterwork, 4ur4_illu,shiny.\n\n1girl, ",
+        "civitai_stats": {
+          "cryCount": 247,
+          "laughCount": 409,
+          "likeCount": 3471,
+          "dislikeCount": 0,
+          "heartCount": 1205,
+          "commentCount": 7
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/024.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/024.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/243.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/243.jpg"
       }
     },
     {
-      "id": "anime_025",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_244",
+      "category": "abstract",
+      "title": "Masterpiece, best quality, amazing quali - Civitai AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
-          "width": 2085,
-          "height": 2980
+          "width": 1070,
+          "height": 1920
         },
-        "file_size": 1514704,
-        "added_at": "2025-07-16T20:56:18.058730",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_034.jpg"
+        "file_size": 540681,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:15.547894",
+        "hash": "b01d91f7b2e3dfe2f3268216ab1ed73d",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "Masterpiece, best quality, amazing quality, newest, very aesthetic, scenery, 8k, good anatomy, good shading, ultra detailed, refined details, high resolution, HD, masterwork, 4ur4_illu,shiny.\n\n1girl, ",
+        "civitai_stats": {
+          "cryCount": 57,
+          "laughCount": 97,
+          "likeCount": 1095,
+          "dislikeCount": 0,
+          "heartCount": 325,
+          "commentCount": 0
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/025.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/025.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/244.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/244.jpg"
       }
     },
     {
-      "id": "anime_026",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_245",
+      "category": "abstract",
+      "title": "Masterpiece, best quality, amazing quali - Civitai AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
-          "width": 3840,
-          "height": 2160
+          "width": 1070,
+          "height": 1920
         },
-        "file_size": 15369161,
-        "added_at": "2025-07-16T20:56:18.306774",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_036.jpg"
+        "file_size": 560254,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:20.722292",
+        "hash": "ef2ca4d1931f7085f9ad2d9bdd3990b1",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "Masterpiece, best quality, amazing quality, newest, very aesthetic, scenery, 8k, good anatomy, good shading, ultra detailed, refined details, high resolution, HD, masterwork, 4ur4_illu,shiny.\n\n1girl, ",
+        "civitai_stats": {
+          "cryCount": 54,
+          "laughCount": 81,
+          "likeCount": 1030,
+          "dislikeCount": 0,
+          "heartCount": 338,
+          "commentCount": 0
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/026.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/026.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/245.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/245.jpg"
       }
     },
     {
-      "id": "anime_027",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_246",
+      "category": "abstract",
+      "title": "1girl, solo, lazypos, anime-style, detai - Civitai AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "unholydesiremixsinis",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
-          "width": 3840,
-          "height": 2160
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 14963270,
-        "added_at": "2025-07-16T20:56:18.500113",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_037.jpg"
+        "file_size": 169650,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:23.732290",
+        "hash": "1ba041989686fe4d7bb068e9799b9a09",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "1girl, solo, lazypos, anime-style, detailed background, vibrant colors, delicate, dreamy,\ncinematic lighting,volumetric lighting,ray tracing, dramatic shadows,dappled light,\n<lora:Hololive - Kaela Kov",
+        "ai_model": "unholyDesireMixSinister_v50",
+        "civitai_stats": {
+          "cryCount": 55,
+          "laughCount": 81,
+          "likeCount": 991,
+          "dislikeCount": 0,
+          "heartCount": 330,
+          "commentCount": 0
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/027.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/027.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/246.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/246.jpg"
       }
     },
     {
-      "id": "anime_028",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_247",
+      "category": "abstract",
+      "title": "Masterpiece, best quality, amazing quali - Civitai AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
-          "width": 3840,
-          "height": 2160
+          "width": 1070,
+          "height": 1920
         },
-        "file_size": 496847,
-        "added_at": "2025-07-16T20:56:18.583495",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_039.jpg"
+        "file_size": 458739,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:27.065299",
+        "hash": "714e0e197f0e6fbc8667a142ef4dea77",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "Masterpiece, best quality, amazing quality, newest, very aesthetic, scenery, 8k, good anatomy, good shading, ultra detailed, refined details, high resolution, HD, masterwork, 4ur4_illu,shiny.\n\nUpper b",
+        "civitai_stats": {
+          "cryCount": 41,
+          "laughCount": 81,
+          "likeCount": 975,
+          "dislikeCount": 0,
+          "heartCount": 286,
+          "commentCount": 2
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/028.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/028.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/247.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/247.jpg"
       }
     },
     {
-      "id": "anime_029",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_248",
+      "category": "abstract",
+      "title": "Masterpiece, best quality, amazing quali - Civitai AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
-          "width": 4500,
-          "height": 2500
+          "width": 1070,
+          "height": 1920
         },
-        "file_size": 2311165,
-        "added_at": "2025-07-16T20:56:18.656011",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_040.jpg"
+        "file_size": 565273,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:30.352929",
+        "hash": "16487e3325fee67c58f12c836a8b3de2",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "Masterpiece, best quality, amazing quality, newest, very aesthetic, scenery, 8k, good anatomy, good shading, ultra detailed, refined details, high resolution, HD, masterwork, 4ur4_illu,shiny.\n\n1girl, ",
+        "civitai_stats": {
+          "cryCount": 42,
+          "laughCount": 75,
+          "likeCount": 894,
+          "dislikeCount": 0,
+          "heartCount": 292,
+          "commentCount": 0
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/029.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/029.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/248.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/248.jpg"
       }
     },
     {
-      "id": "anime_030",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_249",
+      "category": "abstract",
+      "title": "masterpiece, newest, absurdres, best qua - Civitai AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "oneobsession-15nooba",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
-          "width": 3840,
-          "height": 2160
+          "width": 1080,
+          "height": 1578
         },
-        "file_size": 2300482,
-        "added_at": "2025-07-16T20:56:18.793826",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_041.jpg"
+        "file_size": 230794,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:33.661742",
+        "hash": "2c14d886b7ecee4ba1365847a4c47736",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "masterpiece, newest, absurdres, best quality, amazing quality, very aesthetic, ultra-detailed, highly detailed, newest,scenery,very awa, anime,\nfrom side, portrait, dutch angle,dynamic pose, \n1girl,be",
+        "ai_model": "oneObsession_15Noobai",
+        "civitai_stats": {
+          "cryCount": 33,
+          "laughCount": 65,
+          "likeCount": 880,
+          "dislikeCount": 0,
+          "heartCount": 295,
+          "commentCount": 0
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/030.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/030.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/249.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/249.jpg"
       }
     },
     {
-      "id": "anime_031",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_250",
+      "category": "abstract",
+      "title": "1girl, solo, lazypos, anime-style, detai - Civitai AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "unholydesiremixsinis",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
-          "width": 6000,
-          "height": 2800
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 10163528,
-        "added_at": "2025-07-16T20:56:18.968354",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_042.jpg"
+        "file_size": 172822,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:35.169411",
+        "hash": "fe46cee2a62cd326ea13ce3b3d1103b8",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "1girl, solo, lazypos, anime-style, detailed background, vibrant colors, delicate, dreamy, looking at viewer,\ncinematic lighting,volumetric lighting,ray tracing, dramatic shadows,dappled light, clouds,",
+        "ai_model": "unholyDesireMixSinister_v50",
+        "civitai_stats": {
+          "cryCount": 46,
+          "laughCount": 85,
+          "likeCount": 841,
+          "dislikeCount": 0,
+          "heartCount": 276,
+          "commentCount": 2
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/031.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/031.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/250.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/250.jpg"
       }
     }
   ]

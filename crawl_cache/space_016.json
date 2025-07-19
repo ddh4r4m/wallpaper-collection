@@ -1,0 +1,27 @@
+{
+  "id": "space_016",
+  "source": "comprehensive_crawler",
+  "category": "space",
+  "title": "Space Wallpaper 16",
+  "description": "High-quality space wallpaper from curated sources",
+  "width": 1080,
+  "height": 1920,
+  "tags": [
+    "space",
+    "wallpaper",
+    "hd",
+    "high resolution",
+    "mobile",
+    "cosmic",
+    "universe",
+    "astronomy",
+    "galaxy",
+    "stellar"
+  ],
+  "download_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=entropy",
+  "source_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=entropy",
+  "variation": {
+    "crop": "entropy"
+  },
+  "crawled_at": "2025-07-14T20:40:39.948488Z"
+}

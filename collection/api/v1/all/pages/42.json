@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 42,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/43.json",
@@ -15,393 +15,387 @@
   },
   "data": [
     {
-      "id": "architecture_081",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 081",
+      "id": "animals_076",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/081.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/081.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 864
         },
-        "file_size": 383800,
+        "file_size": 256332,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:49.986538",
-        "hash": "ff5be5200a1f1027b8145a1a0e2033b8",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:40:37.157749",
+        "hash": "976bee7f199346d6d504dc12aa8c4566",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/076.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/076.jpg"
       }
     },
     {
-      "id": "architecture_082",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 082",
+      "id": "animals_077",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/082.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/082.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 635
         },
-        "file_size": 327968,
+        "file_size": 156423,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:50.046050",
-        "hash": "228adcb75b6ef6d43d36613ba833a91d",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:40:40.664593",
+        "hash": "d9a22da6e2c49a14be4f450d6eb9f2b5",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/077.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/077.jpg"
       }
     },
     {
-      "id": "architecture_083",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 083",
+      "id": "animals_078",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/083.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/083.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 720
         },
-        "file_size": 766825,
+        "file_size": 173447,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:50.128663",
-        "hash": "7d2523caaca783a13fbbe5e09a50ca3a",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:40:43.270596",
+        "hash": "28cf88a8d7ff9d37016fc1830fd9b78c",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/078.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/078.jpg"
       }
     },
     {
-      "id": "architecture_084",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 084",
+      "id": "animals_079",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/084.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/084.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1620
         },
-        "file_size": 587016,
+        "file_size": 352492,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:50.200409",
-        "hash": "90c05f95372839fcf5804101fdc8e02f",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:40:47.097869",
+        "hash": "0db51723fa25f545db1cce42403f39c3",
+        "photographer": "cat"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/079.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/079.jpg"
       }
     },
     {
-      "id": "architecture_085",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 085",
+      "id": "animals_080",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/085.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/085.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1620
         },
-        "file_size": 431399,
+        "file_size": 129038,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:50.264680",
-        "hash": "1f10a3f57d9b3c3f02b282412a01a74f",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:40:49.816517",
+        "hash": "0c13ec8095bf1bda8c62320af8dc82c1",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/080.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/080.jpg"
       }
     },
     {
-      "id": "architecture_086",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 086",
+      "id": "animals_081",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/086.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/086.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1686
         },
-        "file_size": 243114,
+        "file_size": 316639,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:50.320989",
-        "hash": "7cb4469c64e3fc89323888ab1104fcb0",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:40:53.870553",
+        "hash": "4affb8949eb52451660c9f7dbecffbbc",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/081.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/081.jpg"
       }
     },
     {
-      "id": "architecture_087",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 087",
+      "id": "animals_082",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/087.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/087.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 721
         },
-        "file_size": 474871,
+        "file_size": 88095,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:50.388307",
-        "hash": "c1f78e33d11dc60eeaa1313ce3c58501",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:40:56.570222",
+        "hash": "2df3eb98eda89308eca0a1700d74c42e",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/082.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/082.jpg"
       }
     },
     {
-      "id": "architecture_088",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 088",
+      "id": "animals_083",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/088.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/088.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1620
         },
-        "file_size": 556589,
+        "file_size": 319107,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:50.460107",
-        "hash": "e187739db4de1645f0e29db6c27fc693",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:40:59.113147",
+        "hash": "fd5cc4402338c74195d8981814930f41",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/083.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/083.jpg"
       }
     },
     {
-      "id": "architecture_089",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 089",
+      "id": "animals_084",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/089.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/089.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1571
         },
-        "file_size": 472838,
+        "file_size": 250653,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:50.526953",
-        "hash": "0d4896bc6a98c60d73e31e9b1cf41edd",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:41:01.720999",
+        "hash": "5f2435d47b485f1891815f346a0a96e5",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/084.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/084.jpg"
       }
     },
     {
-      "id": "architecture_090",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 090",
+      "id": "anime_001",
+      "category": "anime",
+      "title": "Anime Wallpaper",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
+        "high resolution",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/090.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/090.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 6143,
+          "height": 3094
         },
-        "file_size": 425274,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:02:50.592141",
-        "hash": "b5e2dbaa7e157359bbcb57cb8560fdaa",
-        "source": "migrated"
+        "file_size": 7859057,
+        "added_at": "2025-07-16T20:56:14.359456",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_003.jpg"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/001.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/001.jpg"
       }
     },
     {
-      "id": "architecture_091",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 091",
+      "id": "anime_002",
+      "category": "anime",
+      "title": "Anime Wallpaper",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
+        "high resolution",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/091.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/091.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 2184,
+          "height": 3089
         },
-        "file_size": 287960,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:02:50.650355",
-        "hash": "5defb48d74d1492090e11d98cfab8e96",
-        "source": "migrated"
+        "file_size": 7500202,
+        "added_at": "2025-07-16T20:56:14.529346",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_004.jpg"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/002.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/002.jpg"
       }
     },
     {
-      "id": "architecture_092",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 092",
+      "id": "anime_003",
+      "category": "anime",
+      "title": "Anime Wallpaper",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
+        "high resolution",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/092.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/092.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 6000,
+          "height": 2571
         },
-        "file_size": 326004,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:02:50.710787",
-        "hash": "2c2bccd59540186f809bb481f268a204",
-        "source": "migrated"
+        "file_size": 7902904,
+        "added_at": "2025-07-16T20:56:14.684690",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_005.jpg"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/003.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/003.jpg"
       }
     },
     {
-      "id": "architecture_093",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 093",
+      "id": "anime_004",
+      "category": "anime",
+      "title": "Anime Wallpaper",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
+        "high resolution",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/093.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/093.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 3840,
+          "height": 2160
         },
-        "file_size": 182714,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:02:50.761157",
-        "hash": "bd0512f7847dbc9a64cd227ca5bcd50c",
-        "source": "migrated"
+        "file_size": 13502782,
+        "added_at": "2025-07-16T20:56:14.883858",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_006.jpg"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/004.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/004.jpg"
       }
     },
     {
-      "id": "architecture_094",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 094",
+      "id": "anime_005",
+      "category": "anime",
+      "title": "Anime Wallpaper",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
+        "high resolution",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/094.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/094.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 6000,
+          "height": 2800
         },
-        "file_size": 528058,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:02:50.829333",
-        "hash": "e734985cd1bf1a81a0189b75c52a8aa2",
-        "source": "migrated"
+        "file_size": 18097715,
+        "added_at": "2025-07-16T20:56:15.131120",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_008.jpg"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/005.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/005.jpg"
       }
     },
     {
-      "id": "architecture_095",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 095",
+      "id": "anime_006",
+      "category": "anime",
+      "title": "Anime Wallpaper",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
+        "high resolution",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/095.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/095.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 5640,
+          "height": 2400
         },
-        "file_size": 372968,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:02:50.889717",
-        "hash": "d47fdff1afc2327fd644234540c342aa",
-        "source": "migrated"
+        "file_size": 2972150,
+        "added_at": "2025-07-16T20:56:15.210695",
+        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_010.jpg"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/006.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/006.jpg"
       }
     }
   ]

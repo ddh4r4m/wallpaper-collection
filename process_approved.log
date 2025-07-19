@@ -1,0 +1,84 @@
+2025-07-14 20:14:52,117 - INFO - Processing directory: review_system/approved for category: nature
+2025-07-14 20:14:52,118 - INFO - Found 3 images to process
+2025-07-14 20:14:52,118 - INFO - Processing 1/3: demo_nature_001.jpg
+2025-07-14 20:14:52,118 - INFO - Processing image: demo_nature_001.jpg
+2025-07-14 20:14:52,294 - INFO - Successfully processed: nature_001.jpg
+2025-07-14 20:14:52,295 - INFO - Processing 2/3: demo_nature_002.jpg
+2025-07-14 20:14:52,295 - INFO - Processing image: demo_nature_002.jpg
+2025-07-14 20:14:52,406 - INFO - Successfully processed: nature_002.jpg
+2025-07-14 20:14:52,407 - INFO - Processing 3/3: demo_nature_003.jpg
+2025-07-14 20:14:52,407 - INFO - Processing image: demo_nature_003.jpg
+2025-07-14 20:14:52,518 - INFO - Successfully processed: nature_003.jpg
+2025-07-14 20:14:52,519 - INFO - Updated category index: nature (3 wallpapers)
+2025-07-14 20:15:34,975 - INFO - Processing directory: review_system/approved for category: abstract
+2025-07-14 20:15:34,976 - INFO - Found 1 images to process
+2025-07-14 20:15:34,976 - INFO - Processing 1/1: demo_abstract_001.jpg
+2025-07-14 20:15:34,976 - INFO - Processing image: demo_abstract_001.jpg
+2025-07-14 20:15:35,109 - INFO - Successfully processed: abstract_001.jpg
+2025-07-14 20:15:35,110 - INFO - Updated category index: abstract (1 wallpapers)
+2025-07-14 20:15:49,880 - INFO - Processing directory: review_system/approved for category: space
+2025-07-14 20:15:49,881 - INFO - Found 2 images to process
+2025-07-14 20:15:49,881 - INFO - Processing 1/2: demo_space_002.jpg
+2025-07-14 20:15:49,881 - INFO - Processing image: demo_space_002.jpg
+2025-07-14 20:15:50,007 - INFO - Successfully processed: space_001.jpg
+2025-07-14 20:15:50,008 - INFO - Processing 2/2: demo_space_001.jpg
+2025-07-14 20:15:50,008 - INFO - Processing image: demo_space_001.jpg
+2025-07-14 20:15:50,124 - INFO - Successfully processed: space_002.jpg
+2025-07-14 20:15:50,125 - INFO - Updated category index: space (2 wallpapers)
+2025-07-14 20:33:03,902 - INFO - Processing directory: review_system/approved for category: nature
+2025-07-14 20:33:03,903 - INFO - Found 18 images to process
+2025-07-14 20:33:03,903 - INFO - Processing 1/18: demo_abstract_004.jpg
+2025-07-14 20:33:03,903 - INFO - Processing image: demo_abstract_004.jpg
+2025-07-14 20:33:04,051 - INFO - Successfully processed: nature_004.jpg
+2025-07-14 20:33:04,052 - INFO - Processing 2/18: demo_abstract_006.jpg
+2025-07-14 20:33:04,052 - INFO - Processing image: demo_abstract_006.jpg
+2025-07-14 20:33:04,171 - INFO - Successfully processed: nature_005.jpg
+2025-07-14 20:33:04,171 - INFO - Processing 3/18: demo_abstract_002.jpg
+2025-07-14 20:33:04,171 - INFO - Processing image: demo_abstract_002.jpg
+2025-07-14 20:33:04,269 - INFO - Successfully processed: nature_006.jpg
+2025-07-14 20:33:04,270 - INFO - Processing 4/18: demo_abstract_003.jpg
+2025-07-14 20:33:04,270 - INFO - Processing image: demo_abstract_003.jpg
+2025-07-14 20:33:04,380 - INFO - Successfully processed: nature_007.jpg
+2025-07-14 20:33:04,381 - INFO - Processing 5/18: demo_space_008.jpg
+2025-07-14 20:33:04,381 - INFO - Processing image: demo_space_008.jpg
+2025-07-14 20:33:04,516 - INFO - Successfully processed: nature_008.jpg
+2025-07-14 20:33:04,517 - INFO - Processing 6/18: demo_abstract_001.jpg
+2025-07-14 20:33:04,517 - INFO - Processing image: demo_abstract_001.jpg
+2025-07-14 20:33:04,611 - INFO - Successfully processed: nature_009.jpg
+2025-07-14 20:33:04,612 - INFO - Processing 7/18: demo_space_091.jpg
+2025-07-14 20:33:04,612 - INFO - Processing image: demo_space_091.jpg
+2025-07-14 20:33:04,742 - INFO - Successfully processed: nature_010.jpg
+2025-07-14 20:33:04,743 - INFO - Processing 8/18: demo_nature_026.jpg
+2025-07-14 20:33:04,743 - INFO - Processing image: demo_nature_026.jpg
+2025-07-14 20:33:04,859 - INFO - Successfully processed: nature_011.jpg
+2025-07-14 20:33:04,860 - INFO - Processing 9/18: demo_space_090.jpg
+2025-07-14 20:33:04,860 - INFO - Processing image: demo_space_090.jpg
+2025-07-14 20:33:04,989 - INFO - Successfully processed: nature_012.jpg
+2025-07-14 20:33:04,990 - INFO - Processing 10/18: demo_space_053.jpg
+2025-07-14 20:33:04,990 - INFO - Processing image: demo_space_053.jpg
+2025-07-14 20:33:05,120 - INFO - Successfully processed: nature_013.jpg
+2025-07-14 20:33:05,121 - INFO - Processing 11/18: demo_space_045.jpg
+2025-07-14 20:33:05,121 - INFO - Processing image: demo_space_045.jpg
+2025-07-14 20:33:05,255 - INFO - Successfully processed: nature_014.jpg
+2025-07-14 20:33:05,256 - INFO - Processing 12/18: demo_abstract_059.jpg
+2025-07-14 20:33:05,256 - INFO - Processing image: demo_abstract_059.jpg
+2025-07-14 20:33:05,384 - INFO - Successfully processed: nature_015.jpg
+2025-07-14 20:33:05,385 - INFO - Processing 13/18: demo_abstract_061.jpg
+2025-07-14 20:33:05,385 - INFO - Processing image: demo_abstract_061.jpg
+2025-07-14 20:33:05,511 - INFO - Successfully processed: nature_016.jpg
+2025-07-14 20:33:05,512 - INFO - Processing 14/18: demo_space_043.jpg
+2025-07-14 20:33:05,512 - INFO - Processing image: demo_space_043.jpg
+2025-07-14 20:33:05,645 - INFO - Successfully processed: nature_017.jpg
+2025-07-14 20:33:05,646 - INFO - Processing 15/18: demo_nature_002.jpg
+2025-07-14 20:33:05,646 - INFO - Processing image: demo_nature_002.jpg
+2025-07-14 20:33:05,760 - INFO - Successfully processed: nature_018.jpg
+2025-07-14 20:33:05,761 - INFO - Processing 16/18: demo_space_005.jpg
+2025-07-14 20:33:05,761 - INFO - Processing image: demo_space_005.jpg
+2025-07-14 20:33:05,890 - INFO - Successfully processed: nature_019.jpg
+2025-07-14 20:33:05,891 - INFO - Processing 17/18: demo_abstract_033.jpg
+2025-07-14 20:33:05,891 - INFO - Processing image: demo_abstract_033.jpg
+2025-07-14 20:33:06,017 - INFO - Successfully processed: nature_020.jpg
+2025-07-14 20:33:06,018 - INFO - Processing 18/18: demo_space_015.jpg
+2025-07-14 20:33:06,018 - INFO - Processing image: demo_space_015.jpg
+2025-07-14 20:33:06,149 - INFO - Successfully processed: nature_021.jpg
+2025-07-14 20:33:06,151 - INFO - Updated category index: nature (21 wallpapers)

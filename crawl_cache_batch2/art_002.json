@@ -1,0 +1,22 @@
+{
+  "id": "art_002",
+  "source": "comprehensive_crawler",
+  "category": "art",
+  "title": "Art Wallpaper 2",
+  "description": "High-quality art wallpaper from curated sources",
+  "width": 1080,
+  "height": 1920,
+  "tags": [
+    "art",
+    "wallpaper",
+    "hd",
+    "high resolution",
+    "mobile"
+  ],
+  "download_url": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1080&h=1920&fit=crop&auto=compress",
+  "source_url": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1080&h=1920&fit=crop&auto=compress",
+  "variation": {
+    "auto": "compress"
+  },
+  "crawled_at": "2025-07-14T20:50:08.164031Z"
+}

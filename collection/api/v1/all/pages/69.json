@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 69,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/70.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "gaming_014",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 014",
+      "id": "architecture_264",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 264",
       "tags": [
-        "gaming",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/014.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/014.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/264.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/264.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 354034,
+        "file_size": 210493,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:43.286464",
-        "hash": "873acee421e27de02ef0b39a2b670de6",
+        "added_at": "2025-07-17T00:03:01.273027",
+        "hash": "69544ac1ed7c9345c1b9b6adca06ee9e",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_015",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 015",
+      "id": "architecture_265",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 265",
       "tags": [
-        "gaming",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/015.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/015.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/265.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/265.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 207182,
+        "file_size": 256355,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:43.520803",
-        "hash": "fca41431f5a7753eee7300f50b06a9be",
+        "added_at": "2025-07-17T00:03:01.326646",
+        "hash": "015e3dd391738170422703f2633c6434",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_016",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 016",
+      "id": "architecture_266",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 266",
       "tags": [
-        "gaming",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/016.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/016.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/266.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/266.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 113139,
+        "file_size": 130968,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:43.763520",
-        "hash": "c4977bd6dca9623983fb92eef77401ae",
+        "added_at": "2025-07-17T00:03:01.375643",
+        "hash": "77386512bd88a91363788e0d2241a07f",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_017",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 017",
+      "id": "architecture_267",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 267",
       "tags": [
-        "gaming",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/017.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/017.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/267.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/267.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 370417,
+        "file_size": 362473,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:43.949212",
-        "hash": "99326e68160be84f3632927f310e1764",
+        "added_at": "2025-07-17T00:03:01.437858",
+        "hash": "420cfd1ad3f6e5ba240b80e50a988cb3",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_018",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 018",
+      "id": "architecture_268",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 268",
       "tags": [
-        "gaming",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/018.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/018.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/268.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/268.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 137619,
+        "file_size": 204849,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:44.201497",
-        "hash": "0b0968e47c35b94dd5b0f05f0d020775",
+        "added_at": "2025-07-17T00:03:01.492395",
+        "hash": "2d69a30268a1a31a4ccfe19dff2bd402",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_019",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 019",
+      "id": "architecture_269",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 269",
       "tags": [
-        "gaming",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/019.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/019.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/269.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/269.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 258735,
+        "file_size": 397749,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:44.459977",
-        "hash": "0f762d4463f9ba80b814a9105f5e6ce0",
+        "added_at": "2025-07-17T00:03:01.555880",
+        "hash": "4061d7e9ce9ce5b445d83f7c4a1ad0a8",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_020",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 020",
+      "id": "architecture_270",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 270",
       "tags": [
-        "gaming",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/020.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/020.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/270.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/270.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 130805,
+        "file_size": 584681,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:44.620711",
-        "hash": "96a5a0f3a2c8ae8addf6887b9ad9f82b",
+        "added_at": "2025-07-17T00:03:01.630754",
+        "hash": "8cfccab275e82ea2a0a068a20c7aa023",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_021",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 021",
+      "id": "architecture_271",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 271",
       "tags": [
-        "gaming",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/021.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/021.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/271.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/271.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 443858,
+        "file_size": 569980,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:44.710510",
-        "hash": "8a80a8e8fc6539b823eb578d2846c938",
+        "added_at": "2025-07-17T00:03:01.700638",
+        "hash": "35cd2f583f87e2bb167e32de286d43c3",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_022",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 022",
+      "id": "architecture_272",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 272",
       "tags": [
-        "gaming",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/022.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/022.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/272.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/272.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 64501,
+        "file_size": 332213,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:44.881888",
-        "hash": "b91eb5aa9f2805dd53802609beca6cb5",
+        "added_at": "2025-07-17T00:03:01.760979",
+        "hash": "341350fae9a615150f6da1a2e4847465",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_023",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 023",
+      "id": "architecture_273",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 273",
       "tags": [
-        "gaming",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/023.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/023.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/273.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/273.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 416162,
+        "file_size": 520176,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:45.250168",
-        "hash": "92cd33f4bd1013c5cdea11e295c69550",
+        "added_at": "2025-07-17T00:03:01.832104",
+        "hash": "e0363656714db9d59fede7bf00119fd3",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_024",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 024",
+      "id": "architecture_274",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 274",
       "tags": [
-        "gaming",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/024.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/024.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/274.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/274.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 302359,
+        "file_size": 494567,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:45.383937",
-        "hash": "40169d125f55d8bc81c01c802ceb90a1",
+        "added_at": "2025-07-17T00:03:01.900451",
+        "hash": "f4d3ce8e6657d0a0f5252c49c6199f0d",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_025",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 025",
+      "id": "architecture_275",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 275",
       "tags": [
-        "gaming",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/025.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/025.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/275.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/275.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 227495,
+        "file_size": 355387,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:46.117233",
-        "hash": "9484d2a36b022af9153a8ca78fc77939",
+        "added_at": "2025-07-17T00:03:01.986465",
+        "hash": "d9965eb445279736335cea577d988a66",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_026",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 026",
+      "id": "art_001",
+      "category": "art",
+      "title": "Art Wallpaper 001",
       "tags": [
-        "gaming",
+        "art",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/026.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/026.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/001.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/001.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 170051,
+        "file_size": 68346,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:46.284403",
-        "hash": "9418024592d58840b4c409c67ce53195",
+        "added_at": "2025-07-17T00:03:02.037661",
+        "hash": "7076bc94f1f3d91861904b360f9d06f5",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_027",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 027",
+      "id": "art_002",
+      "category": "art",
+      "title": "Art Wallpaper 002",
       "tags": [
-        "gaming",
+        "art",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/027.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/027.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/002.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/002.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 198722,
+        "file_size": 140787,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:46.423370",
-        "hash": "b6665fc2e1492c9740ddd8c0c50542a9",
+        "added_at": "2025-07-17T00:03:02.086412",
+        "hash": "9ce5f42cfb98a2eefeb5e77b9c29dca1",
         "source": "migrated"
       }
     },
     {
-      "id": "gaming_028",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 028",
+      "id": "art_003",
+      "category": "art",
+      "title": "Art Wallpaper 003",
       "tags": [
-        "gaming",
+        "art",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/028.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/028.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/003.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/003.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 358802,
+        "file_size": 66889,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:46.631344",
-        "hash": "99136cde76328de419047cba562ceda2",
+        "added_at": "2025-07-17T00:03:02.130188",
+        "hash": "9c7d2c6488ee2b1651aa72e1c46c378e",
         "source": "migrated"
       }
     }

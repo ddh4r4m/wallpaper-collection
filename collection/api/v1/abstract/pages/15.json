@@ -1,16 +1,16 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "category": "abstract",
     "page": 15,
     "per_page": 15,
-    "total_pages": 15,
-    "total_count": 219,
-    "count_on_page": 9,
-    "has_next": false,
+    "total_pages": 18,
+    "total_count": 257,
+    "count_on_page": 15,
+    "has_next": true,
     "has_prev": true,
-    "next_page_url": null,
+    "next_page_url": "/api/v1/abstract/pages/16.json",
     "prev_page_url": "/api/v1/abstract/pages/14.json"
   },
   "data": [
@@ -246,6 +246,180 @@
         "added_at": "2025-07-17T00:02:27.191705",
         "hash": "d1eb789f75deb11bce211d400b058963",
         "source": "migrated"
+      }
+    },
+    {
+      "id": "abstract_220",
+      "category": "abstract",
+      "title": "The SeedVR2 video upscaler is  - Reddit AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 960,
+          "height": 1440
+        },
+        "file_size": 189862,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:24:41.179305",
+        "hash": "e87030a470a8aace74b5c088c2dd8ac8",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 207
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/220.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/220.jpg"
+      }
+    },
+    {
+      "id": "abstract_221",
+      "category": "abstract",
+      "title": "HiDream image editing model re - Reddit AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 445
+        },
+        "file_size": 144067,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:24:43.356451",
+        "hash": "6df9cdfd51538bc589848fcfa205a62d",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 220
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/221.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/221.jpg"
+      }
+    },
+    {
+      "id": "abstract_222",
+      "category": "abstract",
+      "title": "Wan 2.2 is coming this month. - Reddit AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1296
+        },
+        "file_size": 138209,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:24:44.457405",
+        "hash": "ea19541abf06bfe015a6b45e51365687",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 277
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/222.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/222.jpg"
+      }
+    },
+    {
+      "id": "abstract_223",
+      "category": "abstract",
+      "title": "I've released Place it - Fuse  - Reddit AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 125210,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:24:45.906452",
+        "hash": "db02b531f07963a6e8d888923a98302f",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 443
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/223.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/223.jpg"
+      }
+    },
+    {
+      "id": "abstract_224",
+      "category": "abstract",
+      "title": "Smoking coffee - Reddit AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "file_size": 116221,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:24:46.997390",
+        "hash": "e65893e5ead55a1d1ede3a75275746eb",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 22
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/224.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/224.jpg"
+      }
+    },
+    {
+      "id": "abstract_225",
+      "category": "abstract",
+      "title": "Midjourney's V7 Model is Here! - Reddit AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 541
+        },
+        "file_size": 157410,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:24:49.845095",
+        "hash": "fe7fb60566de5cb3cbd1652507c2c3a2",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 64
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/225.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/225.jpg"
       }
     }
   ]

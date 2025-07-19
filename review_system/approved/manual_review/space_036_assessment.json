@@ -1,0 +1,49 @@
+{
+  "path": "review_system/staging/space_036.jpg",
+  "filename": "space_036.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 6.78,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 6.58,
+    "brightness": 6.72,
+    "color_quality": 4.23,
+    "composition": 1.26,
+    "technical_quality": 8.97
+  },
+  "watermark_penalty": 5.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "space_036",
+    "source": "wallhaven",
+    "category": "space",
+    "title": "Space Wallpaper 36",
+    "description": "High-quality space wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "space",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/3l/wallhaven-3lgjqv.jpg",
+    "source_url": "https://w.wallhaven.cc/full/3l/wallhaven-3lgjqv.jpg",
+    "original_info": {
+      "id": "wallhaven_3lgjqv",
+      "url": "https://w.wallhaven.cc/full/3l/wallhaven-3lgjqv.jpg",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "nebula wallpaper",
+      "width": 3000,
+      "height": 3700
+    },
+    "crawled_at": "2025-07-14T20:59:38.995525Z"
+  },
+  "assessed_at": "2025-07-14T15:31:45.798847Z"
+}

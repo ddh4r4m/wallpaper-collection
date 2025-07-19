@@ -1,0 +1,48 @@
+{
+  "path": "review_system/staging/technology_011.jpg",
+  "filename": "technology_011.jpg",
+  "status": "approved",
+  "reason": "High quality image",
+  "overall_score": 8.08,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 7.38,
+    "brightness": 5.61,
+    "color_quality": 3.17,
+    "composition": 6.96,
+    "technical_quality": 9.45
+  },
+  "watermark_penalty": 0.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "technology_011",
+    "source": "comprehensive_crawler",
+    "category": "technology",
+    "title": "Technology Wallpaper 11",
+    "description": "High-quality technology wallpaper from curated sources",
+    "width": 1080,
+    "height": 1920,
+    "tags": [
+      "technology",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile",
+      "tech",
+      "digital",
+      "futuristic",
+      "electronic",
+      "innovation"
+    ],
+    "download_url": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+    "source_url": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+    "variation": {
+      "crop": "attention",
+      "auto": "compress"
+    },
+    "crawled_at": "2025-07-14T20:42:16.103733Z"
+  },
+  "assessed_at": "2025-07-14T15:15:31.353737Z"
+}

@@ -1,0 +1,49 @@
+{
+  "path": "review_system/staging/space_027.jpg",
+  "filename": "space_027.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 7.97,
+  "detailed_scores": {
+    "sharpness": 4.96,
+    "contrast": 10.0,
+    "brightness": 6.55,
+    "color_quality": 4.72,
+    "composition": 9.45,
+    "technical_quality": 9.74
+  },
+  "watermark_penalty": 0.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "space_027",
+    "source": "wallhaven",
+    "category": "space",
+    "title": "Space Wallpaper 27",
+    "description": "High-quality space wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "space",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/4y/wallhaven-4y13ek.jpg",
+    "source_url": "https://w.wallhaven.cc/full/4y/wallhaven-4y13ek.jpg",
+    "original_info": {
+      "id": "wallhaven_4y13ek",
+      "url": "https://w.wallhaven.cc/full/4y/wallhaven-4y13ek.jpg",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "galaxy wallpaper",
+      "width": 3264,
+      "height": 4912
+    },
+    "crawled_at": "2025-07-14T20:59:25.789554Z"
+  },
+  "assessed_at": "2025-07-14T15:31:45.103842Z"
+}

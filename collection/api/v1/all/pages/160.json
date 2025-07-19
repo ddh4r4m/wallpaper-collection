@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-19T12:26:57.111378",
+    "page": 160,
+    "per_page": 15,
+    "total_pages": 160,
+    "total_count": 2387,
+    "count_on_page": 2,
+    "categories": 19,
+    "has_next": false,
+    "has_prev": true,
+    "next_page_url": null,
+    "prev_page_url": "/api/v1/all/pages/159.json"
+  },
+  "data": [
+    {
+      "id": "vintage_098",
+      "category": "vintage",
+      "title": "Vintage Wallpaper",
+      "tags": [
+        "vintage",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1445
+        },
+        "file_size": 201091,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:32:05.183075",
+        "hash": "4bdd6950742a07047485b44697e59f45",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/098.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/098.jpg"
+      }
+    },
+    {
+      "id": "vintage_099",
+      "category": "vintage",
+      "title": "Vintage Wallpaper",
+      "tags": [
+        "vintage",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 608
+        },
+        "file_size": 289845,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:32:09.987305",
+        "hash": "dc8dbd201d11bb0d6b38f975327e6cc3",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/099.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/099.jpg"
+      }
+    }
+  ]
+}

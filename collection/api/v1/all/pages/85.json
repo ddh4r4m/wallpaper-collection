@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 85,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/86.json",
@@ -15,393 +15,432 @@
   },
   "data": [
     {
-      "id": "nature_132",
-      "category": "nature",
-      "title": "Nature Wallpaper 132",
+      "id": "cyberpunk_055",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/132.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/132.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 721
         },
-        "file_size": 354142,
+        "file_size": 209909,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:20.830737",
-        "hash": "67b451d69d154ba5d74ee22dde72da85",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:31:22.618883",
+        "hash": "f93672b959469d8ad05d7a830a592716",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/055.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/055.jpg"
       }
     },
     {
-      "id": "nature_133",
-      "category": "nature",
-      "title": "Nature Wallpaper 133",
+      "id": "cyberpunk_056",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/133.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/133.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 810
         },
-        "file_size": 468351,
+        "file_size": 68297,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:20.896828",
-        "hash": "d27ddf516bf362dfea8e4aaa2403f0e7",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:31:24.942787",
+        "hash": "754a0ab013f873b68262917713966f72",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/056.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/056.jpg"
       }
     },
     {
-      "id": "nature_134",
-      "category": "nature",
-      "title": "Nature Wallpaper 134",
+      "id": "cyberpunk_057",
+      "category": "cyberpunk",
+      "title": "Sonny Brisko Cyber Office by D - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/134.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/134.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 608
         },
-        "file_size": 356717,
+        "file_size": 132347,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:20.957314",
-        "hash": "91659bf355f516ec43e1f8a43fe12e70",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:25:24.527308",
+        "hash": "8338f1df51e8948d19057ea5d40c3831",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 29
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/057.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/057.jpg"
       }
     },
     {
-      "id": "nature_135",
-      "category": "nature",
-      "title": "Nature Wallpaper 135",
+      "id": "cyberpunk_058",
+      "category": "cyberpunk",
+      "title": "Drones indicating exit after a - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/135.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/135.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1440
         },
-        "file_size": 200289,
+        "file_size": 151591,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.010717",
-        "hash": "4838e92d1d32efba23231733dc64c6e4",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:25:25.668550",
+        "hash": "476cfd2f0221375c4c6035dd8f314764",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 6733
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/058.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/058.jpg"
       }
     },
     {
-      "id": "nature_136",
-      "category": "nature",
-      "title": "Nature Wallpaper 136",
+      "id": "cyberpunk_059",
+      "category": "cyberpunk",
+      "title": "Yet another bedroom from my sk - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/136.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/136.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 840
         },
-        "file_size": 369172,
+        "file_size": 292913,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.072914",
-        "hash": "062a247d9d7074e7fc4648ae4c98c323",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:25:26.927574",
+        "hash": "938fc079d9343e1a77b7d81a57fdeb10",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 127
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/059.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/059.jpg"
       }
     },
     {
-      "id": "nature_137",
-      "category": "nature",
-      "title": "Nature Wallpaper 137",
+      "id": "cyberpunk_060",
+      "category": "cyberpunk",
+      "title": "It looks like it's going to be - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/137.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/137.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1440
         },
-        "file_size": 85052,
+        "file_size": 422863,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.119685",
-        "hash": "afec77dd4249cb616e84e431b43bd9ac",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:25:28.073905",
+        "hash": "aee7c57f179115fe8e07855dd7a222c1",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 54
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/060.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/060.jpg"
       }
     },
     {
-      "id": "nature_138",
-      "category": "nature",
-      "title": "Nature Wallpaper 138",
+      "id": "cyberpunk_061",
+      "category": "cyberpunk",
+      "title": "M3gan 2.0 is genuinely one of  - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/138.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/138.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 1055,
+          "height": 641
         },
-        "file_size": 296436,
+        "file_size": 94304,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.175293",
-        "hash": "fca2c310bf6ecfd289e2d252644ef746",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:25:29.160295",
+        "hash": "a559d3a69a72f56f150f307a5b13dc33",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 211
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/061.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/061.jpg"
       }
     },
     {
-      "id": "nature_139",
-      "category": "nature",
-      "title": "Nature Wallpaper 139",
+      "id": "cyberpunk_062",
+      "category": "cyberpunk",
+      "title": "LAPD recruitment ads on Reddit - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/139.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/139.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1821
         },
-        "file_size": 564466,
+        "file_size": 242814,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.245633",
-        "hash": "b5ff6aa3b15fc844e5860fe9bd9693a0",
-        "source": "migrated"
+        "added_at": "2025-07-19T11:44:44.015612",
+        "hash": "9ea47b765b234f5da1b7897d650d2386",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 75
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/062.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/062.jpg"
       }
     },
     {
-      "id": "nature_140",
-      "category": "nature",
-      "title": "Nature Wallpaper 140",
+      "id": "cyberpunk_063",
+      "category": "cyberpunk",
+      "title": "They have a point - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/140.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/140.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 765
         },
-        "file_size": 420568,
+        "file_size": 96094,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.309418",
-        "hash": "492d6473f1553ac0f42a67f190d05941",
-        "source": "migrated"
+        "added_at": "2025-07-19T11:44:45.151394",
+        "hash": "81cd17bfac047d5915343c915d0b5b5b",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 795
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/063.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/063.jpg"
       }
     },
     {
-      "id": "nature_141",
-      "category": "nature",
-      "title": "Nature Wallpaper 141",
+      "id": "cyberpunk_064",
+      "category": "cyberpunk",
+      "title": "Bad news for Rez, good news fo - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/141.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/141.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1311
         },
-        "file_size": 505270,
+        "file_size": 133972,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.377141",
-        "hash": "d078c0d176a5f21d49554e6458ba9ea4",
-        "source": "migrated"
+        "added_at": "2025-07-19T11:44:46.249553",
+        "hash": "be7b955dcec1e8071775a0f097b990c2",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 35
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/064.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/064.jpg"
       }
     },
     {
-      "id": "nature_142",
-      "category": "nature",
-      "title": "Nature Wallpaper 142",
+      "id": "cyberpunk_065",
+      "category": "cyberpunk",
+      "title": "Chinatown - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/142.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/142.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1527
         },
-        "file_size": 107539,
+        "file_size": 295149,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.459994",
-        "hash": "99910991c3071ab6c44d0126a5a3da11",
-        "source": "migrated"
+        "added_at": "2025-07-19T11:44:47.505551",
+        "hash": "91a6575abd9f061a6bde3c4401c377db",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 274
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/065.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/065.jpg"
       }
     },
     {
-      "id": "nature_143",
-      "category": "nature",
-      "title": "Nature Wallpaper 143",
+      "id": "cyberpunk_066",
+      "category": "cyberpunk",
+      "title": "Sonny Brisko Cyber Office by D - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/143.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/143.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 608
         },
-        "file_size": 295942,
+        "file_size": 132347,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.516735",
-        "hash": "f211de5087ec635edf5a75adc35cec87",
-        "source": "migrated"
+        "added_at": "2025-07-19T11:44:48.608075",
+        "hash": "8338f1df51e8948d19057ea5d40c3831",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 67
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/066.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/066.jpg"
       }
     },
     {
-      "id": "nature_144",
-      "category": "nature",
-      "title": "Nature Wallpaper 144",
+      "id": "cyberpunk_067",
+      "category": "cyberpunk",
+      "title": "Drones indicating exit after a - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/144.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/144.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1440
         },
-        "file_size": 544877,
+        "file_size": 151591,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.588636",
-        "hash": "a5c75f862a3a57ddfcd48b361d12b458",
-        "source": "migrated"
+        "added_at": "2025-07-19T11:44:49.723009",
+        "hash": "476cfd2f0221375c4c6035dd8f314764",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 7453
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/067.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/067.jpg"
       }
     },
     {
-      "id": "nature_145",
-      "category": "nature",
-      "title": "Nature Wallpaper 145",
+      "id": "cyberpunk_068",
+      "category": "cyberpunk",
+      "title": "Yet another bedroom from my sk - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/145.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/145.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 840
         },
-        "file_size": 389076,
+        "file_size": 292913,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.652228",
-        "hash": "8eff90ff108f74bf4ae077082e925b8f",
-        "source": "migrated"
+        "added_at": "2025-07-19T11:44:50.969511",
+        "hash": "938fc079d9343e1a77b7d81a57fdeb10",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 162
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/068.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/068.jpg"
       }
     },
     {
-      "id": "nature_146",
-      "category": "nature",
-      "title": "Nature Wallpaper 146",
+      "id": "cyberpunk_069",
+      "category": "cyberpunk",
+      "title": "It looks like it's going to be - Reddit AI",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/146.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/146.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1440
         },
-        "file_size": 725212,
+        "file_size": 422863,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.731695",
-        "hash": "e4fcdb8424a55a164b68b231191168d2",
-        "source": "migrated"
+        "added_at": "2025-07-19T11:44:52.106931",
+        "hash": "aee7c57f179115fe8e07855dd7a222c1",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 62
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/069.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/069.jpg"
       }
     }
   ]

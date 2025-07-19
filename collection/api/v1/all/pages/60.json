@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 60,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/61.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "cars_029",
-      "category": "cars",
-      "title": "Cars Wallpaper 029",
+      "id": "architecture_129",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 129",
       "tags": [
-        "cars",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/029.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/029.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/129.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/129.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 232244,
+        "file_size": 523742,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:12.987486",
-        "hash": "ea39dee455952708e6198bff9cc35cb3",
+        "added_at": "2025-07-17T00:02:52.928552",
+        "hash": "bb79d2fc13b5c32cd9f811100617cba9",
         "source": "migrated"
       }
     },
     {
-      "id": "cyberpunk_001",
-      "category": "cyberpunk",
-      "title": "Cyberpunk Wallpaper 001",
+      "id": "architecture_130",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 130",
       "tags": [
-        "cyberpunk",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/001.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/001.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/130.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/130.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 203969,
+        "file_size": 598481,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:13.123584",
-        "hash": "49a9ff9537576d4351b377827c1368db",
+        "added_at": "2025-07-17T00:02:53.003084",
+        "hash": "6c9735c5a510feb225d28a39e8e7a00e",
         "source": "migrated"
       }
     },
     {
-      "id": "cyberpunk_002",
-      "category": "cyberpunk",
-      "title": "Cyberpunk Wallpaper 002",
+      "id": "architecture_131",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 131",
       "tags": [
-        "cyberpunk",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/002.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/002.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/131.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/131.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 209069,
+        "file_size": 445157,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:13.425153",
-        "hash": "6a060363e2cf6738fa5144b6e7ebc869",
+        "added_at": "2025-07-17T00:02:53.069159",
+        "hash": "bad1aacd240e5596a26f4b4b24c874cd",
         "source": "migrated"
       }
     },
     {
-      "id": "cyberpunk_003",
-      "category": "cyberpunk",
-      "title": "Cyberpunk Wallpaper 003",
+      "id": "architecture_132",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 132",
       "tags": [
-        "cyberpunk",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/003.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/003.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/132.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/132.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 203034,
+        "file_size": 407760,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:13.592443",
-        "hash": "ac23a01f18f13b7944df1fb3b5195f0c",
+        "added_at": "2025-07-17T00:02:53.132981",
+        "hash": "35b73954b722a007b1f797782b0e3f63",
         "source": "migrated"
       }
     },
     {
-      "id": "cyberpunk_004",
-      "category": "cyberpunk",
-      "title": "Cyberpunk Wallpaper 004",
+      "id": "architecture_133",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 133",
       "tags": [
-        "cyberpunk",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/004.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/004.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/133.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/133.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 221252,
+        "file_size": 245839,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:13.864670",
-        "hash": "adb9a3b82316ea16ee4b49844b527b94",
+        "added_at": "2025-07-17T00:02:53.187624",
+        "hash": "caa707c7fb72acbda8d43fb4e7f9d607",
         "source": "migrated"
       }
     },
     {
-      "id": "cyberpunk_005",
-      "category": "cyberpunk",
-      "title": "Cyberpunk Wallpaper 005",
+      "id": "architecture_134",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 134",
       "tags": [
-        "cyberpunk",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/005.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/005.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/134.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/134.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 472775,
+        "file_size": 454652,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:14.010874",
-        "hash": "6a0e3cfef5adc5d99c1aa907f7e20928",
+        "added_at": "2025-07-17T00:02:53.251435",
+        "hash": "a8e0f3fc99660a60eca70e52ac5afa18",
         "source": "migrated"
       }
     },
     {
-      "id": "cyberpunk_006",
-      "category": "cyberpunk",
-      "title": "Cyberpunk Wallpaper 006",
+      "id": "architecture_135",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 135",
       "tags": [
-        "cyberpunk",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/006.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/006.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/135.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/135.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 652713,
+        "file_size": 294055,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:14.575958",
-        "hash": "e4cec1902a49b8c9bb996546cf52d731",
+        "added_at": "2025-07-17T00:02:53.309857",
+        "hash": "1ecb19e9086b6d956f15434d84fc5ad5",
         "source": "migrated"
       }
     },
     {
-      "id": "cyberpunk_007",
-      "category": "cyberpunk",
-      "title": "Cyberpunk Wallpaper 007",
+      "id": "architecture_136",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 136",
       "tags": [
-        "cyberpunk",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/007.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/007.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/136.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/136.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 162860,
+        "file_size": 335183,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:14.705651",
-        "hash": "51b33d6b402014ce8888742dfb70ddb5",
+        "added_at": "2025-07-17T00:02:53.370057",
+        "hash": "b1a9427e28e3edb15f0e52f061f4022f",
         "source": "migrated"
       }
     },
     {
-      "id": "cyberpunk_008",
-      "category": "cyberpunk",
-      "title": "Cyberpunk Wallpaper 008",
+      "id": "architecture_137",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 137",
       "tags": [
-        "cyberpunk",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/008.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/008.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/137.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/137.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 392002,
+        "file_size": 257003,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:15.068390",
-        "hash": "1a2542d575094a9a87a121508676b6bc",
+        "added_at": "2025-07-17T00:02:53.425895",
+        "hash": "81c8b4caef0a915618b893ebde85c547",
         "source": "migrated"
       }
     },
     {
-      "id": "cyberpunk_009",
-      "category": "cyberpunk",
-      "title": "Cyberpunk Wallpaper 009",
+      "id": "architecture_138",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 138",
       "tags": [
-        "cyberpunk",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/009.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/009.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/138.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/138.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 285772,
+        "file_size": 215574,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:15.409900",
-        "hash": "b5ca9f698f51b5febcfcc1da2a7f6126",
+        "added_at": "2025-07-17T00:02:53.482218",
+        "hash": "01754b7259ac2601b30d907c33ef9e64",
         "source": "migrated"
       }
     },
     {
-      "id": "cyberpunk_010",
-      "category": "cyberpunk",
-      "title": "Cyberpunk Wallpaper 010",
+      "id": "architecture_139",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 139",
       "tags": [
-        "cyberpunk",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/010.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/010.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/139.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/139.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 226005,
+        "file_size": 280169,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:15.711259",
-        "hash": "5a708832aac114806a588b9708202e28",
+        "added_at": "2025-07-17T00:02:53.538716",
+        "hash": "8708dcd1cd437ab9111543ce1de26a79",
         "source": "migrated"
       }
     },
     {
-      "id": "cyberpunk_011",
-      "category": "cyberpunk",
-      "title": "Cyberpunk Wallpaper 011",
+      "id": "architecture_140",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 140",
       "tags": [
-        "cyberpunk",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/011.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/011.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/140.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/140.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 302312,
+        "file_size": 255845,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:15.892641",
-        "hash": "d7d4e6bd10584b9ab1f500b37075622e",
+        "added_at": "2025-07-17T00:02:53.600150",
+        "hash": "abf8795cff1fff380abe3c610c75cdcd",
         "source": "migrated"
       }
     },
     {
-      "id": "cyberpunk_012",
-      "category": "cyberpunk",
-      "title": "Cyberpunk Wallpaper 012",
+      "id": "architecture_141",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 141",
       "tags": [
-        "cyberpunk",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/012.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/012.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/141.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/141.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 71009,
+        "file_size": 484882,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:16.513612",
-        "hash": "101fe0e445b28883176b013042d5c2e8",
+        "added_at": "2025-07-17T00:02:53.676814",
+        "hash": "32d750cbee6256fe518d5d063cab046f",
         "source": "migrated"
       }
     },
     {
-      "id": "cyberpunk_013",
-      "category": "cyberpunk",
-      "title": "Cyberpunk Wallpaper 013",
+      "id": "architecture_142",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 142",
       "tags": [
-        "cyberpunk",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/013.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/013.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/142.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/142.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 44356,
+        "file_size": 138373,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:16.654990",
-        "hash": "884a2486a171c20fd7960cd2527fdc3d",
+        "added_at": "2025-07-17T00:02:53.726705",
+        "hash": "b55d7ea14fd5161d2d386db87ee74384",
         "source": "migrated"
       }
     },
     {
-      "id": "cyberpunk_014",
-      "category": "cyberpunk",
-      "title": "Cyberpunk Wallpaper 014",
+      "id": "architecture_143",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 143",
       "tags": [
-        "cyberpunk",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/014.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/014.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/143.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/143.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 238239,
+        "file_size": 394568,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:16.799524",
-        "hash": "683bbc57e58eba24418cccca5894aaaf",
+        "added_at": "2025-07-17T00:02:53.789431",
+        "hash": "bd61ad77cedf7f92b1910b43c33da064",
         "source": "migrated"
       }
     }

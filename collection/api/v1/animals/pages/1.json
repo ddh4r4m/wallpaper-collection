@@ -1,0 +1,408 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-19T12:26:57.111378",
+    "category": "animals",
+    "page": 1,
+    "per_page": 15,
+    "total_pages": 6,
+    "total_count": 84,
+    "count_on_page": 15,
+    "has_next": true,
+    "has_prev": false,
+    "next_page_url": "/api/v1/animals/pages/2.json",
+    "prev_page_url": null
+  },
+  "data": [
+    {
+      "id": "animals_001",
+      "category": "animals",
+      "title": "Animals Wallpaper",
+      "tags": [
+        "animals",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1440
+        },
+        "file_size": 228763,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:42:50.380207",
+        "hash": "bdd4f65e2d0718682cfc4b5059dc8516",
+        "photographer": "kitten sitting on floor"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/001.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/001.jpg"
+      }
+    },
+    {
+      "id": "animals_002",
+      "category": "animals",
+      "title": "Animals Wallpaper",
+      "tags": [
+        "animals",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1620
+        },
+        "file_size": 252552,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:42:52.987835",
+        "hash": "69db033b82f534e10ea41a8bc9db5b13",
+        "photographer": "kitten"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/002.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/002.jpg"
+      }
+    },
+    {
+      "id": "animals_003",
+      "category": "animals",
+      "title": "Animals Wallpaper",
+      "tags": [
+        "animals",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 71352,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:42:55.288204",
+        "hash": "03f8c6cb793ab4f0773ffd066a1fb72e",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/003.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/003.jpg"
+      }
+    },
+    {
+      "id": "animals_004",
+      "category": "animals",
+      "title": "Animals Wallpaper",
+      "tags": [
+        "animals",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 187422,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:42:59.678318",
+        "hash": "146bc192b6fb063c9e846e8b7a64afee",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/004.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/004.jpg"
+      }
+    },
+    {
+      "id": "animals_005",
+      "category": "animals",
+      "title": "Animals Wallpaper",
+      "tags": [
+        "animals",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 152721,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:43:01.978937",
+        "hash": "40cadb40b6602375a19d97254015dc77",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/005.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/005.jpg"
+      }
+    },
+    {
+      "id": "animals_006",
+      "category": "animals",
+      "title": "Animals Wallpaper",
+      "tags": [
+        "animals",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 864
+        },
+        "file_size": 256332,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:43:04.280256",
+        "hash": "976bee7f199346d6d504dc12aa8c4566",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/006.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/006.jpg"
+      }
+    },
+    {
+      "id": "animals_007",
+      "category": "animals",
+      "title": "Animals Wallpaper",
+      "tags": [
+        "animals",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 635
+        },
+        "file_size": 156423,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:43:07.620193",
+        "hash": "d9a22da6e2c49a14be4f450d6eb9f2b5",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/007.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/007.jpg"
+      }
+    },
+    {
+      "id": "animals_008",
+      "category": "animals",
+      "title": "Animals Wallpaper",
+      "tags": [
+        "animals",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 173447,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:43:10.076355",
+        "hash": "28cf88a8d7ff9d37016fc1830fd9b78c",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/008.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/008.jpg"
+      }
+    },
+    {
+      "id": "animals_009",
+      "category": "animals",
+      "title": "Animals Wallpaper",
+      "tags": [
+        "animals",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1620
+        },
+        "file_size": 241345,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:43:12.732540",
+        "hash": "4f1ac8214e8ab32157d43df869138df1",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/009.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/009.jpg"
+      }
+    },
+    {
+      "id": "animals_010",
+      "category": "animals",
+      "title": "Animals Wallpaper",
+      "tags": [
+        "animals",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1620
+        },
+        "file_size": 352492,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:43:17.365441",
+        "hash": "0db51723fa25f545db1cce42403f39c3",
+        "photographer": "cat"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/010.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/010.jpg"
+      }
+    },
+    {
+      "id": "animals_011",
+      "category": "animals",
+      "title": "Animals Wallpaper",
+      "tags": [
+        "animals",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1620
+        },
+        "file_size": 129038,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:43:19.844858",
+        "hash": "0c13ec8095bf1bda8c62320af8dc82c1",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/011.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/011.jpg"
+      }
+    },
+    {
+      "id": "animals_012",
+      "category": "animals",
+      "title": "Animals Wallpaper",
+      "tags": [
+        "animals",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1620
+        },
+        "file_size": 121861,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:43:21.253278",
+        "hash": "f22f6b2e3ff4d7f548cf47ed82ec376f",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/012.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/012.jpg"
+      }
+    },
+    {
+      "id": "animals_013",
+      "category": "animals",
+      "title": "Animals Wallpaper",
+      "tags": [
+        "animals",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1686
+        },
+        "file_size": 316639,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:43:25.320409",
+        "hash": "4affb8949eb52451660c9f7dbecffbbc",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/013.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/013.jpg"
+      }
+    },
+    {
+      "id": "animals_014",
+      "category": "animals",
+      "title": "Animals Wallpaper",
+      "tags": [
+        "animals",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 721
+        },
+        "file_size": 88095,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:43:27.642558",
+        "hash": "2df3eb98eda89308eca0a1700d74c42e",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/014.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/014.jpg"
+      }
+    },
+    {
+      "id": "animals_015",
+      "category": "animals",
+      "title": "Animals Wallpaper",
+      "tags": [
+        "animals",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1732
+        },
+        "file_size": 246809,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:43:30.149531",
+        "hash": "314985973d1b44d3248b7a0c2efe519d",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/015.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/015.jpg"
+      }
+    }
+  ]
+}

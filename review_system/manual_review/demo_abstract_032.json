@@ -1,0 +1,24 @@
+{
+  "id": "abstract_032",
+  "source": "unsplash_demo_enhanced",
+  "category": "abstract",
+  "title": "Abstract Enhanced Demo Wallpaper 32",
+  "description": "Enhanced demo abstract wallpaper from Unsplash",
+  "width": 1080,
+  "height": 1920,
+  "tags": [
+    "abstract",
+    "demo",
+    "wallpaper",
+    "mobile",
+    "enhanced"
+  ],
+  "download_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+  "source_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+  "variation": {
+    "crop": "entropy",
+    "fm": "jpg",
+    "q": "95"
+  },
+  "crawled_at": "2025-07-14T20:26:32.761604Z"
+}

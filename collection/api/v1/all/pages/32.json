@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 32,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/33.json",
@@ -15,381 +15,568 @@
   },
   "data": [
     {
-      "id": "anime_047",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "ai_009",
+      "category": "ai",
+      "title": "The Veilstone Reliquary - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 5000,
-          "height": 2143
+          "width": 1080,
+          "height": 1620
         },
-        "file_size": 5839666,
-        "added_at": "2025-07-16T20:56:20.501849",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_063.jpg"
+        "file_size": 422237,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:55:27.756061",
+        "hash": "e681b3fb7fbd0aa6bf575c0551a76ee4",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 15
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/047.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/047.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/009.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/009.jpg"
       }
     },
     {
-      "id": "anime_048",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "ai_010",
+      "category": "ai",
+      "title": "She wasn't beautiful but she h - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 4093,
-          "height": 2894
+          "width": 1080,
+          "height": 1306
         },
-        "file_size": 1815923,
-        "added_at": "2025-07-16T20:56:20.655566",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_064.jpg"
+        "file_size": 316482,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:55:28.921708",
+        "hash": "dafc234a389e67ac6c5145a3e6e58d6e",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 25
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/048.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/048.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/010.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/010.jpg"
       }
     },
     {
-      "id": "anime_049",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "ai_011",
+      "category": "ai",
+      "title": "at least we have one eye - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 10010,
-          "height": 5460
-        },
-        "file_size": 11209283,
-        "added_at": "2025-07-16T20:56:20.962988",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_065.jpg"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/049.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/049.jpg"
-      }
-    },
-    {
-      "id": "anime_050",
-      "category": "anime",
-      "title": "Anime Wallpaper",
-      "tags": [
-        "anime",
-        "wallpaper",
-        "hd",
-        "high resolution",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 3840,
-          "height": 2160
-        },
-        "file_size": 2079887,
-        "added_at": "2025-07-16T20:56:21.018107",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_066.jpg"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/050.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/050.jpg"
-      }
-    },
-    {
-      "id": "anime_051",
-      "category": "anime",
-      "title": "Anime Wallpaper",
-      "tags": [
-        "anime",
-        "wallpaper",
-        "hd",
-        "high resolution",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 2924,
-          "height": 4244
-        },
-        "file_size": 11213322,
-        "added_at": "2025-07-16T20:56:21.240362",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_067.jpg"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/051.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/051.jpg"
-      }
-    },
-    {
-      "id": "anime_052",
-      "category": "anime",
-      "title": "Anime Wallpaper",
-      "tags": [
-        "anime",
-        "wallpaper",
-        "hd",
-        "high resolution",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 4096,
-          "height": 2160
-        },
-        "file_size": 4976241,
-        "added_at": "2025-07-16T20:56:21.331145",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_068.jpg"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/052.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/052.jpg"
-      }
-    },
-    {
-      "id": "anime_053",
-      "category": "anime",
-      "title": "Anime Wallpaper",
-      "tags": [
-        "anime",
-        "wallpaper",
-        "hd",
-        "high resolution",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 2896,
-          "height": 4096
-        },
-        "file_size": 7222347,
-        "added_at": "2025-07-16T20:56:21.557014",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_069.jpg"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/053.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/053.jpg"
-      }
-    },
-    {
-      "id": "anime_054",
-      "category": "anime",
-      "title": "Anime Wallpaper",
-      "tags": [
-        "anime",
-        "wallpaper",
-        "hd",
-        "high resolution",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 2339,
-          "height": 1653
-        },
-        "file_size": 6322396,
-        "added_at": "2025-07-16T20:56:21.688149",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_071.jpg"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/054.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/054.jpg"
-      }
-    },
-    {
-      "id": "anime_055",
-      "category": "anime",
-      "title": "Anime Wallpaper",
-      "tags": [
-        "anime",
-        "wallpaper",
-        "hd",
-        "high resolution",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 5471,
-          "height": 3031
-        },
-        "file_size": 8291796,
-        "added_at": "2025-07-16T20:56:21.836582",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_076.jpg"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/055.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/055.jpg"
-      }
-    },
-    {
-      "id": "anime_056",
-      "category": "anime",
-      "title": "Anime Wallpaper",
-      "tags": [
-        "anime",
-        "wallpaper",
-        "hd",
-        "high resolution",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 4036,
-          "height": 2692
-        },
-        "file_size": 3624567,
-        "added_at": "2025-07-16T20:56:21.895325",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_080.jpg"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/056.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/056.jpg"
-      }
-    },
-    {
-      "id": "anime_057",
-      "category": "anime",
-      "title": "Anime Wallpaper",
-      "tags": [
-        "anime",
-        "wallpaper",
-        "hd",
-        "high resolution",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1920,
+          "width": 1080,
           "height": 1080
         },
-        "file_size": 368881,
-        "added_at": "2025-07-16T20:56:21.932228",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_089.jpg"
+        "file_size": 294858,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:55:30.371508",
+        "hash": "2a56f3e1c8ec52b2c4da8c5d61f629a4",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 19
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/057.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/057.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/011.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/011.jpg"
       }
     },
     {
-      "id": "anime_058",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "ai_012",
+      "category": "ai",
+      "title": "The EYE - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "metadata": {
-        "dimensions": {
-          "width": 1920,
-          "height": 1080
-        },
-        "file_size": 2022780,
-        "added_at": "2025-07-16T20:56:21.982128",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_094.jpg"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/058.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/058.jpg"
-      }
-    },
-    {
-      "id": "anime_059",
-      "category": "anime",
-      "title": "Anime Wallpaper 059",
-      "tags": [
-        "anime",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/059.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/059.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 893
         },
-        "file_size": 457199,
+        "file_size": 112922,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:27.603764",
-        "hash": "3c4bb62156945ed2259d44fe1067d6eb",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:55:31.525432",
+        "hash": "740dbb6a1e714dcac231566865bbcd43",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 10
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/012.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/012.jpg"
       }
     },
     {
-      "id": "anime_060",
-      "category": "anime",
-      "title": "Anime Wallpaper 060",
+      "id": "ai_013",
+      "category": "ai",
+      "title": "Battle - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/060.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/060.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 1024,
+          "height": 1024
         },
-        "file_size": 234589,
+        "file_size": 111299,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:27.845281",
-        "hash": "82f3947474ffddad9cac954c6c9a51d5",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:55:32.901428",
+        "hash": "1608ee6c5820c6b268757c9d65411fd4",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 4
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/013.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/013.jpg"
       }
     },
     {
-      "id": "anime_061",
-      "category": "anime",
-      "title": "Anime Wallpaper 061",
+      "id": "ai_014",
+      "category": "ai",
+      "title": "Microcosm - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/061.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/061.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
+          "width": 1024,
+          "height": 1024
+        },
+        "file_size": 256084,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:55:34.583120",
+        "hash": "597aefcdec83e283976d80902a6ffcb7",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 3
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/014.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/014.jpg"
+      }
+    },
+    {
+      "id": "ai_016",
+      "category": "ai",
+      "title": "score_9 score_8_up score_7_up BREAK\n1girl portrait - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 160241,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:10:42.348676",
+        "hash": "376353b3f7634e0221529f1ad6987e95",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "score_9, score_8_up, score_7_up, BREAK,\n1girl, portrait, beautiful, tiefling shaman, white hair, (long hair:1.3), side bangs, horns, barbarian, gladiator, war paint, tribal markings, long tail, blue skin, pink eyes, glowing eyes, (smug:0.85), (big breast:1.25), dramatic lights\n<lora:Fant5yP0ny:0.6> ",
+        "civitai_stats": {
+          "cryCount": 683,
+          "laughCount": 1233,
+          "likeCount": 11266,
+          "dislikeCount": 0,
+          "heartCount": 4661,
+          "commentCount": 13
+        },
+        "total_reactions": 15927
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/015.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/015.jpg"
+      }
+    },
+    {
+      "id": "ai_017",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "high-resolution",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 960,
           "height": 1920
         },
-        "file_size": 343723,
+        "file_size": 394338,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:28.255259",
-        "hash": "c3dd102197bc14bc7ac255681d419071",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:11:32.628982",
+        "hash": "f8ec75f268a4c0bb9d6319d2710bf012",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "civitai_stats": {
+          "cryCount": 773,
+          "laughCount": 1175,
+          "likeCount": 10432,
+          "dislikeCount": 0,
+          "heartCount": 4120,
+          "commentCount": 53
+        },
+        "total_reactions": 14552
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/016.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/016.jpg"
+      }
+    },
+    {
+      "id": "ai_028",
+      "category": "ai",
+      "title": "masterpiece best quality very aesthetic absurdres - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "ems-325360-ems",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1024,
+          "height": 1440
+        },
+        "file_size": 267964,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:11:51.808512",
+        "hash": "8527516b0f207fbe4f9acc4eca790249",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "masterpiece, best quality, very aesthetic, absurdres\nwlop miimalism  \n  cinematic  lighting \n   1girl, aged up\n  walking in the alley black suit white collar shirt \n perspective from above\n cyberpunk, neon",
+        "ai_model": "EMS-325360-EMS",
+        "civitai_stats": {
+          "cryCount": 533,
+          "laughCount": 1094,
+          "likeCount": 8486,
+          "dislikeCount": 0,
+          "heartCount": 3459,
+          "commentCount": 5
+        },
+        "total_reactions": 11945
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/017.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/017.jpg"
+      }
+    },
+    {
+      "id": "ai_029",
+      "category": "ai",
+      "title": "realistic vibrant detailed a cinematic photograph - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1024,
+          "height": 1536
+        },
+        "file_size": 150934,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:11:54.411201",
+        "hash": "8373856f58d91ae0c558189340678e8c",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "realistic, vibrant, detailed. a cinematic photograph classily depicts a prestigious beautiful woman dressed in an all white dress. The woman has no face. Her head is a sphere, a colorful gradient foreign planet, and not a human head. Her outfit is adorned by luxurious gold trim and other attire. Her",
+        "civitai_stats": {
+          "cryCount": 728,
+          "laughCount": 1512,
+          "likeCount": 8740,
+          "dislikeCount": 0,
+          "heartCount": 3183,
+          "commentCount": 4
+        },
+        "total_reactions": 11923
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/018.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/018.jpg"
+      }
+    },
+    {
+      "id": "ai_046",
+      "category": "ai",
+      "title": "score_9 score_8_up score_7_up score_6_up score_5_u - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "autismmixsdxl-autism",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 864,
+          "height": 1152
+        },
+        "file_size": 157971,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:12:53.308211",
+        "hash": "2636c01626c0493a9b2e154a53403156",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up,   <lora:r3dgl0wXLP:0.7> r3dgl0w, red eyes, red background, 1girl, dark, horns",
+        "ai_model": "autismmixSDXL_autismmixPony",
+        "civitai_stats": {
+          "cryCount": 612,
+          "laughCount": 1171,
+          "likeCount": 9328,
+          "dislikeCount": 0,
+          "heartCount": 3713,
+          "commentCount": 6
+        },
+        "total_reactions": 13041
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/019.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/019.jpg"
+      }
+    },
+    {
+      "id": "ai_047",
+      "category": "ai",
+      "title": "score_9 score_8_up score_7_up  first person perspe - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 162761,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:12:55.054999",
+        "hash": "89382d758c31cd23116debdae0b55041",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "score_9, score_8_up, score_7_up,  ((first person perspective)), landscape photo, tron, heaven, ascendance, god rays, light, gold, sky,  advntr, underwater, alien, colorful, ((zdzislaw beksinski)),translucent,transparent,reelmech, mechanical parts, cable, wires, machinery, joints, body suit",
+        "civitai_stats": {
+          "cryCount": 595,
+          "laughCount": 1338,
+          "likeCount": 9694,
+          "dislikeCount": 0,
+          "heartCount": 3326,
+          "commentCount": 5
+        },
+        "total_reactions": 13020
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/020.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/020.jpg"
+      }
+    },
+    {
+      "id": "ai_048",
+      "category": "ai",
+      "title": "Dead can dance misty morning unreal shapes emerge - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1024,
+          "height": 1536
+        },
+        "file_size": 93601,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:12:57.198872",
+        "hash": "3da989275225d720153957d8adb47fd2",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "Dead can dance, misty morning, unreal shapes emerge from the fog, photo realism.",
+        "civitai_stats": {
+          "cryCount": 991,
+          "laughCount": 1488,
+          "likeCount": 9504,
+          "dislikeCount": 0,
+          "heartCount": 3372,
+          "commentCount": 21
+        },
+        "total_reactions": 12876
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/021.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/021.jpg"
+      }
+    },
+    {
+      "id": "ai_049",
+      "category": "ai",
+      "title": "Bosstyle Silhouette of a Woman fighting a giant DA - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 146016,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:12:59.066746",
+        "hash": "5e47efd1db561e2d37c0ef8481cef21b",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "Bosstyle, Silhouette of a Woman fighting a giant DARK mononoke Monster Boss resembling a ethereal fox with seven tails: Capture the essence of nostalgia and color in this vintage photograph. Dominating the scene is a meticulously detailed, translucent dark-red Blood filled firefox, adorned with vibr",
+        "civitai_stats": {
+          "cryCount": 476,
+          "laughCount": 975,
+          "likeCount": 9265,
+          "dislikeCount": 0,
+          "heartCount": 3482,
+          "commentCount": 11
+        },
+        "total_reactions": 12747
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/022.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/022.jpg"
+      }
+    },
+    {
+      "id": "ai_052",
+      "category": "ai",
+      "title": "nistyle in the style of ck-mgs Mh1AgThS2 intricate - Premium Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 218575,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:13:04.476308",
+        "hash": "4b7597ed52d6fbae279b9aebb45ed50d",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "nistyle, in the style of ck-mgs, Mh1$AgThS2, intricate linework with expressive contrasts, soft lighting with dynamic highlights, image of a dusty desert with a 1930s female explorer, blonde hair, safari hat and jacket, standing looking up at an Egyptian pyramid, silhouetted at sunset, sparse clouds",
+        "civitai_stats": {
+          "cryCount": 637,
+          "laughCount": 1110,
+          "likeCount": 8902,
+          "dislikeCount": 0,
+          "heartCount": 3274,
+          "commentCount": 8
+        },
+        "total_reactions": 12176
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/023.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/023.jpg"
       }
     }
   ]

@@ -1,0 +1,51 @@
+{
+  "path": "review_system/staging/space_033.jpg",
+  "filename": "space_033.jpg",
+  "status": "rejected",
+  "reason": "Basic requirements failed: File too large: 19.9MB",
+  "overall_score": 6.09,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 5.37,
+    "brightness": 5.41,
+    "color_quality": 3.71,
+    "composition": 2.46,
+    "technical_quality": 9.09
+  },
+  "watermark_penalty": 10.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": false,
+  "issues": [
+    "File too large: 19.9MB"
+  ],
+  "metadata": {
+    "id": "space_033",
+    "source": "wallhaven",
+    "category": "space",
+    "title": "Space Wallpaper 33",
+    "description": "High-quality space wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "space",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/d6/wallhaven-d65kwm.png",
+    "source_url": "https://w.wallhaven.cc/full/d6/wallhaven-d65kwm.png",
+    "original_info": {
+      "id": "wallhaven_d65kwm",
+      "url": "https://w.wallhaven.cc/full/d6/wallhaven-d65kwm.png",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "galaxy wallpaper",
+      "width": 2561,
+      "height": 4435
+    },
+    "crawled_at": "2025-07-14T20:59:35.975281Z"
+  },
+  "assessed_at": "2025-07-14T15:31:44.615436Z"
+}

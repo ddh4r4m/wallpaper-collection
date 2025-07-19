@@ -1,0 +1,5012 @@
+{
+  "summary": {
+    "total_processed": 115,
+    "approved": 13,
+    "rejected": 0,
+    "manual_review": 102,
+    "processing_time": "2025-07-14T15:00:31.020835Z"
+  },
+  "detailed_results": {
+    "approved": [
+      {
+        "path": "crawl_cache/demo_space_008.jpg",
+        "filename": "demo_space_008.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.31,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.8,
+          "brightness": 4.28,
+          "color_quality": 4.0,
+          "composition": 9.23,
+          "technical_quality": 9.4
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_008",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 8",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=90",
+          "source_url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=90",
+          "variation": {
+            "crop": "attention",
+            "fm": "jpg",
+            "q": "90"
+          },
+          "crawled_at": "2025-07-14T20:28:21.529172Z"
+        },
+        "assessed_at": "2025-07-14T15:00:23.213354Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_091.jpg",
+        "filename": "demo_space_091.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.3,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.57,
+          "brightness": 4.29,
+          "color_quality": 4.0,
+          "composition": 9.37,
+          "technical_quality": 9.4
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_091",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 91",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "variation": {
+            "crop": "entropy",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:29:33.896909Z"
+        },
+        "assessed_at": "2025-07-14T15:00:23.759426Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_026.jpg",
+        "filename": "demo_nature_026.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.04,
+        "detailed_scores": {
+          "sharpness": 9.56,
+          "contrast": 7.77,
+          "brightness": 8.9,
+          "color_quality": 2.85,
+          "composition": 8.2,
+          "technical_quality": 9.67
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_026",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 26",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "variation": {
+            "crop": "entropy",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:23:52.039694Z"
+        },
+        "assessed_at": "2025-07-14T15:00:23.843111Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_090.jpg",
+        "filename": "demo_space_090.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.31,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.8,
+          "brightness": 4.28,
+          "color_quality": 4.0,
+          "composition": 9.23,
+          "technical_quality": 9.4
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_090",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 90",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+          "variation": {
+            "crop": "attention",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:29:32.300069Z"
+        },
+        "assessed_at": "2025-07-14T15:00:24.122804Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_053.jpg",
+        "filename": "demo_space_053.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.34,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.8,
+          "brightness": 4.28,
+          "color_quality": 4.06,
+          "composition": 9.33,
+          "technical_quality": 9.42
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_053",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 53",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "source_url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "70"
+          },
+          "crawled_at": "2025-07-14T20:29:04.817879Z"
+        },
+        "assessed_at": "2025-07-14T15:00:24.207109Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_045.jpg",
+        "filename": "demo_space_045.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.27,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.65,
+          "brightness": 4.1,
+          "color_quality": 4.62,
+          "composition": 8.72,
+          "technical_quality": 9.33
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_045",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 45",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+          "variation": {
+            "crop": "faces",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:28:57.478651Z"
+        },
+        "assessed_at": "2025-07-14T15:00:24.298238Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_059.jpg",
+        "filename": "demo_abstract_059.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.5,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.12,
+          "brightness": 9.63,
+          "color_quality": 5.13,
+          "composition": 9.89,
+          "technical_quality": 9.56
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_059",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 59",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "variation": {
+            "crop": "entropy",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:27:00.247044Z"
+        },
+        "assessed_at": "2025-07-14T15:00:24.634326Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_061.jpg",
+        "filename": "demo_abstract_061.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.39,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.38,
+          "brightness": 7.04,
+          "color_quality": 4.33,
+          "composition": 9.76,
+          "technical_quality": 9.58
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_061",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 61",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=90",
+          "source_url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=90",
+          "variation": {
+            "crop": "attention",
+            "fm": "jpg",
+            "q": "90"
+          },
+          "crawled_at": "2025-07-14T20:27:04.196494Z"
+        },
+        "assessed_at": "2025-07-14T15:00:25.337962Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_043.jpg",
+        "filename": "demo_space_043.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.2,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.41,
+          "brightness": 4.1,
+          "color_quality": 4.62,
+          "composition": 8.48,
+          "technical_quality": 9.33
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_043",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 43",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "variation": {
+            "crop": "entropy",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:28:54.990702Z"
+        },
+        "assessed_at": "2025-07-14T15:00:25.820397Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_002.jpg",
+        "filename": "demo_nature_002.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.05,
+        "detailed_scores": {
+          "sharpness": 9.69,
+          "contrast": 6.1,
+          "brightness": 8.75,
+          "color_quality": 2.68,
+          "composition": 9.97,
+          "technical_quality": 9.71
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_002",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 2",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=attention&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=attention&auto=enhance",
+          "variation": {
+            "crop": "attention",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:23:23.760158Z"
+        },
+        "assessed_at": "2025-07-14T15:00:28.577421Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_005.jpg",
+        "filename": "demo_space_005.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.32,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.8,
+          "brightness": 4.28,
+          "color_quality": 4.0,
+          "composition": 9.27,
+          "technical_quality": 9.42
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_005",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 5",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80",
+          "source_url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "80"
+          },
+          "crawled_at": "2025-07-14T20:28:16.914946Z"
+        },
+        "assessed_at": "2025-07-14T15:00:29.359306Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_033.jpg",
+        "filename": "demo_abstract_033.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.5,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.12,
+          "brightness": 9.63,
+          "color_quality": 5.12,
+          "composition": 9.87,
+          "technical_quality": 9.58
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_033",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 33",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "source_url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "80"
+          },
+          "crawled_at": "2025-07-14T20:26:33.902318Z"
+        },
+        "assessed_at": "2025-07-14T15:00:29.845654Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_015.jpg",
+        "filename": "demo_space_015.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.3,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.57,
+          "brightness": 4.29,
+          "color_quality": 4.0,
+          "composition": 9.37,
+          "technical_quality": 9.4
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_015",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 15",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=85",
+          "source_url": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=85",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "85"
+          },
+          "crawled_at": "2025-07-14T20:28:33.891210Z"
+        },
+        "assessed_at": "2025-07-14T15:00:30.578342Z"
+      }
+    ],
+    "rejected": [],
+    "manual_review": [
+      {
+        "path": "crawl_cache/demo_nature_045.jpg",
+        "filename": "demo_nature_045.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.02,
+        "detailed_scores": {
+          "sharpness": 3.08,
+          "contrast": 5.1,
+          "brightness": 7.48,
+          "color_quality": 1.89,
+          "composition": 8.27,
+          "technical_quality": 9.8
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_045",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 45",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "source_url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "70"
+          },
+          "crawled_at": "2025-07-14T20:24:20.589345Z"
+        },
+        "assessed_at": "2025-07-14T15:00:21.462797Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_004.jpg",
+        "filename": "demo_abstract_004.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.81,
+        "detailed_scores": {
+          "sharpness": 9.68,
+          "contrast": 6.17,
+          "brightness": 7.79,
+          "color_quality": 1.72,
+          "composition": 6.75,
+          "technical_quality": 9.58
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_004",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 4",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=faces&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=faces&auto=compress",
+          "variation": {
+            "crop": "faces",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:26:03.823861Z"
+        },
+        "assessed_at": "2025-07-14T15:00:21.546463Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_086.jpg",
+        "filename": "demo_nature_086.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.2,
+        "detailed_scores": {
+          "sharpness": 3.12,
+          "contrast": 5.71,
+          "brightness": 7.4,
+          "color_quality": 1.8,
+          "composition": 7.25,
+          "technical_quality": 9.82
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_086",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 86",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "variation": {
+            "crop": "entropy",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:25:05.065200Z"
+        },
+        "assessed_at": "2025-07-14T15:00:21.622826Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_010.jpg",
+        "filename": "demo_abstract_010.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.53,
+        "detailed_scores": {
+          "sharpness": 1.28,
+          "contrast": 6.61,
+          "brightness": 2.8,
+          "color_quality": 4.09,
+          "composition": 5.58,
+          "technical_quality": 9.93
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_010",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 10",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80",
+          "source_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "80"
+          },
+          "crawled_at": "2025-07-14T20:26:10.807323Z"
+        },
+        "assessed_at": "2025-07-14T15:00:21.684021Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_038.jpg",
+        "filename": "demo_abstract_038.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.65,
+        "detailed_scores": {
+          "sharpness": 9.04,
+          "contrast": 6.17,
+          "brightness": 7.79,
+          "color_quality": 1.72,
+          "composition": 6.73,
+          "technical_quality": 9.6
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_038",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 38",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=75",
+          "source_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=75",
+          "variation": {
+            "crop": "attention",
+            "fm": "jpg",
+            "q": "75"
+          },
+          "crawled_at": "2025-07-14T20:26:39.846423Z"
+        },
+        "assessed_at": "2025-07-14T15:00:21.770738Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_032.jpg",
+        "filename": "demo_space_032.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.59,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.7,
+          "brightness": 4.05,
+          "color_quality": 4.54,
+          "composition": 6.01,
+          "technical_quality": 9.49
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_032",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 32",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+          "variation": {
+            "crop": "faces",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:28:46.012488Z"
+        },
+        "assessed_at": "2025-07-14T15:00:21.854517Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_046.jpg",
+        "filename": "demo_nature_046.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.21,
+        "detailed_scores": {
+          "sharpness": 3.18,
+          "contrast": 5.71,
+          "brightness": 7.4,
+          "color_quality": 1.8,
+          "composition": 7.26,
+          "technical_quality": 9.82
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_046",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 46",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+          "source_url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "95"
+          },
+          "crawled_at": "2025-07-14T20:24:22.063048Z"
+        },
+        "assessed_at": "2025-07-14T15:00:21.935968Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_085.jpg",
+        "filename": "demo_nature_085.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.58,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.12,
+          "brightness": 4.17,
+          "color_quality": 4.03,
+          "composition": 0.0,
+          "technical_quality": 8.2
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_085",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 85",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+          "source_url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "95"
+          },
+          "crawled_at": "2025-07-14T20:25:03.292366Z"
+        },
+        "assessed_at": "2025-07-14T15:00:22.051348Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_007.jpg",
+        "filename": "demo_abstract_007.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.38,
+        "detailed_scores": {
+          "sharpness": 1.35,
+          "contrast": 9.47,
+          "brightness": 6.26,
+          "color_quality": 4.58,
+          "composition": 5.58,
+          "technical_quality": 9.86
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_007",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 7",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=75",
+          "source_url": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=75",
+          "variation": {
+            "crop": "attention",
+            "fm": "jpg",
+            "q": "75"
+          },
+          "crawled_at": "2025-07-14T20:26:07.720581Z"
+        },
+        "assessed_at": "2025-07-14T15:00:22.123083Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_006.jpg",
+        "filename": "demo_abstract_006.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.84,
+        "detailed_scores": {
+          "sharpness": 9.73,
+          "contrast": 6.15,
+          "brightness": 8.01,
+          "color_quality": 1.76,
+          "composition": 6.69,
+          "technical_quality": 9.58
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_006",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 6",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=90",
+          "source_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=90",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "90"
+          },
+          "crawled_at": "2025-07-14T20:26:06.144026Z"
+        },
+        "assessed_at": "2025-07-14T15:00:22.205145Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_090.jpg",
+        "filename": "demo_nature_090.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.97,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.69,
+          "brightness": 7.34,
+          "color_quality": 3.61,
+          "composition": 0.0,
+          "technical_quality": 8.45
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_090",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 90",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=80",
+          "source_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=80",
+          "variation": {
+            "crop": "attention",
+            "fm": "jpg",
+            "q": "80"
+          },
+          "crawled_at": "2025-07-14T20:25:08.566958Z"
+        },
+        "assessed_at": "2025-07-14T15:00:22.310566Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_033.jpg",
+        "filename": "demo_space_033.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.62,
+        "detailed_scores": {
+          "sharpness": 7.91,
+          "contrast": 7.4,
+          "brightness": 3.51,
+          "color_quality": 2.43,
+          "composition": 9.14,
+          "technical_quality": 9.71
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_033",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 33",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=75",
+          "source_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=75",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "75"
+          },
+          "crawled_at": "2025-07-14T20:28:48.012485Z"
+        },
+        "assessed_at": "2025-07-14T15:00:22.381976Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_027.jpg",
+        "filename": "demo_space_027.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.35,
+        "detailed_scores": {
+          "sharpness": 4.92,
+          "contrast": 7.47,
+          "brightness": 9.27,
+          "color_quality": 3.65,
+          "composition": 8.84,
+          "technical_quality": 9.74
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_027",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 27",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80",
+          "source_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "80"
+          },
+          "crawled_at": "2025-07-14T20:28:43.935597Z"
+        },
+        "assessed_at": "2025-07-14T15:00:22.457486Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_023.jpg",
+        "filename": "demo_space_023.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.59,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.55,
+          "brightness": 4.07,
+          "color_quality": 3.57,
+          "composition": 7.09,
+          "technical_quality": 9.53
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_023",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 23",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "variation": {
+            "crop": "entropy",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:28:40.904191Z"
+        },
+        "assessed_at": "2025-07-14T15:00:22.540729Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_157.jpg",
+        "filename": "demo_space_157.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.63,
+        "detailed_scores": {
+          "sharpness": 7.97,
+          "contrast": 7.51,
+          "brightness": 3.66,
+          "color_quality": 2.76,
+          "composition": 8.63,
+          "technical_quality": 9.69
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_157",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 157",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "variation": {
+            "crop": "entropy",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:30:03.818597Z"
+        },
+        "assessed_at": "2025-07-14T15:00:22.617015Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_016.jpg",
+        "filename": "demo_abstract_016.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.62,
+        "detailed_scores": {
+          "sharpness": 2.93,
+          "contrast": 2.55,
+          "brightness": 6.05,
+          "color_quality": 2.05,
+          "composition": 7.54,
+          "technical_quality": 9.84
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_016",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 16",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "source_url": "https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "80"
+          },
+          "crawled_at": "2025-07-14T20:26:17.353235Z"
+        },
+        "assessed_at": "2025-07-14T15:00:22.689835Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_002.jpg",
+        "filename": "demo_abstract_002.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.52,
+        "detailed_scores": {
+          "sharpness": 1.27,
+          "contrast": 6.62,
+          "brightness": 2.81,
+          "color_quality": 4.01,
+          "composition": 5.58,
+          "technical_quality": 9.93
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_002",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 2",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "source_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "80"
+          },
+          "crawled_at": "2025-07-14T20:26:01.151908Z"
+        },
+        "assessed_at": "2025-07-14T15:00:22.753010Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_003.jpg",
+        "filename": "demo_abstract_003.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.74,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.13,
+          "brightness": 4.62,
+          "color_quality": 2.05,
+          "composition": 7.43,
+          "technical_quality": 9.67
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_003",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 3",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=80",
+          "source_url": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=80",
+          "variation": {
+            "crop": "attention",
+            "fm": "jpg",
+            "q": "80"
+          },
+          "crawled_at": "2025-07-14T20:26:02.575494Z"
+        },
+        "assessed_at": "2025-07-14T15:00:22.830344Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_095.jpg",
+        "filename": "demo_nature_095.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.83,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.12,
+          "brightness": 4.17,
+          "color_quality": 4.03,
+          "composition": 0.0,
+          "technical_quality": 8.2
+        },
+        "watermark_penalty": 7.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_095",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 95",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "variation": {
+            "crop": "entropy",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:25:13.926337Z"
+        },
+        "assessed_at": "2025-07-14T15:00:22.938646Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_042.jpg",
+        "filename": "demo_nature_042.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.03,
+        "detailed_scores": {
+          "sharpness": 3.1,
+          "contrast": 5.1,
+          "brightness": 7.48,
+          "color_quality": 1.89,
+          "composition": 8.31,
+          "technical_quality": 9.79
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_042",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 42",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=75",
+          "source_url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=75",
+          "variation": {
+            "crop": "attention",
+            "fm": "jpg",
+            "q": "75"
+          },
+          "crawled_at": "2025-07-14T20:24:16.791807Z"
+        },
+        "assessed_at": "2025-07-14T15:00:23.024256Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_022.jpg",
+        "filename": "demo_space_022.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.72,
+        "detailed_scores": {
+          "sharpness": 8.23,
+          "contrast": 7.36,
+          "brightness": 3.66,
+          "color_quality": 2.85,
+          "composition": 8.86,
+          "technical_quality": 9.69
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_022",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 22",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+          "variation": {
+            "crop": "faces",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:28:39.651197Z"
+        },
+        "assessed_at": "2025-07-14T15:00:23.112255Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_001.jpg",
+        "filename": "demo_abstract_001.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 4.71,
+        "detailed_scores": {
+          "sharpness": 0.19,
+          "contrast": 1.31,
+          "brightness": 6.88,
+          "color_quality": 3.56,
+          "composition": 5.0,
+          "technical_quality": 9.95
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_001",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 1",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=1080&h=1920&fit=crop&crop=attention&auto=faces",
+          "source_url": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=1080&h=1920&fit=crop&crop=attention&auto=faces",
+          "variation": {
+            "crop": "attention",
+            "auto": "faces"
+          },
+          "crawled_at": "2025-07-14T20:25:59.851719Z"
+        },
+        "assessed_at": "2025-07-14T15:00:23.280718Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_083.jpg",
+        "filename": "demo_nature_083.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.58,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.12,
+          "brightness": 4.17,
+          "color_quality": 4.05,
+          "composition": 0.0,
+          "technical_quality": 8.2
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_083",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 83",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "source_url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "70"
+          },
+          "crawled_at": "2025-07-14T20:25:00.712774Z"
+        },
+        "assessed_at": "2025-07-14T15:00:23.384981Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_014.jpg",
+        "filename": "demo_abstract_014.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 4.81,
+        "detailed_scores": {
+          "sharpness": 0.19,
+          "contrast": 1.34,
+          "brightness": 8.23,
+          "color_quality": 3.3,
+          "composition": 5.0,
+          "technical_quality": 9.95
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_014",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 14",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "variation": {
+            "crop": "entropy",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:26:14.674863Z"
+        },
+        "assessed_at": "2025-07-14T15:00:23.447550Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_082.jpg",
+        "filename": "demo_nature_082.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.56,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.56,
+          "brightness": 4.01,
+          "color_quality": 3.5,
+          "composition": 6.97,
+          "technical_quality": 9.53
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_082",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 82",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+          "variation": {
+            "crop": "attention",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:24:59.122168Z"
+        },
+        "assessed_at": "2025-07-14T15:00:23.541519Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_009.jpg",
+        "filename": "demo_space_009.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.57,
+        "detailed_scores": {
+          "sharpness": 6.05,
+          "contrast": 7.59,
+          "brightness": 9.17,
+          "color_quality": 3.81,
+          "composition": 9.95,
+          "technical_quality": 9.72
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_009",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 9",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "variation": {
+            "crop": "entropy",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:28:23.116216Z"
+        },
+        "assessed_at": "2025-07-14T15:00:23.641709Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_027.jpg",
+        "filename": "demo_nature_027.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.97,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.69,
+          "brightness": 7.34,
+          "color_quality": 3.58,
+          "composition": 0.0,
+          "technical_quality": 8.46
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_027",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 27",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+          "source_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "95"
+          },
+          "crawled_at": "2025-07-14T20:23:53.295984Z"
+        },
+        "assessed_at": "2025-07-14T15:00:23.956046Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_033.jpg",
+        "filename": "demo_nature_033.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.56,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.56,
+          "brightness": 4.01,
+          "color_quality": 3.5,
+          "composition": 6.96,
+          "technical_quality": 9.54
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_033",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 33",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "source_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "70"
+          },
+          "crawled_at": "2025-07-14T20:24:00.917491Z"
+        },
+        "assessed_at": "2025-07-14T15:00:24.037912Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_025.jpg",
+        "filename": "demo_nature_025.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.46,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 7.55,
+          "brightness": 7.38,
+          "color_quality": 3.84,
+          "composition": 0.0,
+          "technical_quality": 8.81
+        },
+        "watermark_penalty": 7.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_025",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 25",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "variation": {
+            "crop": "entropy",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:23:50.988486Z"
+        },
+        "assessed_at": "2025-07-14T15:00:24.405004Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_031.jpg",
+        "filename": "demo_nature_031.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.3,
+        "detailed_scores": {
+          "sharpness": 7.3,
+          "contrast": 6.16,
+          "brightness": 8.84,
+          "color_quality": 2.02,
+          "composition": 9.42,
+          "technical_quality": 9.76
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_031",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 31",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=75",
+          "source_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=75",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "75"
+          },
+          "crawled_at": "2025-07-14T20:23:58.944855Z"
+        },
+        "assessed_at": "2025-07-14T15:00:24.480962Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_070.jpg",
+        "filename": "demo_abstract_070.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.8,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.29,
+          "brightness": 4.79,
+          "color_quality": 2.06,
+          "composition": 7.56,
+          "technical_quality": 9.66
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_070",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 70",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=1080&h=1920&fit=crop&crop=entropy&auto=faces",
+          "source_url": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=1080&h=1920&fit=crop&crop=entropy&auto=faces",
+          "variation": {
+            "crop": "entropy",
+            "auto": "faces"
+          },
+          "crawled_at": "2025-07-14T20:27:11.590915Z"
+        },
+        "assessed_at": "2025-07-14T15:00:24.551729Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_071.jpg",
+        "filename": "demo_abstract_071.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 4.8,
+        "detailed_scores": {
+          "sharpness": 0.16,
+          "contrast": 1.34,
+          "brightness": 8.23,
+          "color_quality": 3.31,
+          "composition": 5.0,
+          "technical_quality": 9.96
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_071",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 71",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=75",
+          "source_url": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=75",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "75"
+          },
+          "crawled_at": "2025-07-14T20:27:13.422743Z"
+        },
+        "assessed_at": "2025-07-14T15:00:24.693012Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_111.jpg",
+        "filename": "demo_abstract_111.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.54,
+        "detailed_scores": {
+          "sharpness": 1.29,
+          "contrast": 6.63,
+          "brightness": 2.81,
+          "color_quality": 4.12,
+          "composition": 5.57,
+          "technical_quality": 9.93
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_111",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 111",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop&crop=entropy&auto=faces",
+          "source_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop&crop=entropy&auto=faces",
+          "variation": {
+            "crop": "entropy",
+            "auto": "faces"
+          },
+          "crawled_at": "2025-07-14T20:27:51.545964Z"
+        },
+        "assessed_at": "2025-07-14T15:00:24.757310Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_040.jpg",
+        "filename": "demo_space_040.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.56,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.56,
+          "brightness": 4.01,
+          "color_quality": 3.49,
+          "composition": 6.94,
+          "technical_quality": 9.54
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_040",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 40",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=75",
+          "source_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=75",
+          "variation": {
+            "crop": "attention",
+            "fm": "jpg",
+            "q": "75"
+          },
+          "crawled_at": "2025-07-14T20:28:54.530350Z"
+        },
+        "assessed_at": "2025-07-14T15:00:24.837086Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_054.jpg",
+        "filename": "demo_space_054.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.56,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.56,
+          "brightness": 4.01,
+          "color_quality": 3.5,
+          "composition": 6.96,
+          "technical_quality": 9.54
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_054",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 54",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "source_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "70"
+          },
+          "crawled_at": "2025-07-14T20:29:06.758161Z"
+        },
+        "assessed_at": "2025-07-14T15:00:24.916590Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_008.jpg",
+        "filename": "demo_nature_008.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.64,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.69,
+          "brightness": 4.09,
+          "color_quality": 4.64,
+          "composition": 6.22,
+          "technical_quality": 9.5
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_008",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 8",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "variation": {
+            "crop": "entropy",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:23:29.703030Z"
+        },
+        "assessed_at": "2025-07-14T15:00:25.003140Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_108.jpg",
+        "filename": "demo_space_108.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.68,
+        "detailed_scores": {
+          "sharpness": 6.46,
+          "contrast": 7.59,
+          "brightness": 9.17,
+          "color_quality": 3.8,
+          "composition": 9.96,
+          "technical_quality": 9.7
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_108",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 108",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+          "source_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "95"
+          },
+          "crawled_at": "2025-07-14T20:29:43.118820Z"
+        },
+        "assessed_at": "2025-07-14T15:00:25.087014Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_034.jpg",
+        "filename": "demo_nature_034.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.58,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.12,
+          "brightness": 4.17,
+          "color_quality": 4.02,
+          "composition": 0.0,
+          "technical_quality": 8.19
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_034",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 34",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80",
+          "source_url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "80"
+          },
+          "crawled_at": "2025-07-14T20:24:02.322169Z"
+        },
+        "assessed_at": "2025-07-14T15:00:25.189591Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_049.jpg",
+        "filename": "demo_abstract_049.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.67,
+        "detailed_scores": {
+          "sharpness": 1.3,
+          "contrast": 6.64,
+          "brightness": 2.89,
+          "color_quality": 4.9,
+          "composition": 5.6,
+          "technical_quality": 9.91
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_049",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 49",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop&crop=attention&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop&crop=attention&auto=enhance",
+          "variation": {
+            "crop": "attention",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:26:50.088105Z"
+        },
+        "assessed_at": "2025-07-14T15:00:25.258474Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_060.jpg",
+        "filename": "demo_abstract_060.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.54,
+        "detailed_scores": {
+          "sharpness": 1.28,
+          "contrast": 6.61,
+          "brightness": 2.8,
+          "color_quality": 4.19,
+          "composition": 5.58,
+          "technical_quality": 9.93
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_060",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 60",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop&crop=faces&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop&crop=faces&auto=compress",
+          "variation": {
+            "crop": "faces",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:27:02.883795Z"
+        },
+        "assessed_at": "2025-07-14T15:00:25.402900Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_074.jpg",
+        "filename": "demo_abstract_074.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.59,
+        "detailed_scores": {
+          "sharpness": 1.31,
+          "contrast": 6.63,
+          "brightness": 2.81,
+          "color_quality": 4.42,
+          "composition": 5.58,
+          "technical_quality": 9.92
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_074",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 74",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+          "source_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "95"
+          },
+          "crawled_at": "2025-07-14T20:27:16.699771Z"
+        },
+        "assessed_at": "2025-07-14T15:00:25.475661Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_021.jpg",
+        "filename": "demo_nature_021.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.35,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 7.44,
+          "brightness": 7.24,
+          "color_quality": 3.21,
+          "composition": 0.0,
+          "technical_quality": 8.87
+        },
+        "watermark_penalty": 7.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_021",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 21",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "source_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "80"
+          },
+          "crawled_at": "2025-07-14T20:23:46.261077Z"
+        },
+        "assessed_at": "2025-07-14T15:00:25.576159Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_114.jpg",
+        "filename": "demo_abstract_114.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.93,
+        "detailed_scores": {
+          "sharpness": 1.52,
+          "contrast": 4.58,
+          "brightness": 9.24,
+          "color_quality": 4.61,
+          "composition": 5.2,
+          "technical_quality": 9.86
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_114",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 114",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1080&h=1920&fit=crop&crop=faces&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1080&h=1920&fit=crop&crop=faces&auto=compress",
+          "variation": {
+            "crop": "faces",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:27:54.411326Z"
+        },
+        "assessed_at": "2025-07-14T15:00:25.649908Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_055.jpg",
+        "filename": "demo_space_055.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.34,
+        "detailed_scores": {
+          "sharpness": 4.87,
+          "contrast": 7.47,
+          "brightness": 9.27,
+          "color_quality": 3.65,
+          "composition": 8.83,
+          "technical_quality": 9.74
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_055",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 55",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "source_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "70"
+          },
+          "crawled_at": "2025-07-14T20:29:06.911885Z"
+        },
+        "assessed_at": "2025-07-14T15:00:25.731963Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_080.jpg",
+        "filename": "demo_space_080.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.77,
+        "detailed_scores": {
+          "sharpness": 7.23,
+          "contrast": 7.41,
+          "brightness": 9.15,
+          "color_quality": 3.99,
+          "composition": 9.35,
+          "technical_quality": 9.67
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_080",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 80",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "variation": {
+            "crop": "entropy",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:29:25.145509Z"
+        },
+        "assessed_at": "2025-07-14T15:00:25.923488Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_037.jpg",
+        "filename": "demo_nature_037.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.03,
+        "detailed_scores": {
+          "sharpness": 3.14,
+          "contrast": 5.1,
+          "brightness": 7.48,
+          "color_quality": 1.89,
+          "composition": 8.24,
+          "technical_quality": 9.79
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_037",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 37",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+          "variation": {
+            "crop": "attention",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:24:06.809944Z"
+        },
+        "assessed_at": "2025-07-14T15:00:26.003777Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_023.jpg",
+        "filename": "demo_nature_023.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.83,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.12,
+          "brightness": 4.17,
+          "color_quality": 4.03,
+          "composition": 0.0,
+          "technical_quality": 8.2
+        },
+        "watermark_penalty": 7.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_023",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 23",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=85",
+          "source_url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=85",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "85"
+          },
+          "crawled_at": "2025-07-14T20:23:48.852561Z"
+        },
+        "assessed_at": "2025-07-14T15:00:26.110165Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_022.jpg",
+        "filename": "demo_nature_022.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.67,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.34,
+          "brightness": 4.62,
+          "color_quality": 4.32,
+          "composition": 0.0,
+          "technical_quality": 8.05
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_022",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 22",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "variation": {
+            "crop": "entropy",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:23:47.322911Z"
+        },
+        "assessed_at": "2025-07-14T15:00:26.219747Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_036.jpg",
+        "filename": "demo_nature_036.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.22,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.7,
+          "brightness": 7.34,
+          "color_quality": 3.6,
+          "composition": 0.0,
+          "technical_quality": 8.45
+        },
+        "watermark_penalty": 7.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_036",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 36",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=90",
+          "source_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=90",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "90"
+          },
+          "crawled_at": "2025-07-14T20:24:04.646289Z"
+        },
+        "assessed_at": "2025-07-14T15:00:26.326637Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_081.jpg",
+        "filename": "demo_space_081.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.62,
+        "detailed_scores": {
+          "sharpness": 7.88,
+          "contrast": 7.4,
+          "brightness": 3.51,
+          "color_quality": 2.55,
+          "composition": 9.12,
+          "technical_quality": 9.71
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_081",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 81",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "source_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "70"
+          },
+          "crawled_at": "2025-07-14T20:29:26.423836Z"
+        },
+        "assessed_at": "2025-07-14T15:00:26.399395Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_056.jpg",
+        "filename": "demo_space_056.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.64,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.69,
+          "brightness": 4.09,
+          "color_quality": 4.64,
+          "composition": 6.22,
+          "technical_quality": 9.5
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_056",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 56",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "variation": {
+            "crop": "entropy",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:29:09.005981Z"
+        },
+        "assessed_at": "2025-07-14T15:00:26.487531Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_013.jpg",
+        "filename": "demo_nature_013.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.55,
+        "detailed_scores": {
+          "sharpness": 7.06,
+          "contrast": 7.97,
+          "brightness": 8.97,
+          "color_quality": 2.24,
+          "composition": 9.4,
+          "technical_quality": 9.72
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_013",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 13",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "variation": {
+            "crop": "entropy",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:23:37.234935Z"
+        },
+        "assessed_at": "2025-07-14T15:00:26.566795Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_091.jpg",
+        "filename": "demo_abstract_091.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.68,
+        "detailed_scores": {
+          "sharpness": 3.16,
+          "contrast": 2.58,
+          "brightness": 5.8,
+          "color_quality": 2.02,
+          "composition": 7.7,
+          "technical_quality": 9.83
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_091",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 91",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=75",
+          "source_url": "https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=75",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "75"
+          },
+          "crawled_at": "2025-07-14T20:27:34.450848Z"
+        },
+        "assessed_at": "2025-07-14T15:00:26.642373Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_006.jpg",
+        "filename": "demo_nature_006.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.44,
+        "detailed_scores": {
+          "sharpness": 6.67,
+          "contrast": 7.97,
+          "brightness": 8.97,
+          "color_quality": 2.24,
+          "composition": 9.36,
+          "technical_quality": 9.72
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_006",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 6",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "source_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "80"
+          },
+          "crawled_at": "2025-07-14T20:23:28.513441Z"
+        },
+        "assessed_at": "2025-07-14T15:00:26.724190Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_090.jpg",
+        "filename": "demo_abstract_090.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.7,
+        "detailed_scores": {
+          "sharpness": 3.23,
+          "contrast": 2.58,
+          "brightness": 5.8,
+          "color_quality": 2.02,
+          "composition": 7.75,
+          "technical_quality": 9.83
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_090",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 90",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=1080&h=1920&fit=crop&crop=attention&auto=faces",
+          "source_url": "https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=1080&h=1920&fit=crop&crop=attention&auto=faces",
+          "variation": {
+            "crop": "attention",
+            "auto": "faces"
+          },
+          "crawled_at": "2025-07-14T20:27:33.483624Z"
+        },
+        "assessed_at": "2025-07-14T15:00:26.799256Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_084.jpg",
+        "filename": "demo_abstract_084.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.94,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.42,
+          "brightness": 4.96,
+          "color_quality": 2.72,
+          "composition": 7.66,
+          "technical_quality": 9.64
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_084",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 84",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "variation": {
+            "crop": "entropy",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:27:27.393101Z"
+        },
+        "assessed_at": "2025-07-14T15:00:26.873463Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_066.jpg",
+        "filename": "demo_space_066.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.57,
+        "detailed_scores": {
+          "sharpness": 6.05,
+          "contrast": 7.59,
+          "brightness": 9.17,
+          "color_quality": 3.81,
+          "composition": 9.95,
+          "technical_quality": 9.72
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_066",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 66",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=entropy&auto=faces",
+          "source_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=entropy&auto=faces",
+          "variation": {
+            "crop": "entropy",
+            "auto": "faces"
+          },
+          "crawled_at": "2025-07-14T20:29:15.324169Z"
+        },
+        "assessed_at": "2025-07-14T15:00:26.952367Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_072.jpg",
+        "filename": "demo_space_072.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.55,
+        "detailed_scores": {
+          "sharpness": 7.7,
+          "contrast": 7.54,
+          "brightness": 3.5,
+          "color_quality": 2.34,
+          "composition": 8.99,
+          "technical_quality": 9.71
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_072",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 72",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=75",
+          "source_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=75",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "75"
+          },
+          "crawled_at": "2025-07-14T20:29:20.188257Z"
+        },
+        "assessed_at": "2025-07-14T15:00:27.025703Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_058.jpg",
+        "filename": "demo_space_058.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.56,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.56,
+          "brightness": 4.01,
+          "color_quality": 3.5,
+          "composition": 6.97,
+          "technical_quality": 9.53
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_058",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 58",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=faces&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=faces&auto=compress",
+          "variation": {
+            "crop": "faces",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:29:09.364814Z"
+        },
+        "assessed_at": "2025-07-14T15:00:27.109441Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_004.jpg",
+        "filename": "demo_nature_004.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.97,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.69,
+          "brightness": 7.34,
+          "color_quality": 3.6,
+          "composition": 0.0,
+          "technical_quality": 8.45
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_004",
+          "source": "unsplash_demo",
+          "category": "nature",
+          "title": "Nature Demo Wallpaper 4",
+          "description": "Demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop",
+          "source_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop",
+          "crawled_at": "2025-07-14T14:52:02.703594Z"
+        },
+        "assessed_at": "2025-07-14T15:00:27.213481Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_038.jpg",
+        "filename": "demo_nature_038.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.12,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.78,
+          "brightness": 7.6,
+          "color_quality": 4.46,
+          "composition": 0.0,
+          "technical_quality": 8.35
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_038",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 38",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&crop=attention&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&crop=attention&auto=enhance",
+          "variation": {
+            "crop": "attention",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:24:08.915030Z"
+        },
+        "assessed_at": "2025-07-14T15:00:27.341676Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_051.jpg",
+        "filename": "demo_abstract_051.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.88,
+        "detailed_scores": {
+          "sharpness": 1.31,
+          "contrast": 4.58,
+          "brightness": 9.23,
+          "color_quality": 4.61,
+          "composition": 5.2,
+          "technical_quality": 9.88
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_051",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 51",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "source_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "70"
+          },
+          "crawled_at": "2025-07-14T20:26:52.412622Z"
+        },
+        "assessed_at": "2025-07-14T15:00:27.412738Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_079.jpg",
+        "filename": "demo_abstract_079.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 4.7,
+        "detailed_scores": {
+          "sharpness": 0.16,
+          "contrast": 1.31,
+          "brightness": 6.88,
+          "color_quality": 3.56,
+          "composition": 5.0,
+          "technical_quality": 9.96
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_079",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 79",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=80",
+          "source_url": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=80",
+          "variation": {
+            "crop": "attention",
+            "fm": "jpg",
+            "q": "80"
+          },
+          "crawled_at": "2025-07-14T20:27:23.182481Z"
+        },
+        "assessed_at": "2025-07-14T15:00:27.476125Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_039.jpg",
+        "filename": "demo_nature_039.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.22,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.7,
+          "brightness": 7.34,
+          "color_quality": 3.6,
+          "composition": 0.0,
+          "technical_quality": 8.45
+        },
+        "watermark_penalty": 7.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_039",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 39",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "source_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "80"
+          },
+          "crawled_at": "2025-07-14T20:24:10.764303Z"
+        },
+        "assessed_at": "2025-07-14T15:00:27.578267Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_011.jpg",
+        "filename": "demo_nature_011.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.56,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.56,
+          "brightness": 4.01,
+          "color_quality": 3.49,
+          "composition": 6.94,
+          "technical_quality": 9.54
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_011",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 11",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=75",
+          "source_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=75",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "75"
+          },
+          "crawled_at": "2025-07-14T20:23:34.833690Z"
+        },
+        "assessed_at": "2025-07-14T15:00:27.660835Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_005.jpg",
+        "filename": "demo_nature_005.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.55,
+        "detailed_scores": {
+          "sharpness": 7.06,
+          "contrast": 7.97,
+          "brightness": 8.97,
+          "color_quality": 2.24,
+          "composition": 9.4,
+          "technical_quality": 9.72
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_005",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 5",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=entropy&auto=faces",
+          "source_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=entropy&auto=faces",
+          "variation": {
+            "crop": "entropy",
+            "auto": "faces"
+          },
+          "crawled_at": "2025-07-14T20:23:27.276178Z"
+        },
+        "assessed_at": "2025-07-14T15:00:27.742076Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_001.jpg",
+        "filename": "demo_nature_001.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.35,
+        "detailed_scores": {
+          "sharpness": 7.51,
+          "contrast": 6.16,
+          "brightness": 8.84,
+          "color_quality": 2.02,
+          "composition": 9.39,
+          "technical_quality": 9.75
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_001",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 1",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+          "variation": {
+            "crop": "attention",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:23:22.637219Z"
+        },
+        "assessed_at": "2025-07-14T15:00:27.819750Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_015.jpg",
+        "filename": "demo_nature_015.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.56,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.56,
+          "brightness": 4.01,
+          "color_quality": 3.5,
+          "composition": 6.97,
+          "technical_quality": 9.53
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_015",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 15",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=90",
+          "source_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=90",
+          "variation": {
+            "crop": "attention",
+            "fm": "jpg",
+            "q": "90"
+          },
+          "crawled_at": "2025-07-14T20:23:39.657717Z"
+        },
+        "assessed_at": "2025-07-14T15:00:27.903179Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_068.jpg",
+        "filename": "demo_abstract_068.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.7,
+        "detailed_scores": {
+          "sharpness": 3.23,
+          "contrast": 2.58,
+          "brightness": 5.8,
+          "color_quality": 2.02,
+          "composition": 7.75,
+          "technical_quality": 9.83
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_068",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 68",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=1080&h=1920&fit=crop&crop=faces&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=1080&h=1920&fit=crop&crop=faces&auto=compress",
+          "variation": {
+            "crop": "faces",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:27:09.414361Z"
+        },
+        "assessed_at": "2025-07-14T15:00:27.981597Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_040.jpg",
+        "filename": "demo_abstract_040.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.37,
+        "detailed_scores": {
+          "sharpness": 1.3,
+          "contrast": 9.47,
+          "brightness": 6.26,
+          "color_quality": 4.58,
+          "composition": 5.56,
+          "technical_quality": 9.86
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_040",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 40",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "source_url": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "70"
+          },
+          "crawled_at": "2025-07-14T20:26:41.213613Z"
+        },
+        "assessed_at": "2025-07-14T15:00:28.064947Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_041.jpg",
+        "filename": "demo_abstract_041.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.6,
+        "detailed_scores": {
+          "sharpness": 8.81,
+          "contrast": 6.17,
+          "brightness": 7.79,
+          "color_quality": 1.73,
+          "composition": 6.73,
+          "technical_quality": 9.6
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_041",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 41",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "source_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "70"
+          },
+          "crawled_at": "2025-07-14T20:26:42.748624Z"
+        },
+        "assessed_at": "2025-07-14T15:00:28.156440Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_055.jpg",
+        "filename": "demo_abstract_055.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 4.71,
+        "detailed_scores": {
+          "sharpness": 0.19,
+          "contrast": 1.31,
+          "brightness": 6.88,
+          "color_quality": 3.56,
+          "composition": 5.0,
+          "technical_quality": 9.95
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_055",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 55",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+          "variation": {
+            "crop": "attention",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:26:56.506572Z"
+        },
+        "assessed_at": "2025-07-14T15:00:28.230710Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_048.jpg",
+        "filename": "demo_space_048.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.58,
+        "detailed_scores": {
+          "sharpness": 7.77,
+          "contrast": 7.54,
+          "brightness": 3.5,
+          "color_quality": 2.39,
+          "composition": 9.01,
+          "technical_quality": 9.71
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_048",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 48",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+          "source_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "95"
+          },
+          "crawled_at": "2025-07-14T20:29:00.182506Z"
+        },
+        "assessed_at": "2025-07-14T15:00:28.314916Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_060.jpg",
+        "filename": "demo_space_060.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.59,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.55,
+          "brightness": 4.07,
+          "color_quality": 3.56,
+          "composition": 7.05,
+          "technical_quality": 9.54
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_060",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 60",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "source_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "80"
+          },
+          "crawled_at": "2025-07-14T20:29:10.970039Z"
+        },
+        "assessed_at": "2025-07-14T15:00:28.396268Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_016.jpg",
+        "filename": "demo_nature_016.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.22,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.7,
+          "brightness": 7.34,
+          "color_quality": 3.6,
+          "composition": 0.0,
+          "technical_quality": 8.45
+        },
+        "watermark_penalty": 7.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_016",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 16",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "variation": {
+            "crop": "entropy",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:23:40.776169Z"
+        },
+        "assessed_at": "2025-07-14T15:00:28.500962Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_043.jpg",
+        "filename": "demo_abstract_043.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.92,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.01,
+          "brightness": 7.85,
+          "color_quality": 1.98,
+          "composition": 6.95,
+          "technical_quality": 9.49
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_043",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 43",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+          "variation": {
+            "crop": "faces",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:26:44.919389Z"
+        },
+        "assessed_at": "2025-07-14T15:00:28.661250Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_042.jpg",
+        "filename": "demo_abstract_042.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 4.81,
+        "detailed_scores": {
+          "sharpness": 0.19,
+          "contrast": 1.34,
+          "brightness": 8.23,
+          "color_quality": 3.3,
+          "composition": 5.0,
+          "technical_quality": 9.95
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_042",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 42",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=1080&h=1920&fit=crop&crop=entropy&auto=faces",
+          "source_url": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=1080&h=1920&fit=crop&crop=entropy&auto=faces",
+          "variation": {
+            "crop": "entropy",
+            "auto": "faces"
+          },
+          "crawled_at": "2025-07-14T20:26:43.949929Z"
+        },
+        "assessed_at": "2025-07-14T15:00:28.719889Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_017.jpg",
+        "filename": "demo_nature_017.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.35,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 7.44,
+          "brightness": 7.24,
+          "color_quality": 3.21,
+          "composition": 0.0,
+          "technical_quality": 8.87
+        },
+        "watermark_penalty": 7.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_017",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 17",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=90",
+          "source_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=90",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "90"
+          },
+          "crawled_at": "2025-07-14T20:23:42.776721Z"
+        },
+        "assessed_at": "2025-07-14T15:00:28.820206Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_088.jpg",
+        "filename": "demo_space_088.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.75,
+        "detailed_scores": {
+          "sharpness": 6.27,
+          "contrast": 7.3,
+          "brightness": 9.23,
+          "color_quality": 3.85,
+          "composition": 9.31,
+          "technical_quality": 9.69
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_088",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 88",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=attention&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=attention&auto=enhance",
+          "variation": {
+            "crop": "attention",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:29:31.160253Z"
+        },
+        "assessed_at": "2025-07-14T15:00:28.899425Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_077.jpg",
+        "filename": "demo_space_077.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.4,
+        "detailed_scores": {
+          "sharpness": 5.11,
+          "contrast": 7.47,
+          "brightness": 9.27,
+          "color_quality": 3.65,
+          "composition": 8.84,
+          "technical_quality": 9.73
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_077",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 77",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+          "variation": {
+            "crop": "attention",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:29:23.808627Z"
+        },
+        "assessed_at": "2025-07-14T15:00:28.975677Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_025.jpg",
+        "filename": "demo_abstract_025.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.54,
+        "detailed_scores": {
+          "sharpness": 1.29,
+          "contrast": 6.63,
+          "brightness": 2.81,
+          "color_quality": 4.12,
+          "composition": 5.57,
+          "technical_quality": 9.93
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_025",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 25",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "variation": {
+            "crop": "entropy",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:26:27.668058Z"
+        },
+        "assessed_at": "2025-07-14T15:00:29.040241Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_018.jpg",
+        "filename": "demo_abstract_018.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.84,
+        "detailed_scores": {
+          "sharpness": 9.73,
+          "contrast": 6.15,
+          "brightness": 8.01,
+          "color_quality": 1.76,
+          "composition": 6.69,
+          "technical_quality": 9.58
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_018",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 18",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "variation": {
+            "crop": "entropy",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:26:20.474928Z"
+        },
+        "assessed_at": "2025-07-14T15:00:29.122270Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_024.jpg",
+        "filename": "demo_abstract_024.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.74,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.13,
+          "brightness": 4.62,
+          "color_quality": 2.05,
+          "composition": 7.42,
+          "technical_quality": 9.67
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_024",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 24",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=1080&h=1920&fit=crop&crop=attention&auto=faces",
+          "source_url": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=1080&h=1920&fit=crop&crop=attention&auto=faces",
+          "variation": {
+            "crop": "attention",
+            "auto": "faces"
+          },
+          "crawled_at": "2025-07-14T20:26:26.720952Z"
+        },
+        "assessed_at": "2025-07-14T15:00:29.197707Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_059.jpg",
+        "filename": "demo_nature_059.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.27,
+        "detailed_scores": {
+          "sharpness": 7.21,
+          "contrast": 6.15,
+          "brightness": 8.84,
+          "color_quality": 2.02,
+          "composition": 9.41,
+          "technical_quality": 9.76
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_059",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 59",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "source_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70",
+          "variation": {
+            "crop": "faces",
+            "fm": "jpg",
+            "q": "70"
+          },
+          "crawled_at": "2025-07-14T20:24:36.751680Z"
+        },
+        "assessed_at": "2025-07-14T15:00:29.276370Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_011.jpg",
+        "filename": "demo_space_011.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.62,
+        "detailed_scores": {
+          "sharpness": 7.93,
+          "contrast": 7.4,
+          "brightness": 3.51,
+          "color_quality": 2.47,
+          "composition": 9.09,
+          "technical_quality": 9.71
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_011",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 11",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+          "variation": {
+            "crop": "attention",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:28:28.630331Z"
+        },
+        "assessed_at": "2025-07-14T15:00:29.433201Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_013.jpg",
+        "filename": "demo_space_013.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.62,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.55,
+          "brightness": 4.07,
+          "color_quality": 3.58,
+          "composition": 7.25,
+          "technical_quality": 9.53
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_013",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 13",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+          "source_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "95"
+          },
+          "crawled_at": "2025-07-14T20:28:30.550699Z"
+        },
+        "assessed_at": "2025-07-14T15:00:29.524167Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_067.jpg",
+        "filename": "demo_nature_067.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.59,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.55,
+          "brightness": 4.07,
+          "color_quality": 3.57,
+          "composition": 7.09,
+          "technical_quality": 9.53
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_067",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 67",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "variation": {
+            "crop": "entropy",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:24:43.008906Z"
+        },
+        "assessed_at": "2025-07-14T15:00:29.609217Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_032.jpg",
+        "filename": "demo_abstract_032.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.9,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.15,
+          "brightness": 8.01,
+          "color_quality": 1.77,
+          "composition": 6.72,
+          "technical_quality": 9.54
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_032",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 32",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+          "source_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=95",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "95"
+          },
+          "crawled_at": "2025-07-14T20:26:32.761604Z"
+        },
+        "assessed_at": "2025-07-14T15:00:29.697926Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_027.jpg",
+        "filename": "demo_abstract_027.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 4.71,
+        "detailed_scores": {
+          "sharpness": 0.3,
+          "contrast": 1.2,
+          "brightness": 5.81,
+          "color_quality": 4.28,
+          "composition": 5.0,
+          "technical_quality": 9.93
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_027",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 27",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+          "variation": {
+            "crop": "faces",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:26:29.489323Z"
+        },
+        "assessed_at": "2025-07-14T15:00:29.762224Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_012.jpg",
+        "filename": "demo_space_012.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.56,
+        "detailed_scores": {
+          "sharpness": 7.74,
+          "contrast": 7.54,
+          "brightness": 3.5,
+          "color_quality": 2.39,
+          "composition": 8.96,
+          "technical_quality": 9.71
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_012",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 12",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "variation": {
+            "crop": "entropy",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:28:29.489617Z"
+        },
+        "assessed_at": "2025-07-14T15:00:29.917916Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_006.jpg",
+        "filename": "demo_space_006.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.56,
+        "detailed_scores": {
+          "sharpness": 7.74,
+          "contrast": 7.54,
+          "brightness": 3.5,
+          "color_quality": 2.39,
+          "composition": 8.96,
+          "technical_quality": 9.71
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_006",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 6",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=entropy&auto=faces",
+          "source_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=entropy&auto=faces",
+          "variation": {
+            "crop": "entropy",
+            "auto": "faces"
+          },
+          "crawled_at": "2025-07-14T20:28:18.771125Z"
+        },
+        "assessed_at": "2025-07-14T15:00:29.988495Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_062.jpg",
+        "filename": "demo_nature_062.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.02,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.61,
+          "brightness": 7.32,
+          "color_quality": 3.69,
+          "composition": 0.0,
+          "technical_quality": 8.72
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_062",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 62",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+          "variation": {
+            "crop": "faces",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:24:40.890246Z"
+        },
+        "assessed_at": "2025-07-14T15:00:30.092174Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_076.jpg",
+        "filename": "demo_nature_076.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.35,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 7.44,
+          "brightness": 7.24,
+          "color_quality": 3.21,
+          "composition": 0.0,
+          "technical_quality": 8.87
+        },
+        "watermark_penalty": 7.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_076",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 76",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+          "variation": {
+            "crop": "entropy",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:24:50.489024Z"
+        },
+        "assessed_at": "2025-07-14T15:00:30.191271Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_037.jpg",
+        "filename": "demo_abstract_037.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.54,
+        "detailed_scores": {
+          "sharpness": 1.28,
+          "contrast": 6.61,
+          "brightness": 2.8,
+          "color_quality": 4.19,
+          "composition": 5.58,
+          "technical_quality": 9.93
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_037",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 37",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=90",
+          "source_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=90",
+          "variation": {
+            "crop": "attention",
+            "fm": "jpg",
+            "q": "90"
+          },
+          "crawled_at": "2025-07-14T20:26:38.753144Z"
+        },
+        "assessed_at": "2025-07-14T15:00:30.255366Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_023.jpg",
+        "filename": "demo_abstract_023.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.74,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.13,
+          "brightness": 4.62,
+          "color_quality": 2.05,
+          "composition": 7.42,
+          "technical_quality": 9.67
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_023",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 23",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=1080&h=1920&fit=crop&crop=faces&auto=compress",
+          "source_url": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=1080&h=1920&fit=crop&crop=faces&auto=compress",
+          "variation": {
+            "crop": "faces",
+            "auto": "compress"
+          },
+          "crawled_at": "2025-07-14T20:26:25.022784Z"
+        },
+        "assessed_at": "2025-07-14T15:00:30.327088Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_036.jpg",
+        "filename": "demo_abstract_036.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.81,
+        "detailed_scores": {
+          "sharpness": 9.68,
+          "contrast": 6.17,
+          "brightness": 7.79,
+          "color_quality": 1.72,
+          "composition": 6.75,
+          "technical_quality": 9.58
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_036",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 36",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=90",
+          "source_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=90",
+          "variation": {
+            "crop": "attention",
+            "fm": "jpg",
+            "q": "90"
+          },
+          "crawled_at": "2025-07-14T20:26:36.936168Z"
+        },
+        "assessed_at": "2025-07-14T15:00:30.409877Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_003.jpg",
+        "filename": "demo_space_003.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.59,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.55,
+          "brightness": 4.07,
+          "color_quality": 3.57,
+          "composition": 7.09,
+          "technical_quality": 9.53
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_003",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 3",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=entropy&auto=faces",
+          "source_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=entropy&auto=faces",
+          "variation": {
+            "crop": "entropy",
+            "auto": "faces"
+          },
+          "crawled_at": "2025-07-14T20:28:13.178472Z"
+        },
+        "assessed_at": "2025-07-14T15:00:30.492937Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_001.jpg",
+        "filename": "demo_space_001.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.56,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.56,
+          "brightness": 4.01,
+          "color_quality": 3.5,
+          "composition": 6.97,
+          "technical_quality": 9.53
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_001",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 1",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=attention&auto=faces",
+          "source_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=attention&auto=faces",
+          "variation": {
+            "crop": "attention",
+            "auto": "faces"
+          },
+          "crawled_at": "2025-07-14T20:28:10.233113Z"
+        },
+        "assessed_at": "2025-07-14T15:00:30.664268Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_034.jpg",
+        "filename": "demo_abstract_034.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.8,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.29,
+          "brightness": 4.79,
+          "color_quality": 2.06,
+          "composition": 7.55,
+          "technical_quality": 9.67
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_034",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 34",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "source_url": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "80"
+          },
+          "crawled_at": "2025-07-14T20:26:35.259313Z"
+        },
+        "assessed_at": "2025-07-14T15:00:30.737477Z"
+      },
+      {
+        "path": "crawl_cache/demo_abstract_021.jpg",
+        "filename": "demo_abstract_021.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.92,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.0,
+          "brightness": 8.07,
+          "color_quality": 2.0,
+          "composition": 6.78,
+          "technical_quality": 9.49
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "abstract_021",
+          "source": "unsplash_demo_enhanced",
+          "category": "abstract",
+          "title": "Abstract Enhanced Demo Wallpaper 21",
+          "description": "Enhanced demo abstract wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "abstract",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "source_url": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+          "variation": {
+            "crop": "entropy",
+            "auto": "enhance"
+          },
+          "crawled_at": "2025-07-14T20:26:23.177163Z"
+        },
+        "assessed_at": "2025-07-14T15:00:30.834611Z"
+      },
+      {
+        "path": "crawl_cache/demo_nature_060.jpg",
+        "filename": "demo_nature_060.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.88,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.37,
+          "brightness": 7.11,
+          "color_quality": 3.04,
+          "composition": 0.0,
+          "technical_quality": 8.8
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_060",
+          "source": "unsplash_demo_enhanced",
+          "category": "nature",
+          "title": "Nature Enhanced Demo Wallpaper 60",
+          "description": "Enhanced demo nature wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "nature",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=80",
+          "source_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=80",
+          "variation": {
+            "crop": "attention",
+            "fm": "jpg",
+            "q": "80"
+          },
+          "crawled_at": "2025-07-14T20:24:37.958632Z"
+        },
+        "assessed_at": "2025-07-14T15:00:30.939760Z"
+      },
+      {
+        "path": "crawl_cache/demo_space_014.jpg",
+        "filename": "demo_space_014.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.54,
+        "detailed_scores": {
+          "sharpness": 5.9,
+          "contrast": 7.59,
+          "brightness": 9.17,
+          "color_quality": 3.81,
+          "composition": 9.95,
+          "technical_quality": 9.72
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_014",
+          "source": "unsplash_demo_enhanced",
+          "category": "space",
+          "title": "Space Enhanced Demo Wallpaper 14",
+          "description": "Enhanced demo space wallpaper from Unsplash",
+          "width": 1080,
+          "height": 1920,
+          "tags": [
+            "space",
+            "demo",
+            "wallpaper",
+            "mobile",
+            "enhanced"
+          ],
+          "download_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "source_url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80",
+          "variation": {
+            "crop": "entropy",
+            "fm": "jpg",
+            "q": "80"
+          },
+          "crawled_at": "2025-07-14T20:28:32.198346Z"
+        },
+        "assessed_at": "2025-07-14T15:00:31.019865Z"
+      }
+    ]
+  }
+}

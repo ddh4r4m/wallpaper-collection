@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 50,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/51.json",
@@ -15,393 +15,423 @@
   },
   "data": [
     {
-      "id": "architecture_201",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 201",
+      "id": "anime_112",
+      "category": "anime",
+      "title": "Anime Wallpaper 112",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/201.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/201.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/112.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/112.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 363840,
+        "file_size": 348300,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:57.294414",
-        "hash": "64af90cf49cb9e0865ca1ca399b6e31b",
+        "added_at": "2025-07-17T00:02:44.169251",
+        "hash": "e02c0f445a4adfca216b924374de0820",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_202",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 202",
+      "id": "anime_113",
+      "category": "anime",
+      "title": "Anime Wallpaper 113",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/202.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/202.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/113.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/113.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 371326,
+        "file_size": 432570,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:57.355659",
-        "hash": "a3c3c916906d843b35193574b4d38be1",
+        "added_at": "2025-07-17T00:02:44.540964",
+        "hash": "7e58ee2e38b92e45e5e945ee81b66172",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_203",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 203",
+      "id": "anime_114",
+      "category": "anime",
+      "title": "Anime Wallpaper 114",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/203.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/203.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/114.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/114.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 310382,
+        "file_size": 356780,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:57.415792",
-        "hash": "deb74c067f582902cfbb835e3268970f",
+        "added_at": "2025-07-17T00:02:44.764377",
+        "hash": "6dddff749dc7fe4c91026431d77f8176",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_204",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 204",
+      "id": "anime_115",
+      "category": "anime",
+      "title": "Anime Wallpaper 115",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/204.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/204.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/115.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/115.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 371942,
+        "file_size": 167445,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:57.475995",
-        "hash": "f15f8771dcb479e702a63d0324361d2e",
+        "added_at": "2025-07-17T00:02:44.905095",
+        "hash": "666606e221ebaf51615f73e93a5d58c3",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_205",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 205",
+      "id": "anime_116",
+      "category": "anime",
+      "title": "Anime Wallpaper 116",
       "tags": [
-        "architecture",
+        "anime",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/205.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/205.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/116.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/116.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 454912,
+        "file_size": 200541,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:57.541581",
-        "hash": "b58d013454aa00bc6c510440b57503ae",
+        "added_at": "2025-07-17T00:02:45.060254",
+        "hash": "6f9d483753a79505f5666f0a4d35937c",
         "source": "migrated"
       }
     },
     {
-      "id": "architecture_206",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 206",
+      "id": "anime_117",
+      "category": "anime",
+      "title": "\"The Water Magician\" Key Visua - Reddit AI",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "anime",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/206.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/206.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1392
         },
-        "file_size": 374040,
+        "file_size": 270592,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:57.600887",
-        "hash": "aad7d6ac24595f4cc4ca96bd063b9543",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:28:15.734468",
+        "hash": "8e0e1b1b5c0263799644ae81b251ca3f",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 817
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/117.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/117.jpg"
       }
     },
     {
-      "id": "architecture_207",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 207",
+      "id": "anime_118",
+      "category": "anime",
+      "title": "\"Snowball Earth\" Anime Announc - Reddit AI",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "anime",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/207.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/207.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1528
         },
-        "file_size": 465261,
+        "file_size": 136396,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:57.670071",
-        "hash": "6adaba6a7a36bd435562d36eae0cfbd2",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:28:19.368453",
+        "hash": "08ca71e05a49a34c748e788704b9177c",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 261
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/118.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/118.jpg"
       }
     },
     {
-      "id": "architecture_208",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 208",
+      "id": "anime_119",
+      "category": "anime",
+      "title": "The Anime Prominence Survey Re - Reddit AI",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "anime",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/208.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/208.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
+          "width": 230,
           "height": 1920
         },
-        "file_size": 433227,
+        "file_size": 167153,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:57.757561",
-        "hash": "637be1c0f4801a8aa680426822a6c919",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:28:20.901191",
+        "hash": "6ab5ec4b35c3f28106c79daccfd55ff7",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 966
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/119.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/119.jpg"
       }
     },
     {
-      "id": "architecture_209",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 209",
+      "id": "anime_120",
+      "category": "anime",
+      "title": "F. Rover art by Me (cabbage_ex - Reddit AI",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "anime",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/209.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/209.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1528
         },
-        "file_size": 246547,
+        "file_size": 160093,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:57.834481",
-        "hash": "390d496c851b16b437177c1dea2fbc46",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:28:24.016321",
+        "hash": "d815628c39cccd6d7b24e0788469cb77",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 200
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/120.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/120.jpg"
       }
     },
     {
-      "id": "architecture_210",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 210",
+      "id": "anime_121",
+      "category": "anime",
+      "title": "Character art \ud83c\udf39 Rose demon - Reddit AI",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "anime",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/210.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/210.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1080
         },
-        "file_size": 414094,
+        "file_size": 159561,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:57.898957",
-        "hash": "aec6dc0eaf585b61fa1858d33c5bb569",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:28:25.504335",
+        "hash": "e02368093b6ffed280af95f61e4ee8d7",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 83
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/121.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/121.jpg"
       }
     },
     {
-      "id": "architecture_211",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 211",
+      "id": "anime_122",
+      "category": "anime",
+      "title": "Ani art - Reddit AI",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "anime",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/211.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/211.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1440
         },
-        "file_size": 195988,
+        "file_size": 181000,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:57.952604",
-        "hash": "8b1e4165be8ed6ae534582486e97dd01",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:28:26.883751",
+        "hash": "9c0af30abac2d5f3374e1c1c6862c433",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 17
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/122.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/122.jpg"
       }
     },
     {
-      "id": "architecture_212",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 212",
+      "id": "anime_123",
+      "category": "anime",
+      "title": "I drew Camellya in a swimsuit  - Reddit AI",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "anime",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/212.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/212.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 732
         },
-        "file_size": 290969,
+        "file_size": 152390,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:58.011519",
-        "hash": "7101187175468ff9b436c82ea170e0c3",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:28:28.309708",
+        "hash": "f2a67120ca5bd79b1c6b995ff62832a0",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 34
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/123.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/123.jpg"
       }
     },
     {
-      "id": "architecture_213",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 213",
+      "id": "anime_124",
+      "category": "anime",
+      "title": "Angel by the Sea [Bocchi the R - Reddit AI",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "anime",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/213.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/213.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1285
         },
-        "file_size": 330059,
+        "file_size": 212727,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:58.072836",
-        "hash": "eddd466b9c6119b5f55d8a9301e61a74",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:28:29.527623",
+        "hash": "0c88f4074523c0d97843c51ec38dfe3b",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 18
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/124.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/124.jpg"
       }
     },
     {
-      "id": "architecture_214",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 214",
+      "id": "anime_125",
+      "category": "anime",
+      "title": "Tatsumaki fanart! - Reddit AI",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "anime",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/214.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/214.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1605
         },
-        "file_size": 316996,
+        "file_size": 170965,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:58.133972",
-        "hash": "8745d559936de37cc2781e41dc26783d",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:28:30.829063",
+        "hash": "319107abb1402015093465f8ea92af06",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 30
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/125.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/125.jpg"
       }
     },
     {
-      "id": "architecture_215",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 215",
+      "id": "anime_126",
+      "category": "anime",
+      "title": "The Oblivious Saint Can't Cont - Reddit AI",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "anime",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/215.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/215.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1339
         },
-        "file_size": 344850,
+        "file_size": 224039,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:58.194737",
-        "hash": "edd051afaa78b7e0f9655e932e85917b",
-        "source": "migrated"
+        "added_at": "2025-07-19T11:46:36.057845",
+        "hash": "1b54fc73e3099bc1a2d9d497572fc0e6",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 515
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/126.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/126.jpg"
       }
     }
   ]

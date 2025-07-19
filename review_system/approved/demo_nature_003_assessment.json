@@ -1,0 +1,38 @@
+{
+  "path": "crawl_cache/demo_nature_003.jpg",
+  "filename": "demo_nature_003.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 6.03,
+  "detailed_scores": {
+    "sharpness": 3.14,
+    "contrast": 5.1,
+    "brightness": 7.48,
+    "color_quality": 1.89,
+    "composition": 8.24,
+    "technical_quality": 9.79
+  },
+  "watermark_penalty": 2.5,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "nature_003",
+    "source": "unsplash_demo",
+    "category": "nature",
+    "title": "Nature Demo Wallpaper 3",
+    "description": "Demo nature wallpaper from Unsplash",
+    "width": 1080,
+    "height": 1920,
+    "tags": [
+      "nature",
+      "demo",
+      "wallpaper",
+      "mobile"
+    ],
+    "download_url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1080&h=1920&fit=crop",
+    "source_url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1080&h=1920&fit=crop",
+    "crawled_at": "2025-07-14T14:43:52.818380Z"
+  },
+  "assessed_at": "2025-07-14T14:44:25.771999Z"
+}

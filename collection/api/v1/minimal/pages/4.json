@@ -1,16 +1,16 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "category": "minimal",
     "page": 4,
     "per_page": 15,
-    "total_pages": 4,
-    "total_count": 46,
-    "count_on_page": 1,
-    "has_next": false,
+    "total_pages": 5,
+    "total_count": 64,
+    "count_on_page": 15,
+    "has_next": true,
     "has_prev": true,
-    "next_page_url": null,
+    "next_page_url": "/api/v1/minimal/pages/5.json",
     "prev_page_url": "/api/v1/minimal/pages/3.json"
   },
   "data": [
@@ -38,6 +38,382 @@
         "added_at": "2025-07-17T00:04:11.886739",
         "hash": "7a1a0c9d1c322e4b4f99e6fcf311ce40",
         "source": "migrated"
+      }
+    },
+    {
+      "id": "minimal_047",
+      "category": "minimal",
+      "title": "Minimal Wallpaper",
+      "tags": [
+        "minimal",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1620
+        },
+        "file_size": 26758,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:27:28.750286",
+        "hash": "62eb74bf300a211b557d9bcad4f70cad",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/047.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/047.jpg"
+      }
+    },
+    {
+      "id": "minimal_048",
+      "category": "minimal",
+      "title": "Minimal Wallpaper",
+      "tags": [
+        "minimal",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1622
+        },
+        "file_size": 77249,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:27:31.492738",
+        "hash": "3a1cfa80d2bc0db06f148cacf8d843a2",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/048.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/048.jpg"
+      }
+    },
+    {
+      "id": "minimal_049",
+      "category": "minimal",
+      "title": "Minimal Wallpaper",
+      "tags": [
+        "minimal",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 608
+        },
+        "file_size": 16240,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:27:33.842644",
+        "hash": "cd904db6b0678abfb902d7e7ccc45038",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/049.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/049.jpg"
+      }
+    },
+    {
+      "id": "minimal_050",
+      "category": "minimal",
+      "title": "Minimal Wallpaper",
+      "tags": [
+        "minimal",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 59397,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:27:36.374784",
+        "hash": "512c610043fb8108f51eef880881501b",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/050.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/050.jpg"
+      }
+    },
+    {
+      "id": "minimal_051",
+      "category": "minimal",
+      "title": "Minimal Wallpaper",
+      "tags": [
+        "minimal",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 30744,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:27:39.698668",
+        "hash": "8cdd2041d294bcbc11d5958b95f967b3",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/051.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/051.jpg"
+      }
+    },
+    {
+      "id": "minimal_052",
+      "category": "minimal",
+      "title": "Minimal Wallpaper",
+      "tags": [
+        "minimal",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 735
+        },
+        "file_size": 27383,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:27:41.965080",
+        "hash": "8aab290ead60589071ac4023e861d483",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/052.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/052.jpg"
+      }
+    },
+    {
+      "id": "minimal_053",
+      "category": "minimal",
+      "title": "Minimal Wallpaper",
+      "tags": [
+        "minimal",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1620
+        },
+        "file_size": 26758,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:27:43.274049",
+        "hash": "62eb74bf300a211b557d9bcad4f70cad",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/053.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/053.jpg"
+      }
+    },
+    {
+      "id": "minimal_054",
+      "category": "minimal",
+      "title": "Minimal Wallpaper",
+      "tags": [
+        "minimal",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 810
+        },
+        "file_size": 97816,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:27:45.577350",
+        "hash": "92766bbd1bf072831ca3655af2676713",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/054.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/054.jpg"
+      }
+    },
+    {
+      "id": "minimal_055",
+      "category": "minimal",
+      "title": "Minimal Wallpaper",
+      "tags": [
+        "minimal",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 721
+        },
+        "file_size": 30176,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:27:49.032224",
+        "hash": "18ca6f6b35c6013810b8f07bc665526d",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/055.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/055.jpg"
+      }
+    },
+    {
+      "id": "minimal_056",
+      "category": "minimal",
+      "title": "Minimal Wallpaper",
+      "tags": [
+        "minimal",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1440
+        },
+        "file_size": 81006,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:27:51.526164",
+        "hash": "feca1b8dd13ac2ab0be660379bdcf902",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/056.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/056.jpg"
+      }
+    },
+    {
+      "id": "minimal_057",
+      "category": "minimal",
+      "title": "The SeedVR2 video upscaler is  - Reddit AI",
+      "tags": [
+        "minimal",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 960,
+          "height": 1440
+        },
+        "file_size": 189862,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:27:14.573013",
+        "hash": "e87030a470a8aace74b5c088c2dd8ac8",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 211
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/057.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/057.jpg"
+      }
+    },
+    {
+      "id": "minimal_058",
+      "category": "minimal",
+      "title": "HiDream image editing model re - Reddit AI",
+      "tags": [
+        "minimal",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 445
+        },
+        "file_size": 144067,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:27:17.045837",
+        "hash": "6df9cdfd51538bc589848fcfa205a62d",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 218
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/058.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/058.jpg"
+      }
+    },
+    {
+      "id": "minimal_059",
+      "category": "minimal",
+      "title": "Wan 2.2 is coming this month. - Reddit AI",
+      "tags": [
+        "minimal",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1296
+        },
+        "file_size": 138209,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:27:18.285300",
+        "hash": "ea19541abf06bfe015a6b45e51365687",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 277
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/059.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/059.jpg"
+      }
+    },
+    {
+      "id": "minimal_060",
+      "category": "minimal",
+      "title": "I've released Place it - Fuse  - Reddit AI",
+      "tags": [
+        "minimal",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 125210,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:27:20.042767",
+        "hash": "db02b531f07963a6e8d888923a98302f",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 439
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/060.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/060.jpg"
       }
     }
   ]

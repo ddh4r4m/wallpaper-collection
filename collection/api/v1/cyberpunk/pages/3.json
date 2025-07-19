@@ -1,16 +1,16 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "category": "cyberpunk",
     "page": 3,
     "per_page": 15,
-    "total_pages": 3,
-    "total_count": 41,
-    "count_on_page": 11,
-    "has_next": false,
+    "total_pages": 6,
+    "total_count": 88,
+    "count_on_page": 15,
+    "has_next": true,
     "has_prev": true,
-    "next_page_url": null,
+    "next_page_url": "/api/v1/cyberpunk/pages/4.json",
     "prev_page_url": "/api/v1/cyberpunk/pages/2.json"
   },
   "data": [
@@ -298,6 +298,110 @@
         "added_at": "2025-07-17T00:03:24.328288",
         "hash": "eab6e0a52adee421d5567195b4650fe0",
         "source": "migrated"
+      }
+    },
+    {
+      "id": "cyberpunk_042",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
+      "tags": [
+        "cyberpunk",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1619
+        },
+        "file_size": 212377,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:11:52.342246",
+        "hash": "922476d084cacb2b5848f0af3334d89a",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/042.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/042.jpg"
+      }
+    },
+    {
+      "id": "cyberpunk_043",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
+      "tags": [
+        "cyberpunk",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 106676,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:12:02.220995",
+        "hash": "db85abc4ae0adf7286cf9a98fa9414e2",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/043.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/043.jpg"
+      }
+    },
+    {
+      "id": "cyberpunk_044",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
+      "tags": [
+        "cyberpunk",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 656
+        },
+        "file_size": 140865,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:12:17.028990",
+        "hash": "3f46ed84235201977eb2515992191c42",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/044.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/044.jpg"
+      }
+    },
+    {
+      "id": "cyberpunk_045",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
+      "tags": [
+        "cyberpunk",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1620
+        },
+        "file_size": 144004,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:12:27.388920",
+        "hash": "ebcc70f7d986bd5051e610f49e0269b7",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/045.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/045.jpg"
       }
     }
   ]

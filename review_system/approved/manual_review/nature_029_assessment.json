@@ -1,0 +1,49 @@
+{
+  "path": "review_system/staging/nature_029.jpg",
+  "filename": "nature_029.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 6.22,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 6.7,
+    "brightness": 7.34,
+    "color_quality": 3.6,
+    "composition": 0.0,
+    "technical_quality": 8.45
+  },
+  "watermark_penalty": 7.5,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "nature_029",
+    "source": "comprehensive_crawler",
+    "category": "nature",
+    "title": "Nature Wallpaper 29",
+    "description": "High-quality nature wallpaper from curated sources",
+    "width": 1080,
+    "height": 1920,
+    "tags": [
+      "nature",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile",
+      "landscape",
+      "natural",
+      "outdoor",
+      "scenic",
+      "wildlife"
+    ],
+    "download_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=90",
+    "source_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=90",
+    "variation": {
+      "crop": "entropy",
+      "fm": "jpg",
+      "q": "90"
+    },
+    "crawled_at": "2025-07-14T20:41:38.257441Z"
+  },
+  "assessed_at": "2025-07-14T15:15:28.524347Z"
+}

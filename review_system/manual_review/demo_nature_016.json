@@ -1,0 +1,23 @@
+{
+  "id": "nature_016",
+  "source": "unsplash_demo_enhanced",
+  "category": "nature",
+  "title": "Nature Enhanced Demo Wallpaper 16",
+  "description": "Enhanced demo nature wallpaper from Unsplash",
+  "width": 1080,
+  "height": 1920,
+  "tags": [
+    "nature",
+    "demo",
+    "wallpaper",
+    "mobile",
+    "enhanced"
+  ],
+  "download_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+  "source_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+  "variation": {
+    "crop": "entropy",
+    "auto": "compress"
+  },
+  "crawled_at": "2025-07-14T20:23:40.776169Z"
+}

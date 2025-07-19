@@ -1,0 +1,23 @@
+{
+  "id": "architecture_009",
+  "source": "comprehensive_crawler",
+  "category": "architecture",
+  "title": "Architecture Wallpaper 9",
+  "description": "High-quality architecture wallpaper from curated sources",
+  "width": 1080,
+  "height": 1920,
+  "tags": [
+    "architecture",
+    "wallpaper",
+    "hd",
+    "high resolution",
+    "mobile"
+  ],
+  "download_url": "https://images.unsplash.com/photo-1486718448742-163732cd1544?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+  "source_url": "https://images.unsplash.com/photo-1486718448742-163732cd1544?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance",
+  "variation": {
+    "crop": "entropy",
+    "auto": "enhance"
+  },
+  "crawled_at": "2025-07-14T20:50:21.186036Z"
+}

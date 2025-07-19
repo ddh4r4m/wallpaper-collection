@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 109,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/110.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "seasonal_081",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 081",
+      "id": "nature_089",
+      "category": "nature",
+      "title": "Nature Wallpaper 089",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/081.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/081.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/089.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/089.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 132067,
+        "file_size": 466873,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:43.651203",
-        "hash": "a373a9aa3b4a22afa31dbc03b00c9acc",
+        "added_at": "2025-07-17T00:04:17.903352",
+        "hash": "c150a586905b5e829aec7d348cf604d2",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_082",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 082",
+      "id": "nature_090",
+      "category": "nature",
+      "title": "Nature Wallpaper 090",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/082.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/082.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/090.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/090.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 251013,
+        "file_size": 293851,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:43.707796",
-        "hash": "ccc47c44caf0589b2ff37feeff66f973",
+        "added_at": "2025-07-17T00:04:17.961536",
+        "hash": "6720c3a449b6b5fe8687befe90ce74eb",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_083",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 083",
+      "id": "nature_091",
+      "category": "nature",
+      "title": "Nature Wallpaper 091",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/083.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/083.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/091.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/091.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 584911,
+        "file_size": 560862,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:43.778535",
-        "hash": "2e883ed615b191bf30dad3bc6191112f",
+        "added_at": "2025-07-17T00:04:18.032030",
+        "hash": "40a2080e10519d7340bd099f2051eb1c",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_084",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 084",
+      "id": "nature_092",
+      "category": "nature",
+      "title": "Nature Wallpaper 092",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/084.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/084.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/092.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/092.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 408650,
+        "file_size": 807955,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:43.840480",
-        "hash": "f83ef482032e979ce0d20078c0c5131b",
+        "added_at": "2025-07-17T00:04:18.115088",
+        "hash": "0238137b86f5e008643426864fd46e62",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_085",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 085",
+      "id": "nature_093",
+      "category": "nature",
+      "title": "Nature Wallpaper 093",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/085.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/085.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/093.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/093.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 269070,
+        "file_size": 558442,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:43.895779",
-        "hash": "d1102231c55f3a69e9321d07f8d491a9",
+        "added_at": "2025-07-17T00:04:18.185252",
+        "hash": "4fcaac98d14519e6da4bd23f6dd54ac2",
         "source": "migrated"
       }
     },
     {
-      "id": "space_001",
-      "category": "space",
-      "title": "Space Wallpaper 001",
+      "id": "nature_094",
+      "category": "nature",
+      "title": "Nature Wallpaper 094",
       "tags": [
-        "space",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/001.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/001.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/094.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/094.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 618663,
+        "file_size": 604643,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:43.972500",
-        "hash": "30401a78a49c8264f402d1e105d5f699",
+        "added_at": "2025-07-17T00:04:18.257584",
+        "hash": "37ebbeb0befefd84128e6e1fd07c99ea",
         "source": "migrated"
       }
     },
     {
-      "id": "space_002",
-      "category": "space",
-      "title": "Space Wallpaper 002",
+      "id": "nature_095",
+      "category": "nature",
+      "title": "Nature Wallpaper 095",
       "tags": [
-        "space",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/002.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/002.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/095.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/095.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 465502,
+        "file_size": 676109,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:44.041712",
-        "hash": "a5e6fc27e476a8054982ceb891ea267c",
+        "added_at": "2025-07-17T00:04:18.336827",
+        "hash": "c9ed24c3ef2261998a5132d2c9a228ad",
         "source": "migrated"
       }
     },
     {
-      "id": "space_003",
-      "category": "space",
-      "title": "Space Wallpaper 003",
+      "id": "nature_096",
+      "category": "nature",
+      "title": "Nature Wallpaper 096",
       "tags": [
-        "space",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/003.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/003.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/096.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/096.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 675867,
+        "file_size": 391052,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:44.117083",
-        "hash": "5fca8784192831f18d781421ca5a85e2",
+        "added_at": "2025-07-17T00:04:18.399935",
+        "hash": "62d95e9dfc825af06364871ffc84e169",
         "source": "migrated"
       }
     },
     {
-      "id": "space_004",
-      "category": "space",
-      "title": "Space Wallpaper 004",
+      "id": "nature_097",
+      "category": "nature",
+      "title": "Nature Wallpaper 097",
       "tags": [
-        "space",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/004.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/004.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/097.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/097.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 323514,
+        "file_size": 534206,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:44.173767",
-        "hash": "becb7bd1b3289f28d3f10016655ccdb1",
+        "added_at": "2025-07-17T00:04:18.471132",
+        "hash": "1b9ab1e873cc990fff4cf0a0f185c7c2",
         "source": "migrated"
       }
     },
     {
-      "id": "space_005",
-      "category": "space",
-      "title": "Space Wallpaper 005",
+      "id": "nature_098",
+      "category": "nature",
+      "title": "Nature Wallpaper 098",
       "tags": [
-        "space",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/005.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/005.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/098.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/098.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 686584,
+        "file_size": 689737,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:44.253228",
-        "hash": "c0b5a1e4a3e724f72be8d45d4e3035e2",
+        "added_at": "2025-07-17T00:04:18.549042",
+        "hash": "f4a2d8b3bb035827f1cf632afda23472",
         "source": "migrated"
       }
     },
     {
-      "id": "space_006",
-      "category": "space",
-      "title": "Space Wallpaper 006",
+      "id": "nature_099",
+      "category": "nature",
+      "title": "Nature Wallpaper 099",
       "tags": [
-        "space",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/006.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/006.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/099.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/099.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 64815,
+        "file_size": 606954,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:44.299196",
-        "hash": "e24a550530e2f5b50d6aec96399c491a",
+        "added_at": "2025-07-17T00:04:18.620891",
+        "hash": "55acf9be33173e665b08c7e82d81c5d7",
         "source": "migrated"
       }
     },
     {
-      "id": "space_007",
-      "category": "space",
-      "title": "Space Wallpaper 007",
+      "id": "nature_100",
+      "category": "nature",
+      "title": "Nature Wallpaper 100",
       "tags": [
-        "space",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/007.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/007.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/100.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/100.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 109965,
+        "file_size": 343548,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:44.346736",
-        "hash": "32f2495932fd65f571664c8ab45f1369",
+        "added_at": "2025-07-17T00:04:18.681219",
+        "hash": "2b5884ce644135c19515aab4886c0c46",
         "source": "migrated"
       }
     },
     {
-      "id": "space_008",
-      "category": "space",
-      "title": "Space Wallpaper 008",
+      "id": "nature_101",
+      "category": "nature",
+      "title": "Nature Wallpaper 101",
       "tags": [
-        "space",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/008.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/008.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/101.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/101.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 373081,
+        "file_size": 558591,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:44.409368",
-        "hash": "4f2b6cf779552fbbd620fc44cd519184",
+        "added_at": "2025-07-17T00:04:18.751005",
+        "hash": "fa95e5766002110c7cad3c5b9682c288",
         "source": "migrated"
       }
     },
     {
-      "id": "space_009",
-      "category": "space",
-      "title": "Space Wallpaper 009",
+      "id": "nature_102",
+      "category": "nature",
+      "title": "Nature Wallpaper 102",
       "tags": [
-        "space",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/009.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/009.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/102.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/102.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 163915,
+        "file_size": 263476,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:44.458347",
-        "hash": "4ce189c30381d63ff65e01b0b48bd624",
+        "added_at": "2025-07-17T00:04:18.807112",
+        "hash": "deb4399bd3f1fecca376bf1ac5c9e7e6",
         "source": "migrated"
       }
     },
     {
-      "id": "space_010",
-      "category": "space",
-      "title": "Space Wallpaper 010",
+      "id": "nature_103",
+      "category": "nature",
+      "title": "Nature Wallpaper 103",
       "tags": [
-        "space",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/010.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/010.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/103.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/103.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 75994,
+        "file_size": 411964,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:44.502288",
-        "hash": "24227f7865022d6145155eab92dfb1ba",
+        "added_at": "2025-07-17T00:04:18.871938",
+        "hash": "6c9ae210ac4b9677f5880eef8ba7af56",
         "source": "migrated"
       }
     }

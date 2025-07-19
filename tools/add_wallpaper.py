@@ -41,7 +41,7 @@ class WallpaperManager:
         self.github_user = "ddh4r4m"
         self.github_repo = "wallpaper-collection"
         self.github_branch = "main"
-        self.base_url = f"https://raw.githubusercontent.com/{self.github_user}/{self.github_repo}/{self.github_branch}"
+        self.base_url = f"https://media.githubusercontent.com/media/{self.github_user}/{self.github_repo}/{self.github_branch}"
         
         # Image processing settings
         self.max_width = 1080
@@ -55,7 +55,7 @@ class WallpaperManager:
             'abstract', 'nature', 'space', 'minimal', 'cyberpunk', 'gaming', 
             'anime', 'movies', 'music', 'cars', 'sports', 'technology', 
             'architecture', 'art', 'dark', 'neon', 'pastel', 'vintage', 
-            'gradient', 'seasonal', '4k'
+            'gradient', 'seasonal', '4k', 'animals'
         }
     
     def validate_image(self, image_path):

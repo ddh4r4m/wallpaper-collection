@@ -1,0 +1,24 @@
+{
+  "id": "dark_003",
+  "source": "comprehensive_crawler",
+  "category": "dark",
+  "title": "Dark Wallpaper 3",
+  "description": "High-quality dark wallpaper from curated sources",
+  "width": 1080,
+  "height": 1920,
+  "tags": [
+    "dark",
+    "wallpaper",
+    "hd",
+    "high resolution",
+    "mobile"
+  ],
+  "download_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=85",
+  "source_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=85",
+  "variation": {
+    "crop": "attention",
+    "fm": "jpg",
+    "q": "85"
+  },
+  "crawled_at": "2025-07-14T20:50:08.673993Z"
+}

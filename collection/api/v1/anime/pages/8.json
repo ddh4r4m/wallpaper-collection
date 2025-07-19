@@ -1,16 +1,16 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "category": "anime",
     "page": 8,
     "per_page": 15,
-    "total_pages": 8,
-    "total_count": 116,
-    "count_on_page": 11,
-    "has_next": false,
+    "total_pages": 9,
+    "total_count": 133,
+    "count_on_page": 15,
+    "has_next": true,
     "has_prev": true,
-    "next_page_url": null,
+    "next_page_url": "/api/v1/anime/pages/9.json",
     "prev_page_url": "/api/v1/anime/pages/7.json"
   },
   "data": [
@@ -298,6 +298,122 @@
         "added_at": "2025-07-17T00:02:45.060254",
         "hash": "6f9d483753a79505f5666f0a4d35937c",
         "source": "migrated"
+      }
+    },
+    {
+      "id": "anime_117",
+      "category": "anime",
+      "title": "\"The Water Magician\" Key Visua - Reddit AI",
+      "tags": [
+        "anime",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1392
+        },
+        "file_size": 270592,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:28:15.734468",
+        "hash": "8e0e1b1b5c0263799644ae81b251ca3f",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 817
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/117.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/117.jpg"
+      }
+    },
+    {
+      "id": "anime_118",
+      "category": "anime",
+      "title": "\"Snowball Earth\" Anime Announc - Reddit AI",
+      "tags": [
+        "anime",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1528
+        },
+        "file_size": 136396,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:28:19.368453",
+        "hash": "08ca71e05a49a34c748e788704b9177c",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 261
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/118.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/118.jpg"
+      }
+    },
+    {
+      "id": "anime_119",
+      "category": "anime",
+      "title": "The Anime Prominence Survey Re - Reddit AI",
+      "tags": [
+        "anime",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 230,
+          "height": 1920
+        },
+        "file_size": 167153,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:28:20.901191",
+        "hash": "6ab5ec4b35c3f28106c79daccfd55ff7",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 966
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/119.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/119.jpg"
+      }
+    },
+    {
+      "id": "anime_120",
+      "category": "anime",
+      "title": "F. Rover art by Me (cabbage_ex - Reddit AI",
+      "tags": [
+        "anime",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1528
+        },
+        "file_size": 160093,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:28:24.016321",
+        "hash": "d815628c39cccd6d7b24e0788469cb77",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 200
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/120.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/120.jpg"
       }
     }
   ]

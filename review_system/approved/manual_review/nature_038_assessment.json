@@ -1,0 +1,49 @@
+{
+  "path": "review_system/staging/nature_038.jpg",
+  "filename": "nature_038.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 6.55,
+  "detailed_scores": {
+    "sharpness": 6.29,
+    "contrast": 3.28,
+    "brightness": 4.89,
+    "color_quality": 4.61,
+    "composition": 5.78,
+    "technical_quality": 9.7
+  },
+  "watermark_penalty": 0.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "nature_038",
+    "source": "wallhaven",
+    "category": "nature",
+    "title": "Nature Wallpaper 38",
+    "description": "High-quality nature wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "nature",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/j5/wallhaven-j5l62w.jpg",
+    "source_url": "https://w.wallhaven.cc/full/j5/wallhaven-j5l62w.jpg",
+    "original_info": {
+      "id": "wallhaven_j5l62w",
+      "url": "https://w.wallhaven.cc/full/j5/wallhaven-j5l62w.jpg",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "forest wallpaper",
+      "width": 3168,
+      "height": 4752
+    },
+    "crawled_at": "2025-07-14T20:59:32.213643Z"
+  },
+  "assessed_at": "2025-07-14T15:31:43.255898Z"
+}

@@ -1,0 +1,48 @@
+{
+  "path": "review_system/staging/abstract_002.jpg",
+  "filename": "abstract_002.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 6.42,
+  "detailed_scores": {
+    "sharpness": 1.49,
+    "contrast": 9.47,
+    "brightness": 6.26,
+    "color_quality": 4.58,
+    "composition": 5.59,
+    "technical_quality": 9.85
+  },
+  "watermark_penalty": 0.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "abstract_002",
+    "source": "comprehensive_crawler",
+    "category": "abstract",
+    "title": "Abstract Wallpaper 2",
+    "description": "High-quality abstract wallpaper from curated sources",
+    "width": 1080,
+    "height": 1920,
+    "tags": [
+      "abstract",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile",
+      "geometric",
+      "modern",
+      "artistic",
+      "pattern",
+      "creative"
+    ],
+    "download_url": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+    "source_url": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366?w=1080&h=1920&fit=crop&crop=attention&auto=compress",
+    "variation": {
+      "crop": "attention",
+      "auto": "compress"
+    },
+    "crawled_at": "2025-07-14T20:40:28.627569Z"
+  },
+  "assessed_at": "2025-07-14T15:15:30.334050Z"
+}

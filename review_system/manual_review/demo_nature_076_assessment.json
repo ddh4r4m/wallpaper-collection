@@ -1,0 +1,43 @@
+{
+  "path": "crawl_cache/demo_nature_076.jpg",
+  "filename": "demo_nature_076.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 6.35,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 7.44,
+    "brightness": 7.24,
+    "color_quality": 3.21,
+    "composition": 0.0,
+    "technical_quality": 8.87
+  },
+  "watermark_penalty": 7.5,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "nature_076",
+    "source": "unsplash_demo_enhanced",
+    "category": "nature",
+    "title": "Nature Enhanced Demo Wallpaper 76",
+    "description": "Enhanced demo nature wallpaper from Unsplash",
+    "width": 1080,
+    "height": 1920,
+    "tags": [
+      "nature",
+      "demo",
+      "wallpaper",
+      "mobile",
+      "enhanced"
+    ],
+    "download_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+    "source_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+    "variation": {
+      "crop": "entropy",
+      "auto": "compress"
+    },
+    "crawled_at": "2025-07-14T20:24:50.489024Z"
+  },
+  "assessed_at": "2025-07-14T15:00:30.191271Z"
+}

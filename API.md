@@ -1,7 +1,7 @@
 # WallCraft API Documentation
 
-[![Total Wallpapers](https://img.shields.io/badge/Wallpapers-260-blue)](https://github.com/ddh4r4m/wallpaper-collection)
-[![Categories](https://img.shields.io/badge/Categories-3-green)](https://github.com/ddh4r4m/wallpaper-collection)
+[![Total Wallpapers](https://img.shields.io/badge/Wallpapers-2387-blue)](https://github.com/ddh4r4m/wallpaper-collection)
+[![Categories](https://img.shields.io/badge/Categories-19-green)](https://github.com/ddh4r4m/wallpaper-collection)
 [![API Status](https://img.shields.io/badge/API-Live-success)](https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/all.json)
 
 Complete API documentation for the **bulletproof WallCraft collection**. **No API keys required** - start using immediately with guaranteed correct URLs!
@@ -10,7 +10,7 @@ Complete API documentation for the **bulletproof WallCraft collection**. **No AP
 
 ### 🧪 Tested & Verified APIs
 
-**All endpoints tested and working** ✅ (Last verified: July 16, 2025)
+**All endpoints tested and working** ✅ (Last verified: July 17, 2025)
 
 ### Test the APIs
 ```bash
@@ -70,22 +70,46 @@ https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/coll
 
 | Category | Count | Description |
 |----------|-------|-------------|
+| `nature` | 284 | Landscapes, wildlife, forests, mountains, and natural scenes |
+| `architecture` | 275 | Buildings, bridges, modern structures, and urban photography |
+| `abstract` | 219 | Abstract patterns, geometric designs, and artistic visualizations |
 | `4k` | 200 | Ultra high-definition wallpapers optimized for 4K displays |
-| `anime` | 58 | Anime characters, manga art, and Japanese animation styles |
-| `abstract` | 2 | Abstract patterns, geometric designs, and artistic visualizations |
+| `anime` | 116 | Anime characters, manga art, and Japanese animation styles |
+| `vintage` | 94 | Retro designs, nostalgic themes, and classic aesthetics |
+| `space` | 86 | Galaxies, nebulae, planets, stars, and cosmic photography |
+| `seasonal` | 85 | Holiday themes, seasonal changes, and weather phenomena |
+| `dark` | 80 | Dark themes, gothic aesthetics, and mysterious atmospheres |
+| `neon` | 78 | Neon lighting, synthwave aesthetics, and electric themes |
+| `gaming` | 76 | Video game characters, scenes, and gaming-inspired artwork |
+| `cars` | 74 | Automotive photography, sports cars, and vehicle designs |
+| `technology` | 73 | Gadgets, circuits, futuristic tech, and digital interfaces |
+| `art` | 72 | Digital art, paintings, illustrations, and creative designs |
+| `animals` | 72 | Wildlife photography, pets, and animal portraits |
+| `pastel` | 57 | Soft colors, gentle aesthetics, and dream-like themes |
+| `cyberpunk` | 56 | Futuristic cityscapes, neon lights, and sci-fi themes |
+| `minimal` | 56 | Clean, simple designs with minimalist aesthetics |
 
-**Total: 3 active categories with 260 wallpapers**
+**Total: 18 active categories with 2,053 wallpapers**
 
 #### Category API Examples
 ```bash
+# Get nature wallpapers (284 wallpapers - largest collection)
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/nature.json
+
+# Get architecture wallpapers (275 wallpapers)
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/architecture.json
+
 # Get 4K wallpapers (200 wallpapers)
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k.json
 
-# Get anime wallpapers (58 wallpapers)
+# Get anime wallpapers (116 wallpapers)
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/anime.json
 
-# Get abstract wallpapers (2 wallpapers)
-curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/abstract.json
+# Get cars wallpapers (74 wallpapers)
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/cars.json
+
+# Get animals wallpapers (72 wallpapers - NEW!)
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/animals.json
 ```
 
 #### 🚀 Pagination Examples
@@ -102,22 +126,28 @@ curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main
 # Get first page of anime wallpapers
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/anime/pages/1.json
 
-# Available pages: All (1-18), 4K (1-14), Anime (1-4)
+# Available pages: All (1-137), Nature (1-19), Architecture (1-19), 4K (1-14), Anime (1-8)
 ```
 
 **Pagination Available For:**
-- **All wallpapers**: 18 pages (260 total wallpapers)
-- **4K category**: 14 pages (200 wallpapers)  
-- **Anime category**: 4 pages (58 wallpapers)
-- **Abstract category**: No pagination (only 2 wallpapers)
+- **All wallpapers**: 137 pages (2,053 total wallpapers)
+- **Nature category**: 19 pages (284 wallpapers)
+- **Architecture category**: 19 pages (275 wallpapers)
+- **Abstract category**: 15 pages (219 wallpapers)
+- **4K category**: 14 pages (200 wallpapers)
+- **Anime category**: 8 pages (116 wallpapers)
+- **And 12 more categories** with pagination support
 
 ## 📊 Collection Statistics
 
-- **Total Wallpapers**: 260 (Live Count)
-- **Categories**: 3 Active Categories
+- **Total Wallpapers**: 2,053 (Live Count)
+- **Categories**: 18 Active Categories
+- **Nature Collection**: 284 high-quality landscape and wildlife wallpapers (largest)
+- **Architecture Collection**: 275 stunning building and structure wallpapers
 - **4K Collection**: 200 unique wallpapers from Unsplash curated collection
-- **Anime Collection**: 58 high-quality anime wallpapers
-- **Abstract Collection**: 2 artistic abstract wallpapers
+- **Abstract Collection**: 219 artistic and geometric wallpapers
+- **Anime Collection**: 116 high-quality anime and manga wallpapers
+- **Animals Collection**: 72 wildlife and pet wallpapers (newly added)
 - **Resolution**: Up to 1080×1920 (Mobile Optimized)
 - **Format**: JPEG, High Quality (85% compression)
 - **Thumbnails**: 400×600px for fast loading (80% compression)
@@ -136,8 +166,8 @@ Complete collection with all wallpapers and metadata.
   "meta": {
     "version": "1.0",
     "generated_at": "2025-07-16T23:29:21.210153",
-    "total_count": 260,
-    "categories": 3
+    "total_count": 2053,
+    "categories": 18
   },
   "data": [
     {
@@ -183,10 +213,10 @@ Paginated response with navigation metadata and 15 wallpapers per page.
     "generated_at": "2025-07-16T23:29:21.210153",
     "page": 1,
     "per_page": 15,
-    "total_pages": 18,
-    "total_count": 260,
+    "total_pages": 137,
+    "total_count": 2053,
     "count_on_page": 15,
-    "categories": 3,
+    "categories": 18,
     "has_next": true,
     "has_prev": false,
     "next_page_url": "/api/v1/all/pages/2.json",
@@ -234,9 +264,24 @@ Overview of all categories with counts and descriptions.
   "meta": {
     "version": "1.0",
     "generated_at": "2025-07-16T22:22:47.973645",
-    "total_categories": 3
+    "total_categories": 18
   },
   "data": {
+    "nature": {
+      "name": "Nature",
+      "count": 284,
+      "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
+    },
+    "architecture": {
+      "name": "Architecture", 
+      "count": 275,
+      "description": "Buildings, bridges, modern structures, and urban photography"
+    },
+    "abstract": {
+      "name": "Abstract",
+      "count": 219,
+      "description": "Abstract patterns, geometric designs, and artistic visualizations"
+    },
     "4k": {
       "name": "4K",
       "count": 200,
@@ -244,13 +289,13 @@ Overview of all categories with counts and descriptions.
     },
     "anime": {
       "name": "Anime",
-      "count": 58,
+      "count": 116,
       "description": "Anime characters, manga art, and Japanese animation styles"
     },
-    "abstract": {
-      "name": "Abstract",
-      "count": 2,
-      "description": "Abstract patterns, geometric designs, and artistic visualizations"
+    "animals": {
+      "name": "Animals",
+      "count": 72,
+      "description": "Wildlife photography, pets, and animal portraits"
     }
   }
 }
@@ -348,8 +393,8 @@ Complete statistics and analytics.
     "generated_at": "2025-07-16T22:22:47.973645"
   },
   "data": {
-    "total_wallpapers": 260,
-    "total_categories": 3,
+    "total_wallpapers": 2053,
+    "total_categories": 18,
     "categories": {
       "4k": {
         "name": "4K",
@@ -402,13 +447,13 @@ Complete statistics and analytics.
       ]
     ],
     "file_stats": {
-      "total_size_mb": 385.15,
-      "average_file_size_kb": 1516.91,
+      "total_size_mb": 951.9,
+      "average_file_size_kb": 474.79,
       "average_dimensions": {
-        "width": 1917,
-        "height": 2142
+        "width": 1170,
+        "height": 1818
       },
-      "total_files": 260
+      "total_files": 2053
     }
   }
 }
@@ -416,8 +461,17 @@ Complete statistics and analytics.
 
 ## 🌟 4K Wallpaper Collection Spotlight
 
-### 🔥 Featured: 200 Unique 4K Wallpapers
-Our flagship **4K collection** contains **200 carefully curated wallpapers** from Unsplash's finest photography. Each wallpaper is:
+### 🔥 Featured: Massive 2,053 Wallpaper Collection
+Our **complete collection** contains **2,053 carefully curated wallpapers** across 18 diverse categories. Notable collections include:
+
+- **Nature (284)**: Stunning landscapes and wildlife photography
+- **Architecture (275)**: Modern and classic building photography  
+- **4K Collection (200)**: Premium Unsplash curated wallpapers
+- **Abstract (219)**: Artistic patterns and geometric designs
+- **Anime (116)**: High-quality anime and manga artwork
+- **Animals (72)**: Wildlife, pets, and animal portraits
+
+Each wallpaper is:
 
 - **Unique**: Guaranteed no duplicates via ID tracking
 - **High Quality**: Sourced from Unsplash's curated collection  
@@ -425,30 +479,41 @@ Our flagship **4K collection** contains **200 carefully curated wallpapers** fro
 - **Fast Loading**: Optimized JPEG compression (85% quality)
 - **Professionally Tagged**: Rich metadata with photographer attribution
 
-### 🚀 4K Implementation Guide
+### 🚀 Collection Implementation Guide
 
-#### Quick Start with 4K Collection
+#### Quick Start with Major Categories
 ```bash
-# Get all 200 4K wallpapers
+# Get all 2,053 wallpapers
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/all.json
+
+# Get nature wallpapers (largest collection - 284 wallpapers)
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/nature.json
+
+# Get architecture wallpapers (275 wallpapers)
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/architecture.json
+
+# Get 4K wallpapers (200 premium wallpapers)
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k.json
 
-# Access specific 4K wallpaper (sequential numbering)
-curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/001.jpg
+# Access specific wallpaper (sequential numbering)
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/001.jpg
 
-# Get 4K thumbnail for fast preview
-curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/001.jpg
+# Get thumbnail for fast preview
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/001.jpg
 ```
 
-#### 4K URL Pattern
+#### URL Pattern for All Categories
 ```typescript
-// Wallpaper URLs (001-200)
-const wallpaperUrl = `https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/${id.padStart(3, '0')}.jpg`;
+// Wallpaper URLs (varies by category)
+const wallpaperUrl = `https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/${category}/${id.padStart(3, '0')}.jpg`;
 
-// Thumbnail URLs (001-200)  
-const thumbnailUrl = `https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/4k/${id.padStart(3, '0')}.jpg`;
+// Thumbnail URLs (varies by category)  
+const thumbnailUrl = `https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/${category}/${id.padStart(3, '0')}.jpg`;
 
-// Example: 4K wallpaper #42
-const wallpaper42 = "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/4k/042.jpg";
+// Examples:
+const nature42 = "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/042.jpg";
+const anime15 = "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/015.jpg";
+const cars01 = "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/001.jpg";
 ```
 
 #### Implementation Examples
@@ -469,9 +534,10 @@ class WallpaperService {
   }
 }
 
-// Usage for 4K collection
-final wallpaperUrl = WallpaperService().getWallpaperUrl('4k', 1); // 001.jpg
-final thumbnailUrl = WallpaperService().getThumbnailUrl('4k', 150); // 150.jpg
+// Usage for different collections
+final natureUrl = WallpaperService().getWallpaperUrl('nature', 1); // 001.jpg
+final animeUrl = WallpaperService().getWallpaperUrl('anime', 50); // 050.jpg
+final carsThumb = WallpaperService().getThumbnailUrl('cars', 25); // 025.jpg
 ```
 
 **JavaScript/React**
@@ -490,9 +556,10 @@ class WallpaperAPI {
   }
 }
 
-// Usage for 4K collection
-const wallpaper1 = WallpaperAPI.getWallpaperUrl('4k', 1);   // 001.jpg
-const wallpaper200 = WallpaperAPI.getWallpaperUrl('4k', 200); // 200.jpg
+// Usage for different collections
+const nature1 = WallpaperAPI.getWallpaperUrl('nature', 1);   // 001.jpg
+const abstract100 = WallpaperAPI.getWallpaperUrl('abstract', 100); // 100.jpg
+const animalsThumb = WallpaperAPI.getThumbnailUrl('animals', 35); // 035.jpg
 ```
 
 ## 🎯 Data Models
@@ -794,9 +861,17 @@ curl -I https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/m
 
 ---
 
-**The bulletproof WallCraft API is ready for production use! 🚀**
+**The bulletproof WallCraft API with 2,053 wallpapers is ready for production use! 🚀**
 
 ```bash
-# Start using the bulletproof API today
+# Start using the massive collection API today
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/all.json | jq '.meta.total_count'
+# Output: 2053
+
+# Explore the largest collections
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/nature.json | jq '.meta.total_count'
+# Output: 284
+
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/architecture.json | jq '.meta.total_count'  
+# Output: 275
 ```

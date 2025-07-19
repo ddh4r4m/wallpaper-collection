@@ -1,0 +1,665 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-19T12:26:57.111378",
+    "category": "ai",
+    "page": 5,
+    "per_page": 15,
+    "total_pages": 6,
+    "total_count": 83,
+    "count_on_page": 15,
+    "has_next": true,
+    "has_prev": true,
+    "next_page_url": "/api/v1/ai/pages/6.json",
+    "prev_page_url": "/api/v1/ai/pages/4.json"
+  },
+  "data": [
+    {
+      "id": "ai_061",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 210799,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:26:16.010612",
+        "hash": "b77d2e689f79b021f81c12e46975d7dc",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 154,
+          "laughCount": 269,
+          "likeCount": 2919,
+          "dislikeCount": 0,
+          "heartCount": 787,
+          "commentCount": 0
+        },
+        "total_reactions": 3706
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/061.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/061.jpg"
+      }
+    },
+    {
+      "id": "ai_062",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1579
+        },
+        "file_size": 382747,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:26:17.424316",
+        "hash": "f1677ecc1a6755c19e29a8ce643e58a7",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 141,
+          "laughCount": 303,
+          "likeCount": 2747,
+          "dislikeCount": 0,
+          "heartCount": 958,
+          "commentCount": 2
+        },
+        "total_reactions": 3705
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/062.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/062.jpg"
+      }
+    },
+    {
+      "id": "ai_063",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 144426,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:26:19.593156",
+        "hash": "d4d799d9abcb9587cdf927ef2db87191",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 161,
+          "laughCount": 268,
+          "likeCount": 2886,
+          "dislikeCount": 0,
+          "heartCount": 818,
+          "commentCount": 2
+        },
+        "total_reactions": 3704
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/063.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/063.jpg"
+      }
+    },
+    {
+      "id": "ai_064",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 246610,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:26:21.907577",
+        "hash": "289952e6879f4f619987f8abf78b6552",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 147,
+          "laughCount": 283,
+          "likeCount": 2794,
+          "dislikeCount": 0,
+          "heartCount": 896,
+          "commentCount": 2
+        },
+        "total_reactions": 3690
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/064.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/064.jpg"
+      }
+    },
+    {
+      "id": "ai_065",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "high-resolution",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1578
+        },
+        "file_size": 239756,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:26:23.410904",
+        "hash": "e9d8870b52a5b2f3b661aa4526ecaee5",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 175,
+          "laughCount": 297,
+          "likeCount": 2768,
+          "dislikeCount": 0,
+          "heartCount": 906,
+          "commentCount": 2
+        },
+        "total_reactions": 3674
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/065.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/065.jpg"
+      }
+    },
+    {
+      "id": "ai_066",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1576
+        },
+        "file_size": 230846,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:26:25.787670",
+        "hash": "5400d6dea04a60ff818a1a1035e62bd8",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 168,
+          "laughCount": 299,
+          "likeCount": 2719,
+          "dislikeCount": 0,
+          "heartCount": 948,
+          "commentCount": 2
+        },
+        "total_reactions": 3667
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/066.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/066.jpg"
+      }
+    },
+    {
+      "id": "ai_067",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 132485,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:26:27.105078",
+        "hash": "1e7b39ca527dbcb9b9218191e797b82c",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 204,
+          "laughCount": 301,
+          "likeCount": 2721,
+          "dislikeCount": 0,
+          "heartCount": 923,
+          "commentCount": 1
+        },
+        "total_reactions": 3644
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/067.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/067.jpg"
+      }
+    },
+    {
+      "id": "ai_068",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 214187,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:26:29.254844",
+        "hash": "3e8a650ff58d7c8c775d0b2487496a7d",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 182,
+          "laughCount": 313,
+          "likeCount": 2776,
+          "dislikeCount": 0,
+          "heartCount": 863,
+          "commentCount": 2
+        },
+        "total_reactions": 3639
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/068.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/068.jpg"
+      }
+    },
+    {
+      "id": "ai_069",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1578
+        },
+        "file_size": 342012,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:26:30.654488",
+        "hash": "a4e9f4910cac8c9fabe747276c578a7f",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 163,
+          "laughCount": 306,
+          "likeCount": 2714,
+          "dislikeCount": 0,
+          "heartCount": 924,
+          "commentCount": 0
+        },
+        "total_reactions": 3638
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/069.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/069.jpg"
+      }
+    },
+    {
+      "id": "ai_070",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1566
+        },
+        "file_size": 279859,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:26:32.695491",
+        "hash": "b5e982541778856bf1446a062e41db53",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 173,
+          "laughCount": 352,
+          "likeCount": 2720,
+          "dislikeCount": 0,
+          "heartCount": 915,
+          "commentCount": 1
+        },
+        "total_reactions": 3635
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/070.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/070.jpg"
+      }
+    },
+    {
+      "id": "ai_071",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 211074,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:26:34.439718",
+        "hash": "e595b9eae670e0f38bd5ad41adf48622",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 183,
+          "laughCount": 355,
+          "likeCount": 2749,
+          "dislikeCount": 0,
+          "heartCount": 851,
+          "commentCount": 9
+        },
+        "total_reactions": 3600
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/071.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/071.jpg"
+      }
+    },
+    {
+      "id": "ai_072",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 177713,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:26:36.703594",
+        "hash": "366ee9428ced5071b94d2b791632c04f",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 162,
+          "laughCount": 376,
+          "likeCount": 2661,
+          "dislikeCount": 0,
+          "heartCount": 919,
+          "commentCount": 0
+        },
+        "total_reactions": 3580
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/072.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/072.jpg"
+      }
+    },
+    {
+      "id": "ai_073",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 146842,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:26:38.069429",
+        "hash": "86506832d6c98a9c0df45a5fe9081837",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 241,
+          "laughCount": 342,
+          "likeCount": 2648,
+          "dislikeCount": 0,
+          "heartCount": 921,
+          "commentCount": 0
+        },
+        "total_reactions": 3569
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/073.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/073.jpg"
+      }
+    },
+    {
+      "id": "ai_074",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 104684,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:26:39.462546",
+        "hash": "5e5e8deb2c8a5b9c57303b5ae98eb8f1",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 201,
+          "laughCount": 379,
+          "likeCount": 2668,
+          "dislikeCount": 0,
+          "heartCount": 879,
+          "commentCount": 2
+        },
+        "total_reactions": 3547
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/074.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/074.jpg"
+      }
+    },
+    {
+      "id": "ai_075",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
+      "tags": [
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "viral",
+        "high-resolution",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1543
+        },
+        "file_size": 296086,
+        "format": "JPEG",
+        "added_at": "2025-07-19T12:26:41.528839",
+        "hash": "9c7e0c6a5ee5e954f46a10537a0349c1",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 237,
+          "laughCount": 368,
+          "likeCount": 2697,
+          "dislikeCount": 0,
+          "heartCount": 845,
+          "commentCount": 5
+        },
+        "total_reactions": 3542
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/075.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/075.jpg"
+      }
+    }
+  ]
+}

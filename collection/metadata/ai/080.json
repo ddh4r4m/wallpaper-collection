@@ -1,0 +1,39 @@
+{
+  "id": "ai_080",
+  "category": "ai",
+  "title": "Ai Premium AI - Civitai",
+  "tags": [
+    "ai",
+    "ai-generated",
+    "civitai",
+    "stable-diffusion",
+    "hd",
+    "mobile",
+    "viral",
+    "community-rated"
+  ],
+  "metadata": {
+    "dimensions": {
+      "width": 832,
+      "height": 1216
+    },
+    "file_size": 114107,
+    "format": "JPEG",
+    "added_at": "2025-07-19T12:26:51.620948",
+    "hash": "01029076587024b960d57cc15b2d9e8f",
+    "ai_source": "civitai",
+    "ai_generated": true,
+    "source_platform": "civitai.com",
+    "scraping_method": "scroll_based",
+    "civitai_tag_id": 4,
+    "civitai_stats": {
+      "cryCount": 208,
+      "laughCount": 433,
+      "likeCount": 2664,
+      "dislikeCount": 0,
+      "heartCount": 808,
+      "commentCount": 2
+    },
+    "total_reactions": 3472
+  }
+}

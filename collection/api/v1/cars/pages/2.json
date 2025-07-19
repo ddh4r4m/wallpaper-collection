@@ -1,16 +1,16 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "category": "cars",
     "page": 2,
     "per_page": 15,
-    "total_pages": 2,
-    "total_count": 29,
-    "count_on_page": 14,
-    "has_next": false,
+    "total_pages": 6,
+    "total_count": 84,
+    "count_on_page": 15,
+    "has_next": true,
     "has_prev": true,
-    "next_page_url": null,
+    "next_page_url": "/api/v1/cars/pages/3.json",
     "prev_page_url": "/api/v1/cars/pages/1.json"
   },
   "data": [
@@ -376,6 +376,32 @@
         "added_at": "2025-07-17T00:03:12.987486",
         "hash": "ea39dee455952708e6198bff9cc35cb3",
         "source": "migrated"
+      }
+    },
+    {
+      "id": "cars_030",
+      "category": "cars",
+      "title": "Cars Wallpaper",
+      "tags": [
+        "cars",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1620
+        },
+        "file_size": 349413,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:00:45.802324",
+        "hash": "95531e617d9c6272ed8d85c395820216",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/030.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/030.jpg"
       }
     }
   ]

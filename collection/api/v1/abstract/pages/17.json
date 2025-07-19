@@ -1,0 +1,604 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-19T12:26:57.111378",
+    "category": "abstract",
+    "page": 17,
+    "per_page": 15,
+    "total_pages": 18,
+    "total_count": 257,
+    "count_on_page": 15,
+    "has_next": true,
+    "has_prev": true,
+    "next_page_url": "/api/v1/abstract/pages/18.json",
+    "prev_page_url": "/api/v1/abstract/pages/16.json"
+  },
+  "data": [
+    {
+      "id": "abstract_241",
+      "category": "abstract",
+      "title": "Be your own boss - Reddit AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 176660,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:48:44.922795",
+        "hash": "ff0c54110facb606796c64ccc7a8adbb",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 32
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/241.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/241.jpg"
+      }
+    },
+    {
+      "id": "abstract_242",
+      "category": "abstract",
+      "title": "Ok. - Reddit AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 928,
+          "height": 1232
+        },
+        "file_size": 138473,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:48:46.196074",
+        "hash": "0f88e8dc7be55c54b5ec54ed03c1e0aa",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 9
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/242.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/242.jpg"
+      }
+    },
+    {
+      "id": "abstract_243",
+      "category": "abstract",
+      "title": "Masterpiece, best quality, amazing quali - Civitai AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1070,
+          "height": 1920
+        },
+        "file_size": 466342,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:10.364398",
+        "hash": "d8c7ee2ab07d70d092ec23f17c00d475",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "Masterpiece, best quality, amazing quality, newest, very aesthetic, scenery, 8k, good anatomy, good shading, ultra detailed, refined details, high resolution, HD, masterwork, 4ur4_illu,shiny.\n\n1girl, ",
+        "civitai_stats": {
+          "cryCount": 247,
+          "laughCount": 409,
+          "likeCount": 3471,
+          "dislikeCount": 0,
+          "heartCount": 1205,
+          "commentCount": 7
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/243.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/243.jpg"
+      }
+    },
+    {
+      "id": "abstract_244",
+      "category": "abstract",
+      "title": "Masterpiece, best quality, amazing quali - Civitai AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1070,
+          "height": 1920
+        },
+        "file_size": 540681,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:15.547894",
+        "hash": "b01d91f7b2e3dfe2f3268216ab1ed73d",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "Masterpiece, best quality, amazing quality, newest, very aesthetic, scenery, 8k, good anatomy, good shading, ultra detailed, refined details, high resolution, HD, masterwork, 4ur4_illu,shiny.\n\n1girl, ",
+        "civitai_stats": {
+          "cryCount": 57,
+          "laughCount": 97,
+          "likeCount": 1095,
+          "dislikeCount": 0,
+          "heartCount": 325,
+          "commentCount": 0
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/244.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/244.jpg"
+      }
+    },
+    {
+      "id": "abstract_245",
+      "category": "abstract",
+      "title": "Masterpiece, best quality, amazing quali - Civitai AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1070,
+          "height": 1920
+        },
+        "file_size": 560254,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:20.722292",
+        "hash": "ef2ca4d1931f7085f9ad2d9bdd3990b1",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "Masterpiece, best quality, amazing quality, newest, very aesthetic, scenery, 8k, good anatomy, good shading, ultra detailed, refined details, high resolution, HD, masterwork, 4ur4_illu,shiny.\n\n1girl, ",
+        "civitai_stats": {
+          "cryCount": 54,
+          "laughCount": 81,
+          "likeCount": 1030,
+          "dislikeCount": 0,
+          "heartCount": 338,
+          "commentCount": 0
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/245.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/245.jpg"
+      }
+    },
+    {
+      "id": "abstract_246",
+      "category": "abstract",
+      "title": "1girl, solo, lazypos, anime-style, detai - Civitai AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "unholydesiremixsinis",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 169650,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:23.732290",
+        "hash": "1ba041989686fe4d7bb068e9799b9a09",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "1girl, solo, lazypos, anime-style, detailed background, vibrant colors, delicate, dreamy,\ncinematic lighting,volumetric lighting,ray tracing, dramatic shadows,dappled light,\n<lora:Hololive - Kaela Kov",
+        "ai_model": "unholyDesireMixSinister_v50",
+        "civitai_stats": {
+          "cryCount": 55,
+          "laughCount": 81,
+          "likeCount": 991,
+          "dislikeCount": 0,
+          "heartCount": 330,
+          "commentCount": 0
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/246.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/246.jpg"
+      }
+    },
+    {
+      "id": "abstract_247",
+      "category": "abstract",
+      "title": "Masterpiece, best quality, amazing quali - Civitai AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1070,
+          "height": 1920
+        },
+        "file_size": 458739,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:27.065299",
+        "hash": "714e0e197f0e6fbc8667a142ef4dea77",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "Masterpiece, best quality, amazing quality, newest, very aesthetic, scenery, 8k, good anatomy, good shading, ultra detailed, refined details, high resolution, HD, masterwork, 4ur4_illu,shiny.\n\nUpper b",
+        "civitai_stats": {
+          "cryCount": 41,
+          "laughCount": 81,
+          "likeCount": 975,
+          "dislikeCount": 0,
+          "heartCount": 286,
+          "commentCount": 2
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/247.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/247.jpg"
+      }
+    },
+    {
+      "id": "abstract_248",
+      "category": "abstract",
+      "title": "Masterpiece, best quality, amazing quali - Civitai AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1070,
+          "height": 1920
+        },
+        "file_size": 565273,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:30.352929",
+        "hash": "16487e3325fee67c58f12c836a8b3de2",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "Masterpiece, best quality, amazing quality, newest, very aesthetic, scenery, 8k, good anatomy, good shading, ultra detailed, refined details, high resolution, HD, masterwork, 4ur4_illu,shiny.\n\n1girl, ",
+        "civitai_stats": {
+          "cryCount": 42,
+          "laughCount": 75,
+          "likeCount": 894,
+          "dislikeCount": 0,
+          "heartCount": 292,
+          "commentCount": 0
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/248.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/248.jpg"
+      }
+    },
+    {
+      "id": "abstract_249",
+      "category": "abstract",
+      "title": "masterpiece, newest, absurdres, best qua - Civitai AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "oneobsession-15nooba",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1578
+        },
+        "file_size": 230794,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:33.661742",
+        "hash": "2c14d886b7ecee4ba1365847a4c47736",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "masterpiece, newest, absurdres, best quality, amazing quality, very aesthetic, ultra-detailed, highly detailed, newest,scenery,very awa, anime,\nfrom side, portrait, dutch angle,dynamic pose, \n1girl,be",
+        "ai_model": "oneObsession_15Noobai",
+        "civitai_stats": {
+          "cryCount": 33,
+          "laughCount": 65,
+          "likeCount": 880,
+          "dislikeCount": 0,
+          "heartCount": 295,
+          "commentCount": 0
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/249.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/249.jpg"
+      }
+    },
+    {
+      "id": "abstract_250",
+      "category": "abstract",
+      "title": "1girl, solo, lazypos, anime-style, detai - Civitai AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "unholydesiremixsinis",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 172822,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:35.169411",
+        "hash": "fe46cee2a62cd326ea13ce3b3d1103b8",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "1girl, solo, lazypos, anime-style, detailed background, vibrant colors, delicate, dreamy, looking at viewer,\ncinematic lighting,volumetric lighting,ray tracing, dramatic shadows,dappled light, clouds,",
+        "ai_model": "unholyDesireMixSinister_v50",
+        "civitai_stats": {
+          "cryCount": 46,
+          "laughCount": 85,
+          "likeCount": 841,
+          "dislikeCount": 0,
+          "heartCount": 276,
+          "commentCount": 2
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/250.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/250.jpg"
+      }
+    },
+    {
+      "id": "abstract_251",
+      "category": "abstract",
+      "title": "Masterpiece, best quality, amazing quali - Civitai AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1070,
+          "height": 1920
+        },
+        "file_size": 625523,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:39.601677",
+        "hash": "ec69119dabc0fb7be9cc64e37846cf39",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "Masterpiece, best quality, amazing quality, newest, very aesthetic, scenery, 8k, good anatomy, good shading, ultra detailed, refined details, high resolution, HD, masterwork, 4ur4_illu,shiny.\n\n1girl, ",
+        "civitai_stats": {
+          "cryCount": 32,
+          "laughCount": 65,
+          "likeCount": 831,
+          "dislikeCount": 0,
+          "heartCount": 275,
+          "commentCount": 0
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/251.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/251.jpg"
+      }
+    },
+    {
+      "id": "abstract_252",
+      "category": "abstract",
+      "title": "Masterpiece, best quality, amazing quali - Civitai AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1070,
+          "height": 1920
+        },
+        "file_size": 545878,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:47.529568",
+        "hash": "dbcb9d815d590279d1596f3c8a81da1d",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "Masterpiece, best quality, amazing quality, newest, very aesthetic, scenery, 8k, good anatomy, good shading, ultra detailed, refined details, high resolution, HD, masterwork, 4ur4_illu,shiny, Chinese ",
+        "civitai_stats": {
+          "cryCount": 33,
+          "laughCount": 64,
+          "likeCount": 853,
+          "dislikeCount": 0,
+          "heartCount": 247,
+          "commentCount": 1
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/252.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/252.jpg"
+      }
+    },
+    {
+      "id": "abstract_253",
+      "category": "abstract",
+      "title": "masterpiece,\nhigh_quality, highres, deta - Civitai AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "illustrious-illustri",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1890
+        },
+        "file_size": 301074,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:50.325849",
+        "hash": "2746d5aba64f87c10a589f890cfd2d2f",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "masterpiece,\nhigh_quality, highres, detailed_eyes, detailed, masterpiece, best quality, absurdres, 8k, HDR, face_focus, high quality, very_awa, newest, absurdres, highres, depth_of_field, realistic_sk",
+        "ai_model": "Illustrious\\illustrij_v17.safetensors",
+        "civitai_stats": {
+          "cryCount": 364,
+          "laughCount": 606,
+          "likeCount": 4633,
+          "dislikeCount": 0,
+          "heartCount": 1742,
+          "commentCount": 12
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/253.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/253.jpg"
+      }
+    },
+    {
+      "id": "abstract_254",
+      "category": "abstract",
+      "title": "masterpiece, best_quality, absurdres, ul - Civitai AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1584
+        },
+        "file_size": 415255,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:52.479114",
+        "hash": "8852d4160ae94b17f50cb8040c6f51d4",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "masterpiece, best_quality, absurdres, ultra-detailed, intricate_details, sharp_focus, painterly, traditional media, hdr, vibrant_colors, ink_wash, cinematic_lighting, epic_composition, landscape, scen",
+        "civitai_stats": {
+          "cryCount": 324,
+          "laughCount": 545,
+          "likeCount": 4247,
+          "dislikeCount": 0,
+          "heartCount": 1569,
+          "commentCount": 2
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/254.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/254.jpg"
+      }
+    },
+    {
+      "id": "abstract_255",
+      "category": "abstract",
+      "title": "Dramatic,Dynamic,Cinematic,Sharp details - Civitai AI",
+      "tags": [
+        "abstract",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1566
+        },
+        "file_size": 291750,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:58:54.793498",
+        "hash": "ae80388112eaac11a7b5e633e50bca53",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "Dramatic,Dynamic,Cinematic,Sharp details\nInsane quality. Insane resolution. Insane details. Masterpiece. 32k resolution.\nA grand, majestic fantasy city carved into a mountainside with intricate archit",
+        "civitai_stats": {
+          "cryCount": 197,
+          "laughCount": 392,
+          "likeCount": 3217,
+          "dislikeCount": 0,
+          "heartCount": 963,
+          "commentCount": 1
+        }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/255.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/255.jpg"
+      }
+    }
+  ]
+}

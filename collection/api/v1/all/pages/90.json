@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 90,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/91.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "nature_207",
-      "category": "nature",
-      "title": "Nature Wallpaper 207",
+      "id": "dark_042",
+      "category": "dark",
+      "title": "Dark Wallpaper 042",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/207.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/207.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/042.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/042.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 93902,
+        "file_size": 443383,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:25.884621",
-        "hash": "72bcbcb929c0df6421367d59002de7bc",
+        "added_at": "2025-07-17T00:03:30.562345",
+        "hash": "0e790b1df0d7d0b9e61ef4a7d8bb3344",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_208",
-      "category": "nature",
-      "title": "Nature Wallpaper 208",
+      "id": "dark_043",
+      "category": "dark",
+      "title": "Dark Wallpaper 043",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/208.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/208.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/043.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/043.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 481398,
+        "file_size": 223702,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:25.953837",
-        "hash": "3066189f9c05a7fefd45910ca9891d24",
+        "added_at": "2025-07-17T00:03:30.617292",
+        "hash": "35a3e38185bd7a49b5d10ff010adc902",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_209",
-      "category": "nature",
-      "title": "Nature Wallpaper 209",
+      "id": "dark_044",
+      "category": "dark",
+      "title": "Dark Wallpaper 044",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/209.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/209.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/044.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/044.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 554259,
+        "file_size": 297989,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:26.025750",
-        "hash": "cc57162e7c6a7511378df1a250c6e142",
+        "added_at": "2025-07-17T00:03:31.063286",
+        "hash": "a1eb18689c063de990299ba4838a30e9",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_210",
-      "category": "nature",
-      "title": "Nature Wallpaper 210",
+      "id": "dark_045",
+      "category": "dark",
+      "title": "Dark Wallpaper 045",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/210.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/210.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/045.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/045.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 353169,
+        "file_size": 258781,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:26.085790",
-        "hash": "1c1c02a1410b995113d662f0637b78d5",
+        "added_at": "2025-07-17T00:03:31.118562",
+        "hash": "500dc1b6fdbb3f3b75c3c419c8afc9d0",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_211",
-      "category": "nature",
-      "title": "Nature Wallpaper 211",
+      "id": "dark_046",
+      "category": "dark",
+      "title": "Dark Wallpaper 046",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/211.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/211.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/046.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/046.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 620382,
+        "file_size": 141151,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:26.159113",
-        "hash": "fbe6f001ca096509c0901482d3c39ee8",
+        "added_at": "2025-07-17T00:03:31.166191",
+        "hash": "9ef514967800cdf14823988a8642740e",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_212",
-      "category": "nature",
-      "title": "Nature Wallpaper 212",
+      "id": "dark_047",
+      "category": "dark",
+      "title": "Dark Wallpaper 047",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/212.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/212.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/047.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/047.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 443047,
+        "file_size": 281554,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:26.223901",
-        "hash": "3540c20cd84a66c062900518bc720fd1",
+        "added_at": "2025-07-17T00:03:31.388591",
+        "hash": "e4c3c9aa8b00d883103db8f399ec926d",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_213",
-      "category": "nature",
-      "title": "Nature Wallpaper 213",
+      "id": "dark_048",
+      "category": "dark",
+      "title": "Dark Wallpaper 048",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/213.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/213.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/048.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/048.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 738517,
+        "file_size": 207966,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:26.304531",
-        "hash": "82a39bbedddc65d437cd72e750ba0742",
+        "added_at": "2025-07-17T00:03:31.553943",
+        "hash": "215260dd19dace8cc5ecbc98da105531",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_214",
-      "category": "nature",
-      "title": "Nature Wallpaper 214",
+      "id": "dark_049",
+      "category": "dark",
+      "title": "Dark Wallpaper 049",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/214.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/214.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/049.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/049.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 502102,
+        "file_size": 262289,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:26.372186",
-        "hash": "534618f93e55167c4d2918987f45c7a4",
+        "added_at": "2025-07-17T00:03:31.743026",
+        "hash": "135c4e5bac0a1c2b74d352a3e6381f5e",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_215",
-      "category": "nature",
-      "title": "Nature Wallpaper 215",
+      "id": "dark_050",
+      "category": "dark",
+      "title": "Dark Wallpaper 050",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/215.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/215.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/050.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/050.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 510795,
+        "file_size": 368662,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:26.441320",
-        "hash": "8b5c4a1a3b46eb1d2e3989f726d016bc",
+        "added_at": "2025-07-17T00:03:32.150289",
+        "hash": "58c5e1e238bc18efd2a6057e4e840999",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_216",
-      "category": "nature",
-      "title": "Nature Wallpaper 216",
+      "id": "dark_051",
+      "category": "dark",
+      "title": "Dark Wallpaper 051",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/216.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/216.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/051.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/051.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 817789,
+        "file_size": 135220,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:26.525408",
-        "hash": "25330ca715f8097f4e9e3c806ec3b026",
+        "added_at": "2025-07-17T00:03:32.199539",
+        "hash": "f3d4ff02c1a252cfddfbc0195e47b912",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_217",
-      "category": "nature",
-      "title": "Nature Wallpaper 217",
+      "id": "dark_052",
+      "category": "dark",
+      "title": "Dark Wallpaper 052",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/217.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/217.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/052.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/052.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 488034,
+        "file_size": 176517,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:26.592094",
-        "hash": "9ac4f943b50ed0089e93f78409e91403",
+        "added_at": "2025-07-17T00:03:32.251424",
+        "hash": "6f6ab59922953200540348c20021dbff",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_218",
-      "category": "nature",
-      "title": "Nature Wallpaper 218",
+      "id": "dark_053",
+      "category": "dark",
+      "title": "Dark Wallpaper 053",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/218.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/218.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/053.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/053.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 589910,
+        "file_size": 145777,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:26.665661",
-        "hash": "8bf00788cb69dd2a2739c9c1dcb392cf",
+        "added_at": "2025-07-17T00:03:32.300075",
+        "hash": "edec3fe06d34a2c6e1d325cfe01ab1b8",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_219",
-      "category": "nature",
-      "title": "Nature Wallpaper 219",
+      "id": "dark_054",
+      "category": "dark",
+      "title": "Dark Wallpaper 054",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/219.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/219.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/054.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/054.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 567089,
+        "file_size": 527046,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:26.739250",
-        "hash": "e068eb4b42918ff66658f2ab43006a34",
+        "added_at": "2025-07-17T00:03:32.370498",
+        "hash": "73b882a77b4df9113979e22eeb91aab6",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_220",
-      "category": "nature",
-      "title": "Nature Wallpaper 220",
+      "id": "dark_055",
+      "category": "dark",
+      "title": "Dark Wallpaper 055",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/220.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/220.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/055.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/055.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 721470,
+        "file_size": 505804,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:26.819124",
-        "hash": "17c6aef97f615b7be804c93e6994d5f0",
+        "added_at": "2025-07-17T00:03:32.618389",
+        "hash": "9505bc6a82b8cb706af6bb481d63d530",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_221",
-      "category": "nature",
-      "title": "Nature Wallpaper 221",
+      "id": "dark_056",
+      "category": "dark",
+      "title": "Dark Wallpaper 056",
       "tags": [
-        "nature",
+        "dark",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/221.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/221.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/dark/056.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/dark/056.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 486584,
+        "file_size": 436876,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:26.888216",
-        "hash": "d1f5cf65047392138182d87a44406220",
+        "added_at": "2025-07-17T00:03:32.887034",
+        "hash": "266c3124053cee009877609ac5e6b486",
         "source": "migrated"
       }
     }

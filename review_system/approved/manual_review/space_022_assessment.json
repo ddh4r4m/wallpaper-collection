@@ -1,0 +1,48 @@
+{
+  "path": "review_system/staging/space_022.jpg",
+  "filename": "space_022.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 7.45,
+  "detailed_scores": {
+    "sharpness": 7.9,
+    "contrast": 6.16,
+    "brightness": 8.84,
+    "color_quality": 2.02,
+    "composition": 9.43,
+    "technical_quality": 9.74
+  },
+  "watermark_penalty": 5.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "space_022",
+    "source": "comprehensive_crawler",
+    "category": "space",
+    "title": "Space Wallpaper 22",
+    "description": "High-quality space wallpaper from curated sources",
+    "width": 1080,
+    "height": 1920,
+    "tags": [
+      "space",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile",
+      "cosmic",
+      "universe",
+      "astronomy",
+      "galaxy",
+      "stellar"
+    ],
+    "download_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&fm=jpg&q=95",
+    "source_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1080&h=1920&fit=crop&fm=jpg&q=95",
+    "variation": {
+      "fm": "jpg",
+      "q": "95"
+    },
+    "crawled_at": "2025-07-14T20:41:07.392442Z"
+  },
+  "assessed_at": "2025-07-14T15:15:29.227922Z"
+}

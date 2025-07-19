@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 84,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/85.json",
@@ -15,393 +15,393 @@
   },
   "data": [
     {
-      "id": "nature_117",
-      "category": "nature",
-      "title": "Nature Wallpaper 117",
+      "id": "cyberpunk_040",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper 040",
       "tags": [
-        "nature",
+        "cyberpunk",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/117.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/117.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/040.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/040.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 493390,
+        "file_size": 321657,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:19.783372",
-        "hash": "5724640460e3d10b4a86f4ac8ddaf9a8",
+        "added_at": "2025-07-17T00:03:24.001980",
+        "hash": "97bcfa4f3055d8f56ac387bde21f8744",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_118",
-      "category": "nature",
-      "title": "Nature Wallpaper 118",
+      "id": "cyberpunk_041",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper 041",
       "tags": [
-        "nature",
+        "cyberpunk",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/118.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/118.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/041.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/041.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 515135,
+        "file_size": 289682,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:19.853598",
-        "hash": "e5973cbf1ccf97341de2712eaf25edb1",
+        "added_at": "2025-07-17T00:03:24.328288",
+        "hash": "eab6e0a52adee421d5567195b4650fe0",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_119",
-      "category": "nature",
-      "title": "Nature Wallpaper 119",
+      "id": "cyberpunk_042",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/119.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/119.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1619
         },
-        "file_size": 602835,
+        "file_size": 212377,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:19.926038",
-        "hash": "1fd78f2ab75e1e58c5c8358a0cd5b21b",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:11:52.342246",
+        "hash": "922476d084cacb2b5848f0af3334d89a",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/042.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/042.jpg"
       }
     },
     {
-      "id": "nature_120",
-      "category": "nature",
-      "title": "Nature Wallpaper 120",
+      "id": "cyberpunk_043",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/120.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/120.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 720
         },
-        "file_size": 462193,
+        "file_size": 106676,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:19.990141",
-        "hash": "5e8019e5e693ea763b7cf1cdc1b201b7",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:12:02.220995",
+        "hash": "db85abc4ae0adf7286cf9a98fa9414e2",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/043.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/043.jpg"
       }
     },
     {
-      "id": "nature_121",
-      "category": "nature",
-      "title": "Nature Wallpaper 121",
+      "id": "cyberpunk_044",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/121.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/121.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 656
         },
-        "file_size": 344285,
+        "file_size": 140865,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:20.055585",
-        "hash": "ac214855e9830c506c2e8977720c1e95",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:12:17.028990",
+        "hash": "3f46ed84235201977eb2515992191c42",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/044.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/044.jpg"
       }
     },
     {
-      "id": "nature_122",
-      "category": "nature",
-      "title": "Nature Wallpaper 122",
+      "id": "cyberpunk_045",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/122.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/122.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1620
         },
-        "file_size": 730222,
+        "file_size": 144004,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:20.133289",
-        "hash": "6a12a7b9b5d5a64191e52e91cea793f8",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:12:27.388920",
+        "hash": "ebcc70f7d986bd5051e610f49e0269b7",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/045.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/045.jpg"
       }
     },
     {
-      "id": "nature_123",
-      "category": "nature",
-      "title": "Nature Wallpaper 123",
+      "id": "cyberpunk_046",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/123.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/123.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1170
         },
-        "file_size": 501974,
+        "file_size": 229971,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:20.201001",
-        "hash": "44a98bfd0f1cc66c57aaa4911c423e25",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:12:45.621145",
+        "hash": "605878f35afefbb67c2000be1d9b1be0",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/046.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/046.jpg"
       }
     },
     {
-      "id": "nature_124",
-      "category": "nature",
-      "title": "Nature Wallpaper 124",
+      "id": "cyberpunk_047",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/124.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/124.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1619
         },
-        "file_size": 850116,
+        "file_size": 212377,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:20.285932",
-        "hash": "463e89f19dc080ea4c12d118fc9c5cbe",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:31:00.829170",
+        "hash": "922476d084cacb2b5848f0af3334d89a",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/047.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/047.jpg"
       }
     },
     {
-      "id": "nature_125",
-      "category": "nature",
-      "title": "Nature Wallpaper 125",
+      "id": "cyberpunk_048",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/125.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/125.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 720
         },
-        "file_size": 425789,
+        "file_size": 106676,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:20.351340",
-        "hash": "83d8f977bc2c8e8527112e1bf3ddb34f",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:31:03.111043",
+        "hash": "db85abc4ae0adf7286cf9a98fa9414e2",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/048.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/048.jpg"
       }
     },
     {
-      "id": "nature_126",
-      "category": "nature",
-      "title": "Nature Wallpaper 126",
+      "id": "cyberpunk_049",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/126.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/126.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 656
         },
-        "file_size": 303692,
+        "file_size": 140865,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:20.410715",
-        "hash": "04f85890e5128202f0101cecf1c9c97a",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:31:06.531468",
+        "hash": "3f46ed84235201977eb2515992191c42",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/049.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/049.jpg"
       }
     },
     {
-      "id": "nature_127",
-      "category": "nature",
-      "title": "Nature Wallpaper 127",
+      "id": "cyberpunk_050",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/127.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/127.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1620
         },
-        "file_size": 755810,
+        "file_size": 144004,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:20.491779",
-        "hash": "a2f35d540a83f94c41f8f1872a0bead2",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:31:08.886851",
+        "hash": "ebcc70f7d986bd5051e610f49e0269b7",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/050.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/050.jpg"
       }
     },
     {
-      "id": "nature_128",
-      "category": "nature",
-      "title": "Nature Wallpaper 128",
+      "id": "cyberpunk_051",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/128.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/128.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1170
         },
-        "file_size": 201325,
+        "file_size": 229971,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:20.544245",
-        "hash": "b0d99d4467d12be6443b2a7ccd2c2d2c",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:31:12.513302",
+        "hash": "605878f35afefbb67c2000be1d9b1be0",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/051.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/051.jpg"
       }
     },
     {
-      "id": "nature_129",
-      "category": "nature",
-      "title": "Nature Wallpaper 129",
+      "id": "cyberpunk_052",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/129.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/129.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 720
         },
-        "file_size": 744309,
+        "file_size": 106676,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:20.624446",
-        "hash": "a9a4e5b2c2a5a40374d5870ac4a76894",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:31:13.739598",
+        "hash": "db85abc4ae0adf7286cf9a98fa9414e2",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/052.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/052.jpg"
       }
     },
     {
-      "id": "nature_130",
-      "category": "nature",
-      "title": "Nature Wallpaper 130",
+      "id": "cyberpunk_053",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/130.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/130.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 720
         },
-        "file_size": 549895,
+        "file_size": 175309,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:20.695001",
-        "hash": "eb2d78c529edb92102de490d154f570a",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:31:16.450252",
+        "hash": "27fcc94aecda74925e3fc76bb5143954",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/053.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/053.jpg"
       }
     },
     {
-      "id": "nature_131",
-      "category": "nature",
-      "title": "Nature Wallpaper 131",
+      "id": "cyberpunk_054",
+      "category": "cyberpunk",
+      "title": "Cyberpunk Wallpaper",
       "tags": [
-        "nature",
-        "wallpaper",
+        "cyberpunk",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/131.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/131.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 675
         },
-        "file_size": 630288,
+        "file_size": 112651,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:20.770131",
-        "hash": "4eda3ae6206fab15ca934acc2192c6cf",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:31:18.945811",
+        "hash": "f7296e7ba4e60ecddb4628b0dda23ef2",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cyberpunk/054.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cyberpunk/054.jpg"
       }
     }
   ]

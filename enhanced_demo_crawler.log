@@ -1,0 +1,404 @@
+2025-07-14 20:23:22,636 - INFO - Crawling enhanced demo images for category: nature
+2025-07-14 20:23:23,657 - INFO - Downloaded: demo_nature_001.jpg
+2025-07-14 20:23:24,482 - INFO - Downloaded: demo_nature_002.jpg
+2025-07-14 20:23:26,403 - INFO - Duplicate image skipped: demo_nature_003.jpg
+2025-07-14 20:23:27,169 - ERROR - Failed to download https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=75: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=75
+2025-07-14 20:23:28,409 - INFO - Downloaded: demo_nature_005.jpg
+2025-07-14 20:23:29,451 - INFO - Downloaded: demo_nature_006.jpg
+2025-07-14 20:23:29,598 - INFO - Duplicate image skipped: demo_nature_007.jpg
+2025-07-14 20:23:31,408 - INFO - Downloaded: demo_nature_008.jpg
+2025-07-14 20:23:32,866 - INFO - Duplicate image skipped: demo_nature_009.jpg
+2025-07-14 20:23:34,729 - INFO - Duplicate image skipped: demo_nature_010.jpg
+2025-07-14 20:23:36,268 - INFO - Downloaded: demo_nature_011.jpg
+2025-07-14 20:23:37,129 - INFO - Duplicate image skipped: demo_nature_012.jpg
+2025-07-14 20:23:38,162 - INFO - Downloaded: demo_nature_013.jpg
+2025-07-14 20:23:39,554 - INFO - Duplicate image skipped: demo_nature_014.jpg
+2025-07-14 20:23:40,671 - INFO - Downloaded: demo_nature_015.jpg
+2025-07-14 20:23:42,673 - INFO - Downloaded: demo_nature_016.jpg
+2025-07-14 20:23:43,607 - INFO - Downloaded: demo_nature_017.jpg
+2025-07-14 20:23:44,905 - INFO - Duplicate image skipped: demo_nature_018.jpg
+2025-07-14 20:23:45,460 - ERROR - Failed to download https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=75: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=75
+2025-07-14 20:23:46,155 - ERROR - Failed to download https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=faces&auto=faces: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=faces&auto=faces
+2025-07-14 20:23:47,221 - INFO - Downloaded: demo_nature_021.jpg
+2025-07-14 20:23:48,747 - INFO - Downloaded: demo_nature_022.jpg
+2025-07-14 20:23:50,368 - INFO - Downloaded: demo_nature_023.jpg
+2025-07-14 20:23:50,880 - ERROR - Failed to download https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=85: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=85
+2025-07-14 20:23:51,934 - INFO - Downloaded: demo_nature_025.jpg
+2025-07-14 20:23:53,190 - INFO - Downloaded: demo_nature_026.jpg
+2025-07-14 20:23:55,326 - INFO - Downloaded: demo_nature_027.jpg
+2025-07-14 20:23:55,820 - ERROR - Failed to download https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=90: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=90
+2025-07-14 20:23:57,013 - INFO - Duplicate image skipped: demo_nature_029.jpg
+2025-07-14 20:23:58,839 - INFO - Duplicate image skipped: demo_nature_030.jpg
+2025-07-14 20:23:59,926 - INFO - Downloaded: demo_nature_031.jpg
+2025-07-14 20:24:00,813 - INFO - Duplicate image skipped: demo_nature_032.jpg
+2025-07-14 20:24:02,220 - INFO - Downloaded: demo_nature_033.jpg
+2025-07-14 20:24:04,019 - INFO - Downloaded: demo_nature_034.jpg
+2025-07-14 20:24:04,540 - ERROR - Failed to download https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=faces&auto=enhance: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=faces&auto=enhance
+2025-07-14 20:24:06,705 - INFO - Downloaded: demo_nature_036.jpg
+2025-07-14 20:24:08,811 - INFO - Downloaded: demo_nature_037.jpg
+2025-07-14 20:24:10,658 - INFO - Downloaded: demo_nature_038.jpg
+2025-07-14 20:24:12,388 - INFO - Downloaded: demo_nature_039.jpg
+2025-07-14 20:24:12,869 - ERROR - Failed to download https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80
+2025-07-14 20:24:16,688 - ERROR - Failed to download https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=attention&auto=faces: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=attention&auto=faces
+2025-07-14 20:24:18,001 - INFO - Downloaded: demo_nature_042.jpg
+2025-07-14 20:24:19,769 - INFO - Duplicate image skipped: demo_nature_043.jpg
+2025-07-14 20:24:20,482 - ERROR - Failed to download https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=entropy&auto=compress: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=entropy&auto=compress
+2025-07-14 20:24:21,959 - INFO - Downloaded: demo_nature_045.jpg
+2025-07-14 20:24:23,318 - INFO - Downloaded: demo_nature_046.jpg
+2025-07-14 20:24:24,082 - INFO - Duplicate image skipped: demo_nature_047.jpg
+2025-07-14 20:24:24,317 - INFO - Duplicate image skipped: demo_nature_048.jpg
+2025-07-14 20:24:26,147 - INFO - Duplicate image skipped: demo_nature_049.jpg
+2025-07-14 20:24:26,384 - INFO - Duplicate image skipped: demo_nature_050.jpg
+2025-07-14 20:24:27,879 - INFO - Duplicate image skipped: demo_nature_051.jpg
+2025-07-14 20:24:29,463 - INFO - Duplicate image skipped: demo_nature_052.jpg
+2025-07-14 20:24:29,711 - INFO - Duplicate image skipped: demo_nature_053.jpg
+2025-07-14 20:24:34,161 - INFO - Duplicate image skipped: demo_nature_054.jpg
+2025-07-14 20:24:35,708 - INFO - Duplicate image skipped: demo_nature_055.jpg
+2025-07-14 20:24:35,962 - INFO - Duplicate image skipped: demo_nature_056.jpg
+2025-07-14 20:24:36,197 - INFO - Duplicate image skipped: demo_nature_057.jpg
+2025-07-14 20:24:36,646 - ERROR - Failed to download https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance
+2025-07-14 20:24:37,851 - INFO - Downloaded: demo_nature_059.jpg
+2025-07-14 20:24:38,732 - INFO - Downloaded: demo_nature_060.jpg
+2025-07-14 20:24:40,784 - INFO - Duplicate image skipped: demo_nature_061.jpg
+2025-07-14 20:24:41,849 - INFO - Downloaded: demo_nature_062.jpg
+2025-07-14 20:24:42,080 - INFO - Duplicate image skipped: demo_nature_063.jpg
+2025-07-14 20:24:42,542 - ERROR - Failed to download https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=70
+2025-07-14 20:24:42,764 - INFO - Duplicate image skipped: demo_nature_065.jpg
+2025-07-14 20:24:42,904 - INFO - Duplicate image skipped: demo_nature_066.jpg
+2025-07-14 20:24:44,795 - INFO - Downloaded: demo_nature_067.jpg
+2025-07-14 20:24:45,579 - INFO - Duplicate image skipped: demo_nature_068.jpg
+2025-07-14 20:24:47,355 - INFO - Duplicate image skipped: demo_nature_069.jpg
+2025-07-14 20:24:47,483 - INFO - Duplicate image skipped: demo_nature_070.jpg
+2025-07-14 20:24:48,475 - INFO - Duplicate image skipped: demo_nature_071.jpg
+2025-07-14 20:24:49,481 - INFO - Duplicate image skipped: demo_nature_072.jpg
+2025-07-14 20:24:49,859 - INFO - Duplicate image skipped: demo_nature_073.jpg
+2025-07-14 20:24:50,111 - INFO - Duplicate image skipped: demo_nature_074.jpg
+2025-07-14 20:24:50,383 - INFO - Duplicate image skipped: demo_nature_075.jpg
+2025-07-14 20:24:51,618 - INFO - Downloaded: demo_nature_076.jpg
+2025-07-14 20:24:52,762 - INFO - Duplicate image skipped: demo_nature_077.jpg
+2025-07-14 20:24:53,008 - INFO - Duplicate image skipped: demo_nature_078.jpg
+2025-07-14 20:24:53,996 - INFO - Duplicate image skipped: demo_nature_079.jpg
+2025-07-14 20:24:57,654 - INFO - Duplicate image skipped: demo_nature_080.jpg
+2025-07-14 20:24:59,021 - INFO - Duplicate image skipped: demo_nature_081.jpg
+2025-07-14 20:25:00,607 - INFO - Downloaded: demo_nature_082.jpg
+2025-07-14 20:25:02,118 - INFO - Downloaded: demo_nature_083.jpg
+2025-07-14 20:25:03,188 - INFO - Duplicate image skipped: demo_nature_084.jpg
+2025-07-14 20:25:04,959 - INFO - Downloaded: demo_nature_085.jpg
+2025-07-14 20:25:06,883 - INFO - Downloaded: demo_nature_086.jpg
+2025-07-14 20:25:07,013 - INFO - Duplicate image skipped: demo_nature_087.jpg
+2025-07-14 20:25:08,217 - INFO - Duplicate image skipped: demo_nature_088.jpg
+2025-07-14 20:25:08,456 - INFO - Duplicate image skipped: demo_nature_089.jpg
+2025-07-14 20:25:09,985 - INFO - Downloaded: demo_nature_090.jpg
+2025-07-14 20:25:11,456 - INFO - Duplicate image skipped: demo_nature_091.jpg
+2025-07-14 20:25:11,699 - INFO - Duplicate image skipped: demo_nature_092.jpg
+2025-07-14 20:25:12,715 - INFO - Duplicate image skipped: demo_nature_093.jpg
+2025-07-14 20:25:13,821 - INFO - Duplicate image skipped: demo_nature_094.jpg
+2025-07-14 20:25:15,700 - INFO - Downloaded: demo_nature_095.jpg
+2025-07-14 20:25:15,840 - INFO - Duplicate image skipped: demo_nature_096.jpg
+2025-07-14 20:25:16,085 - INFO - Duplicate image skipped: demo_nature_097.jpg
+2025-07-14 20:25:17,123 - INFO - Duplicate image skipped: demo_nature_098.jpg
+2025-07-14 20:25:17,567 - ERROR - Failed to download https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=80: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1472214103451-9374bd1d04bc?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=80
+2025-07-14 20:25:59,851 - INFO - Crawling enhanced demo images for category: abstract
+2025-07-14 20:26:01,047 - INFO - Downloaded: demo_abstract_001.jpg
+2025-07-14 20:26:02,469 - INFO - Downloaded: demo_abstract_002.jpg
+2025-07-14 20:26:03,722 - INFO - Downloaded: demo_abstract_003.jpg
+2025-07-14 20:26:05,225 - INFO - Downloaded: demo_abstract_004.jpg
+2025-07-14 20:26:06,039 - ERROR - Failed to download https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=85: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=85
+2025-07-14 20:26:07,614 - INFO - Downloaded: demo_abstract_006.jpg
+2025-07-14 20:26:08,866 - INFO - Downloaded: demo_abstract_007.jpg
+2025-07-14 20:26:10,099 - ERROR - Failed to download https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=75: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=75
+2025-07-14 20:26:10,705 - ERROR - Failed to download https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80
+2025-07-14 20:26:12,353 - INFO - Downloaded: demo_abstract_010.jpg
+2025-07-14 20:26:12,879 - ERROR - Failed to download https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=90: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=90
+2025-07-14 20:26:13,834 - INFO - Duplicate image skipped: demo_abstract_012.jpg
+2025-07-14 20:26:14,565 - ERROR - Failed to download https://images.unsplash.com/photo-1530543322-592d72ae42d9?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=85: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1530543322-592d72ae42d9?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=85
+2025-07-14 20:26:15,952 - INFO - Downloaded: demo_abstract_014.jpg
+2025-07-14 20:26:17,248 - INFO - Duplicate image skipped: demo_abstract_015.jpg
+2025-07-14 20:26:19,427 - INFO - Downloaded: demo_abstract_016.jpg
+2025-07-14 20:26:20,371 - ERROR - Failed to download https://images.unsplash.com/photo-1526374965029-3d4ee85d6a95?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=85: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1526374965029-3d4ee85d6a95?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=85
+2025-07-14 20:26:21,729 - INFO - Downloaded: demo_abstract_018.jpg
+2025-07-14 20:26:22,487 - ERROR - Failed to download https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80
+2025-07-14 20:26:23,068 - ERROR - Failed to download https://images.unsplash.com/photo-1530543322-592d72ae42d9?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=75: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1530543322-592d72ae42d9?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=75
+2025-07-14 20:26:24,407 - INFO - Downloaded: demo_abstract_021.jpg
+2025-07-14 20:26:24,917 - ERROR - Failed to download https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=faces&auto=compress: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=faces&auto=compress
+2025-07-14 20:26:26,614 - INFO - Downloaded: demo_abstract_023.jpg
+2025-07-14 20:26:27,566 - INFO - Downloaded: demo_abstract_024.jpg
+2025-07-14 20:26:28,841 - INFO - Downloaded: demo_abstract_025.jpg
+2025-07-14 20:26:29,387 - ERROR - Failed to download https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=attention&auto=faces: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=attention&auto=faces
+2025-07-14 20:26:30,643 - INFO - Downloaded: demo_abstract_027.jpg
+2025-07-14 20:26:31,164 - ERROR - Failed to download https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80
+2025-07-14 20:26:31,489 - INFO - Duplicate image skipped: demo_abstract_029.jpg
+2025-07-14 20:26:32,003 - ERROR - Failed to download https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=75: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=75
+2025-07-14 20:26:32,651 - ERROR - Failed to download https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=90: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=90
+2025-07-14 20:26:33,796 - INFO - Downloaded: demo_abstract_032.jpg
+2025-07-14 20:26:35,154 - INFO - Downloaded: demo_abstract_033.jpg
+2025-07-14 20:26:36,636 - INFO - Downloaded: demo_abstract_034.jpg
+2025-07-14 20:26:36,831 - INFO - Duplicate image skipped: demo_abstract_035.jpg
+2025-07-14 20:26:38,649 - INFO - Downloaded: demo_abstract_036.jpg
+2025-07-14 20:26:39,745 - INFO - Downloaded: demo_abstract_037.jpg
+2025-07-14 20:26:40,590 - INFO - Downloaded: demo_abstract_038.jpg
+2025-07-14 20:26:41,107 - ERROR - Failed to download https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=attention&auto=compress: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=attention&auto=compress
+2025-07-14 20:26:42,646 - INFO - Downloaded: demo_abstract_040.jpg
+2025-07-14 20:26:43,844 - INFO - Downloaded: demo_abstract_041.jpg
+2025-07-14 20:26:44,813 - INFO - Downloaded: demo_abstract_042.jpg
+2025-07-14 20:26:46,023 - INFO - Downloaded: demo_abstract_043.jpg
+2025-07-14 20:26:46,519 - ERROR - Failed to download https://images.unsplash.com/photo-1526374965029-3d4ee85d6a95?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=90: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1526374965029-3d4ee85d6a95?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=90
+2025-07-14 20:26:46,779 - INFO - Duplicate image skipped: demo_abstract_045.jpg
+2025-07-14 20:26:48,312 - INFO - Duplicate image skipped: demo_abstract_046.jpg
+2025-07-14 20:26:49,507 - INFO - Duplicate image skipped: demo_abstract_047.jpg
+2025-07-14 20:26:49,985 - ERROR - Failed to download https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=75: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=75
+2025-07-14 20:26:51,249 - INFO - Downloaded: demo_abstract_049.jpg
+2025-07-14 20:26:52,307 - INFO - Duplicate image skipped: demo_abstract_050.jpg
+2025-07-14 20:26:53,707 - INFO - Downloaded: demo_abstract_051.jpg
+2025-07-14 20:26:54,874 - INFO - Duplicate image skipped: demo_abstract_052.jpg
+2025-07-14 20:26:55,479 - ERROR - Failed to download https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=entropy&auto=compress: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=entropy&auto=compress
+2025-07-14 20:26:56,401 - INFO - Duplicate image skipped: demo_abstract_054.jpg
+2025-07-14 20:26:57,872 - INFO - Downloaded: demo_abstract_055.jpg
+2025-07-14 20:26:59,649 - INFO - Duplicate image skipped: demo_abstract_056.jpg
+2025-07-14 20:26:59,902 - INFO - Duplicate image skipped: demo_abstract_057.jpg
+2025-07-14 20:27:00,141 - INFO - Duplicate image skipped: demo_abstract_058.jpg
+2025-07-14 20:27:02,781 - INFO - Downloaded: demo_abstract_059.jpg
+2025-07-14 20:27:04,092 - INFO - Downloaded: demo_abstract_060.jpg
+2025-07-14 20:27:05,540 - INFO - Downloaded: demo_abstract_061.jpg
+2025-07-14 20:27:06,095 - ERROR - Failed to download https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=attention&auto=enhance: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=attention&auto=enhance
+2025-07-14 20:27:06,667 - ERROR - Failed to download https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=75: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=75
+2025-07-14 20:27:07,938 - INFO - Duplicate image skipped: demo_abstract_064.jpg
+2025-07-14 20:27:08,408 - ERROR - Failed to download https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=80: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=80
+2025-07-14 20:27:08,695 - INFO - Duplicate image skipped: demo_abstract_066.jpg
+2025-07-14 20:27:09,269 - ERROR - Failed to download https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=90: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=90
+2025-07-14 20:27:11,225 - INFO - Downloaded: demo_abstract_068.jpg
+2025-07-14 20:27:11,458 - INFO - Duplicate image skipped: demo_abstract_069.jpg
+2025-07-14 20:27:13,189 - INFO - Downloaded: demo_abstract_070.jpg
+2025-07-14 20:27:14,564 - INFO - Downloaded: demo_abstract_071.jpg
+2025-07-14 20:27:15,692 - INFO - Duplicate image skipped: demo_abstract_072.jpg
+2025-07-14 20:27:16,494 - ERROR - Failed to download https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop&crop=faces&auto=compress: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop&crop=faces&auto=compress
+2025-07-14 20:27:19,096 - INFO - Downloaded: demo_abstract_074.jpg
+2025-07-14 20:27:20,350 - INFO - Duplicate image skipped: demo_abstract_075.jpg
+2025-07-14 20:27:21,705 - INFO - Duplicate image skipped: demo_abstract_076.jpg
+2025-07-14 20:27:22,278 - ERROR - Failed to download https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=90: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=90
+2025-07-14 20:27:23,075 - INFO - Duplicate image skipped: demo_abstract_078.jpg
+2025-07-14 20:27:24,133 - INFO - Downloaded: demo_abstract_079.jpg
+2025-07-14 20:27:24,377 - INFO - Duplicate image skipped: demo_abstract_080.jpg
+2025-07-14 20:27:25,469 - INFO - Duplicate image skipped: demo_abstract_081.jpg
+2025-07-14 20:27:26,773 - INFO - Duplicate image skipped: demo_abstract_082.jpg
+2025-07-14 20:27:27,289 - ERROR - Failed to download https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=entropy&auto=faces: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=entropy&auto=faces
+2025-07-14 20:27:29,020 - INFO - Downloaded: demo_abstract_084.jpg
+2025-07-14 20:27:29,546 - ERROR - Failed to download https://images.unsplash.com/photo-1526374965029-3d4ee85d6a95?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=75: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1526374965029-3d4ee85d6a95?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=75
+2025-07-14 20:27:30,133 - ERROR - Failed to download https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=75: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=75
+2025-07-14 20:27:31,857 - INFO - Duplicate image skipped: demo_abstract_087.jpg
+2025-07-14 20:27:32,044 - INFO - Duplicate image skipped: demo_abstract_088.jpg
+2025-07-14 20:27:33,378 - INFO - Duplicate image skipped: demo_abstract_089.jpg
+2025-07-14 20:27:34,345 - INFO - Downloaded: demo_abstract_090.jpg
+2025-07-14 20:27:35,746 - INFO - Downloaded: demo_abstract_091.jpg
+2025-07-14 20:27:35,985 - INFO - Duplicate image skipped: demo_abstract_092.jpg
+2025-07-14 20:27:36,542 - ERROR - Failed to download https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=80
+2025-07-14 20:27:37,366 - INFO - Duplicate image skipped: demo_abstract_094.jpg
+2025-07-14 20:27:38,134 - ERROR - Failed to download https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=faces&auto=compress: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=faces&auto=compress
+2025-07-14 20:27:38,542 - ERROR - Failed to download https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80
+2025-07-14 20:27:40,219 - ERROR - Failed to download https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=entropy&auto=enhance
+2025-07-14 20:27:40,558 - INFO - Duplicate image skipped: demo_abstract_098.jpg
+2025-07-14 20:27:41,065 - ERROR - Failed to download https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=75: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=75
+2025-07-14 20:27:41,711 - ERROR - Failed to download https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=75: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=75
+2025-07-14 20:27:42,945 - INFO - Duplicate image skipped: demo_abstract_101.jpg
+2025-07-14 20:27:43,117 - INFO - Duplicate image skipped: demo_abstract_102.jpg
+2025-07-14 20:27:44,499 - INFO - Duplicate image skipped: demo_abstract_103.jpg
+2025-07-14 20:27:45,734 - INFO - Duplicate image skipped: demo_abstract_104.jpg
+2025-07-14 20:27:45,870 - ERROR - Failed to download https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=80: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=80
+2025-07-14 20:27:46,814 - INFO - Duplicate image skipped: demo_abstract_106.jpg
+2025-07-14 20:27:47,354 - ERROR - Failed to download https://images.unsplash.com/photo-1526374965029-3d4ee85d6a95?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=85: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1526374965029-3d4ee85d6a95?w=1080&h=1920&fit=crop&crop=entropy&fm=jpg&q=85
+2025-07-14 20:27:47,905 - ERROR - Failed to download https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=85: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1516110833967-0b5640006de4?w=1080&h=1920&fit=crop&crop=attention&fm=jpg&q=85
+2025-07-14 20:27:48,606 - ERROR - Failed to download https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=90: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1558618047-3dde7d52540d?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=90
+2025-07-14 20:27:51,438 - INFO - Duplicate image skipped: demo_abstract_110.jpg
+2025-07-14 20:27:52,824 - INFO - Downloaded: demo_abstract_111.jpg
+2025-07-14 20:27:53,006 - INFO - Duplicate image skipped: demo_abstract_112.jpg
+2025-07-14 20:27:54,306 - INFO - Duplicate image skipped: demo_abstract_113.jpg
+2025-07-14 20:27:55,885 - INFO - Downloaded: demo_abstract_114.jpg
+2025-07-14 20:27:56,410 - ERROR - Failed to download https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop&crop=entropy&auto=compress: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=1080&h=1920&fit=crop&crop=entropy&auto=compress
+2025-07-14 20:27:58,015 - INFO - Duplicate image skipped: demo_abstract_116.jpg
+2025-07-14 20:27:58,522 - ERROR - Failed to download https://images.unsplash.com/photo-1526374965029-3d4ee85d6a95?w=1080&h=1920&fit=crop&crop=faces&auto=faces: 404 Client Error: Not Found for url: https://images.unsplash.com/photo-1526374965029-3d4ee85d6a95?w=1080&h=1920&fit=crop&crop=faces&auto=faces
+2025-07-14 20:27:58,899 - INFO - Duplicate image skipped: demo_abstract_118.jpg
+2025-07-14 20:28:10,232 - INFO - Crawling enhanced demo images for category: space
+2025-07-14 20:28:11,501 - INFO - Downloaded: demo_space_001.jpg
+2025-07-14 20:28:13,073 - INFO - Duplicate image skipped: demo_space_002.jpg
+2025-07-14 20:28:14,838 - INFO - Downloaded: demo_space_003.jpg
+2025-07-14 20:28:16,809 - INFO - Duplicate image skipped: demo_space_004.jpg
+2025-07-14 20:28:18,664 - INFO - Downloaded: demo_space_005.jpg
+2025-07-14 20:28:19,964 - INFO - Downloaded: demo_space_006.jpg
+2025-07-14 20:28:21,426 - INFO - Duplicate image skipped: demo_space_007.jpg
+2025-07-14 20:28:23,011 - INFO - Downloaded: demo_space_008.jpg
+2025-07-14 20:28:27,493 - INFO - Downloaded: demo_space_009.jpg
+2025-07-14 20:28:28,526 - INFO - Duplicate image skipped: demo_space_010.jpg
+2025-07-14 20:28:29,389 - INFO - Downloaded: demo_space_011.jpg
+2025-07-14 20:28:30,445 - INFO - Downloaded: demo_space_012.jpg
+2025-07-14 20:28:32,097 - INFO - Downloaded: demo_space_013.jpg
+2025-07-14 20:28:33,787 - INFO - Downloaded: demo_space_014.jpg
+2025-07-14 20:28:35,313 - INFO - Downloaded: demo_space_015.jpg
+2025-07-14 20:28:35,512 - INFO - Duplicate image skipped: demo_space_016.jpg
+2025-07-14 20:28:35,783 - INFO - Duplicate image skipped: demo_space_017.jpg
+2025-07-14 20:28:36,118 - INFO - Duplicate image skipped: demo_space_018.jpg
+2025-07-14 20:28:36,428 - INFO - Duplicate image skipped: demo_space_019.jpg
+2025-07-14 20:28:37,609 - INFO - Duplicate image skipped: demo_space_020.jpg
+2025-07-14 20:28:39,540 - INFO - Duplicate image skipped: demo_space_021.jpg
+2025-07-14 20:28:40,798 - INFO - Downloaded: demo_space_022.jpg
+2025-07-14 20:28:41,093 - INFO - Downloaded: demo_space_023.jpg
+2025-07-14 20:28:41,241 - INFO - Duplicate image skipped: demo_space_024.jpg
+2025-07-14 20:28:42,851 - INFO - Duplicate image skipped: demo_space_025.jpg
+2025-07-14 20:28:43,834 - INFO - Duplicate image skipped: demo_space_026.jpg
+2025-07-14 20:28:45,071 - INFO - Downloaded: demo_space_027.jpg
+2025-07-14 20:28:45,296 - INFO - Duplicate image skipped: demo_space_028.jpg
+2025-07-14 20:28:45,464 - INFO - Duplicate image skipped: demo_space_029.jpg
+2025-07-14 20:28:45,757 - INFO - Duplicate image skipped: demo_space_030.jpg
+2025-07-14 20:28:45,907 - INFO - Duplicate image skipped: demo_space_031.jpg
+2025-07-14 20:28:47,911 - INFO - Downloaded: demo_space_032.jpg
+2025-07-14 20:28:49,618 - INFO - Downloaded: demo_space_033.jpg
+2025-07-14 20:28:49,777 - INFO - Duplicate image skipped: demo_space_034.jpg
+2025-07-14 20:28:51,305 - INFO - Duplicate image skipped: demo_space_035.jpg
+2025-07-14 20:28:52,484 - INFO - Duplicate image skipped: demo_space_036.jpg
+2025-07-14 20:28:52,642 - INFO - Duplicate image skipped: demo_space_037.jpg
+2025-07-14 20:28:52,810 - INFO - Duplicate image skipped: demo_space_038.jpg
+2025-07-14 20:28:54,425 - INFO - Duplicate image skipped: demo_space_039.jpg
+2025-07-14 20:28:54,578 - INFO - Downloaded: demo_space_040.jpg
+2025-07-14 20:28:54,728 - INFO - Duplicate image skipped: demo_space_041.jpg
+2025-07-14 20:28:54,885 - INFO - Duplicate image skipped: demo_space_042.jpg
+2025-07-14 20:28:57,205 - INFO - Downloaded: demo_space_043.jpg
+2025-07-14 20:28:57,373 - INFO - Duplicate image skipped: demo_space_044.jpg
+2025-07-14 20:28:58,729 - INFO - Downloaded: demo_space_045.jpg
+2025-07-14 20:28:59,919 - INFO - Duplicate image skipped: demo_space_046.jpg
+2025-07-14 20:29:00,078 - INFO - Duplicate image skipped: demo_space_047.jpg
+2025-07-14 20:29:01,066 - INFO - Downloaded: demo_space_048.jpg
+2025-07-14 20:29:01,229 - INFO - Duplicate image skipped: demo_space_049.jpg
+2025-07-14 20:29:03,263 - INFO - Duplicate image skipped: demo_space_050.jpg
+2025-07-14 20:29:04,541 - INFO - Duplicate image skipped: demo_space_051.jpg
+2025-07-14 20:29:04,712 - INFO - Duplicate image skipped: demo_space_052.jpg
+2025-07-14 20:29:06,654 - INFO - Downloaded: demo_space_053.jpg
+2025-07-14 20:29:06,807 - INFO - Downloaded: demo_space_054.jpg
+2025-07-14 20:29:08,900 - INFO - Downloaded: demo_space_055.jpg
+2025-07-14 20:29:09,075 - INFO - Downloaded: demo_space_056.jpg
+2025-07-14 20:29:09,260 - INFO - Duplicate image skipped: demo_space_057.jpg
+2025-07-14 20:29:10,688 - INFO - Downloaded: demo_space_058.jpg
+2025-07-14 20:29:10,865 - INFO - Duplicate image skipped: demo_space_059.jpg
+2025-07-14 20:29:12,407 - INFO - Downloaded: demo_space_060.jpg
+2025-07-14 20:29:12,653 - INFO - Duplicate image skipped: demo_space_061.jpg
+2025-07-14 20:29:13,947 - INFO - Duplicate image skipped: demo_space_062.jpg
+2025-07-14 20:29:14,111 - INFO - Duplicate image skipped: demo_space_063.jpg
+2025-07-14 20:29:15,059 - INFO - Duplicate image skipped: demo_space_064.jpg
+2025-07-14 20:29:15,219 - INFO - Duplicate image skipped: demo_space_065.jpg
+2025-07-14 20:29:16,464 - INFO - Downloaded: demo_space_066.jpg
+2025-07-14 20:29:17,768 - INFO - Duplicate image skipped: demo_space_067.jpg
+2025-07-14 20:29:18,032 - INFO - Duplicate image skipped: demo_space_068.jpg
+2025-07-14 20:29:19,600 - INFO - Duplicate image skipped: demo_space_069.jpg
+2025-07-14 20:29:19,901 - INFO - Duplicate image skipped: demo_space_070.jpg
+2025-07-14 20:29:20,083 - INFO - Duplicate image skipped: demo_space_071.jpg
+2025-07-14 20:29:21,207 - INFO - Downloaded: demo_space_072.jpg
+2025-07-14 20:29:21,371 - INFO - Duplicate image skipped: demo_space_073.jpg
+2025-07-14 20:29:21,561 - INFO - Duplicate image skipped: demo_space_074.jpg
+2025-07-14 20:29:23,406 - INFO - Duplicate image skipped: demo_space_075.jpg
+2025-07-14 20:29:23,703 - INFO - Duplicate image skipped: demo_space_076.jpg
+2025-07-14 20:29:24,716 - INFO - Downloaded: demo_space_077.jpg
+2025-07-14 20:29:24,880 - INFO - Duplicate image skipped: demo_space_078.jpg
+2025-07-14 20:29:25,040 - INFO - Duplicate image skipped: demo_space_079.jpg
+2025-07-14 20:29:26,318 - INFO - Downloaded: demo_space_080.jpg
+2025-07-14 20:29:27,376 - INFO - Downloaded: demo_space_081.jpg
+2025-07-14 20:29:27,547 - INFO - Duplicate image skipped: demo_space_082.jpg
+2025-07-14 20:29:27,712 - INFO - Duplicate image skipped: demo_space_083.jpg
+2025-07-14 20:29:29,332 - INFO - Duplicate image skipped: demo_space_084.jpg
+2025-07-14 20:29:29,485 - INFO - Duplicate image skipped: demo_space_085.jpg
+2025-07-14 20:29:30,760 - INFO - Duplicate image skipped: demo_space_086.jpg
+2025-07-14 20:29:31,056 - INFO - Duplicate image skipped: demo_space_087.jpg
+2025-07-14 20:29:32,019 - INFO - Downloaded: demo_space_088.jpg
+2025-07-14 20:29:32,196 - INFO - Duplicate image skipped: demo_space_089.jpg
+2025-07-14 20:29:33,791 - INFO - Downloaded: demo_space_090.jpg
+2025-07-14 20:29:35,259 - INFO - Downloaded: demo_space_091.jpg
+2025-07-14 20:29:35,543 - INFO - Duplicate image skipped: demo_space_092.jpg
+2025-07-14 20:29:35,819 - INFO - Duplicate image skipped: demo_space_093.jpg
+2025-07-14 20:29:37,258 - INFO - Duplicate image skipped: demo_space_094.jpg
+2025-07-14 20:29:37,536 - INFO - Duplicate image skipped: demo_space_095.jpg
+2025-07-14 20:29:37,761 - INFO - Duplicate image skipped: demo_space_096.jpg
+2025-07-14 20:29:40,187 - INFO - Duplicate image skipped: demo_space_097.jpg
+2025-07-14 20:29:40,388 - INFO - Duplicate image skipped: demo_space_098.jpg
+2025-07-14 20:29:40,561 - INFO - Duplicate image skipped: demo_space_099.jpg
+2025-07-14 20:29:40,883 - INFO - Duplicate image skipped: demo_space_100.jpg
+2025-07-14 20:29:41,054 - INFO - Duplicate image skipped: demo_space_101.jpg
+2025-07-14 20:29:41,211 - INFO - Duplicate image skipped: demo_space_102.jpg
+2025-07-14 20:29:42,347 - INFO - Duplicate image skipped: demo_space_103.jpg
+2025-07-14 20:29:42,520 - INFO - Duplicate image skipped: demo_space_104.jpg
+2025-07-14 20:29:42,675 - INFO - Duplicate image skipped: demo_space_105.jpg
+2025-07-14 20:29:42,842 - INFO - Duplicate image skipped: demo_space_106.jpg
+2025-07-14 20:29:43,015 - INFO - Duplicate image skipped: demo_space_107.jpg
+2025-07-14 20:29:44,356 - INFO - Downloaded: demo_space_108.jpg
+2025-07-14 20:29:44,520 - INFO - Duplicate image skipped: demo_space_109.jpg
+2025-07-14 20:29:44,686 - INFO - Duplicate image skipped: demo_space_110.jpg
+2025-07-14 20:29:44,848 - INFO - Duplicate image skipped: demo_space_111.jpg
+2025-07-14 20:29:45,011 - INFO - Duplicate image skipped: demo_space_112.jpg
+2025-07-14 20:29:45,189 - INFO - Duplicate image skipped: demo_space_113.jpg
+2025-07-14 20:29:45,347 - INFO - Duplicate image skipped: demo_space_114.jpg
+2025-07-14 20:29:45,510 - INFO - Duplicate image skipped: demo_space_115.jpg
+2025-07-14 20:29:45,685 - INFO - Duplicate image skipped: demo_space_116.jpg
+2025-07-14 20:29:45,841 - INFO - Duplicate image skipped: demo_space_117.jpg
+2025-07-14 20:29:46,003 - INFO - Duplicate image skipped: demo_space_118.jpg
+2025-07-14 20:29:46,166 - INFO - Duplicate image skipped: demo_space_119.jpg
+2025-07-14 20:29:48,087 - INFO - Duplicate image skipped: demo_space_120.jpg
+2025-07-14 20:29:48,237 - INFO - Duplicate image skipped: demo_space_121.jpg
+2025-07-14 20:29:48,411 - INFO - Duplicate image skipped: demo_space_122.jpg
+2025-07-14 20:29:49,943 - INFO - Duplicate image skipped: demo_space_123.jpg
+2025-07-14 20:29:50,104 - INFO - Duplicate image skipped: demo_space_124.jpg
+2025-07-14 20:29:50,276 - INFO - Duplicate image skipped: demo_space_125.jpg
+2025-07-14 20:29:50,440 - INFO - Duplicate image skipped: demo_space_126.jpg
+2025-07-14 20:29:50,612 - INFO - Duplicate image skipped: demo_space_127.jpg
+2025-07-14 20:29:50,772 - INFO - Duplicate image skipped: demo_space_128.jpg
+2025-07-14 20:29:52,907 - INFO - Duplicate image skipped: demo_space_129.jpg
+2025-07-14 20:29:53,970 - INFO - Duplicate image skipped: demo_space_130.jpg
+2025-07-14 20:29:54,148 - INFO - Duplicate image skipped: demo_space_131.jpg
+2025-07-14 20:29:54,318 - INFO - Duplicate image skipped: demo_space_132.jpg
+2025-07-14 20:29:54,472 - INFO - Duplicate image skipped: demo_space_133.jpg
+2025-07-14 20:29:54,649 - INFO - Duplicate image skipped: demo_space_134.jpg
+2025-07-14 20:29:54,811 - INFO - Duplicate image skipped: demo_space_135.jpg
+2025-07-14 20:29:54,964 - INFO - Duplicate image skipped: demo_space_136.jpg
+2025-07-14 20:29:55,126 - INFO - Duplicate image skipped: demo_space_137.jpg
+2025-07-14 20:29:55,292 - INFO - Duplicate image skipped: demo_space_138.jpg
+2025-07-14 20:29:55,548 - INFO - Duplicate image skipped: demo_space_139.jpg
+2025-07-14 20:29:55,825 - INFO - Duplicate image skipped: demo_space_140.jpg
+2025-07-14 20:29:56,058 - INFO - Duplicate image skipped: demo_space_141.jpg
+2025-07-14 20:29:57,642 - INFO - Duplicate image skipped: demo_space_142.jpg
+2025-07-14 20:29:58,643 - INFO - Duplicate image skipped: demo_space_143.jpg
+2025-07-14 20:29:58,803 - INFO - Duplicate image skipped: demo_space_144.jpg
+2025-07-14 20:29:58,954 - INFO - Duplicate image skipped: demo_space_145.jpg
+2025-07-14 20:29:59,122 - INFO - Duplicate image skipped: demo_space_146.jpg
+2025-07-14 20:30:00,260 - INFO - Duplicate image skipped: demo_space_147.jpg
+2025-07-14 20:30:00,423 - INFO - Duplicate image skipped: demo_space_148.jpg
+2025-07-14 20:30:00,595 - INFO - Duplicate image skipped: demo_space_149.jpg
+2025-07-14 20:30:00,767 - INFO - Duplicate image skipped: demo_space_150.jpg
+2025-07-14 20:30:00,917 - INFO - Duplicate image skipped: demo_space_151.jpg
+2025-07-14 20:30:02,204 - INFO - Duplicate image skipped: demo_space_152.jpg
+2025-07-14 20:30:02,387 - INFO - Duplicate image skipped: demo_space_153.jpg
+2025-07-14 20:30:02,549 - INFO - Duplicate image skipped: demo_space_154.jpg
+2025-07-14 20:30:03,552 - INFO - Duplicate image skipped: demo_space_155.jpg
+2025-07-14 20:30:03,716 - INFO - Duplicate image skipped: demo_space_156.jpg
+2025-07-14 20:30:04,788 - INFO - Downloaded: demo_space_157.jpg
+2025-07-14 20:30:04,957 - INFO - Duplicate image skipped: demo_space_158.jpg
+2025-07-14 20:30:05,122 - INFO - Duplicate image skipped: demo_space_159.jpg
+2025-07-14 20:30:05,284 - INFO - Duplicate image skipped: demo_space_160.jpg
+2025-07-14 20:30:05,460 - INFO - Duplicate image skipped: demo_space_161.jpg
+2025-07-14 20:30:05,626 - INFO - Duplicate image skipped: demo_space_162.jpg
+2025-07-14 20:30:05,779 - INFO - Duplicate image skipped: demo_space_163.jpg
+2025-07-14 20:30:05,954 - INFO - Duplicate image skipped: demo_space_164.jpg
+2025-07-14 20:30:06,151 - INFO - Duplicate image skipped: demo_space_165.jpg
+2025-07-14 20:30:06,321 - INFO - Duplicate image skipped: demo_space_166.jpg
+2025-07-14 20:30:06,484 - INFO - Duplicate image skipped: demo_space_167.jpg
+2025-07-14 20:30:06,642 - INFO - Duplicate image skipped: demo_space_168.jpg
+2025-07-14 20:30:06,824 - INFO - Duplicate image skipped: demo_space_169.jpg
+2025-07-14 20:30:06,994 - INFO - Duplicate image skipped: demo_space_170.jpg
+2025-07-14 20:30:07,148 - INFO - Duplicate image skipped: demo_space_171.jpg
+2025-07-14 20:30:07,337 - INFO - Duplicate image skipped: demo_space_172.jpg
+2025-07-14 20:30:07,495 - INFO - Duplicate image skipped: demo_space_173.jpg
+2025-07-14 20:30:07,681 - INFO - Duplicate image skipped: demo_space_174.jpg
+2025-07-14 20:30:07,836 - INFO - Duplicate image skipped: demo_space_175.jpg
+2025-07-14 20:30:08,006 - INFO - Duplicate image skipped: demo_space_176.jpg
+2025-07-14 20:30:08,168 - INFO - Duplicate image skipped: demo_space_177.jpg
+2025-07-14 20:30:08,319 - INFO - Duplicate image skipped: demo_space_178.jpg
+2025-07-14 20:30:08,479 - INFO - Duplicate image skipped: demo_space_179.jpg
+2025-07-14 20:30:08,637 - INFO - Duplicate image skipped: demo_space_180.jpg
+2025-07-14 20:30:08,802 - INFO - Duplicate image skipped: demo_space_181.jpg
+2025-07-14 20:30:08,968 - INFO - Duplicate image skipped: demo_space_182.jpg
+2025-07-14 20:30:09,133 - INFO - Duplicate image skipped: demo_space_183.jpg
+2025-07-14 20:30:09,286 - INFO - Duplicate image skipped: demo_space_184.jpg

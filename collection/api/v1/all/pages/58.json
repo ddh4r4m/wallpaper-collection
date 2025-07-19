@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 58,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/59.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "art_046",
-      "category": "art",
-      "title": "Art Wallpaper 046",
+      "id": "architecture_099",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 099",
       "tags": [
-        "art",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/046.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/046.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/099.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/099.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 119553,
+        "file_size": 294758,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:04.749696",
-        "hash": "4592bf84c261b60f1815ff206c9a77c5",
+        "added_at": "2025-07-17T00:02:51.106072",
+        "hash": "27174a97421d32cf2b93b1a49edaf962",
         "source": "migrated"
       }
     },
     {
-      "id": "art_047",
-      "category": "art",
-      "title": "Art Wallpaper 047",
+      "id": "architecture_100",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 100",
       "tags": [
-        "art",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/047.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/047.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/100.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/100.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 712140,
+        "file_size": 187716,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:04.828062",
-        "hash": "5dcac967a2e52c275e33b24ff3cf3553",
+        "added_at": "2025-07-17T00:02:51.157713",
+        "hash": "e2ece8c883e32040c38bc8fba272971c",
         "source": "migrated"
       }
     },
     {
-      "id": "cars_001",
-      "category": "cars",
-      "title": "Cars Wallpaper 001",
+      "id": "architecture_101",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 101",
       "tags": [
-        "cars",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/001.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/001.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/101.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/101.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 323887,
+        "file_size": 224814,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:05.161760",
-        "hash": "48390cf133ccda4e68c34d2576cc09a2",
+        "added_at": "2025-07-17T00:02:51.211359",
+        "hash": "e30cbf9ac2a5b37d6d3afeffcd29daea",
         "source": "migrated"
       }
     },
     {
-      "id": "cars_002",
-      "category": "cars",
-      "title": "Cars Wallpaper 002",
+      "id": "architecture_102",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 102",
       "tags": [
-        "cars",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/002.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/002.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/102.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/102.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 209375,
+        "file_size": 425802,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:05.459570",
-        "hash": "b058a44ed0bc65e7eb286613c7168860",
+        "added_at": "2025-07-17T00:02:51.275837",
+        "hash": "727fc06d875e062c718b80846507127a",
         "source": "migrated"
       }
     },
     {
-      "id": "cars_003",
-      "category": "cars",
-      "title": "Cars Wallpaper 003",
+      "id": "architecture_103",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 103",
       "tags": [
-        "cars",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/003.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/003.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/103.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/103.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 212307,
+        "file_size": 380380,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:05.656166",
-        "hash": "4b502a2f44889d491baa26e01e651def",
+        "added_at": "2025-07-17T00:02:51.336020",
+        "hash": "560836931923b61a96d07c56b63b78d7",
         "source": "migrated"
       }
     },
     {
-      "id": "cars_004",
-      "category": "cars",
-      "title": "Cars Wallpaper 004",
+      "id": "architecture_104",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 104",
       "tags": [
-        "cars",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/004.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/004.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/104.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/104.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 246325,
+        "file_size": 571246,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:05.896679",
-        "hash": "22ad96e0f693951f5fb4bc1b8cdcd788",
+        "added_at": "2025-07-17T00:02:51.407877",
+        "hash": "cf08f4147c8defa9d3d7d4e1195fc73e",
         "source": "migrated"
       }
     },
     {
-      "id": "cars_005",
-      "category": "cars",
-      "title": "Cars Wallpaper 005",
+      "id": "architecture_105",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 105",
       "tags": [
-        "cars",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/005.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/005.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/105.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/105.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 214497,
+        "file_size": 319545,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:06.105394",
-        "hash": "422b548aeec90542295969e3a1c2ce39",
+        "added_at": "2025-07-17T00:02:51.468080",
+        "hash": "05002f4bd825c4d5d6731fb4f3334a4d",
         "source": "migrated"
       }
     },
     {
-      "id": "cars_006",
-      "category": "cars",
-      "title": "Cars Wallpaper 006",
+      "id": "architecture_106",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 106",
       "tags": [
-        "cars",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/006.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/006.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/106.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/106.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 158269,
+        "file_size": 328005,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:06.542913",
-        "hash": "a6ccf382192543b284f1ad6524d4e0d5",
+        "added_at": "2025-07-17T00:02:51.527179",
+        "hash": "1e8965fa6d149fe59d7a537c65db15d5",
         "source": "migrated"
       }
     },
     {
-      "id": "cars_007",
-      "category": "cars",
-      "title": "Cars Wallpaper 007",
+      "id": "architecture_107",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 107",
       "tags": [
-        "cars",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/007.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/007.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/107.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/107.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 143348,
+        "file_size": 317221,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:06.831036",
-        "hash": "6d844d603e9929159e47381554de35e5",
+        "added_at": "2025-07-17T00:02:51.586976",
+        "hash": "4f9a3a62d930151ffc09135cc363c407",
         "source": "migrated"
       }
     },
     {
-      "id": "cars_008",
-      "category": "cars",
-      "title": "Cars Wallpaper 008",
+      "id": "architecture_108",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 108",
       "tags": [
-        "cars",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/008.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/008.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/108.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/108.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 286126,
+        "file_size": 242696,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:07.032944",
-        "hash": "fbbcb3d2cfc285f19e4426466db1aedd",
+        "added_at": "2025-07-17T00:02:51.641947",
+        "hash": "7a88d51a4be8687d6945e049ac9bdd92",
         "source": "migrated"
       }
     },
     {
-      "id": "cars_009",
-      "category": "cars",
-      "title": "Cars Wallpaper 009",
+      "id": "architecture_109",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 109",
       "tags": [
-        "cars",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/009.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/009.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/109.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/109.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 364488,
+        "file_size": 562169,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:07.248285",
-        "hash": "357105247b7ebc82ae3ae232cc671153",
+        "added_at": "2025-07-17T00:02:51.710781",
+        "hash": "f9ad6e77362484ed91d1335b142c87b0",
         "source": "migrated"
       }
     },
     {
-      "id": "cars_010",
-      "category": "cars",
-      "title": "Cars Wallpaper 010",
+      "id": "architecture_110",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 110",
       "tags": [
-        "cars",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/010.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/010.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/110.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/110.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 256900,
+        "file_size": 415437,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:07.506017",
-        "hash": "98e85b0e6f4547589baf4a9e8ef8b934",
+        "added_at": "2025-07-17T00:02:51.775050",
+        "hash": "530eddc21b80b35c2d6514e852026bba",
         "source": "migrated"
       }
     },
     {
-      "id": "cars_011",
-      "category": "cars",
-      "title": "Cars Wallpaper 011",
+      "id": "architecture_111",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 111",
       "tags": [
-        "cars",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/011.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/011.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/111.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/111.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 208921,
+        "file_size": 317224,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:07.829928",
-        "hash": "9f809d9ca0bd5188b5b62a7b06f70037",
+        "added_at": "2025-07-17T00:02:51.835030",
+        "hash": "c2bb670a45105209b25090d1b6e285c7",
         "source": "migrated"
       }
     },
     {
-      "id": "cars_012",
-      "category": "cars",
-      "title": "Cars Wallpaper 012",
+      "id": "architecture_112",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 112",
       "tags": [
-        "cars",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/012.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/012.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/112.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/112.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 151467,
+        "file_size": 726733,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:08.176226",
-        "hash": "34b63082be1700bdc9301bbded51f031",
+        "added_at": "2025-07-17T00:02:51.914958",
+        "hash": "9e9043ccf5cc99a25c3b625b27b06900",
         "source": "migrated"
       }
     },
     {
-      "id": "cars_013",
-      "category": "cars",
-      "title": "Cars Wallpaper 013",
+      "id": "architecture_113",
+      "category": "architecture",
+      "title": "Architecture Wallpaper 113",
       "tags": [
-        "cars",
+        "architecture",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/013.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/cars/013.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/113.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/113.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 286027,
+        "file_size": 142417,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:08.632046",
-        "hash": "cf1c3de82320f463c5251c989cc62e13",
+        "added_at": "2025-07-17T00:02:51.965295",
+        "hash": "d9805349672fe522f6a20fb01bb342dd",
         "source": "migrated"
       }
     }

@@ -1,0 +1,24 @@
+{
+  "id": "dark_017",
+  "source": "comprehensive_crawler",
+  "category": "dark",
+  "title": "Dark Wallpaper 17",
+  "description": "High-quality dark wallpaper from curated sources",
+  "width": 1080,
+  "height": 1920,
+  "tags": [
+    "dark",
+    "wallpaper",
+    "hd",
+    "high resolution",
+    "mobile"
+  ],
+  "download_url": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80",
+  "source_url": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1080&h=1920&fit=crop&crop=faces&fm=jpg&q=80",
+  "variation": {
+    "crop": "faces",
+    "fm": "jpg",
+    "q": "80"
+  },
+  "crawled_at": "2025-07-14T20:50:40.363274Z"
+}

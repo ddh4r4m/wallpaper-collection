@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 34,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/35.json",
@@ -15,393 +15,661 @@
   },
   "data": [
     {
-      "id": "anime_077",
-      "category": "anime",
-      "title": "Anime Wallpaper 077",
+      "id": "ai_085",
+      "category": "ai",
+      "title": "loraGEN 01v08loraExpressive_H-000001loramodern_ani - Premium Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "meichidarkmix-meichi",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/077.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/077.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1680
         },
-        "file_size": 184254,
+        "file_size": 212222,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:33.652528",
-        "hash": "930f904ab478caf959811f8f715b16e1",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:13:30.764724",
+        "hash": "2eb269623e81964f7786739957a23575",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "<lora:GEN 0.1v:0.8>,<lora:Expressive_H-000001>,<lora:modern_anime_screencap_v1_0:0.8>,source_anime,score_9,score_8_up,score_7_up,score_6_up,dark background,low light,\n1girl,solo,<lora:age_slider_v4:1.2>,adult,tall female,black hair,medium hair,bangs,full bangs,straight hair,red eyes,pale skin,skinde",
+        "ai_model": "meichidarkMix_meichidarkanimxlV1",
+        "civitai_stats": {
+          "cryCount": 609,
+          "laughCount": 1114,
+          "likeCount": 9648,
+          "dislikeCount": 0,
+          "heartCount": 3703,
+          "commentCount": 2
+        },
+        "total_reactions": 13351
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/039.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/039.jpg"
       }
     },
     {
-      "id": "anime_078",
-      "category": "anime",
-      "title": "Anime Wallpaper 078",
+      "id": "ai_090",
+      "category": "ai",
+      "title": "The image is a digital illustration in a detailed - Premium Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/078.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/078.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 1024,
+          "height": 1536
         },
-        "file_size": 217862,
+        "file_size": 541289,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:34.459132",
-        "hash": "6f1027ad63c18eeaf1a2e9a0463e2422",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:13:36.395788",
+        "hash": "fa0c86c4fb82b6a4e378945dcda0c715",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "The image is a digital illustration in a detailed, vibrant, high contrast, semi-realistic art style with 90s retro futuristic anime elements without noise or comic halftone effect. The subject is a woman with dark shoulder length hair and green eyes. Her face showing a serious expression. The theme ",
+        "civitai_stats": {
+          "cryCount": 622,
+          "laughCount": 1067,
+          "likeCount": 9115,
+          "dislikeCount": 0,
+          "heartCount": 3491,
+          "commentCount": 12
+        },
+        "total_reactions": 12606
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/040.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/040.jpg"
       }
     },
     {
-      "id": "anime_079",
-      "category": "anime",
-      "title": "Anime Wallpaper 079",
+      "id": "ai_091",
+      "category": "ai",
+      "title": "silhouette_with_gold_foil15 1girl pretty woman gre - Premium Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/079.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/079.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 181090,
+        "file_size": 194691,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:34.707884",
-        "hash": "1b040b215e80a194d70a97c8381876c2",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:13:37.497776",
+        "hash": "cd03014cf2ed182bf9e120853f9e2740",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "(silhouette_with_gold_foil:1.5), 1girl, pretty woman, grey eyes, detailed face, long hair, twintails, capelet, dress, gloves, cherry blossom flower petals floating around her, setting sun in back ground illuminating the body, lost the deep forest, many trees and foliage around her, a mysterious terr",
+        "civitai_stats": {
+          "cryCount": 709,
+          "laughCount": 1225,
+          "likeCount": 8948,
+          "dislikeCount": 0,
+          "heartCount": 3328,
+          "commentCount": 8
+        },
+        "total_reactions": 12276
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/041.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/041.jpg"
       }
     },
     {
-      "id": "anime_080",
-      "category": "anime",
-      "title": "Anime Wallpaper 080",
+      "id": "ai_096",
+      "category": "ai",
+      "title": "loragr33nXLP1 gr33n solo 1girl long hair plant flo - Premium Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/080.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/080.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 196255,
+        "file_size": 177149,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:34.881913",
-        "hash": "34270f2307f6404bc6b5e28ffa83f4b0",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:13:44.201611",
+        "hash": "4533d1ad2dfb97f416351a6f3161886e",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "<lora:gr33nXLP:1> gr33n, solo, 1girl, long hair, plant, flower, score_9, score_8_up, score_7_up, score_6_up,",
+        "civitai_stats": {
+          "cryCount": 534,
+          "laughCount": 996,
+          "likeCount": 8594,
+          "dislikeCount": 0,
+          "heartCount": 3204,
+          "commentCount": 9
+        },
+        "total_reactions": 11798
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/042.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/042.jpg"
       }
     },
     {
-      "id": "anime_081",
-      "category": "anime",
-      "title": "Anime Wallpaper 081",
+      "id": "ai_097",
+      "category": "ai",
+      "title": "in the style of ck-mgs nistyle Special Ink-drawing - Premium Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/081.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/081.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 410652,
+        "file_size": 254721,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:35.113216",
-        "hash": "6adc3bf73b1674b043ec3b88ea8e937e",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:13:45.531939",
+        "hash": "d09d0f98cac4f0cf1092a28cb6899e3e",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "in the style of ck-mgs, nistyle, Special Ink-drawing mode, intricate linework with expressive contrasts, Mh1$AgThS2, Inkplash art on rice paper, sepia, henna , Silhouette Art, magnificent, inksplash closeup portrait of Chinese woman punting, sunset, calm lake, redlection",
+        "civitai_stats": {
+          "cryCount": 629,
+          "laughCount": 1105,
+          "likeCount": 8611,
+          "dislikeCount": 0,
+          "heartCount": 3164,
+          "commentCount": 9
+        },
+        "total_reactions": 11775
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/043.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/043.jpg"
       }
     },
     {
-      "id": "anime_082",
-      "category": "anime",
-      "title": "Anime Wallpaper 082",
+      "id": "ai_098",
+      "category": "ai",
+      "title": "in the style of ck-mgs nistyle Special Ink-drawing - Premium Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/082.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/082.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 46598,
+        "file_size": 296324,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:35.305038",
-        "hash": "d9badcf203c8e8b4ff9bbebacc8eb879",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:13:47.509857",
+        "hash": "cc56051801b75cb2ff023808e9d68264",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "in the style of ck-mgs, nistyle, Special Ink-drawing mode, intricate linework with expressive contrasts, Mh1$AgThS2, Inkplash art on rice paper, sepia, henna , Silhouette Art, magnificent, inksplash closeup portrait of stunning japanese female sc-fi soldier, helmet, mirrored visor reflecting jungle ",
+        "civitai_stats": {
+          "cryCount": 674,
+          "laughCount": 1040,
+          "likeCount": 8443,
+          "dislikeCount": 0,
+          "heartCount": 3193,
+          "commentCount": 7
+        },
+        "total_reactions": 11636
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/044.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/044.jpg"
       }
     },
     {
-      "id": "anime_083",
-      "category": "anime",
-      "title": "Anime Wallpaper 083",
+      "id": "ai_099",
+      "category": "ai",
+      "title": "concept art hidden face mysterious hooded full bod - Premium Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "wildcardxxlfusion-fu",
+        "high-resolution",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/083.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/083.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1389
         },
-        "file_size": 324047,
+        "file_size": 208778,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:35.507803",
-        "hash": "23c7acb8a50c6cc154d48d8a91c1b94b",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:13:49.190566",
+        "hash": "0a6dd0ae43f1024e371fefe2c0852934",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "concept art hidden face, mysterious, hooded, full body, dark enigmatic warrior, standing, storm of falling shards, glowing ethereal giant heavy thick sword in hand, warrior\u00e2\u0080\u0099s intricate armor, tattered cloak that billows in the wind, atmosphere is charged with an otherworldly energy, fantasy realis",
+        "ai_model": "wildcardxXLFusion_fusionOG",
+        "civitai_stats": {
+          "cryCount": 557,
+          "laughCount": 1018,
+          "likeCount": 8477,
+          "dislikeCount": 0,
+          "heartCount": 3138,
+          "commentCount": 11
+        },
+        "total_reactions": 11615
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/045.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/045.jpg"
       }
     },
     {
-      "id": "anime_084",
-      "category": "anime",
-      "title": "Anime Wallpaper 084",
+      "id": "ai_100",
+      "category": "ai",
+      "title": "Hyperrealism extreme close-up Portrait of a beauti - Premium Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/084.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/084.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 399186,
+        "file_size": 197610,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:35.894945",
-        "hash": "5218674562ecb437ecc640de0229cb67",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:13:50.503827",
+        "hash": "1a84b19e26bd39458b5afa0c22649eaa",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "Hyperrealism, extreme close-up Portrait of a beautiful, stunning unique female character. She has large turquoise eyes filled with joy and excitement, extravagant eyelashes, making this image a masterpiece of photography and digital art. Style: realistic hyper-detailed rendering, 32k UHD, expressive",
+        "civitai_stats": {
+          "cryCount": 671,
+          "laughCount": 1102,
+          "likeCount": 8091,
+          "dislikeCount": 0,
+          "heartCount": 3280,
+          "commentCount": 24
+        },
+        "total_reactions": 11371
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/046.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/046.jpg"
       }
     },
     {
-      "id": "anime_085",
-      "category": "anime",
-      "title": "Anime Wallpaper 085",
+      "id": "ai_101",
+      "category": "ai",
+      "title": "drunken fist leaning forward Red and Grey color gr - Premium Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/085.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/085.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 560279,
+        "file_size": 112425,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:36.235735",
-        "hash": "8334a9ce576c298360ee9d3687f60438",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:13:52.599235",
+        "hash": "f20dc4b51b1bb4a3d8722332ccbd4f6e",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "drunken fist, leaning forward, Red and Grey color graded glamour portrait photo of an Cyborg Samurai, macro, a captivating vibrant dark neon capturing the essence of a translucent amber cyborg Bedouin sorcerer in fight stance, defying expectations by conjuring a whimsical robot 'freak' from an overs",
+        "civitai_stats": {
+          "cryCount": 516,
+          "laughCount": 1004,
+          "likeCount": 8138,
+          "dislikeCount": 0,
+          "heartCount": 3107,
+          "commentCount": 5
+        },
+        "total_reactions": 11245
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/047.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/047.jpg"
       }
     },
     {
-      "id": "anime_086",
-      "category": "anime",
-      "title": "Anime Wallpaper 086",
+      "id": "ai_102",
+      "category": "ai",
+      "title": "score_9 score_8_up score_7_up \r\nmonster girl llami - Premium Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "ponydiffusionv6xl-v6",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/086.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/086.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1578
         },
-        "file_size": 118824,
+        "file_size": 323647,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:36.482339",
-        "hash": "479519955e941aed80c3caad16422be4",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:13:54.231825",
+        "hash": "ff3d7eb1d52503113981cd676f7d9eef",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "score_9, score_8_up, score_7_up, \r\nmonster girl, llamia, slit pupils, green eyes, horns, kunoichi, long hair, action pose, forest,",
+        "ai_model": "ponyDiffusionV6XL_v6StartWithThisOne.safetensors",
+        "civitai_stats": {
+          "cryCount": 503,
+          "laughCount": 916,
+          "likeCount": 8162,
+          "dislikeCount": 0,
+          "heartCount": 3063,
+          "commentCount": 7
+        },
+        "total_reactions": 11225
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/048.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/048.jpg"
       }
     },
     {
-      "id": "anime_087",
-      "category": "anime",
-      "title": "Anime Wallpaper 087",
+      "id": "ai_103",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "high-resolution",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/087.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/087.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1578
         },
-        "file_size": 238698,
+        "file_size": 310524,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:36.736993",
-        "hash": "4ea4277dc828d676c10bd4832f1138c4",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:13:57.180441",
+        "hash": "d3eb8b0b32d33771cf79629f86d294c8",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "civitai_stats": {
+          "cryCount": 565,
+          "laughCount": 1183,
+          "likeCount": 8193,
+          "dislikeCount": 0,
+          "heartCount": 3019,
+          "commentCount": 10
+        },
+        "total_reactions": 11212
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/049.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/049.jpg"
       }
     },
     {
-      "id": "anime_088",
-      "category": "anime",
-      "title": "Anime Wallpaper 088",
+      "id": "ai_104",
+      "category": "ai",
+      "title": "atmosphere masterpiece high_quality absurdres very - Premium Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "glances-v1-safetenso",
+        "high-resolution",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/088.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/088.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1389
         },
-        "file_size": 338844,
+        "file_size": 253759,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:37.008451",
-        "hash": "36dc9c94c5c3c10ea18064e39d7d7680",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:14:00.975981",
+        "hash": "5a9399a044ba680aa000081b8a7ff4a9",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "(atmosphere, masterpiece, high_quality, absurdres, very aesthetic, blurry_background, grainy_texture, film_grain, light particles textured clothing, textured hair, painterly, watercolor_\\(medium\\), colored_pencil_\\(medium\\), blending)\n(w1tchyc0ttagec0re, petting fox in foreground, 1girl, solo, long_",
+        "ai_model": "glances_v1.safetensors",
+        "civitai_stats": {
+          "cryCount": 632,
+          "laughCount": 1101,
+          "likeCount": 8019,
+          "dislikeCount": 0,
+          "heartCount": 3122,
+          "commentCount": 10
+        },
+        "total_reactions": 11141
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/050.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/050.jpg"
       }
     },
     {
-      "id": "anime_089",
-      "category": "anime",
-      "title": "Anime Wallpaper 089",
+      "id": "ai_105",
+      "category": "ai",
+      "title": "yfg-sm0rg Bask in the realm of abstract expression - Premium Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "flux-flux1-dev-fp8-s",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/089.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/089.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1620
         },
-        "file_size": 310875,
+        "file_size": 258426,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:37.402155",
-        "hash": "c906f91d916614b9c84dd528ac7a9951",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:14:02.605562",
+        "hash": "78b59a4b362a7dc4cf8cdf860c3110b9",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "yfg-sm0rg, Bask in the realm of abstract expressionism as a mysterious figure cloaked in a vibrant red shawl steps into view against an ebony void. Her head hangs low, enveloped in a cloud of bewitching curiosity. In stark contrast with her crimson surroundings, crisp white lines dance alongside her",
+        "ai_model": "Flux\\flux1-dev-fp8.safetensors",
+        "civitai_stats": {
+          "cryCount": 627,
+          "laughCount": 957,
+          "likeCount": 8193,
+          "dislikeCount": 0,
+          "heartCount": 2932,
+          "commentCount": 5
+        },
+        "total_reactions": 11125
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/051.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/051.jpg"
       }
     },
     {
-      "id": "anime_090",
-      "category": "anime",
-      "title": "Anime Wallpaper 090",
+      "id": "ai_106",
+      "category": "ai",
+      "title": "A close-up portrait of a demon woman with molten l - Premium Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/090.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/090.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 379812,
+        "file_size": 116496,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:37.579129",
-        "hash": "99538f18668f022027c45bed7728b50a",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:14:04.867254",
+        "hash": "68f2743ffbfde7954d1264f4e210c278",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "A close-up portrait of a demon woman with molten lava-like cracks on her skin, her fiery eyes glowing intensely. Her horns are jagged and sharp, resembling molten stone, and her expression is one of wrath and destruction, with flames flickering around her face, anime style, women, demon women, cute ",
+        "civitai_stats": {
+          "cryCount": 539,
+          "laughCount": 896,
+          "likeCount": 7604,
+          "dislikeCount": 0,
+          "heartCount": 3081,
+          "commentCount": 10
+        },
+        "total_reactions": 10685
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/052.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/052.jpg"
       }
     },
     {
-      "id": "anime_091",
-      "category": "anime",
-      "title": "Anime Wallpaper 091",
+      "id": "ai_107",
+      "category": "ai",
+      "title": "elegant woman futuristic explorer flowing high-fas - Premium Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "high-resolution",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/091.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/091.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
+          "width": 960,
           "height": 1920
         },
-        "file_size": 297391,
+        "file_size": 409087,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:37.803565",
-        "hash": "3209d9ccca873a37cf457f7584924814",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:14:07.757942",
+        "hash": "e5ea6245535d61ccee1099a47f41ba9b",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "elegant woman, futuristic explorer, flowing high-fashion attire, exploring an alien world, floating monoliths, mysterious energy, surreal atmosphere, dreamlike lighting, intricate alien architecture, glowing glyphs, Remedios Varo inspired, sci-fi fantasy, cinematic composition, ultra-detailed textur",
+        "civitai_stats": {
+          "cryCount": 524,
+          "laughCount": 849,
+          "likeCount": 7565,
+          "dislikeCount": 0,
+          "heartCount": 2740,
+          "commentCount": 5
+        },
+        "total_reactions": 10305
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/053.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/053.jpg"
       }
     }
   ]

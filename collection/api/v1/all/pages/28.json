@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 28,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/29.json",
@@ -379,28 +379,32 @@
       }
     },
     {
-      "id": "anime_001",
-      "category": "anime",
-      "title": "Anime Wallpaper",
+      "id": "abstract_220",
+      "category": "abstract",
+      "title": "The SeedVR2 video upscaler is  - Reddit AI",
       "tags": [
-        "anime",
-        "wallpaper",
+        "abstract",
+        "ai-generated",
         "hd",
-        "high resolution",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
-          "width": 6143,
-          "height": 3094
+          "width": 960,
+          "height": 1440
         },
-        "file_size": 7859057,
-        "added_at": "2025-07-16T20:56:14.359456",
-        "migrated_from": "/Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/wallpapers/anime/anime_003.jpg"
+        "file_size": 189862,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:24:41.179305",
+        "hash": "e87030a470a8aace74b5c088c2dd8ac8",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 207
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/001.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/001.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/abstract/220.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/abstract/220.jpg"
       }
     }
   ]

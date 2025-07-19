@@ -1,0 +1,28 @@
+{
+  "id": "nature_023",
+  "source": "comprehensive_crawler",
+  "category": "nature",
+  "title": "Nature Wallpaper 23",
+  "description": "High-quality nature wallpaper from curated sources",
+  "width": 1080,
+  "height": 1920,
+  "tags": [
+    "nature",
+    "wallpaper",
+    "hd",
+    "high resolution",
+    "mobile",
+    "landscape",
+    "natural",
+    "outdoor",
+    "scenic",
+    "wildlife"
+  ],
+  "download_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1080&h=1920&fit=crop&crop=attention&auto=enhance",
+  "source_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1080&h=1920&fit=crop&crop=attention&auto=enhance",
+  "variation": {
+    "crop": "attention",
+    "auto": "enhance"
+  },
+  "crawled_at": "2025-07-14T20:41:24.798917Z"
+}

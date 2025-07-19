@@ -1,0 +1,5229 @@
+{
+  "summary": {
+    "total_processed": 106,
+    "approved": 18,
+    "rejected": 10,
+    "manual_review": 78,
+    "processing_time": "2025-07-14T15:32:34.272782Z"
+  },
+  "detailed_results": {
+    "approved": [
+      {
+        "path": "review_system/staging/space_024.jpg",
+        "filename": "space_024.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.46,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 7.48,
+          "brightness": 5.01,
+          "color_quality": 3.57,
+          "composition": 9.11,
+          "technical_quality": 9.65
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_024",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 24",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/p8/wallhaven-p8zorp.jpg",
+          "source_url": "https://w.wallhaven.cc/full/p8/wallhaven-p8zorp.jpg",
+          "original_info": {
+            "id": "wallhaven_p8zorp",
+            "url": "https://w.wallhaven.cc/full/p8/wallhaven-p8zorp.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "stars wallpaper",
+            "width": 2048,
+            "height": 2897
+          },
+          "crawled_at": "2025-07-14T20:59:34.350630Z"
+        },
+        "assessed_at": "2025-07-14T15:31:40.769831Z"
+      },
+      {
+        "path": "review_system/staging/space_018.jpg",
+        "filename": "space_018.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.95,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 9.97,
+          "brightness": 8.03,
+          "color_quality": 3.42,
+          "composition": 8.3,
+          "technical_quality": 9.49
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_018",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 18",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/72/wallhaven-72qge3.jpg",
+          "source_url": "https://w.wallhaven.cc/full/72/wallhaven-72qge3.jpg",
+          "original_info": {
+            "id": "wallhaven_72qge3",
+            "url": "https://w.wallhaven.cc/full/72/wallhaven-72qge3.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 2480,
+            "height": 3508
+          },
+          "crawled_at": "2025-07-14T20:59:18.861905Z"
+        },
+        "assessed_at": "2025-07-14T15:31:41.324288Z"
+      },
+      {
+        "path": "review_system/staging/nature_004.jpg",
+        "filename": "nature_004.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.45,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 9.51,
+          "brightness": 9.28,
+          "color_quality": 5.27,
+          "composition": 2.85,
+          "technical_quality": 9.38
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_004",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 4",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/28/wallhaven-28rke6.jpg",
+          "source_url": "https://w.wallhaven.cc/full/28/wallhaven-28rke6.jpg",
+          "original_info": {
+            "id": "wallhaven_28rke6",
+            "url": "https://w.wallhaven.cc/full/28/wallhaven-28rke6.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "forest wallpaper",
+            "width": 2507,
+            "height": 3667
+          },
+          "crawled_at": "2025-07-14T20:59:18.670773Z"
+        },
+        "assessed_at": "2025-07-14T15:31:41.853190Z"
+      },
+      {
+        "path": "review_system/staging/cars_009.jpg",
+        "filename": "cars_009.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.03,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 8.74,
+          "brightness": 8.23,
+          "color_quality": 3.8,
+          "composition": 4.78,
+          "technical_quality": 9.31
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "cars_009",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 9",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/kw/wallhaven-kwpxd6.jpg",
+          "source_url": "https://w.wallhaven.cc/full/kw/wallhaven-kwpxd6.jpg",
+          "original_info": {
+            "id": "wallhaven_kwpxd6",
+            "url": "https://w.wallhaven.cc/full/kw/wallhaven-kwpxd6.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "sports car wallpaper",
+            "width": 1920,
+            "height": 2792
+          },
+          "crawled_at": "2025-07-14T20:59:07.488310Z"
+        },
+        "assessed_at": "2025-07-14T15:31:54.907660Z"
+      },
+      {
+        "path": "review_system/staging/space_040.jpg",
+        "filename": "space_040.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.32,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 5.42,
+          "brightness": 6.67,
+          "color_quality": 4.62,
+          "composition": 7.98,
+          "technical_quality": 9.76
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_040",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 40",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/qd/wallhaven-qdy837.jpg",
+          "source_url": "https://w.wallhaven.cc/full/qd/wallhaven-qdy837.jpg",
+          "original_info": {
+            "id": "wallhaven_qdy837",
+            "url": "https://w.wallhaven.cc/full/qd/wallhaven-qdy837.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 1920,
+            "height": 2716
+          },
+          "crawled_at": "2025-07-14T20:59:43.538103Z"
+        },
+        "assessed_at": "2025-07-14T15:31:58.809071Z"
+      },
+      {
+        "path": "review_system/staging/sports_010.jpg",
+        "filename": "sports_010.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.82,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 8.85,
+          "brightness": 8.47,
+          "color_quality": 2.95,
+          "composition": 8.37,
+          "technical_quality": 9.72
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "sports_010",
+          "source": "wallhaven",
+          "category": "sports",
+          "title": "Sports Wallpaper 10",
+          "description": "High-quality sports wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "sports",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/md/wallhaven-md5dd8.jpg",
+          "source_url": "https://w.wallhaven.cc/full/md/wallhaven-md5dd8.jpg",
+          "original_info": {
+            "id": "wallhaven_md5dd8",
+            "url": "https://w.wallhaven.cc/full/md/wallhaven-md5dd8.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "basketball wallpaper",
+            "width": 2550,
+            "height": 3300
+          },
+          "crawled_at": "2025-07-14T20:59:10.669798Z"
+        },
+        "assessed_at": "2025-07-14T15:32:01.638866Z"
+      },
+      {
+        "path": "review_system/staging/nature_045.jpg",
+        "filename": "nature_045.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.14,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 9.79,
+          "brightness": 8.79,
+          "color_quality": 1.82,
+          "composition": 5.85,
+          "technical_quality": 9.45
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_045",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 45",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/qd/wallhaven-qd1xwl.jpg",
+          "source_url": "https://w.wallhaven.cc/full/qd/wallhaven-qd1xwl.jpg",
+          "original_info": {
+            "id": "wallhaven_qd1xwl",
+            "url": "https://w.wallhaven.cc/full/qd/wallhaven-qd1xwl.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "mountains wallpaper",
+            "width": 3456,
+            "height": 5184
+          },
+          "crawled_at": "2025-07-14T20:59:36.939911Z"
+        },
+        "assessed_at": "2025-07-14T15:32:05.700753Z"
+      },
+      {
+        "path": "review_system/staging/cars_017.jpg",
+        "filename": "cars_017.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.52,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 8.94,
+          "brightness": 7.79,
+          "color_quality": 2.08,
+          "composition": 7.56,
+          "technical_quality": 9.74
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "cars_017",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 17",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/ym/wallhaven-ym93kx.jpg",
+          "source_url": "https://w.wallhaven.cc/full/ym/wallhaven-ym93kx.jpg",
+          "original_info": {
+            "id": "wallhaven_ym93kx",
+            "url": "https://w.wallhaven.cc/full/ym/wallhaven-ym93kx.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "racing wallpaper",
+            "width": 2480,
+            "height": 3508
+          },
+          "crawled_at": "2025-07-14T20:59:14.839741Z"
+        },
+        "assessed_at": "2025-07-14T15:32:07.515669Z"
+      },
+      {
+        "path": "review_system/staging/space_049.jpg",
+        "filename": "space_049.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.45,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 7.79,
+          "brightness": 5.32,
+          "color_quality": 3.59,
+          "composition": 8.69,
+          "technical_quality": 9.55
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_049",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 49",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/x8/wallhaven-x825dz.jpg",
+          "source_url": "https://w.wallhaven.cc/full/x8/wallhaven-x825dz.jpg",
+          "original_info": {
+            "id": "wallhaven_x825dz",
+            "url": "https://w.wallhaven.cc/full/x8/wallhaven-x825dz.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 2480,
+            "height": 3508
+          },
+          "crawled_at": "2025-07-14T20:59:51.387321Z"
+        },
+        "assessed_at": "2025-07-14T15:32:12.150259Z"
+      },
+      {
+        "path": "review_system/staging/cars_039.jpg",
+        "filename": "cars_039.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.5,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 8.52,
+          "brightness": 8.08,
+          "color_quality": 2.35,
+          "composition": 9.73,
+          "technical_quality": 9.23
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "cars_039",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 39",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/qz/wallhaven-qzregr.jpg",
+          "source_url": "https://w.wallhaven.cc/full/qz/wallhaven-qzregr.jpg",
+          "original_info": {
+            "id": "wallhaven_qzregr",
+            "url": "https://w.wallhaven.cc/full/qz/wallhaven-qzregr.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "racing wallpaper",
+            "width": 3072,
+            "height": 3840
+          },
+          "crawled_at": "2025-07-14T20:59:17.676417Z"
+        },
+        "assessed_at": "2025-07-14T15:32:13.932889Z"
+      },
+      {
+        "path": "review_system/staging/cars_007.jpg",
+        "filename": "cars_007.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.02,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 5.24,
+          "brightness": 7.59,
+          "color_quality": 3.37,
+          "composition": 7.42,
+          "technical_quality": 9.29
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "cars_007",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 7",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/72/wallhaven-7238lv.jpg",
+          "source_url": "https://w.wallhaven.cc/full/72/wallhaven-7238lv.jpg",
+          "original_info": {
+            "id": "wallhaven_7238lv",
+            "url": "https://w.wallhaven.cc/full/72/wallhaven-7238lv.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "racing wallpaper",
+            "width": 1920,
+            "height": 2400
+          },
+          "crawled_at": "2025-07-14T20:59:07.907373Z"
+        },
+        "assessed_at": "2025-07-14T15:32:16.434505Z"
+      },
+      {
+        "path": "review_system/staging/nature_041.jpg",
+        "filename": "nature_041.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.97,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 9.09,
+          "brightness": 8.83,
+          "color_quality": 3.19,
+          "composition": 8.76,
+          "technical_quality": 9.64
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_041",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 41",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/5w/wallhaven-5wplq1.jpg",
+          "source_url": "https://w.wallhaven.cc/full/5w/wallhaven-5wplq1.jpg",
+          "original_info": {
+            "id": "wallhaven_5wplq1",
+            "url": "https://w.wallhaven.cc/full/5w/wallhaven-5wplq1.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "landscape wallpaper",
+            "width": 3125,
+            "height": 4926
+          },
+          "crawled_at": "2025-07-14T20:59:23.274445Z"
+        },
+        "assessed_at": "2025-07-14T15:32:17.068637Z"
+      },
+      {
+        "path": "review_system/staging/nature_032.jpg",
+        "filename": "nature_032.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.65,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 7.07,
+          "brightness": 5.94,
+          "color_quality": 4.81,
+          "composition": 9.13,
+          "technical_quality": 9.5
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_032",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 32",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/kw/wallhaven-kwe9vq.jpg",
+          "source_url": "https://w.wallhaven.cc/full/kw/wallhaven-kwe9vq.jpg",
+          "original_info": {
+            "id": "wallhaven_kwe9vq",
+            "url": "https://w.wallhaven.cc/full/kw/wallhaven-kwe9vq.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "landscape wallpaper",
+            "width": 2726,
+            "height": 3407
+          },
+          "crawled_at": "2025-07-14T20:59:16.750093Z"
+        },
+        "assessed_at": "2025-07-14T15:32:17.929610Z"
+      },
+      {
+        "path": "review_system/staging/nature_019.jpg",
+        "filename": "nature_019.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.63,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 5.42,
+          "brightness": 9.66,
+          "color_quality": 3.16,
+          "composition": 9.57,
+          "technical_quality": 9.7
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_019",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 19",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/gp/wallhaven-gpj98l.jpg",
+          "source_url": "https://w.wallhaven.cc/full/gp/wallhaven-gpj98l.jpg",
+          "original_info": {
+            "id": "wallhaven_gpj98l",
+            "url": "https://w.wallhaven.cc/full/gp/wallhaven-gpj98l.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "landscape wallpaper",
+            "width": 2700,
+            "height": 4800
+          },
+          "crawled_at": "2025-07-14T20:59:13.769459Z"
+        },
+        "assessed_at": "2025-07-14T15:32:22.756405Z"
+      },
+      {
+        "path": "review_system/staging/nature_018.jpg",
+        "filename": "nature_018.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.02,
+        "detailed_scores": {
+          "sharpness": 7.8,
+          "contrast": 7.37,
+          "brightness": 7.67,
+          "color_quality": 2.55,
+          "composition": 9.16,
+          "technical_quality": 9.72
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_018",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 18",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/ym/wallhaven-ym9d2d.jpg",
+          "source_url": "https://w.wallhaven.cc/full/ym/wallhaven-ym9d2d.jpg",
+          "original_info": {
+            "id": "wallhaven_ym9d2d",
+            "url": "https://w.wallhaven.cc/full/ym/wallhaven-ym9d2d.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "landscape wallpaper",
+            "width": 3024,
+            "height": 4032
+          },
+          "crawled_at": "2025-07-14T20:59:11.337395Z"
+        },
+        "assessed_at": "2025-07-14T15:32:24.263446Z"
+      },
+      {
+        "path": "review_system/staging/nature_020.jpg",
+        "filename": "nature_020.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.68,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 7.5,
+          "brightness": 8.13,
+          "color_quality": 2.75,
+          "composition": 9.39,
+          "technical_quality": 9.6
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_020",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 20",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/9d/wallhaven-9d5d3d.jpg",
+          "source_url": "https://w.wallhaven.cc/full/9d/wallhaven-9d5d3d.jpg",
+          "original_info": {
+            "id": "wallhaven_9d5d3d",
+            "url": "https://w.wallhaven.cc/full/9d/wallhaven-9d5d3d.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "forest wallpaper",
+            "width": 1920,
+            "height": 2685
+          },
+          "crawled_at": "2025-07-14T20:59:14.440280Z"
+        },
+        "assessed_at": "2025-07-14T15:32:25.181779Z"
+      },
+      {
+        "path": "review_system/staging/nature_009.jpg",
+        "filename": "nature_009.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 8.01,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 7.45,
+          "brightness": 9.61,
+          "color_quality": 1.95,
+          "composition": 5.04,
+          "technical_quality": 9.41
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_009",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 9",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/mp/wallhaven-mp2wvk.jpg",
+          "source_url": "https://w.wallhaven.cc/full/mp/wallhaven-mp2wvk.jpg",
+          "original_info": {
+            "id": "wallhaven_mp2wvk",
+            "url": "https://w.wallhaven.cc/full/mp/wallhaven-mp2wvk.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "forest wallpaper",
+            "width": 3072,
+            "height": 4608
+          },
+          "crawled_at": "2025-07-14T20:59:11.227918Z"
+        },
+        "assessed_at": "2025-07-14T15:32:30.936258Z"
+      },
+      {
+        "path": "review_system/staging/space_029.jpg",
+        "filename": "space_029.jpg",
+        "status": "approved",
+        "reason": "High quality image",
+        "overall_score": 9.0,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 10.0,
+          "brightness": 9.05,
+          "color_quality": 2.53,
+          "composition": 8.48,
+          "technical_quality": 9.73
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_029",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 29",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/v9/wallhaven-v9v8kp.png",
+          "source_url": "https://w.wallhaven.cc/full/v9/wallhaven-v9v8kp.png",
+          "original_info": {
+            "id": "wallhaven_v9v8kp",
+            "url": "https://w.wallhaven.cc/full/v9/wallhaven-v9v8kp.png",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 2150,
+            "height": 3035
+          },
+          "crawled_at": "2025-07-14T20:59:26.196131Z"
+        },
+        "assessed_at": "2025-07-14T15:32:33.006892Z"
+      }
+    ],
+    "rejected": [
+      {
+        "path": "review_system/staging/space_031.jpg",
+        "filename": "space_031.jpg",
+        "status": "rejected",
+        "reason": "Basic requirements failed: File too large: 20.0MB",
+        "overall_score": 7.34,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.32,
+          "brightness": 3.03,
+          "color_quality": 1.54,
+          "composition": 8.37,
+          "technical_quality": 9.53
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": false,
+        "issues": [
+          "File too large: 20.0MB"
+        ],
+        "metadata": {
+          "id": "space_031",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 31",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/rr/wallhaven-rrrxmm.png",
+          "source_url": "https://w.wallhaven.cc/full/rr/wallhaven-rrrxmm.png",
+          "original_info": {
+            "id": "wallhaven_rrrxmm",
+            "url": "https://w.wallhaven.cc/full/rr/wallhaven-rrrxmm.png",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 3051,
+            "height": 4432
+          },
+          "crawled_at": "2025-07-14T20:59:28.211966Z"
+        },
+        "assessed_at": "2025-07-14T15:31:40.266785Z"
+      },
+      {
+        "path": "review_system/staging/space_033.jpg",
+        "filename": "space_033.jpg",
+        "status": "rejected",
+        "reason": "Basic requirements failed: File too large: 19.9MB",
+        "overall_score": 6.09,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 5.37,
+          "brightness": 5.41,
+          "color_quality": 3.71,
+          "composition": 2.46,
+          "technical_quality": 9.09
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": false,
+        "issues": [
+          "File too large: 19.9MB"
+        ],
+        "metadata": {
+          "id": "space_033",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 33",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/d6/wallhaven-d65kwm.png",
+          "source_url": "https://w.wallhaven.cc/full/d6/wallhaven-d65kwm.png",
+          "original_info": {
+            "id": "wallhaven_d65kwm",
+            "url": "https://w.wallhaven.cc/full/d6/wallhaven-d65kwm.png",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 2561,
+            "height": 4435
+          },
+          "crawled_at": "2025-07-14T20:59:35.975281Z"
+        },
+        "assessed_at": "2025-07-14T15:31:44.615436Z"
+      },
+      {
+        "path": "review_system/staging/cars_008.jpg",
+        "filename": "cars_008.jpg",
+        "status": "rejected",
+        "reason": "Basic requirements failed: File too large: 16.8MB",
+        "overall_score": 5.75,
+        "detailed_scores": {
+          "sharpness": 2.17,
+          "contrast": 6.79,
+          "brightness": 6.55,
+          "color_quality": 1.92,
+          "composition": 6.89,
+          "technical_quality": 9.8
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": false,
+        "issues": [
+          "File too large: 16.8MB"
+        ],
+        "metadata": {
+          "id": "cars_008",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 8",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/lm/wallhaven-lm888q.jpg",
+          "source_url": "https://w.wallhaven.cc/full/lm/wallhaven-lm888q.jpg",
+          "original_info": {
+            "id": "wallhaven_lm888q",
+            "url": "https://w.wallhaven.cc/full/lm/wallhaven-lm888q.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "sports car wallpaper",
+            "width": 5504,
+            "height": 8256
+          },
+          "crawled_at": "2025-07-14T20:59:21.380210Z"
+        },
+        "assessed_at": "2025-07-14T15:31:53.843670Z"
+      },
+      {
+        "path": "review_system/staging/sports_001.jpg",
+        "filename": "sports_001.jpg",
+        "status": "rejected",
+        "reason": "Basic requirements failed: File too large: 16.7MB",
+        "overall_score": 7.9,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.92,
+          "brightness": 8.04,
+          "color_quality": 3.48,
+          "composition": 8.94,
+          "technical_quality": 9.71
+        },
+        "watermark_penalty": 7.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": false,
+        "issues": [
+          "File too large: 16.7MB"
+        ],
+        "metadata": {
+          "id": "sports_001",
+          "source": "wallhaven",
+          "category": "sports",
+          "title": "Sports Wallpaper 1",
+          "description": "High-quality sports wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "sports",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/wq/wallhaven-wq7qq6.jpg",
+          "source_url": "https://w.wallhaven.cc/full/wq/wallhaven-wq7qq6.jpg",
+          "original_info": {
+            "id": "wallhaven_wq7qq6",
+            "url": "https://w.wallhaven.cc/full/wq/wallhaven-wq7qq6.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "basketball wallpaper",
+            "width": 3714,
+            "height": 5384
+          },
+          "crawled_at": "2025-07-14T20:59:14.245005Z"
+        },
+        "assessed_at": "2025-07-14T15:31:57.235145Z"
+      },
+      {
+        "path": "review_system/staging/cars_003.jpg",
+        "filename": "cars_003.jpg",
+        "status": "rejected",
+        "reason": "Basic requirements failed: File too large: 13.3MB",
+        "overall_score": 4.6,
+        "detailed_scores": {
+          "sharpness": 1.64,
+          "contrast": 3.21,
+          "brightness": 2.01,
+          "color_quality": 1.2,
+          "composition": 5.61,
+          "technical_quality": 9.91
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": false,
+        "issues": [
+          "File too large: 13.3MB"
+        ],
+        "metadata": {
+          "id": "cars_003",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 3",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/kx/wallhaven-kxw5j1.jpg",
+          "source_url": "https://w.wallhaven.cc/full/kx/wallhaven-kxw5j1.jpg",
+          "original_info": {
+            "id": "wallhaven_kxw5j1",
+            "url": "https://w.wallhaven.cc/full/kx/wallhaven-kxw5j1.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "sports car wallpaper",
+            "width": 6048,
+            "height": 8064
+          },
+          "crawled_at": "2025-07-14T20:59:11.937310Z"
+        },
+        "assessed_at": "2025-07-14T15:32:07.175614Z"
+      },
+      {
+        "path": "review_system/staging/nature_050.jpg",
+        "filename": "nature_050.jpg",
+        "status": "rejected",
+        "reason": "Basic requirements failed: File too large: 10.1MB",
+        "overall_score": 6.24,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 7.86,
+          "brightness": 7.11,
+          "color_quality": 4.61,
+          "composition": 0.0,
+          "technical_quality": 8.3
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": false,
+        "issues": [
+          "File too large: 10.1MB"
+        ],
+        "metadata": {
+          "id": "nature_050",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 50",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/5w/wallhaven-5w3mp5.jpg",
+          "source_url": "https://w.wallhaven.cc/full/5w/wallhaven-5w3mp5.jpg",
+          "original_info": {
+            "id": "wallhaven_5w3mp5",
+            "url": "https://w.wallhaven.cc/full/5w/wallhaven-5w3mp5.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "landscape wallpaper",
+            "width": 2160,
+            "height": 3840
+          },
+          "crawled_at": "2025-07-14T20:59:28.108993Z"
+        },
+        "assessed_at": "2025-07-14T15:32:08.900377Z"
+      },
+      {
+        "path": "review_system/staging/cars_038.jpg",
+        "filename": "cars_038.jpg",
+        "status": "rejected",
+        "reason": "Basic requirements failed: File too large: 13.5MB",
+        "overall_score": 8.1,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.43,
+          "brightness": 8.44,
+          "color_quality": 1.47,
+          "composition": 9.37,
+          "technical_quality": 9.59
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": false,
+        "issues": [
+          "File too large: 13.5MB"
+        ],
+        "metadata": {
+          "id": "cars_038",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 38",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/q6/wallhaven-q66ejd.jpg",
+          "source_url": "https://w.wallhaven.cc/full/q6/wallhaven-q66ejd.jpg",
+          "original_info": {
+            "id": "wallhaven_q66ejd",
+            "url": "https://w.wallhaven.cc/full/q6/wallhaven-q66ejd.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "racing wallpaper",
+            "width": 3456,
+            "height": 5184
+          },
+          "crawled_at": "2025-07-14T20:59:17.060204Z"
+        },
+        "assessed_at": "2025-07-14T15:32:13.565221Z"
+      },
+      {
+        "path": "review_system/staging/space_005.jpg",
+        "filename": "space_005.jpg",
+        "status": "rejected",
+        "reason": "Low quality image",
+        "overall_score": 3.97,
+        "detailed_scores": {
+          "sharpness": 0.13,
+          "contrast": 1.04,
+          "brightness": 0.31,
+          "color_quality": 3.3,
+          "composition": 5.03,
+          "technical_quality": 9.98
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_005",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 5",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/l8/wallhaven-l8x352.jpg",
+          "source_url": "https://w.wallhaven.cc/full/l8/wallhaven-l8x352.jpg",
+          "original_info": {
+            "id": "wallhaven_l8x352",
+            "url": "https://w.wallhaven.cc/full/l8/wallhaven-l8x352.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 2000,
+            "height": 3000
+          },
+          "crawled_at": "2025-07-14T20:59:08.709871Z"
+        },
+        "assessed_at": "2025-07-14T15:32:18.991808Z"
+      },
+      {
+        "path": "review_system/staging/nature_033.jpg",
+        "filename": "nature_033.jpg",
+        "status": "rejected",
+        "reason": "Basic requirements failed: File too large: 10.1MB",
+        "overall_score": 7.08,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 7.9,
+          "brightness": 7.37,
+          "color_quality": 3.99,
+          "composition": 1.93,
+          "technical_quality": 8.84
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": false,
+        "issues": [
+          "File too large: 10.1MB"
+        ],
+        "metadata": {
+          "id": "nature_033",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 33",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/j5/wallhaven-j5ey6q.jpg",
+          "source_url": "https://w.wallhaven.cc/full/j5/wallhaven-j5ey6q.jpg",
+          "original_info": {
+            "id": "wallhaven_j5ey6q",
+            "url": "https://w.wallhaven.cc/full/j5/wallhaven-j5ey6q.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "mountains wallpaper",
+            "width": 5304,
+            "height": 6630
+          },
+          "crawled_at": "2025-07-14T20:59:24.477648Z"
+        },
+        "assessed_at": "2025-07-14T15:32:21.718269Z"
+      },
+      {
+        "path": "review_system/staging/space_002.jpg",
+        "filename": "space_002.jpg",
+        "status": "rejected",
+        "reason": "Basic requirements failed: File too large: 14.4MB",
+        "overall_score": 5.75,
+        "detailed_scores": {
+          "sharpness": 2.1,
+          "contrast": 5.89,
+          "brightness": 5.24,
+          "color_quality": 3.83,
+          "composition": 5.22,
+          "technical_quality": 9.81
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": false,
+        "issues": [
+          "File too large: 14.4MB"
+        ],
+        "metadata": {
+          "id": "space_002",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 2",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/j5/wallhaven-j5xoq5.jpg",
+          "source_url": "https://w.wallhaven.cc/full/j5/wallhaven-j5xoq5.jpg",
+          "original_info": {
+            "id": "wallhaven_j5xoq5",
+            "url": "https://w.wallhaven.cc/full/j5/wallhaven-j5xoq5.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 8398,
+            "height": 9610
+          },
+          "crawled_at": "2025-07-14T20:59:22.676020Z"
+        },
+        "assessed_at": "2025-07-14T15:32:29.587542Z"
+      }
+    ],
+    "manual_review": [
+      {
+        "path": "review_system/staging/nature_007.jpg",
+        "filename": "nature_007.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.43,
+        "detailed_scores": {
+          "sharpness": 5.6,
+          "contrast": 4.59,
+          "brightness": 3.43,
+          "color_quality": 2.55,
+          "composition": 7.8,
+          "technical_quality": 9.73
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_007",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 7",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/g7/wallhaven-g7ryp7.jpg",
+          "source_url": "https://w.wallhaven.cc/full/g7/wallhaven-g7ryp7.jpg",
+          "original_info": {
+            "id": "wallhaven_g7ryp7",
+            "url": "https://w.wallhaven.cc/full/g7/wallhaven-g7ryp7.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "mountains wallpaper",
+            "width": 5304,
+            "height": 7952
+          },
+          "crawled_at": "2025-07-14T20:59:09.195986Z"
+        },
+        "assessed_at": "2025-07-14T15:31:38.987400Z"
+      },
+      {
+        "path": "review_system/staging/space_019.jpg",
+        "filename": "space_019.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.74,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 5.46,
+          "brightness": 2.83,
+          "color_quality": 2.74,
+          "composition": 0.0,
+          "technical_quality": 8.66
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_019",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 19",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/nr/wallhaven-nroy71.jpg",
+          "source_url": "https://w.wallhaven.cc/full/nr/wallhaven-nroy71.jpg",
+          "original_info": {
+            "id": "wallhaven_nroy71",
+            "url": "https://w.wallhaven.cc/full/nr/wallhaven-nroy71.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 3168,
+            "height": 4752
+          },
+          "crawled_at": "2025-07-14T20:59:18.070472Z"
+        },
+        "assessed_at": "2025-07-14T15:31:39.507917Z"
+      },
+      {
+        "path": "review_system/staging/space_025.jpg",
+        "filename": "space_025.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.53,
+        "detailed_scores": {
+          "sharpness": 7.06,
+          "contrast": 7.14,
+          "brightness": 6.79,
+          "color_quality": 1.95,
+          "composition": 8.49,
+          "technical_quality": 9.75
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_025",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 25",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/6d/wallhaven-6d2ewl.jpg",
+          "source_url": "https://w.wallhaven.cc/full/6d/wallhaven-6d2ewl.jpg",
+          "original_info": {
+            "id": "wallhaven_6d2ewl",
+            "url": "https://w.wallhaven.cc/full/6d/wallhaven-6d2ewl.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "stars wallpaper",
+            "width": 2258,
+            "height": 3387
+          },
+          "crawled_at": "2025-07-14T20:59:22.404424Z"
+        },
+        "assessed_at": "2025-07-14T15:31:40.555632Z"
+      },
+      {
+        "path": "review_system/staging/space_030.jpg",
+        "filename": "space_030.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.76,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.38,
+          "brightness": 4.21,
+          "color_quality": 3.77,
+          "composition": 0.92,
+          "technical_quality": 8.39
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_030",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 30",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/vg/wallhaven-vgzy73.jpg",
+          "source_url": "https://w.wallhaven.cc/full/vg/wallhaven-vgzy73.jpg",
+          "original_info": {
+            "id": "wallhaven_vgzy73",
+            "url": "https://w.wallhaven.cc/full/vg/wallhaven-vgzy73.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 1920,
+            "height": 2400
+          },
+          "crawled_at": "2025-07-14T20:59:26.060683Z"
+        },
+        "assessed_at": "2025-07-14T15:31:40.951103Z"
+      },
+      {
+        "path": "review_system/staging/nature_006.jpg",
+        "filename": "nature_006.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.02,
+        "detailed_scores": {
+          "sharpness": 0.64,
+          "contrast": 5.37,
+          "brightness": 4.49,
+          "color_quality": 2.07,
+          "composition": 5.32,
+          "technical_quality": 9.97
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_006",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 6",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/6d/wallhaven-6dp1mq.jpg",
+          "source_url": "https://w.wallhaven.cc/full/6d/wallhaven-6dp1mq.jpg",
+          "original_info": {
+            "id": "wallhaven_6dp1mq",
+            "url": "https://w.wallhaven.cc/full/6d/wallhaven-6dp1mq.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "mountains wallpaper",
+            "width": 2000,
+            "height": 3000
+          },
+          "crawled_at": "2025-07-14T20:59:07.971085Z"
+        },
+        "assessed_at": "2025-07-14T15:31:41.517810Z"
+      },
+      {
+        "path": "review_system/staging/nature_010.jpg",
+        "filename": "nature_010.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 4.94,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 3.12,
+          "brightness": 5.91,
+          "color_quality": 1.35,
+          "composition": 0.0,
+          "technical_quality": 8.39
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_010",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 10",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/j3/wallhaven-j38dwp.jpg",
+          "source_url": "https://w.wallhaven.cc/full/j3/wallhaven-j38dwp.jpg",
+          "original_info": {
+            "id": "wallhaven_j38dwp",
+            "url": "https://w.wallhaven.cc/full/j3/wallhaven-j38dwp.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "landscape wallpaper",
+            "width": 3712,
+            "height": 5568
+          },
+          "crawled_at": "2025-07-14T20:59:11.318669Z"
+        },
+        "assessed_at": "2025-07-14T15:31:42.720398Z"
+      },
+      {
+        "path": "review_system/staging/nature_038.jpg",
+        "filename": "nature_038.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.55,
+        "detailed_scores": {
+          "sharpness": 6.29,
+          "contrast": 3.28,
+          "brightness": 4.89,
+          "color_quality": 4.61,
+          "composition": 5.78,
+          "technical_quality": 9.7
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_038",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 38",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/j5/wallhaven-j5l62w.jpg",
+          "source_url": "https://w.wallhaven.cc/full/j5/wallhaven-j5l62w.jpg",
+          "original_info": {
+            "id": "wallhaven_j5l62w",
+            "url": "https://w.wallhaven.cc/full/j5/wallhaven-j5l62w.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "forest wallpaper",
+            "width": 3168,
+            "height": 4752
+          },
+          "crawled_at": "2025-07-14T20:59:32.213643Z"
+        },
+        "assessed_at": "2025-07-14T15:31:43.255898Z"
+      },
+      {
+        "path": "review_system/staging/space_026.jpg",
+        "filename": "space_026.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.17,
+        "detailed_scores": {
+          "sharpness": 5.74,
+          "contrast": 6.83,
+          "brightness": 4.86,
+          "color_quality": 4.69,
+          "composition": 7.03,
+          "technical_quality": 9.82
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_026",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 26",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/gp/wallhaven-gp7y9l.jpg",
+          "source_url": "https://w.wallhaven.cc/full/gp/wallhaven-gp7y9l.jpg",
+          "original_info": {
+            "id": "wallhaven_gp7y9l",
+            "url": "https://w.wallhaven.cc/full/gp/wallhaven-gp7y9l.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "stars wallpaper",
+            "width": 2160,
+            "height": 3840
+          },
+          "crawled_at": "2025-07-14T20:59:24.770141Z"
+        },
+        "assessed_at": "2025-07-14T15:31:43.533854Z"
+      },
+      {
+        "path": "review_system/staging/space_032.jpg",
+        "filename": "space_032.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.71,
+        "detailed_scores": {
+          "sharpness": 0.95,
+          "contrast": 6.92,
+          "brightness": 3.1,
+          "color_quality": 5.49,
+          "composition": 5.43,
+          "technical_quality": 9.92
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_032",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 32",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/j3/wallhaven-j3x6gm.jpg",
+          "source_url": "https://w.wallhaven.cc/full/j3/wallhaven-j3x6gm.jpg",
+          "original_info": {
+            "id": "wallhaven_j3x6gm",
+            "url": "https://w.wallhaven.cc/full/j3/wallhaven-j3x6gm.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 3222,
+            "height": 3703
+          },
+          "crawled_at": "2025-07-14T20:59:30.203883Z"
+        },
+        "assessed_at": "2025-07-14T15:31:43.958420Z"
+      },
+      {
+        "path": "review_system/staging/space_027.jpg",
+        "filename": "space_027.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.97,
+        "detailed_scores": {
+          "sharpness": 4.96,
+          "contrast": 10.0,
+          "brightness": 6.55,
+          "color_quality": 4.72,
+          "composition": 9.45,
+          "technical_quality": 9.74
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_027",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 27",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/4y/wallhaven-4y13ek.jpg",
+          "source_url": "https://w.wallhaven.cc/full/4y/wallhaven-4y13ek.jpg",
+          "original_info": {
+            "id": "wallhaven_4y13ek",
+            "url": "https://w.wallhaven.cc/full/4y/wallhaven-4y13ek.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 3264,
+            "height": 4912
+          },
+          "crawled_at": "2025-07-14T20:59:25.789554Z"
+        },
+        "assessed_at": "2025-07-14T15:31:45.103842Z"
+      },
+      {
+        "path": "review_system/staging/space_023.jpg",
+        "filename": "space_023.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.11,
+        "detailed_scores": {
+          "sharpness": 1.73,
+          "contrast": 5.25,
+          "brightness": 3.6,
+          "color_quality": 2.02,
+          "composition": 5.12,
+          "technical_quality": 9.8
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_023",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 23",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/ne/wallhaven-ne2mvr.jpg",
+          "source_url": "https://w.wallhaven.cc/full/ne/wallhaven-ne2mvr.jpg",
+          "original_info": {
+            "id": "wallhaven_ne2mvr",
+            "url": "https://w.wallhaven.cc/full/ne/wallhaven-ne2mvr.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 3190,
+            "height": 3756
+          },
+          "crawled_at": "2025-07-14T20:59:22.716309Z"
+        },
+        "assessed_at": "2025-07-14T15:31:45.445528Z"
+      },
+      {
+        "path": "review_system/staging/space_036.jpg",
+        "filename": "space_036.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.78,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.58,
+          "brightness": 6.72,
+          "color_quality": 4.23,
+          "composition": 1.26,
+          "technical_quality": 8.97
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_036",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 36",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/3l/wallhaven-3lgjqv.jpg",
+          "source_url": "https://w.wallhaven.cc/full/3l/wallhaven-3lgjqv.jpg",
+          "original_info": {
+            "id": "wallhaven_3lgjqv",
+            "url": "https://w.wallhaven.cc/full/3l/wallhaven-3lgjqv.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "nebula wallpaper",
+            "width": 3000,
+            "height": 3700
+          },
+          "crawled_at": "2025-07-14T20:59:38.995525Z"
+        },
+        "assessed_at": "2025-07-14T15:31:45.798847Z"
+      },
+      {
+        "path": "review_system/staging/nature_028.jpg",
+        "filename": "nature_028.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.96,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.32,
+          "brightness": 8.95,
+          "color_quality": 3.02,
+          "composition": 5.18,
+          "technical_quality": 9.42
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_028",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 28",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/zx/wallhaven-zxpewj.jpg",
+          "source_url": "https://w.wallhaven.cc/full/zx/wallhaven-zxpewj.jpg",
+          "original_info": {
+            "id": "wallhaven_zxpewj",
+            "url": "https://w.wallhaven.cc/full/zx/wallhaven-zxpewj.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "mountains wallpaper",
+            "width": 3840,
+            "height": 5760
+          },
+          "crawled_at": "2025-07-14T20:59:19.464440Z"
+        },
+        "assessed_at": "2025-07-14T15:31:46.600106Z"
+      },
+      {
+        "path": "review_system/staging/nature_016.jpg",
+        "filename": "nature_016.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.13,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 8.86,
+          "brightness": 7.88,
+          "color_quality": 2.04,
+          "composition": 2.27,
+          "technical_quality": 9.34
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_016",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 16",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/2e/wallhaven-2evkjm.jpg",
+          "source_url": "https://w.wallhaven.cc/full/2e/wallhaven-2evkjm.jpg",
+          "original_info": {
+            "id": "wallhaven_2evkjm",
+            "url": "https://w.wallhaven.cc/full/2e/wallhaven-2evkjm.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "landscape wallpaper",
+            "width": 2245,
+            "height": 3992
+          },
+          "crawled_at": "2025-07-14T20:59:12.063413Z"
+        },
+        "assessed_at": "2025-07-14T15:31:46.885856Z"
+      },
+      {
+        "path": "review_system/staging/space_034.jpg",
+        "filename": "space_034.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 4.62,
+        "detailed_scores": {
+          "sharpness": 0.54,
+          "contrast": 3.45,
+          "brightness": 3.83,
+          "color_quality": 2.3,
+          "composition": 5.05,
+          "technical_quality": 9.9
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_034",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 34",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/8x/wallhaven-8x29do.jpg",
+          "source_url": "https://w.wallhaven.cc/full/8x/wallhaven-8x29do.jpg",
+          "original_info": {
+            "id": "wallhaven_8x29do",
+            "url": "https://w.wallhaven.cc/full/8x/wallhaven-8x29do.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "nebula wallpaper",
+            "width": 5353,
+            "height": 6300
+          },
+          "crawled_at": "2025-07-14T20:59:28.867123Z"
+        },
+        "assessed_at": "2025-07-14T15:31:48.014593Z"
+      },
+      {
+        "path": "review_system/staging/space_020.jpg",
+        "filename": "space_020.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.55,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 7.72,
+          "brightness": 6.96,
+          "color_quality": 2.27,
+          "composition": 3.59,
+          "technical_quality": 9.1
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_020",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 20",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/9d/wallhaven-9dydj1.jpg",
+          "source_url": "https://w.wallhaven.cc/full/9d/wallhaven-9dydj1.jpg",
+          "original_info": {
+            "id": "wallhaven_9dydj1",
+            "url": "https://w.wallhaven.cc/full/9d/wallhaven-9dydj1.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "stars wallpaper",
+            "width": 2160,
+            "height": 3840
+          },
+          "crawled_at": "2025-07-14T20:59:18.853514Z"
+        },
+        "assessed_at": "2025-07-14T15:31:48.274559Z"
+      },
+      {
+        "path": "review_system/staging/space_008.jpg",
+        "filename": "space_008.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.75,
+        "detailed_scores": {
+          "sharpness": 3.44,
+          "contrast": 4.0,
+          "brightness": 4.06,
+          "color_quality": 3.11,
+          "composition": 6.46,
+          "technical_quality": 9.75
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_008",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 8",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/3k/wallhaven-3k8y8y.jpg",
+          "source_url": "https://w.wallhaven.cc/full/3k/wallhaven-3k8y8y.jpg",
+          "original_info": {
+            "id": "wallhaven_3k8y8y",
+            "url": "https://w.wallhaven.cc/full/3k/wallhaven-3k8y8y.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 3000,
+            "height": 3372
+          },
+          "crawled_at": "2025-07-14T20:59:07.049478Z"
+        },
+        "assessed_at": "2025-07-14T15:31:48.627505Z"
+      },
+      {
+        "path": "review_system/staging/space_035.jpg",
+        "filename": "space_035.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.11,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 5.16,
+          "brightness": 2.55,
+          "color_quality": 1.18,
+          "composition": 6.37,
+          "technical_quality": 9.72
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_035",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 35",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/6o/wallhaven-6o83ol.jpg",
+          "source_url": "https://w.wallhaven.cc/full/6o/wallhaven-6o83ol.jpg",
+          "original_info": {
+            "id": "wallhaven_6o83ol",
+            "url": "https://w.wallhaven.cc/full/6o/wallhaven-6o83ol.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "stars wallpaper",
+            "width": 3300,
+            "height": 5100
+          },
+          "crawled_at": "2025-07-14T20:59:29.487042Z"
+        },
+        "assessed_at": "2025-07-14T15:31:49.215575Z"
+      },
+      {
+        "path": "review_system/staging/nature_017.jpg",
+        "filename": "nature_017.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.91,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 9.46,
+          "brightness": 8.7,
+          "color_quality": 0.85,
+          "composition": 0.0,
+          "technical_quality": 8.71
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_017",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 17",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/28/wallhaven-28w6w9.jpg",
+          "source_url": "https://w.wallhaven.cc/full/28/wallhaven-28w6w9.jpg",
+          "original_info": {
+            "id": "wallhaven_28w6w9",
+            "url": "https://w.wallhaven.cc/full/28/wallhaven-28w6w9.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "forest wallpaper",
+            "width": 3276,
+            "height": 4096
+          },
+          "crawled_at": "2025-07-14T20:59:14.792883Z"
+        },
+        "assessed_at": "2025-07-14T15:31:49.795476Z"
+      },
+      {
+        "path": "review_system/staging/sports_003.jpg",
+        "filename": "sports_003.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.96,
+        "detailed_scores": {
+          "sharpness": 6.17,
+          "contrast": 7.45,
+          "brightness": 8.88,
+          "color_quality": 3.26,
+          "composition": 9.81,
+          "technical_quality": 9.75
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "sports_003",
+          "source": "wallhaven",
+          "category": "sports",
+          "title": "Sports Wallpaper 3",
+          "description": "High-quality sports wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "sports",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/2y/wallhaven-2yv18y.jpg",
+          "source_url": "https://w.wallhaven.cc/full/2y/wallhaven-2yv18y.jpg",
+          "original_info": {
+            "id": "wallhaven_2yv18y",
+            "url": "https://w.wallhaven.cc/full/2y/wallhaven-2yv18y.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "basketball wallpaper",
+            "width": 3648,
+            "height": 5472
+          },
+          "crawled_at": "2025-07-14T20:59:07.918291Z"
+        },
+        "assessed_at": "2025-07-14T15:31:50.493181Z"
+      },
+      {
+        "path": "review_system/staging/space_046.jpg",
+        "filename": "space_046.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 4.63,
+        "detailed_scores": {
+          "sharpness": 0.23,
+          "contrast": 2.71,
+          "brightness": 4.59,
+          "color_quality": 3.07,
+          "composition": 5.04,
+          "technical_quality": 9.96
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_046",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 46",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/qd/wallhaven-qdw6yd.jpg",
+          "source_url": "https://w.wallhaven.cc/full/qd/wallhaven-qdw6yd.jpg",
+          "original_info": {
+            "id": "wallhaven_qdw6yd",
+            "url": "https://w.wallhaven.cc/full/qd/wallhaven-qdw6yd.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "stars wallpaper",
+            "width": 3456,
+            "height": 5184
+          },
+          "crawled_at": "2025-07-14T20:59:41.074773Z"
+        },
+        "assessed_at": "2025-07-14T15:31:51.043940Z"
+      },
+      {
+        "path": "review_system/staging/space_047.jpg",
+        "filename": "space_047.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 4.59,
+        "detailed_scores": {
+          "sharpness": 0.15,
+          "contrast": 2.41,
+          "brightness": 1.65,
+          "color_quality": 5.07,
+          "composition": 5.09,
+          "technical_quality": 9.98
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_047",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 47",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/dg/wallhaven-dgpmvm.jpg",
+          "source_url": "https://w.wallhaven.cc/full/dg/wallhaven-dgpmvm.jpg",
+          "original_info": {
+            "id": "wallhaven_dgpmvm",
+            "url": "https://w.wallhaven.cc/full/dg/wallhaven-dgpmvm.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "nebula wallpaper",
+            "width": 2160,
+            "height": 2340
+          },
+          "crawled_at": "2025-07-14T20:59:40.525603Z"
+        },
+        "assessed_at": "2025-07-14T15:31:51.171739Z"
+      },
+      {
+        "path": "review_system/staging/sports_002.jpg",
+        "filename": "sports_002.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.31,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 5.55,
+          "brightness": 1.77,
+          "color_quality": 2.5,
+          "composition": 2.51,
+          "technical_quality": 8.99
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "sports_002",
+          "source": "wallhaven",
+          "category": "sports",
+          "title": "Sports Wallpaper 2",
+          "description": "High-quality sports wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "sports",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/0j/wallhaven-0jv6kp.jpg",
+          "source_url": "https://w.wallhaven.cc/full/0j/wallhaven-0jv6kp.jpg",
+          "original_info": {
+            "id": "wallhaven_0jv6kp",
+            "url": "https://w.wallhaven.cc/full/0j/wallhaven-0jv6kp.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "football wallpaper",
+            "width": 3000,
+            "height": 4000
+          },
+          "crawled_at": "2025-07-14T20:59:08.208806Z"
+        },
+        "assessed_at": "2025-07-14T15:31:51.513712Z"
+      },
+      {
+        "path": "review_system/staging/sports_014.jpg",
+        "filename": "sports_014.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.47,
+        "detailed_scores": {
+          "sharpness": 1.95,
+          "contrast": 4.47,
+          "brightness": 6.99,
+          "color_quality": 1.37,
+          "composition": 6.29,
+          "technical_quality": 9.84
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "sports_014",
+          "source": "wallhaven",
+          "category": "sports",
+          "title": "Sports Wallpaper 14",
+          "description": "High-quality sports wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "sports",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/28/wallhaven-28xpry.jpg",
+          "source_url": "https://w.wallhaven.cc/full/28/wallhaven-28xpry.jpg",
+          "original_info": {
+            "id": "wallhaven_28xpry",
+            "url": "https://w.wallhaven.cc/full/28/wallhaven-28xpry.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "basketball wallpaper",
+            "width": 2091,
+            "height": 4093
+          },
+          "crawled_at": "2025-07-14T20:59:11.364729Z"
+        },
+        "assessed_at": "2025-07-14T15:31:51.841321Z"
+      },
+      {
+        "path": "review_system/staging/cars_020.jpg",
+        "filename": "cars_020.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.46,
+        "detailed_scores": {
+          "sharpness": 1.55,
+          "contrast": 5.46,
+          "brightness": 7.05,
+          "color_quality": 1.62,
+          "composition": 5.52,
+          "technical_quality": 9.9
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "cars_020",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 20",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/p9/wallhaven-p959op.jpg",
+          "source_url": "https://w.wallhaven.cc/full/p9/wallhaven-p959op.jpg",
+          "original_info": {
+            "id": "wallhaven_p959op",
+            "url": "https://w.wallhaven.cc/full/p9/wallhaven-p959op.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "racing wallpaper",
+            "width": 4320,
+            "height": 5760
+          },
+          "crawled_at": "2025-07-14T20:59:11.950735Z"
+        },
+        "assessed_at": "2025-07-14T15:31:54.724364Z"
+      },
+      {
+        "path": "review_system/staging/space_050.jpg",
+        "filename": "space_050.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.34,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 5.12,
+          "brightness": 2.41,
+          "color_quality": 3.09,
+          "composition": 0.0,
+          "technical_quality": 8.1
+        },
+        "watermark_penalty": 7.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_050",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 50",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/0w/wallhaven-0wl687.jpg",
+          "source_url": "https://w.wallhaven.cc/full/0w/wallhaven-0wl687.jpg",
+          "original_info": {
+            "id": "wallhaven_0wl687",
+            "url": "https://w.wallhaven.cc/full/0w/wallhaven-0wl687.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 3168,
+            "height": 4752
+          },
+          "crawled_at": "2025-07-14T20:59:44.623047Z"
+        },
+        "assessed_at": "2025-07-14T15:31:55.424071Z"
+      },
+      {
+        "path": "review_system/staging/space_044.jpg",
+        "filename": "space_044.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.03,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.6,
+          "brightness": 2.47,
+          "color_quality": 4.21,
+          "composition": 3.71,
+          "technical_quality": 9.3
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_044",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 44",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/j8/wallhaven-j8e1zp.jpg",
+          "source_url": "https://w.wallhaven.cc/full/j8/wallhaven-j8e1zp.jpg",
+          "original_info": {
+            "id": "wallhaven_j8e1zp",
+            "url": "https://w.wallhaven.cc/full/j8/wallhaven-j8e1zp.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "stars wallpaper",
+            "width": 3456,
+            "height": 5184
+          },
+          "crawled_at": "2025-07-14T20:59:47.324967Z"
+        },
+        "assessed_at": "2025-07-14T15:31:56.018390Z"
+      },
+      {
+        "path": "review_system/staging/sports_029.jpg",
+        "filename": "sports_029.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.42,
+        "detailed_scores": {
+          "sharpness": 5.7,
+          "contrast": 3.61,
+          "brightness": 6.29,
+          "color_quality": 2.68,
+          "composition": 6.22,
+          "technical_quality": 9.92
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "sports_029",
+          "source": "wallhaven",
+          "category": "sports",
+          "title": "Sports Wallpaper 29",
+          "description": "High-quality sports wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "sports",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/o5/wallhaven-o56qo7.png",
+          "source_url": "https://w.wallhaven.cc/full/o5/wallhaven-o56qo7.png",
+          "original_info": {
+            "id": "wallhaven_o56qo7",
+            "url": "https://w.wallhaven.cc/full/o5/wallhaven-o56qo7.png",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "football wallpaper",
+            "width": 2500,
+            "height": 3537
+          },
+          "crawled_at": "2025-07-14T20:59:28.713344Z"
+        },
+        "assessed_at": "2025-07-14T15:31:56.287528Z"
+      },
+      {
+        "path": "review_system/staging/sports_015.jpg",
+        "filename": "sports_015.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.83,
+        "detailed_scores": {
+          "sharpness": 7.53,
+          "contrast": 6.75,
+          "brightness": 8.61,
+          "color_quality": 3.65,
+          "composition": 7.05,
+          "technical_quality": 9.84
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "sports_015",
+          "source": "wallhaven",
+          "category": "sports",
+          "title": "Sports Wallpaper 15",
+          "description": "High-quality sports wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "sports",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/6o/wallhaven-6o3oeq.png",
+          "source_url": "https://w.wallhaven.cc/full/6o/wallhaven-6o3oeq.png",
+          "original_info": {
+            "id": "wallhaven_6o3oeq",
+            "url": "https://w.wallhaven.cc/full/6o/wallhaven-6o3oeq.png",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "basketball wallpaper",
+            "width": 2160,
+            "height": 3840
+          },
+          "crawled_at": "2025-07-14T20:59:17.007962Z"
+        },
+        "assessed_at": "2025-07-14T15:31:57.567993Z"
+      },
+      {
+        "path": "review_system/staging/sports_011.jpg",
+        "filename": "sports_011.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.43,
+        "detailed_scores": {
+          "sharpness": 9.76,
+          "contrast": 6.44,
+          "brightness": 7.93,
+          "color_quality": 2.85,
+          "composition": 6.01,
+          "technical_quality": 9.54
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "sports_011",
+          "source": "wallhaven",
+          "category": "sports",
+          "title": "Sports Wallpaper 11",
+          "description": "High-quality sports wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "sports",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/kw/wallhaven-kwwmd7.jpg",
+          "source_url": "https://w.wallhaven.cc/full/kw/wallhaven-kwwmd7.jpg",
+          "original_info": {
+            "id": "wallhaven_kwwmd7",
+            "url": "https://w.wallhaven.cc/full/kw/wallhaven-kwwmd7.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "basketball wallpaper",
+            "width": 3024,
+            "height": 4032
+          },
+          "crawled_at": "2025-07-14T20:59:10.729782Z"
+        },
+        "assessed_at": "2025-07-14T15:31:57.976453Z"
+      },
+      {
+        "path": "review_system/staging/sports_005.jpg",
+        "filename": "sports_005.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.72,
+        "detailed_scores": {
+          "sharpness": 8.62,
+          "contrast": 7.33,
+          "brightness": 6.08,
+          "color_quality": 2.25,
+          "composition": 7.22,
+          "technical_quality": 9.66
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "sports_005",
+          "source": "wallhaven",
+          "category": "sports",
+          "title": "Sports Wallpaper 5",
+          "description": "High-quality sports wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "sports",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/rd/wallhaven-rdeylw.jpg",
+          "source_url": "https://w.wallhaven.cc/full/rd/wallhaven-rdeylw.jpg",
+          "original_info": {
+            "id": "wallhaven_rdeylw",
+            "url": "https://w.wallhaven.cc/full/rd/wallhaven-rdeylw.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "basketball wallpaper",
+            "width": 3840,
+            "height": 4139
+          },
+          "crawled_at": "2025-07-14T20:59:08.297292Z"
+        },
+        "assessed_at": "2025-07-14T15:31:58.584313Z"
+      },
+      {
+        "path": "review_system/staging/cars_025.jpg",
+        "filename": "cars_025.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.67,
+        "detailed_scores": {
+          "sharpness": 7.4,
+          "contrast": 6.68,
+          "brightness": 4.56,
+          "color_quality": 4.12,
+          "composition": 8.78,
+          "technical_quality": 9.64
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "cars_025",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 25",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/5y/wallhaven-5yl9p3.jpg",
+          "source_url": "https://w.wallhaven.cc/full/5y/wallhaven-5yl9p3.jpg",
+          "original_info": {
+            "id": "wallhaven_5yl9p3",
+            "url": "https://w.wallhaven.cc/full/5y/wallhaven-5yl9p3.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "racing wallpaper",
+            "width": 4000,
+            "height": 5039
+          },
+          "crawled_at": "2025-07-14T20:59:18.910896Z"
+        },
+        "assessed_at": "2025-07-14T15:31:59.616495Z"
+      },
+      {
+        "path": "review_system/staging/cars_019.jpg",
+        "filename": "cars_019.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.43,
+        "detailed_scores": {
+          "sharpness": 7.95,
+          "contrast": 4.65,
+          "brightness": 4.38,
+          "color_quality": 4.52,
+          "composition": 7.76,
+          "technical_quality": 9.82
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "cars_019",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 19",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/rq/wallhaven-rq72rw.png",
+          "source_url": "https://w.wallhaven.cc/full/rq/wallhaven-rq72rw.png",
+          "original_info": {
+            "id": "wallhaven_rq72rw",
+            "url": "https://w.wallhaven.cc/full/rq/wallhaven-rq72rw.png",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "racing wallpaper",
+            "width": 2160,
+            "height": 3840
+          },
+          "crawled_at": "2025-07-14T20:59:08.575553Z"
+        },
+        "assessed_at": "2025-07-14T15:31:59.893219Z"
+      },
+      {
+        "path": "review_system/staging/cars_018.jpg",
+        "filename": "cars_018.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.68,
+        "detailed_scores": {
+          "sharpness": 1.34,
+          "contrast": 7.75,
+          "brightness": 5.63,
+          "color_quality": 1.98,
+          "composition": 5.64,
+          "technical_quality": 9.89
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "cars_018",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 18",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/vq/wallhaven-vqv7z3.jpg",
+          "source_url": "https://w.wallhaven.cc/full/vq/wallhaven-vqv7z3.jpg",
+          "original_info": {
+            "id": "wallhaven_vqv7z3",
+            "url": "https://w.wallhaven.cc/full/vq/wallhaven-vqv7z3.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "racing wallpaper",
+            "width": 3240,
+            "height": 5760
+          },
+          "crawled_at": "2025-07-14T20:59:12.342606Z"
+        },
+        "assessed_at": "2025-07-14T15:32:00.500295Z"
+      },
+      {
+        "path": "review_system/staging/cars_024.jpg",
+        "filename": "cars_024.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.51,
+        "detailed_scores": {
+          "sharpness": 7.1,
+          "contrast": 8.97,
+          "brightness": 5.2,
+          "color_quality": 2.43,
+          "composition": 6.99,
+          "technical_quality": 9.77
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "cars_024",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 24",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/9m/wallhaven-9myykx.jpg",
+          "source_url": "https://w.wallhaven.cc/full/9m/wallhaven-9myykx.jpg",
+          "original_info": {
+            "id": "wallhaven_9myykx",
+            "url": "https://w.wallhaven.cc/full/9m/wallhaven-9myykx.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "sports car wallpaper",
+            "width": 3024,
+            "height": 4536
+          },
+          "crawled_at": "2025-07-14T20:59:13.360220Z"
+        },
+        "assessed_at": "2025-07-14T15:32:00.874625Z"
+      },
+      {
+        "path": "review_system/staging/space_041.jpg",
+        "filename": "space_041.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.04,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 7.69,
+          "brightness": 6.22,
+          "color_quality": 3.65,
+          "composition": 3.81,
+          "technical_quality": 9.47
+        },
+        "watermark_penalty": 7.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_041",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 41",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/39/wallhaven-39rrpy.jpg",
+          "source_url": "https://w.wallhaven.cc/full/39/wallhaven-39rrpy.jpg",
+          "original_info": {
+            "id": "wallhaven_39rrpy",
+            "url": "https://w.wallhaven.cc/full/39/wallhaven-39rrpy.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 3302,
+            "height": 4072
+          },
+          "crawled_at": "2025-07-14T21:00:28.621775Z"
+        },
+        "assessed_at": "2025-07-14T15:32:01.349315Z"
+      },
+      {
+        "path": "review_system/staging/sports_006.jpg",
+        "filename": "sports_006.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.78,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 8.75,
+          "brightness": 4.25,
+          "color_quality": 3.75,
+          "composition": 7.35,
+          "technical_quality": 9.4
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "sports_006",
+          "source": "wallhaven",
+          "category": "sports",
+          "title": "Sports Wallpaper 6",
+          "description": "High-quality sports wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "sports",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/13/wallhaven-133723.jpg",
+          "source_url": "https://w.wallhaven.cc/full/13/wallhaven-133723.jpg",
+          "original_info": {
+            "id": "wallhaven_133723",
+            "url": "https://w.wallhaven.cc/full/13/wallhaven-133723.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "basketball wallpaper",
+            "width": 2927,
+            "height": 4391
+          },
+          "crawled_at": "2025-07-14T20:59:07.065109Z"
+        },
+        "assessed_at": "2025-07-14T15:32:02.055734Z"
+      },
+      {
+        "path": "review_system/staging/sports_012.jpg",
+        "filename": "sports_012.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.9,
+        "detailed_scores": {
+          "sharpness": 5.2,
+          "contrast": 9.34,
+          "brightness": 4.92,
+          "color_quality": 2.57,
+          "composition": 7.59,
+          "technical_quality": 9.67
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "sports_012",
+          "source": "wallhaven",
+          "category": "sports",
+          "title": "Sports Wallpaper 12",
+          "description": "High-quality sports wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "sports",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/d6/wallhaven-d61dlj.png",
+          "source_url": "https://w.wallhaven.cc/full/d6/wallhaven-d61dlj.png",
+          "original_info": {
+            "id": "wallhaven_d61dlj",
+            "url": "https://w.wallhaven.cc/full/d6/wallhaven-d61dlj.png",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "basketball wallpaper",
+            "width": 2160,
+            "height": 3840
+          },
+          "crawled_at": "2025-07-14T20:59:17.200929Z"
+        },
+        "assessed_at": "2025-07-14T15:32:02.495663Z"
+      },
+      {
+        "path": "review_system/staging/nature_049.jpg",
+        "filename": "nature_049.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.0,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 5.33,
+          "brightness": 6.75,
+          "color_quality": 4.87,
+          "composition": 0.0,
+          "technical_quality": 8.98
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_049",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 49",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/ym/wallhaven-ym6jrx.jpg",
+          "source_url": "https://w.wallhaven.cc/full/ym/wallhaven-ym6jrx.jpg",
+          "original_info": {
+            "id": "wallhaven_ym6jrx",
+            "url": "https://w.wallhaven.cc/full/ym/wallhaven-ym6jrx.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "forest wallpaper",
+            "width": 2796,
+            "height": 3990
+          },
+          "crawled_at": "2025-07-14T20:59:28.522565Z"
+        },
+        "assessed_at": "2025-07-14T15:32:02.905054Z"
+      },
+      {
+        "path": "review_system/staging/space_043.jpg",
+        "filename": "space_043.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.18,
+        "detailed_scores": {
+          "sharpness": 0.64,
+          "contrast": 4.6,
+          "brightness": 6.53,
+          "color_quality": 2.66,
+          "composition": 5.3,
+          "technical_quality": 9.92
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_043",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 43",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/wy/wallhaven-wyo3lx.jpg",
+          "source_url": "https://w.wallhaven.cc/full/wy/wallhaven-wyo3lx.jpg",
+          "original_info": {
+            "id": "wallhaven_wyo3lx",
+            "url": "https://w.wallhaven.cc/full/wy/wallhaven-wyo3lx.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "nebula wallpaper",
+            "width": 2391,
+            "height": 3014
+          },
+          "crawled_at": "2025-07-14T20:59:37.789877Z"
+        },
+        "assessed_at": "2025-07-14T15:32:03.096344Z"
+      },
+      {
+        "path": "review_system/staging/cars_032.jpg",
+        "filename": "cars_032.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.83,
+        "detailed_scores": {
+          "sharpness": 1.11,
+          "contrast": 7.98,
+          "brightness": 5.04,
+          "color_quality": 3.29,
+          "composition": 5.86,
+          "technical_quality": 9.91
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "cars_032",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 32",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/l3/wallhaven-l3q78r.jpg",
+          "source_url": "https://w.wallhaven.cc/full/l3/wallhaven-l3q78r.jpg",
+          "original_info": {
+            "id": "wallhaven_l3q78r",
+            "url": "https://w.wallhaven.cc/full/l3/wallhaven-l3q78r.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "sports car wallpaper",
+            "width": 3807,
+            "height": 5711
+          },
+          "crawled_at": "2025-07-14T20:59:26.601112Z"
+        },
+        "assessed_at": "2025-07-14T15:32:03.700922Z"
+      },
+      {
+        "path": "review_system/staging/space_042.jpg",
+        "filename": "space_042.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.44,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.25,
+          "brightness": 6.64,
+          "color_quality": 2.77,
+          "composition": 2.82,
+          "technical_quality": 8.76
+        },
+        "watermark_penalty": 7.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_042",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 42",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/rd/wallhaven-rdqlgq.jpg",
+          "source_url": "https://w.wallhaven.cc/full/rd/wallhaven-rdqlgq.jpg",
+          "original_info": {
+            "id": "wallhaven_rdqlgq",
+            "url": "https://w.wallhaven.cc/full/rd/wallhaven-rdqlgq.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "stars wallpaper",
+            "width": 3276,
+            "height": 4096
+          },
+          "crawled_at": "2025-07-14T20:59:36.484676Z"
+        },
+        "assessed_at": "2025-07-14T15:32:04.297649Z"
+      },
+      {
+        "path": "review_system/staging/nature_048.jpg",
+        "filename": "nature_048.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.37,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 8.98,
+          "brightness": 6.45,
+          "color_quality": 1.58,
+          "composition": 0.0,
+          "technical_quality": 8.22
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_048",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 48",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/gj/wallhaven-gj6d9l.jpg",
+          "source_url": "https://w.wallhaven.cc/full/gj/wallhaven-gj6d9l.jpg",
+          "original_info": {
+            "id": "wallhaven_gj6d9l",
+            "url": "https://w.wallhaven.cc/full/gj/wallhaven-gj6d9l.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "landscape wallpaper",
+            "width": 2776,
+            "height": 3455
+          },
+          "crawled_at": "2025-07-14T20:59:25.930488Z"
+        },
+        "assessed_at": "2025-07-14T15:32:04.618136Z"
+      },
+      {
+        "path": "review_system/staging/sports_007.jpg",
+        "filename": "sports_007.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.05,
+        "detailed_scores": {
+          "sharpness": 1.35,
+          "contrast": 3.46,
+          "brightness": 3.51,
+          "color_quality": 3.33,
+          "composition": 5.78,
+          "technical_quality": 9.9
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "sports_007",
+          "source": "wallhaven",
+          "category": "sports",
+          "title": "Sports Wallpaper 7",
+          "description": "High-quality sports wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "sports",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/3z/wallhaven-3zkl9v.jpg",
+          "source_url": "https://w.wallhaven.cc/full/3z/wallhaven-3zkl9v.jpg",
+          "original_info": {
+            "id": "wallhaven_3zkl9v",
+            "url": "https://w.wallhaven.cc/full/3z/wallhaven-3zkl9v.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "football wallpaper",
+            "width": 2300,
+            "height": 3067
+          },
+          "crawled_at": "2025-07-14T20:59:14.955802Z"
+        },
+        "assessed_at": "2025-07-14T15:32:04.829368Z"
+      },
+      {
+        "path": "review_system/staging/sports_022.jpg",
+        "filename": "sports_022.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.76,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 5.03,
+          "brightness": 4.29,
+          "color_quality": 2.52,
+          "composition": 8.49,
+          "technical_quality": 9.63
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "sports_022",
+          "source": "wallhaven",
+          "category": "sports",
+          "title": "Sports Wallpaper 22",
+          "description": "High-quality sports wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "sports",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/3z/wallhaven-3z5933.jpg",
+          "source_url": "https://w.wallhaven.cc/full/3z/wallhaven-3z5933.jpg",
+          "original_info": {
+            "id": "wallhaven_3z5933",
+            "url": "https://w.wallhaven.cc/full/3z/wallhaven-3z5933.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "football wallpaper",
+            "width": 2500,
+            "height": 3125
+          },
+          "crawled_at": "2025-07-14T20:59:13.527903Z"
+        },
+        "assessed_at": "2025-07-14T15:32:05.067674Z"
+      },
+      {
+        "path": "review_system/staging/nature_044.jpg",
+        "filename": "nature_044.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.3,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 7.87,
+          "brightness": 6.78,
+          "color_quality": 4.53,
+          "composition": 0.0,
+          "technical_quality": 8.78
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_044",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 44",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/ym/wallhaven-ymgrlx.jpg",
+          "source_url": "https://w.wallhaven.cc/full/ym/wallhaven-ymgrlx.jpg",
+          "original_info": {
+            "id": "wallhaven_ymgrlx",
+            "url": "https://w.wallhaven.cc/full/ym/wallhaven-ymgrlx.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "landscape wallpaper",
+            "width": 4000,
+            "height": 6000
+          },
+          "crawled_at": "2025-07-14T20:59:26.747022Z"
+        },
+        "assessed_at": "2025-07-14T15:32:08.502100Z"
+      },
+      {
+        "path": "review_system/staging/cars_029.jpg",
+        "filename": "cars_029.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.69,
+        "detailed_scores": {
+          "sharpness": 5.78,
+          "contrast": 7.39,
+          "brightness": 7.51,
+          "color_quality": 4.26,
+          "composition": 8.59,
+          "technical_quality": 9.79
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "cars_029",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 29",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/qr/wallhaven-qr6635.jpg",
+          "source_url": "https://w.wallhaven.cc/full/qr/wallhaven-qr6635.jpg",
+          "original_info": {
+            "id": "wallhaven_qr6635",
+            "url": "https://w.wallhaven.cc/full/qr/wallhaven-qr6635.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "racing wallpaper",
+            "width": 2998,
+            "height": 4000
+          },
+          "crawled_at": "2025-07-14T20:59:15.886740Z"
+        },
+        "assessed_at": "2025-07-14T15:32:09.332506Z"
+      },
+      {
+        "path": "review_system/staging/sports_008.jpg",
+        "filename": "sports_008.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.1,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.1,
+          "brightness": 8.48,
+          "color_quality": 3.36,
+          "composition": 0.0,
+          "technical_quality": 9.14
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "sports_008",
+          "source": "wallhaven",
+          "category": "sports",
+          "title": "Sports Wallpaper 8",
+          "description": "High-quality sports wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "sports",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/zm/wallhaven-zmm19g.jpg",
+          "source_url": "https://w.wallhaven.cc/full/zm/wallhaven-zmm19g.jpg",
+          "original_info": {
+            "id": "wallhaven_zmm19g",
+            "url": "https://w.wallhaven.cc/full/zm/wallhaven-zmm19g.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "basketball wallpaper",
+            "width": 3130,
+            "height": 4695
+          },
+          "crawled_at": "2025-07-14T20:59:17.680694Z"
+        },
+        "assessed_at": "2025-07-14T15:32:09.873569Z"
+      },
+      {
+        "path": "review_system/staging/sports_018.jpg",
+        "filename": "sports_018.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.08,
+        "detailed_scores": {
+          "sharpness": 0.81,
+          "contrast": 10.0,
+          "brightness": 7.37,
+          "color_quality": 1.89,
+          "composition": 5.82,
+          "technical_quality": 9.9
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "sports_018",
+          "source": "wallhaven",
+          "category": "sports",
+          "title": "Sports Wallpaper 18",
+          "description": "High-quality sports wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "sports",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/vm/wallhaven-vm1rwl.jpg",
+          "source_url": "https://w.wallhaven.cc/full/vm/wallhaven-vm1rwl.jpg",
+          "original_info": {
+            "id": "wallhaven_vm1rwl",
+            "url": "https://w.wallhaven.cc/full/vm/wallhaven-vm1rwl.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "basketball wallpaper",
+            "width": 5792,
+            "height": 8688
+          },
+          "crawled_at": "2025-07-14T20:59:15.464807Z"
+        },
+        "assessed_at": "2025-07-14T15:32:11.798065Z"
+      },
+      {
+        "path": "review_system/staging/cars_004.jpg",
+        "filename": "cars_004.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.1,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 7.26,
+          "brightness": 3.81,
+          "color_quality": 4.24,
+          "composition": 2.36,
+          "technical_quality": 9.43
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "cars_004",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 4",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/qz/wallhaven-qzgpo5.jpg",
+          "source_url": "https://w.wallhaven.cc/full/qz/wallhaven-qzgpo5.jpg",
+          "original_info": {
+            "id": "wallhaven_qzgpo5",
+            "url": "https://w.wallhaven.cc/full/qz/wallhaven-qzgpo5.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "racing wallpaper",
+            "width": 3024,
+            "height": 4032
+          },
+          "crawled_at": "2025-07-14T20:59:06.995282Z"
+        },
+        "assessed_at": "2025-07-14T15:32:12.711655Z"
+      },
+      {
+        "path": "review_system/staging/cars_011.jpg",
+        "filename": "cars_011.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.23,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.43,
+          "brightness": 6.37,
+          "color_quality": 1.08,
+          "composition": 0.63,
+          "technical_quality": 9.34
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "cars_011",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 11",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/jx/wallhaven-jxxg65.jpg",
+          "source_url": "https://w.wallhaven.cc/full/jx/wallhaven-jxxg65.jpg",
+          "original_info": {
+            "id": "wallhaven_jxxg65",
+            "url": "https://w.wallhaven.cc/full/jx/wallhaven-jxxg65.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "racing wallpaper",
+            "width": 3024,
+            "height": 4032
+          },
+          "crawled_at": "2025-07-14T20:59:09.223329Z"
+        },
+        "assessed_at": "2025-07-14T15:32:14.324607Z"
+      },
+      {
+        "path": "review_system/staging/cars_005.jpg",
+        "filename": "cars_005.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.96,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.36,
+          "brightness": 6.53,
+          "color_quality": 2.99,
+          "composition": 3.52,
+          "technical_quality": 9.36
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "cars_005",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 5",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/96/wallhaven-969758.jpg",
+          "source_url": "https://w.wallhaven.cc/full/96/wallhaven-969758.jpg",
+          "original_info": {
+            "id": "wallhaven_969758",
+            "url": "https://w.wallhaven.cc/full/96/wallhaven-969758.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "sports car wallpaper",
+            "width": 2040,
+            "height": 3264
+          },
+          "crawled_at": "2025-07-14T20:59:08.463344Z"
+        },
+        "assessed_at": "2025-07-14T15:32:14.542218Z"
+      },
+      {
+        "path": "review_system/staging/space_048.jpg",
+        "filename": "space_048.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.06,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 1.93,
+          "brightness": 1.23,
+          "color_quality": 5.53,
+          "composition": 5.64,
+          "technical_quality": 9.87
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_048",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 48",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/85/wallhaven-85vzq2.jpg",
+          "source_url": "https://w.wallhaven.cc/full/85/wallhaven-85vzq2.jpg",
+          "original_info": {
+            "id": "wallhaven_85vzq2",
+            "url": "https://w.wallhaven.cc/full/85/wallhaven-85vzq2.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "nebula wallpaper",
+            "width": 2000,
+            "height": 3000
+          },
+          "crawled_at": "2025-07-14T20:59:56.870439Z"
+        },
+        "assessed_at": "2025-07-14T15:32:14.723470Z"
+      },
+      {
+        "path": "review_system/staging/nature_042.jpg",
+        "filename": "nature_042.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.98,
+        "detailed_scores": {
+          "sharpness": 7.77,
+          "contrast": 7.13,
+          "brightness": 9.24,
+          "color_quality": 1.45,
+          "composition": 6.17,
+          "technical_quality": 9.52
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_042",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 42",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/gj/wallhaven-gj1oyd.jpg",
+          "source_url": "https://w.wallhaven.cc/full/gj/wallhaven-gj1oyd.jpg",
+          "original_info": {
+            "id": "wallhaven_gj1oyd",
+            "url": "https://w.wallhaven.cc/full/gj/wallhaven-gj1oyd.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "mountains wallpaper",
+            "width": 3084,
+            "height": 4626
+          },
+          "crawled_at": "2025-07-14T20:59:22.423344Z"
+        },
+        "assessed_at": "2025-07-14T15:32:15.160867Z"
+      },
+      {
+        "path": "review_system/staging/sports_025.jpg",
+        "filename": "sports_025.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.51,
+        "detailed_scores": {
+          "sharpness": 3.19,
+          "contrast": 6.64,
+          "brightness": 9.18,
+          "color_quality": 3.26,
+          "composition": 5.67,
+          "technical_quality": 9.8
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "sports_025",
+          "source": "wallhaven",
+          "category": "sports",
+          "title": "Sports Wallpaper 25",
+          "description": "High-quality sports wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "sports",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/gp/wallhaven-gp85w3.jpg",
+          "source_url": "https://w.wallhaven.cc/full/gp/wallhaven-gp85w3.jpg",
+          "original_info": {
+            "id": "wallhaven_gp85w3",
+            "url": "https://w.wallhaven.cc/full/gp/wallhaven-gp85w3.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "basketball wallpaper",
+            "width": 2667,
+            "height": 4000
+          },
+          "crawled_at": "2025-07-14T20:59:17.292247Z"
+        },
+        "assessed_at": "2025-07-14T15:32:15.558625Z"
+      },
+      {
+        "path": "review_system/staging/nature_040.jpg",
+        "filename": "nature_040.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.49,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 5.78,
+          "brightness": 7.84,
+          "color_quality": 3.64,
+          "composition": 0.0,
+          "technical_quality": 8.99
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_040",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 40",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/zx/wallhaven-zxexov.jpg",
+          "source_url": "https://w.wallhaven.cc/full/zx/wallhaven-zxexov.jpg",
+          "original_info": {
+            "id": "wallhaven_zxexov",
+            "url": "https://w.wallhaven.cc/full/zx/wallhaven-zxexov.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "landscape wallpaper",
+            "width": 2644,
+            "height": 3959
+          },
+          "crawled_at": "2025-07-14T20:59:22.441711Z"
+        },
+        "assessed_at": "2025-07-14T15:32:15.929537Z"
+      },
+      {
+        "path": "review_system/staging/cars_013.jpg",
+        "filename": "cars_013.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.69,
+        "detailed_scores": {
+          "sharpness": 1.12,
+          "contrast": 6.86,
+          "brightness": 3.2,
+          "color_quality": 5.1,
+          "composition": 5.49,
+          "technical_quality": 9.85
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "cars_013",
+          "source": "wallhaven",
+          "category": "cars",
+          "title": "Cars Wallpaper 13",
+          "description": "High-quality cars wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "cars",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/3z/wallhaven-3ze6ey.jpg",
+          "source_url": "https://w.wallhaven.cc/full/3z/wallhaven-3ze6ey.jpg",
+          "original_info": {
+            "id": "wallhaven_3ze6ey",
+            "url": "https://w.wallhaven.cc/full/3z/wallhaven-3ze6ey.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "racing wallpaper",
+            "width": 2304,
+            "height": 4096
+          },
+          "crawled_at": "2025-07-14T20:59:08.496022Z"
+        },
+        "assessed_at": "2025-07-14T15:32:16.268251Z"
+      },
+      {
+        "path": "review_system/staging/sports_026.jpg",
+        "filename": "sports_026.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.5,
+        "detailed_scores": {
+          "sharpness": 4.33,
+          "contrast": 9.62,
+          "brightness": 6.69,
+          "color_quality": 5.48,
+          "composition": 6.72,
+          "technical_quality": 9.88
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "sports_026",
+          "source": "wallhaven",
+          "category": "sports",
+          "title": "Sports Wallpaper 26",
+          "description": "High-quality sports wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "sports",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/z8/wallhaven-z8g3gw.jpg",
+          "source_url": "https://w.wallhaven.cc/full/z8/wallhaven-z8g3gw.jpg",
+          "original_info": {
+            "id": "wallhaven_z8g3gw",
+            "url": "https://w.wallhaven.cc/full/z8/wallhaven-z8g3gw.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "football wallpaper",
+            "width": 3300,
+            "height": 5100
+          },
+          "crawled_at": "2025-07-14T20:59:15.109080Z"
+        },
+        "assessed_at": "2025-07-14T15:32:17.645657Z"
+      },
+      {
+        "path": "review_system/staging/space_038.jpg",
+        "filename": "space_038.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.7,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 9.37,
+          "brightness": 8.36,
+          "color_quality": 4.06,
+          "composition": 0.0,
+          "technical_quality": 9.23
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_038",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 38",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/5w/wallhaven-5wrrx8.jpg",
+          "source_url": "https://w.wallhaven.cc/full/5w/wallhaven-5wrrx8.jpg",
+          "original_info": {
+            "id": "wallhaven_5wrrx8",
+            "url": "https://w.wallhaven.cc/full/5w/wallhaven-5wrrx8.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 3302,
+            "height": 4072
+          },
+          "crawled_at": "2025-07-14T20:59:42.100555Z"
+        },
+        "assessed_at": "2025-07-14T15:32:18.484852Z"
+      },
+      {
+        "path": "review_system/staging/space_004.jpg",
+        "filename": "space_004.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.97,
+        "detailed_scores": {
+          "sharpness": 3.97,
+          "contrast": 9.37,
+          "brightness": 6.36,
+          "color_quality": 3.54,
+          "composition": 6.15,
+          "technical_quality": 9.91
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_004",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 4",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/6o/wallhaven-6or2vw.png",
+          "source_url": "https://w.wallhaven.cc/full/6o/wallhaven-6or2vw.png",
+          "original_info": {
+            "id": "wallhaven_6or2vw",
+            "url": "https://w.wallhaven.cc/full/6o/wallhaven-6or2vw.png",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "stars wallpaper",
+            "width": 2180,
+            "height": 3680
+          },
+          "crawled_at": "2025-07-14T20:59:11.590734Z"
+        },
+        "assessed_at": "2025-07-14T15:32:18.836895Z"
+      },
+      {
+        "path": "review_system/staging/space_011.jpg",
+        "filename": "space_011.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.34,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 5.78,
+          "brightness": 4.97,
+          "color_quality": 1.96,
+          "composition": 5.72,
+          "technical_quality": 9.12
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_011",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 11",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/wy/wallhaven-wy7oer.jpg",
+          "source_url": "https://w.wallhaven.cc/full/wy/wallhaven-wy7oer.jpg",
+          "original_info": {
+            "id": "wallhaven_wy7oer",
+            "url": "https://w.wallhaven.cc/full/wy/wallhaven-wy7oer.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "stars wallpaper",
+            "width": 2730,
+            "height": 4096
+          },
+          "crawled_at": "2025-07-14T20:59:20.142889Z"
+        },
+        "assessed_at": "2025-07-14T15:32:19.487788Z"
+      },
+      {
+        "path": "review_system/staging/nature_027.jpg",
+        "filename": "nature_027.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.61,
+        "detailed_scores": {
+          "sharpness": 5.94,
+          "contrast": 8.95,
+          "brightness": 8.42,
+          "color_quality": 1.76,
+          "composition": 8.28,
+          "technical_quality": 9.68
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_027",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 27",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/8o/wallhaven-8oj2g2.jpg",
+          "source_url": "https://w.wallhaven.cc/full/8o/wallhaven-8oj2g2.jpg",
+          "original_info": {
+            "id": "wallhaven_8oj2g2",
+            "url": "https://w.wallhaven.cc/full/8o/wallhaven-8oj2g2.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "mountains wallpaper",
+            "width": 3142,
+            "height": 3928
+          },
+          "crawled_at": "2025-07-14T20:59:15.085623Z"
+        },
+        "assessed_at": "2025-07-14T15:32:20.273101Z"
+      },
+      {
+        "path": "review_system/staging/nature_025.jpg",
+        "filename": "nature_025.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.68,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 7.26,
+          "brightness": 8.88,
+          "color_quality": 2.91,
+          "composition": 0.89,
+          "technical_quality": 9.41
+        },
+        "watermark_penalty": 7.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_025",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 25",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/83/wallhaven-83q83y.jpg",
+          "source_url": "https://w.wallhaven.cc/full/83/wallhaven-83q83y.jpg",
+          "original_info": {
+            "id": "wallhaven_83q83y",
+            "url": "https://w.wallhaven.cc/full/83/wallhaven-83q83y.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "forest wallpaper",
+            "width": 3072,
+            "height": 4608
+          },
+          "crawled_at": "2025-07-14T20:59:16.089526Z"
+        },
+        "assessed_at": "2025-07-14T15:32:22.314962Z"
+      },
+      {
+        "path": "review_system/staging/space_007.jpg",
+        "filename": "space_007.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.45,
+        "detailed_scores": {
+          "sharpness": 0.42,
+          "contrast": 5.31,
+          "brightness": 5.81,
+          "color_quality": 4.42,
+          "composition": 5.46,
+          "technical_quality": 9.94
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_007",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 7",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/57/wallhaven-5781v7.jpg",
+          "source_url": "https://w.wallhaven.cc/full/57/wallhaven-5781v7.jpg",
+          "original_info": {
+            "id": "wallhaven_5781v7",
+            "url": "https://w.wallhaven.cc/full/57/wallhaven-5781v7.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 3840,
+            "height": 5432
+          },
+          "crawled_at": "2025-07-14T20:59:08.005949Z"
+        },
+        "assessed_at": "2025-07-14T15:32:23.419875Z"
+      },
+      {
+        "path": "review_system/staging/space_013.jpg",
+        "filename": "space_013.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.99,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 7.6,
+          "brightness": 5.44,
+          "color_quality": 2.23,
+          "composition": 7.23,
+          "technical_quality": 9.43
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_013",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 13",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/7j/wallhaven-7j6gvv.jpg",
+          "source_url": "https://w.wallhaven.cc/full/7j/wallhaven-7j6gvv.jpg",
+          "original_info": {
+            "id": "wallhaven_7j6gvv",
+            "url": "https://w.wallhaven.cc/full/7j/wallhaven-7j6gvv.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "stars wallpaper",
+            "width": 2780,
+            "height": 4240
+          },
+          "crawled_at": "2025-07-14T20:59:22.084282Z"
+        },
+        "assessed_at": "2025-07-14T15:32:23.759077Z"
+      },
+      {
+        "path": "review_system/staging/space_012.jpg",
+        "filename": "space_012.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.51,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.59,
+          "brightness": 1.64,
+          "color_quality": 3.55,
+          "composition": 7.71,
+          "technical_quality": 9.82
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_012",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 12",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/x8/wallhaven-x8kwyv.jpg",
+          "source_url": "https://w.wallhaven.cc/full/x8/wallhaven-x8kwyv.jpg",
+          "original_info": {
+            "id": "wallhaven_x8kwyv",
+            "url": "https://w.wallhaven.cc/full/x8/wallhaven-x8kwyv.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 2300,
+            "height": 3000
+          },
+          "crawled_at": "2025-07-14T20:59:09.316731Z"
+        },
+        "assessed_at": "2025-07-14T15:32:23.923181Z"
+      },
+      {
+        "path": "review_system/staging/nature_008.jpg",
+        "filename": "nature_008.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.75,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.38,
+          "brightness": 6.27,
+          "color_quality": 1.88,
+          "composition": 8.88,
+          "technical_quality": 9.27
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_008",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 8",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/y8/wallhaven-y8j95l.jpg",
+          "source_url": "https://w.wallhaven.cc/full/y8/wallhaven-y8j95l.jpg",
+          "original_info": {
+            "id": "wallhaven_y8j95l",
+            "url": "https://w.wallhaven.cc/full/y8/wallhaven-y8j95l.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "landscape wallpaper",
+            "width": 3712,
+            "height": 5383
+          },
+          "crawled_at": "2025-07-14T20:59:09.425375Z"
+        },
+        "assessed_at": "2025-07-14T15:32:25.006813Z"
+      },
+      {
+        "path": "review_system/staging/nature_034.jpg",
+        "filename": "nature_034.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.0,
+        "detailed_scores": {
+          "sharpness": 2.09,
+          "contrast": 4.58,
+          "brightness": 8.92,
+          "color_quality": 2.84,
+          "composition": 6.72,
+          "technical_quality": 9.82
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_034",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 34",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/o3/wallhaven-o3op55.jpg",
+          "source_url": "https://w.wallhaven.cc/full/o3/wallhaven-o3op55.jpg",
+          "original_info": {
+            "id": "wallhaven_o3op55",
+            "url": "https://w.wallhaven.cc/full/o3/wallhaven-o3op55.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "mountains wallpaper",
+            "width": 4000,
+            "height": 6000
+          },
+          "crawled_at": "2025-07-14T20:59:19.230662Z"
+        },
+        "assessed_at": "2025-07-14T15:32:26.108602Z"
+      },
+      {
+        "path": "review_system/staging/space_016.jpg",
+        "filename": "space_016.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.61,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 8.64,
+          "brightness": 8.79,
+          "color_quality": 2.07,
+          "composition": 2.35,
+          "technical_quality": 8.85
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_016",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 16",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/lm/wallhaven-lm9lqq.jpg",
+          "source_url": "https://w.wallhaven.cc/full/lm/wallhaven-lm9lqq.jpg",
+          "original_info": {
+            "id": "wallhaven_lm9lqq",
+            "url": "https://w.wallhaven.cc/full/lm/wallhaven-lm9lqq.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 1920,
+            "height": 2715
+          },
+          "crawled_at": "2025-07-14T20:59:24.458292Z"
+        },
+        "assessed_at": "2025-07-14T15:32:29.780943Z"
+      },
+      {
+        "path": "review_system/staging/space_017.jpg",
+        "filename": "space_017.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.68,
+        "detailed_scores": {
+          "sharpness": 3.03,
+          "contrast": 5.11,
+          "brightness": 2.4,
+          "color_quality": 3.59,
+          "composition": 6.0,
+          "technical_quality": 9.89
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_017",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 17",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/p8/wallhaven-p8rjg9.png",
+          "source_url": "https://w.wallhaven.cc/full/p8/wallhaven-p8rjg9.png",
+          "original_info": {
+            "id": "wallhaven_p8rjg9",
+            "url": "https://w.wallhaven.cc/full/p8/wallhaven-p8rjg9.png",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "stars wallpaper",
+            "width": 1926,
+            "height": 3426
+          },
+          "crawled_at": "2025-07-14T20:59:13.248887Z"
+        },
+        "assessed_at": "2025-07-14T15:32:30.118133Z"
+      },
+      {
+        "path": "review_system/staging/space_003.jpg",
+        "filename": "space_003.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 5.0,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.14,
+          "brightness": 6.44,
+          "color_quality": 1.1,
+          "composition": 0.0,
+          "technical_quality": 7.86
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_003",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 3",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/p8/wallhaven-p82z2p.jpg",
+          "source_url": "https://w.wallhaven.cc/full/p8/wallhaven-p82z2p.jpg",
+          "original_info": {
+            "id": "wallhaven_p82z2p",
+            "url": "https://w.wallhaven.cc/full/p8/wallhaven-p82z2p.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 2000,
+            "height": 2560
+          },
+          "crawled_at": "2025-07-14T20:59:10.064985Z"
+        },
+        "assessed_at": "2025-07-14T15:32:30.356268Z"
+      },
+      {
+        "path": "review_system/staging/nature_035.jpg",
+        "filename": "nature_035.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.91,
+        "detailed_scores": {
+          "sharpness": 5.91,
+          "contrast": 10.0,
+          "brightness": 8.38,
+          "color_quality": 0.98,
+          "composition": 9.98,
+          "technical_quality": 9.74
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_035",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 35",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/4g/wallhaven-4g5wr3.jpg",
+          "source_url": "https://w.wallhaven.cc/full/4g/wallhaven-4g5wr3.jpg",
+          "original_info": {
+            "id": "wallhaven_4g5wr3",
+            "url": "https://w.wallhaven.cc/full/4g/wallhaven-4g5wr3.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "landscape wallpaper",
+            "width": 1920,
+            "height": 2560
+          },
+          "crawled_at": "2025-07-14T20:59:17.808998Z"
+        },
+        "assessed_at": "2025-07-14T15:32:30.492343Z"
+      },
+      {
+        "path": "review_system/staging/nature_037.jpg",
+        "filename": "nature_037.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.51,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 4.86,
+          "brightness": 5.64,
+          "color_quality": 2.55,
+          "composition": 1.49,
+          "technical_quality": 9.29
+        },
+        "watermark_penalty": 2.5,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_037",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 37",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/gp/wallhaven-gp7oml.jpg",
+          "source_url": "https://w.wallhaven.cc/full/gp/wallhaven-gp7oml.jpg",
+          "original_info": {
+            "id": "wallhaven_gp7oml",
+            "url": "https://w.wallhaven.cc/full/gp/wallhaven-gp7oml.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "landscape wallpaper",
+            "width": 3724,
+            "height": 5430
+          },
+          "crawled_at": "2025-07-14T20:59:23.931572Z"
+        },
+        "assessed_at": "2025-07-14T15:32:31.714728Z"
+      },
+      {
+        "path": "review_system/staging/nature_023.jpg",
+        "filename": "nature_023.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.51,
+        "detailed_scores": {
+          "sharpness": 4.96,
+          "contrast": 7.22,
+          "brightness": 7.15,
+          "color_quality": 2.02,
+          "composition": 8.26,
+          "technical_quality": 9.64
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_023",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 23",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/p2/wallhaven-p2ywe9.jpg",
+          "source_url": "https://w.wallhaven.cc/full/p2/wallhaven-p2ywe9.jpg",
+          "original_info": {
+            "id": "wallhaven_p2ywe9",
+            "url": "https://w.wallhaven.cc/full/p2/wallhaven-p2ywe9.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "landscape wallpaper",
+            "width": 3053,
+            "height": 4579
+          },
+          "crawled_at": "2025-07-14T20:59:15.175415Z"
+        },
+        "assessed_at": "2025-07-14T15:32:32.142252Z"
+      },
+      {
+        "path": "review_system/staging/space_015.jpg",
+        "filename": "space_015.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.76,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 5.45,
+          "brightness": 5.88,
+          "color_quality": 2.32,
+          "composition": 7.15,
+          "technical_quality": 9.67
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_015",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 15",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/8x/wallhaven-8xg1v1.jpg",
+          "source_url": "https://w.wallhaven.cc/full/8x/wallhaven-8xg1v1.jpg",
+          "original_info": {
+            "id": "wallhaven_8xg1v1",
+            "url": "https://w.wallhaven.cc/full/8x/wallhaven-8xg1v1.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "galaxy wallpaper",
+            "width": 3594,
+            "height": 5391
+          },
+          "crawled_at": "2025-07-14T20:59:38.722107Z"
+        },
+        "assessed_at": "2025-07-14T15:32:32.744722Z"
+      },
+      {
+        "path": "review_system/staging/space_028.jpg",
+        "filename": "space_028.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.3,
+        "detailed_scores": {
+          "sharpness": 5.12,
+          "contrast": 6.8,
+          "brightness": 2.3,
+          "color_quality": 3.41,
+          "composition": 5.4,
+          "technical_quality": 9.76
+        },
+        "watermark_penalty": 0.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "space_028",
+          "source": "wallhaven",
+          "category": "space",
+          "title": "Space Wallpaper 28",
+          "description": "High-quality space wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "space",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/ey/wallhaven-eyojj8.jpg",
+          "source_url": "https://w.wallhaven.cc/full/ey/wallhaven-eyojj8.jpg",
+          "original_info": {
+            "id": "wallhaven_eyojj8",
+            "url": "https://w.wallhaven.cc/full/ey/wallhaven-eyojj8.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "stars wallpaper",
+            "width": 2160,
+            "height": 3840
+          },
+          "crawled_at": "2025-07-14T20:59:25.608876Z"
+        },
+        "assessed_at": "2025-07-14T15:32:33.274394Z"
+      },
+      {
+        "path": "review_system/staging/nature_022.jpg",
+        "filename": "nature_022.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 6.72,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 8.89,
+          "brightness": 9.98,
+          "color_quality": 4.12,
+          "composition": 0.0,
+          "technical_quality": 8.88
+        },
+        "watermark_penalty": 10.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_022",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 22",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/39/wallhaven-392673.jpg",
+          "source_url": "https://w.wallhaven.cc/full/39/wallhaven-392673.jpg",
+          "original_info": {
+            "id": "wallhaven_392673",
+            "url": "https://w.wallhaven.cc/full/39/wallhaven-392673.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "landscape wallpaper",
+            "width": 2160,
+            "height": 3840
+          },
+          "crawled_at": "2025-07-14T20:59:20.286481Z"
+        },
+        "assessed_at": "2025-07-14T15:32:33.637465Z"
+      },
+      {
+        "path": "review_system/staging/nature_036.jpg",
+        "filename": "nature_036.jpg",
+        "status": "manual_review",
+        "reason": "Requires manual assessment",
+        "overall_score": 7.82,
+        "detailed_scores": {
+          "sharpness": 10.0,
+          "contrast": 6.53,
+          "brightness": 9.68,
+          "color_quality": 3.47,
+          "composition": 6.38,
+          "technical_quality": 9.5
+        },
+        "watermark_penalty": 5.0,
+        "mobile_suitability": 10.0,
+        "basic_requirements": true,
+        "issues": [],
+        "metadata": {
+          "id": "nature_036",
+          "source": "wallhaven",
+          "category": "nature",
+          "title": "Nature Wallpaper 36",
+          "description": "High-quality nature wallpaper from wallhaven",
+          "width": 1080,
+          "height": 1920,
+          "photographer": "Wallhaven Contributor",
+          "tags": [
+            "nature",
+            "wallpaper",
+            "hd",
+            "high resolution",
+            "mobile"
+          ],
+          "download_url": "https://w.wallhaven.cc/full/xl/wallhaven-xl7vlo.jpg",
+          "source_url": "https://w.wallhaven.cc/full/xl/wallhaven-xl7vlo.jpg",
+          "original_info": {
+            "id": "wallhaven_xl7vlo",
+            "url": "https://w.wallhaven.cc/full/xl/wallhaven-xl7vlo.jpg",
+            "source": "wallhaven",
+            "photographer": "Wallhaven Contributor",
+            "alt": "mountains wallpaper",
+            "width": 3264,
+            "height": 4928
+          },
+          "crawled_at": "2025-07-14T20:59:20.262284Z"
+        },
+        "assessed_at": "2025-07-14T15:32:34.269503Z"
+      }
+    ]
+  }
+}

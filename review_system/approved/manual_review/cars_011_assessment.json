@@ -1,0 +1,49 @@
+{
+  "path": "review_system/staging/cars_011.jpg",
+  "filename": "cars_011.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 6.23,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 6.43,
+    "brightness": 6.37,
+    "color_quality": 1.08,
+    "composition": 0.63,
+    "technical_quality": 9.34
+  },
+  "watermark_penalty": 5.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "cars_011",
+    "source": "wallhaven",
+    "category": "cars",
+    "title": "Cars Wallpaper 11",
+    "description": "High-quality cars wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "cars",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/jx/wallhaven-jxxg65.jpg",
+    "source_url": "https://w.wallhaven.cc/full/jx/wallhaven-jxxg65.jpg",
+    "original_info": {
+      "id": "wallhaven_jxxg65",
+      "url": "https://w.wallhaven.cc/full/jx/wallhaven-jxxg65.jpg",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "racing wallpaper",
+      "width": 3024,
+      "height": 4032
+    },
+    "crawled_at": "2025-07-14T20:59:09.223329Z"
+  },
+  "assessed_at": "2025-07-14T15:32:14.324607Z"
+}

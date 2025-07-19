@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 35,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/36.json",
@@ -15,393 +15,652 @@
   },
   "data": [
     {
-      "id": "anime_092",
-      "category": "anime",
-      "title": "Anime Wallpaper 092",
+      "id": "ai_108",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/092.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/092.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 832,
+          "height": 1472
         },
-        "file_size": 76278,
+        "file_size": 165866,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:37.995554",
-        "hash": "dfce80c1322c8d3384ece7c29ae0b3e5",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:14:10.164771",
+        "hash": "7794c6eedb36c0d13dbffbeb52df7c4c",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "civitai_stats": {
+          "cryCount": 486,
+          "laughCount": 866,
+          "likeCount": 7520,
+          "dislikeCount": 0,
+          "heartCount": 2646,
+          "commentCount": 8
+        },
+        "total_reactions": 10166
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/054.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/054.jpg"
       }
     },
     {
-      "id": "anime_093",
-      "category": "anime",
-      "title": "Anime Wallpaper 093",
+      "id": "ai_109",
+      "category": "ai",
+      "title": "flux1-dev-bnb-nf4-v2 Ai - Premium Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "flux1-dev-bnb-nf4-v2",
+        "high-resolution",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/093.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/093.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1578
         },
-        "file_size": 52385,
+        "file_size": 377133,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:38.278852",
-        "hash": "1dd0a1618164a23abee1721cab272042",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:14:11.891146",
+        "hash": "b5021d282da2a5c9f6c26e28bb49e0e4",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_model": "flux1-dev-bnb-nf4-v2",
+        "civitai_stats": {
+          "cryCount": 529,
+          "laughCount": 836,
+          "likeCount": 7429,
+          "dislikeCount": 0,
+          "heartCount": 2631,
+          "commentCount": 11
+        },
+        "total_reactions": 10060
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/055.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/055.jpg"
       }
     },
     {
-      "id": "anime_094",
-      "category": "anime",
-      "title": "Anime Wallpaper 094",
+      "id": "ai_110",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/094.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/094.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 199098,
+        "file_size": 130561,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:38.406367",
-        "hash": "fd8264b92a79b0eab83f4fc0391bb6d3",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:14:13.224043",
+        "hash": "d02767b4d21a658c437e34b06c65b7e7",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "civitai_stats": {
+          "cryCount": 526,
+          "laughCount": 882,
+          "likeCount": 6949,
+          "dislikeCount": 0,
+          "heartCount": 2881,
+          "commentCount": 9
+        },
+        "total_reactions": 9830
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/056.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/056.jpg"
       }
     },
     {
-      "id": "anime_095",
-      "category": "anime",
-      "title": "Anime Wallpaper 095",
+      "id": "ai_111",
+      "category": "ai",
+      "title": "masterpiece ultimate detailed tiny finnest details - Premium Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "f-flux1-dev-bnb-nf4-",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/095.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/095.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 896,
+          "height": 1152
         },
-        "file_size": 135111,
+        "file_size": 170669,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:38.654054",
-        "hash": "97f3e4ebae767b8ffc8a06966fc49b52",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:14:14.692602",
+        "hash": "384e6f72fef06ae4c9ed6823db457df6",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_prompt": "masterpiece, ultimate detailed, tiny finnest details,\nFierce japanese female warrior is holding a reflective shiny (katana:1.3) in front of  her face, (an ancient mythical Japanese demon is reflected in the katana blade:1.6),\n<lora:MJanime_Flux_LoRa:0.25> anime style <lora:NeonFantasyFLUX:0.5> ne0nf",
+        "ai_model": "F_flux1-dev-bnb-nf4-v2",
+        "civitai_stats": {
+          "cryCount": 508,
+          "laughCount": 838,
+          "likeCount": 6978,
+          "dislikeCount": 0,
+          "heartCount": 2765,
+          "commentCount": 23
+        },
+        "total_reactions": 9743
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/057.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/057.jpg"
       }
     },
     {
-      "id": "anime_096",
-      "category": "anime",
-      "title": "Anime Wallpaper 096",
+      "id": "ai_112",
+      "category": "ai",
+      "title": "flux_dev Ai - Premium Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "flux-dev",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/096.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/096.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1389
         },
-        "file_size": 382256,
+        "file_size": 278242,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:38.836289",
-        "hash": "bfcf0f9bfe9be274e8bf10fc0b90d979",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:14:18.039319",
+        "hash": "e3b0560e1ab1ee93aca31a15d3a51a07",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_tag_id": 5133,
+        "ai_model": "flux_dev",
+        "civitai_stats": {
+          "cryCount": 506,
+          "laughCount": 944,
+          "likeCount": 7003,
+          "dislikeCount": 0,
+          "heartCount": 2713,
+          "commentCount": 7
+        },
+        "total_reactions": 9716
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/058.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/058.jpg"
       }
     },
     {
-      "id": "anime_097",
-      "category": "anime",
-      "title": "Anime Wallpaper 097",
+      "id": "ai_059",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/097.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/097.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1579
         },
-        "file_size": 237002,
+        "file_size": 230798,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:39.071187",
-        "hash": "27dad95354794b51901ef7760ccc9b28",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:26:12.286609",
+        "hash": "76baa857d26108996dd6521bce890149",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 134,
+          "laughCount": 267,
+          "likeCount": 2820,
+          "dislikeCount": 0,
+          "heartCount": 913,
+          "commentCount": 1
+        },
+        "total_reactions": 3733
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/059.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/059.jpg"
       }
     },
     {
-      "id": "anime_098",
-      "category": "anime",
-      "title": "Anime Wallpaper 098",
+      "id": "ai_060",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/098.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/098.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1576
         },
-        "file_size": 75246,
+        "file_size": 240116,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:39.345016",
-        "hash": "3e542dad1eb0ffc97a4f6eabb97a1d89",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:26:14.694989",
+        "hash": "fea85300c9c2190b604cabee10d28038",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 149,
+          "laughCount": 243,
+          "likeCount": 2787,
+          "dislikeCount": 0,
+          "heartCount": 943,
+          "commentCount": 2
+        },
+        "total_reactions": 3730
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/060.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/060.jpg"
       }
     },
     {
-      "id": "anime_099",
-      "category": "anime",
-      "title": "Anime Wallpaper 099",
+      "id": "ai_061",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/099.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/099.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 106813,
+        "file_size": 210799,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:39.556618",
-        "hash": "3730158a88a82e9b9153703542df0d20",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:26:16.010612",
+        "hash": "b77d2e689f79b021f81c12e46975d7dc",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 154,
+          "laughCount": 269,
+          "likeCount": 2919,
+          "dislikeCount": 0,
+          "heartCount": 787,
+          "commentCount": 0
+        },
+        "total_reactions": 3706
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/061.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/061.jpg"
       }
     },
     {
-      "id": "anime_100",
-      "category": "anime",
-      "title": "Anime Wallpaper 100",
+      "id": "ai_062",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/100.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/100.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1579
         },
-        "file_size": 101522,
+        "file_size": 382747,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:39.728637",
-        "hash": "c192c5a32739978decec6bdbd6762d87",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:26:17.424316",
+        "hash": "f1677ecc1a6755c19e29a8ce643e58a7",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 141,
+          "laughCount": 303,
+          "likeCount": 2747,
+          "dislikeCount": 0,
+          "heartCount": 958,
+          "commentCount": 2
+        },
+        "total_reactions": 3705
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/062.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/062.jpg"
       }
     },
     {
-      "id": "anime_101",
-      "category": "anime",
-      "title": "Anime Wallpaper 101",
+      "id": "ai_063",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/101.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/101.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 367954,
+        "file_size": 144426,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:40.128557",
-        "hash": "367f68a26201c177f6ea080775ad21ad",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:26:19.593156",
+        "hash": "d4d799d9abcb9587cdf927ef2db87191",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 161,
+          "laughCount": 268,
+          "likeCount": 2886,
+          "dislikeCount": 0,
+          "heartCount": 818,
+          "commentCount": 2
+        },
+        "total_reactions": 3704
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/063.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/063.jpg"
       }
     },
     {
-      "id": "anime_102",
-      "category": "anime",
-      "title": "Anime Wallpaper 102",
+      "id": "ai_064",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/102.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/102.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 118278,
+        "file_size": 246610,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:40.313910",
-        "hash": "d5387e7d84c74c01a1af296688174127",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:26:21.907577",
+        "hash": "289952e6879f4f619987f8abf78b6552",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 147,
+          "laughCount": 283,
+          "likeCount": 2794,
+          "dislikeCount": 0,
+          "heartCount": 896,
+          "commentCount": 2
+        },
+        "total_reactions": 3690
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/064.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/064.jpg"
       }
     },
     {
-      "id": "anime_103",
-      "category": "anime",
-      "title": "Anime Wallpaper 103",
+      "id": "ai_065",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "high-resolution",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/103.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/103.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1578
         },
-        "file_size": 319593,
+        "file_size": 239756,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:40.810061",
-        "hash": "56c901614731af7c2ec6e6ced2335c15",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:26:23.410904",
+        "hash": "e9d8870b52a5b2f3b661aa4526ecaee5",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 175,
+          "laughCount": 297,
+          "likeCount": 2768,
+          "dislikeCount": 0,
+          "heartCount": 906,
+          "commentCount": 2
+        },
+        "total_reactions": 3674
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/065.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/065.jpg"
       }
     },
     {
-      "id": "anime_104",
-      "category": "anime",
-      "title": "Anime Wallpaper 104",
+      "id": "ai_066",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/104.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/104.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1576
         },
-        "file_size": 312609,
+        "file_size": 230846,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:41.446847",
-        "hash": "54af97722d92f6ba4f5a99fc91689004",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:26:25.787670",
+        "hash": "5400d6dea04a60ff818a1a1035e62bd8",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 168,
+          "laughCount": 299,
+          "likeCount": 2719,
+          "dislikeCount": 0,
+          "heartCount": 948,
+          "commentCount": 2
+        },
+        "total_reactions": 3667
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/066.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/066.jpg"
       }
     },
     {
-      "id": "anime_105",
-      "category": "anime",
-      "title": "Anime Wallpaper 105",
+      "id": "ai_067",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/105.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/105.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 289597,
+        "file_size": 132485,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:41.721990",
-        "hash": "8acfe2621bd69bf856a3054bdd131878",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:26:27.105078",
+        "hash": "1e7b39ca527dbcb9b9218191e797b82c",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 204,
+          "laughCount": 301,
+          "likeCount": 2721,
+          "dislikeCount": 0,
+          "heartCount": 923,
+          "commentCount": 1
+        },
+        "total_reactions": 3644
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/067.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/067.jpg"
       }
     },
     {
-      "id": "anime_106",
-      "category": "anime",
-      "title": "Anime Wallpaper 106",
+      "id": "ai_068",
+      "category": "ai",
+      "title": "Ai Premium AI - Civitai",
       "tags": [
-        "anime",
-        "wallpaper",
+        "ai",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "viral",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/106.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/106.jpg"
-      },
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 311332,
+        "file_size": 214187,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:42.039731",
-        "hash": "5ee86018d43696a05a446c8a39ca986c",
-        "source": "migrated"
+        "added_at": "2025-07-19T12:26:29.254844",
+        "hash": "3e8a650ff58d7c8c775d0b2487496a7d",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "scraping_method": "scroll_based",
+        "civitai_tag_id": 4,
+        "civitai_stats": {
+          "cryCount": 182,
+          "laughCount": 313,
+          "likeCount": 2776,
+          "dislikeCount": 0,
+          "heartCount": 863,
+          "commentCount": 2
+        },
+        "total_reactions": 3639
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/068.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/068.jpg"
       }
     }
   ]

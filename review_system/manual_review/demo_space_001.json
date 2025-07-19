@@ -1,0 +1,23 @@
+{
+  "id": "space_001",
+  "source": "unsplash_demo_enhanced",
+  "category": "space",
+  "title": "Space Enhanced Demo Wallpaper 1",
+  "description": "Enhanced demo space wallpaper from Unsplash",
+  "width": 1080,
+  "height": 1920,
+  "tags": [
+    "space",
+    "demo",
+    "wallpaper",
+    "mobile",
+    "enhanced"
+  ],
+  "download_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=attention&auto=faces",
+  "source_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=1080&h=1920&fit=crop&crop=attention&auto=faces",
+  "variation": {
+    "crop": "attention",
+    "auto": "faces"
+  },
+  "crawled_at": "2025-07-14T20:28:10.233113Z"
+}

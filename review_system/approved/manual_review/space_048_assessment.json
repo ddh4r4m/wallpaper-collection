@@ -1,0 +1,49 @@
+{
+  "path": "review_system/staging/space_048.jpg",
+  "filename": "space_048.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 7.06,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 1.93,
+    "brightness": 1.23,
+    "color_quality": 5.53,
+    "composition": 5.64,
+    "technical_quality": 9.87
+  },
+  "watermark_penalty": 0.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "space_048",
+    "source": "wallhaven",
+    "category": "space",
+    "title": "Space Wallpaper 48",
+    "description": "High-quality space wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "space",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/85/wallhaven-85vzq2.jpg",
+    "source_url": "https://w.wallhaven.cc/full/85/wallhaven-85vzq2.jpg",
+    "original_info": {
+      "id": "wallhaven_85vzq2",
+      "url": "https://w.wallhaven.cc/full/85/wallhaven-85vzq2.jpg",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "nebula wallpaper",
+      "width": 2000,
+      "height": 3000
+    },
+    "crawled_at": "2025-07-14T20:59:56.870439Z"
+  },
+  "assessed_at": "2025-07-14T15:32:14.723470Z"
+}

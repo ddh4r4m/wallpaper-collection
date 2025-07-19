@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 116,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/117.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "vintage_005",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 005",
+      "id": "nature_194",
+      "category": "nature",
+      "title": "Nature Wallpaper 194",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/005.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/005.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/194.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/194.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 188899,
+        "file_size": 402081,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.142750",
-        "hash": "da8f5a976a42e39bbdbe41b529b1be33",
+        "added_at": "2025-07-17T00:04:24.984433",
+        "hash": "35542bbcf4461e880fedd174dcf9d1a7",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_006",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 006",
+      "id": "nature_195",
+      "category": "nature",
+      "title": "Nature Wallpaper 195",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/006.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/006.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/195.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/195.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 360590,
+        "file_size": 298426,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.202100",
-        "hash": "c3678921fb0ff5bf4c5c1b30b2a7261d",
+        "added_at": "2025-07-17T00:04:25.040501",
+        "hash": "e450aae23accca1e7f21338bf9f24f31",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_007",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 007",
+      "id": "nature_196",
+      "category": "nature",
+      "title": "Nature Wallpaper 196",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/007.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/007.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/196.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/196.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 224015,
+        "file_size": 824228,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.254306",
-        "hash": "b4f373ce835c08141f187ebb2567ad8d",
+        "added_at": "2025-07-17T00:04:25.123619",
+        "hash": "0369b3af9817016a550fc6e7f8ad2453",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_008",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 008",
+      "id": "nature_197",
+      "category": "nature",
+      "title": "Nature Wallpaper 197",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/008.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/008.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/197.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/197.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 300181,
+        "file_size": 684352,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.310237",
-        "hash": "ca1afe634ba2b267d941a10ee59fd7f3",
+        "added_at": "2025-07-17T00:04:25.205873",
+        "hash": "c2cbd9d08c675a4d77a11899661b2558",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_009",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 009",
+      "id": "nature_198",
+      "category": "nature",
+      "title": "Nature Wallpaper 198",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/009.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/009.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/198.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/198.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 283179,
+        "file_size": 275811,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.366200",
-        "hash": "60728b95435fca6819e721a5c1b24fcb",
+        "added_at": "2025-07-17T00:04:25.264569",
+        "hash": "64147b5813e1f600c4ae9ce51e64247e",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_010",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 010",
+      "id": "nature_199",
+      "category": "nature",
+      "title": "Nature Wallpaper 199",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/010.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/010.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/199.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/199.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 240603,
+        "file_size": 844359,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.418616",
-        "hash": "ab27347080213730f8fe6a6690b95232",
+        "added_at": "2025-07-17T00:04:25.348568",
+        "hash": "e48b4b36860866f313591c33334e0d5f",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_011",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 011",
+      "id": "nature_200",
+      "category": "nature",
+      "title": "Nature Wallpaper 200",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/011.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/011.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/200.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/200.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 499182,
+        "file_size": 560527,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.485262",
-        "hash": "bb0473b3b42f20cbe1c1ae0edfa9c3a0",
+        "added_at": "2025-07-17T00:04:25.420279",
+        "hash": "6d9fabc63d0599fa9638d2fc29a42f52",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_012",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 012",
+      "id": "nature_201",
+      "category": "nature",
+      "title": "Nature Wallpaper 201",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/012.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/012.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/201.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/201.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 193392,
+        "file_size": 291488,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.568605",
-        "hash": "e10a10bccdea0d432c20f0ca5008af7e",
+        "added_at": "2025-07-17T00:04:25.478561",
+        "hash": "d01b8a3b8cd8f93a2ad01c12192379d7",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_013",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 013",
+      "id": "nature_202",
+      "category": "nature",
+      "title": "Nature Wallpaper 202",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/013.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/013.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/202.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/202.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 494603,
+        "file_size": 469749,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.634590",
-        "hash": "b5672ec60d8b4bdd5510f262dfe55edb",
+        "added_at": "2025-07-17T00:04:25.542548",
+        "hash": "c0994cffb1c1156c66566dda31ce093b",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_014",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 014",
+      "id": "nature_203",
+      "category": "nature",
+      "title": "Nature Wallpaper 203",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/014.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/014.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/203.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/203.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 331152,
+        "file_size": 525519,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.691264",
-        "hash": "8a221b2ee5da0482f254c92fef71f333",
+        "added_at": "2025-07-17T00:04:25.613041",
+        "hash": "63afc89ccb786835bb79263d7c421566",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_015",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 015",
+      "id": "nature_204",
+      "category": "nature",
+      "title": "Nature Wallpaper 204",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/015.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/015.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/204.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/204.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 432625,
+        "file_size": 432465,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.754228",
-        "hash": "1bb176601be8ee9175f14358a13d8617",
+        "added_at": "2025-07-17T00:04:25.678888",
+        "hash": "08657bcc98a16e041a8293598731b7b1",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_016",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 016",
+      "id": "nature_205",
+      "category": "nature",
+      "title": "Nature Wallpaper 205",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/016.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/016.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/205.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/205.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 402397,
+        "file_size": 427652,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.815483",
-        "hash": "3a4041aee727f590b934a6e17ebb81b8",
+        "added_at": "2025-07-17T00:04:25.741597",
+        "hash": "52e3d3ade165b8598a47fcd2035723c4",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_017",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 017",
+      "id": "nature_206",
+      "category": "nature",
+      "title": "Nature Wallpaper 206",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/017.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/017.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/206.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/206.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 293133,
+        "file_size": 386035,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.870991",
-        "hash": "47db52edde85ae37d7bb50f4a4797c7f",
+        "added_at": "2025-07-17T00:04:25.804836",
+        "hash": "49f6f4f0106b09c41bd5a6fa2bdf4ef6",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_018",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 018",
+      "id": "nature_207",
+      "category": "nature",
+      "title": "Nature Wallpaper 207",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/018.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/018.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/207.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/207.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 192505,
+        "file_size": 93902,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.920529",
-        "hash": "6b008e7220f01b1de07ceb207bf6d626",
+        "added_at": "2025-07-17T00:04:25.884621",
+        "hash": "72bcbcb929c0df6421367d59002de7bc",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_019",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 019",
+      "id": "nature_208",
+      "category": "nature",
+      "title": "Nature Wallpaper 208",
       "tags": [
-        "vintage",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/019.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/019.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/208.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/208.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 237075,
+        "file_size": 481398,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.973030",
-        "hash": "5e9ab03060a8ef3b4ce7c19dbe46de13",
+        "added_at": "2025-07-17T00:04:25.953837",
+        "hash": "3066189f9c05a7fefd45910ca9891d24",
         "source": "migrated"
       }
     }

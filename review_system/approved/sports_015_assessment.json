@@ -1,0 +1,48 @@
+{
+  "path": "review_system/staging/sports_015.jpg",
+  "filename": "sports_015.jpg",
+  "status": "approved",
+  "reason": "High quality image",
+  "overall_score": 8.01,
+  "detailed_scores": {
+    "sharpness": 6.2,
+    "contrast": 10.0,
+    "brightness": 5.73,
+    "color_quality": 3.46,
+    "composition": 9.46,
+    "technical_quality": 9.77
+  },
+  "watermark_penalty": 0.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "sports_015",
+    "source": "comprehensive_crawler",
+    "category": "sports",
+    "title": "Sports Wallpaper 15",
+    "description": "High-quality sports wallpaper from curated sources",
+    "width": 1080,
+    "height": 1920,
+    "tags": [
+      "sports",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile",
+      "athletic",
+      "fitness",
+      "competition",
+      "action",
+      "energy"
+    ],
+    "download_url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1080&h=1920&fit=crop&crop=attention&auto=enhance",
+    "source_url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1080&h=1920&fit=crop&crop=attention&auto=enhance",
+    "variation": {
+      "crop": "attention",
+      "auto": "enhance"
+    },
+    "crawled_at": "2025-07-14T20:49:14.085715Z"
+  },
+  "assessed_at": "2025-07-14T15:19:38.108701Z"
+}

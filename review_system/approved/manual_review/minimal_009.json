@@ -1,0 +1,28 @@
+{
+  "id": "minimal_009",
+  "source": "comprehensive_crawler",
+  "category": "minimal",
+  "title": "Minimal Wallpaper 9",
+  "description": "High-quality minimal wallpaper from curated sources",
+  "width": 1080,
+  "height": 1920,
+  "tags": [
+    "minimal",
+    "wallpaper",
+    "hd",
+    "high resolution",
+    "mobile",
+    "clean",
+    "simple",
+    "zen",
+    "monochrome",
+    "elegant"
+  ],
+  "download_url": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+  "source_url": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+  "variation": {
+    "crop": "faces",
+    "auto": "enhance"
+  },
+  "crawled_at": "2025-07-14T20:41:48.268232Z"
+}

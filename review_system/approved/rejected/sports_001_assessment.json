@@ -1,0 +1,51 @@
+{
+  "path": "review_system/staging/sports_001.jpg",
+  "filename": "sports_001.jpg",
+  "status": "rejected",
+  "reason": "Basic requirements failed: File too large: 16.7MB",
+  "overall_score": 7.9,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 6.92,
+    "brightness": 8.04,
+    "color_quality": 3.48,
+    "composition": 8.94,
+    "technical_quality": 9.71
+  },
+  "watermark_penalty": 7.5,
+  "mobile_suitability": 10.0,
+  "basic_requirements": false,
+  "issues": [
+    "File too large: 16.7MB"
+  ],
+  "metadata": {
+    "id": "sports_001",
+    "source": "wallhaven",
+    "category": "sports",
+    "title": "Sports Wallpaper 1",
+    "description": "High-quality sports wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "sports",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/wq/wallhaven-wq7qq6.jpg",
+    "source_url": "https://w.wallhaven.cc/full/wq/wallhaven-wq7qq6.jpg",
+    "original_info": {
+      "id": "wallhaven_wq7qq6",
+      "url": "https://w.wallhaven.cc/full/wq/wallhaven-wq7qq6.jpg",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "basketball wallpaper",
+      "width": 3714,
+      "height": 5384
+    },
+    "crawled_at": "2025-07-14T20:59:14.245005Z"
+  },
+  "assessed_at": "2025-07-14T15:31:57.235145Z"
+}

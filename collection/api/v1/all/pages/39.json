@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 39,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/40.json",
@@ -15,393 +15,393 @@
   },
   "data": [
     {
-      "id": "architecture_036",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 036",
+      "id": "animals_031",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/036.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/036.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1620
         },
-        "file_size": 103090,
+        "file_size": 241345,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:47.222977",
-        "hash": "b4083c354761582dbeccbf7881a66eae",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:47:42.385898",
+        "hash": "4f1ac8214e8ab32157d43df869138df1",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/031.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/031.jpg"
       }
     },
     {
-      "id": "architecture_037",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 037",
+      "id": "animals_032",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/037.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/037.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1350
         },
-        "file_size": 701479,
+        "file_size": 150223,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:47.303636",
-        "hash": "bde6980a036b5f0ac59d002b70f83fc7",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:47:46.445361",
+        "hash": "8f6391bf584b6f119a5ac4ede49fc5fc",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/032.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/032.jpg"
       }
     },
     {
-      "id": "architecture_038",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 038",
+      "id": "animals_033",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/038.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/038.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 721
         },
-        "file_size": 345359,
+        "file_size": 84126,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:47.364489",
-        "hash": "185fa75ccf483369227292ab98feff00",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:47:48.756449",
+        "hash": "ba5a95348e0097438fb35834fd6dde6f",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/033.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/033.jpg"
       }
     },
     {
-      "id": "architecture_039",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 039",
+      "id": "animals_034",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/039.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/039.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1620
         },
-        "file_size": 612329,
+        "file_size": 352492,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:47.440522",
-        "hash": "806fb233c8c5a7f6d85f45f827b23545",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:47:53.329303",
+        "hash": "0db51723fa25f545db1cce42403f39c3",
+        "photographer": "cat"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/034.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/034.jpg"
       }
     },
     {
-      "id": "architecture_040",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 040",
+      "id": "animals_035",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/040.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/040.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1620
         },
-        "file_size": 350243,
+        "file_size": 129038,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:47.502380",
-        "hash": "5dc69a3b29afb4b9400365a6cbf83f6b",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:47:55.671157",
+        "hash": "0c13ec8095bf1bda8c62320af8dc82c1",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/035.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/035.jpg"
       }
     },
     {
-      "id": "architecture_041",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 041",
+      "id": "animals_036",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/041.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/041.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1620
         },
-        "file_size": 357313,
+        "file_size": 121861,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:47.563433",
-        "hash": "fa61f3e9d7ec1c3bbdda568f3b8548c3",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:47:57.042938",
+        "hash": "f22f6b2e3ff4d7f548cf47ed82ec376f",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/036.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/036.jpg"
       }
     },
     {
-      "id": "architecture_042",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 042",
+      "id": "animals_037",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/042.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/042.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1619
         },
-        "file_size": 184350,
+        "file_size": 135639,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:47.613360",
-        "hash": "bc483989499dbaba74ccc4677cce52c4",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:48:00.433619",
+        "hash": "04a3b4f84acba39e9f880120f1c48b81",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/037.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/037.jpg"
       }
     },
     {
-      "id": "architecture_043",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 043",
+      "id": "animals_038",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/043.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/043.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 720
         },
-        "file_size": 424646,
+        "file_size": 129435,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:47.677327",
-        "hash": "88af9da08f219b1bba0dbf71b579f2ff",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:48:02.913153",
+        "hash": "7240c2a1cbbee958fcf4d56dc57d8619",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/038.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/038.jpg"
       }
     },
     {
-      "id": "architecture_044",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 044",
+      "id": "animals_039",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/044.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/044.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1686
         },
-        "file_size": 345174,
+        "file_size": 316639,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:47.738944",
-        "hash": "392c4feddeeaf384c444e8d9342f9ffc",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:48:06.537094",
+        "hash": "4affb8949eb52451660c9f7dbecffbbc",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/039.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/039.jpg"
       }
     },
     {
-      "id": "architecture_045",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 045",
+      "id": "animals_040",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/045.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/045.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 721
         },
-        "file_size": 97030,
+        "file_size": 88095,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:47.788907",
-        "hash": "94466f3f87141a1516c8bcb5040413fb",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:48:07.711771",
+        "hash": "2df3eb98eda89308eca0a1700d74c42e",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/040.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/040.jpg"
       }
     },
     {
-      "id": "architecture_046",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 046",
+      "id": "animals_041",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/046.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/046.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1732
         },
-        "file_size": 229941,
+        "file_size": 246809,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:47.842491",
-        "hash": "851e765b31bff1b09d10facfb6608e70",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:48:10.110241",
+        "hash": "314985973d1b44d3248b7a0c2efe519d",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/041.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/041.jpg"
       }
     },
     {
-      "id": "architecture_047",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 047",
+      "id": "animals_042",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/047.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/047.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1440
         },
-        "file_size": 192425,
+        "file_size": 190761,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:47.896461",
-        "hash": "fc0aae624662b9140af36ee9af013eed",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:48:13.747610",
+        "hash": "343402d0a28b57fdbdb25a43d06d8d21",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/042.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/042.jpg"
       }
     },
     {
-      "id": "architecture_048",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 048",
+      "id": "animals_043",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/048.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/048.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1440
         },
-        "file_size": 289688,
+        "file_size": 228763,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:47.955621",
-        "hash": "9a86fa06e279d209f986e5ba2ad41443",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:49:21.804823",
+        "hash": "bdd4f65e2d0718682cfc4b5059dc8516",
+        "photographer": "kitten sitting on floor"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/043.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/043.jpg"
       }
     },
     {
-      "id": "architecture_049",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 049",
+      "id": "animals_044",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/049.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/049.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1620
         },
-        "file_size": 216275,
+        "file_size": 252552,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:48.010140",
-        "hash": "767c160824773c3aa25394541f1a88d4",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:49:24.177961",
+        "hash": "69db033b82f534e10ea41a8bc9db5b13",
+        "photographer": "kitten"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/044.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/044.jpg"
       }
     },
     {
-      "id": "architecture_050",
-      "category": "architecture",
-      "title": "Architecture Wallpaper 050",
+      "id": "animals_045",
+      "category": "animals",
+      "title": "Animals Wallpaper",
       "tags": [
-        "architecture",
-        "wallpaper",
+        "animals",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/architecture/050.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/architecture/050.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 720
         },
-        "file_size": 264908,
+        "file_size": 71352,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:02:48.066485",
-        "hash": "69073b66b72d9ed95b77e20c61c1ecf9",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:49:26.380280",
+        "hash": "03f8c6cb793ab4f0773ffd066a1fb72e",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/animals/045.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/animals/045.jpg"
       }
     }
   ]

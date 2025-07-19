@@ -1,0 +1,28 @@
+{
+  "id": "technology_002",
+  "source": "comprehensive_crawler",
+  "category": "technology",
+  "title": "Technology Wallpaper 2",
+  "description": "High-quality technology wallpaper from curated sources",
+  "width": 1080,
+  "height": 1920,
+  "tags": [
+    "technology",
+    "wallpaper",
+    "hd",
+    "high resolution",
+    "mobile",
+    "tech",
+    "digital",
+    "futuristic",
+    "electronic",
+    "innovation"
+  ],
+  "download_url": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+  "source_url": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+  "variation": {
+    "crop": "faces",
+    "auto": "enhance"
+  },
+  "crawled_at": "2025-07-14T20:41:46.930652Z"
+}

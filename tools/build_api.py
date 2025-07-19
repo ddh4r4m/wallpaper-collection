@@ -42,7 +42,7 @@ class APIBuilder:
             'abstract', 'nature', 'space', 'minimal', 'cyberpunk', 'gaming', 
             'anime', 'movies', 'music', 'cars', 'sports', 'technology', 
             'architecture', 'art', 'dark', 'neon', 'pastel', 'vintage', 
-            'gradient', 'seasonal', '4k'
+            'gradient', 'seasonal', '4k', 'animals', 'ai'
         }
         
         # Category descriptions
@@ -67,7 +67,9 @@ class APIBuilder:
             'vintage': 'Retro designs, nostalgic themes, and classic aesthetics',
             'gradient': 'Color transitions, smooth blends, and abstract flows',
             'seasonal': 'Holiday themes, seasonal changes, and weather phenomena',
-            '4k': 'Ultra high-definition wallpapers optimized for 4K displays'
+            '4k': 'Ultra high-definition wallpapers optimized for 4K displays',
+            'animals': 'Wildlife photography, pets, and animal portraits',
+            'ai': 'AI-generated wallpapers from Stable Diffusion, Midjourney, and other AI models'
         }
     
     def build_urls(self, category, image_id):

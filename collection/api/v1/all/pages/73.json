@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 73,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/74.json",
@@ -15,393 +15,393 @@
   },
   "data": [
     {
-      "id": "gaming_074",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 074",
+      "id": "art_049",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "gaming",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/074.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/074.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 665
         },
-        "file_size": 317329,
+        "file_size": 100176,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:59.792003",
-        "hash": "69e6a3093e2580216258f2cb5170d385",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:23:41.364635",
+        "hash": "3ef76f8bd9ea91a0085686fb87a4fe0a",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/049.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/049.jpg"
       }
     },
     {
-      "id": "gaming_075",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 075",
+      "id": "art_050",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "gaming",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/075.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/075.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1410
         },
-        "file_size": 35834,
+        "file_size": 351660,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:03:59.999485",
-        "hash": "b4d75bffb2cd69d72f7ccc92962ef9d2",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:23:44.884138",
+        "hash": "65301d1e43aaa130026f560ced2c669c",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/050.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/050.jpg"
       }
     },
     {
-      "id": "gaming_076",
-      "category": "gaming",
-      "title": "Gaming Wallpaper 076",
+      "id": "art_051",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "gaming",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gaming/076.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gaming/076.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1500
         },
-        "file_size": 617679,
+        "file_size": 313170,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:00.225084",
-        "hash": "d3be692e87b6405ea040b1028df7c680",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:23:46.500169",
+        "hash": "2318509d627188ada7d6c7fdad99cdb7",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/051.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/051.jpg"
       }
     },
     {
-      "id": "minimal_001",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 001",
+      "id": "art_052",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/001.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/001.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1633
         },
-        "file_size": 14539,
+        "file_size": 133139,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:00.384859",
-        "hash": "9b6f9901397b459c29ea6f30f3ead674",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:23:50.243673",
+        "hash": "c62395ba2237af175a04af84904e2ba3",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/052.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/052.jpg"
       }
     },
     {
-      "id": "minimal_002",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 002",
+      "id": "art_053",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/002.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/002.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 670
         },
-        "file_size": 106901,
+        "file_size": 244780,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:00.535052",
-        "hash": "2c5d28dea64eb6485336c7d3c0ce6ab5",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:23:52.979910",
+        "hash": "0d7207d24730f83388cbf28022122d28",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/053.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/053.jpg"
       }
     },
     {
-      "id": "minimal_003",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 003",
+      "id": "art_054",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/003.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/003.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 720
         },
-        "file_size": 35239,
+        "file_size": 56437,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:00.751082",
-        "hash": "06127cca133d2cf12317650d18a302eb",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:23:55.550589",
+        "hash": "5984047b09ff2ac7038f7a113a8f5d59",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/054.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/054.jpg"
       }
     },
     {
-      "id": "minimal_004",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 004",
+      "id": "art_055",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/004.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/004.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1620
         },
-        "file_size": 12526,
+        "file_size": 235910,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:00.968116",
-        "hash": "3bb9d740e795d5ac06b404dc78cce91a",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:23:58.251607",
+        "hash": "ed46a642b52e897d3fdbb9dadb75fce3",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/055.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/055.jpg"
       }
     },
     {
-      "id": "minimal_005",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 005",
+      "id": "art_056",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/005.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/005.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1616
         },
-        "file_size": 422081,
+        "file_size": 82013,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:01.179344",
-        "hash": "61033eac90023431564c688d1c9e99b0",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:24:02.119605",
+        "hash": "481174804260a5533560877bb22f221c",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/056.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/056.jpg"
       }
     },
     {
-      "id": "minimal_006",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 006",
+      "id": "art_057",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/006.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/006.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1618
         },
-        "file_size": 91681,
+        "file_size": 198934,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:01.390204",
-        "hash": "6a25d8b0515674cc71b0ec052185ce07",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:24:04.639257",
+        "hash": "be29267c72090bbe34c6d0f6b1144b01",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/057.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/057.jpg"
       }
     },
     {
-      "id": "minimal_007",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 007",
+      "id": "art_058",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/007.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/007.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1440
         },
-        "file_size": 144049,
+        "file_size": 183906,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:01.549741",
-        "hash": "ba984e260d39cf01ae4b9ecbfa7f7821",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:54:32.197067",
+        "hash": "98e96f423186a602bebb4f32e1bf0716",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/058.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/058.jpg"
       }
     },
     {
-      "id": "minimal_008",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 008",
+      "id": "art_059",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/008.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/008.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 665
         },
-        "file_size": 31912,
+        "file_size": 100176,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:01.759189",
-        "hash": "90ec2b90c76c067d949e2c476636eba1",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:54:34.496226",
+        "hash": "3ef76f8bd9ea91a0085686fb87a4fe0a",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/059.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/059.jpg"
       }
     },
     {
-      "id": "minimal_009",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 009",
+      "id": "art_060",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/009.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/009.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 810
         },
-        "file_size": 114695,
+        "file_size": 271072,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:01.972377",
-        "hash": "bd6a9af9633cd5ed77d987bf04e6f88c",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:54:36.736054",
+        "hash": "87eabfff7e82770f736e9a3881964356",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/060.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/060.jpg"
       }
     },
     {
-      "id": "minimal_010",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 010",
+      "id": "art_061",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/010.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/010.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1410
         },
-        "file_size": 380669,
+        "file_size": 351660,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:02.246169",
-        "hash": "95fa630b5f3a0cdc340ecf587dbdbf3f",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:54:41.315262",
+        "hash": "65301d1e43aaa130026f560ced2c669c",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/061.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/061.jpg"
       }
     },
     {
-      "id": "minimal_011",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 011",
+      "id": "art_062",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/011.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/011.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1500
         },
-        "file_size": 13656,
+        "file_size": 313170,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:02.399942",
-        "hash": "42b707933c1d17beb2e4fd0a0bedac51",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:54:42.842285",
+        "hash": "2318509d627188ada7d6c7fdad99cdb7",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/062.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/062.jpg"
       }
     },
     {
-      "id": "minimal_012",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 012",
+      "id": "art_063",
+      "category": "art",
+      "title": "Art Wallpaper",
       "tags": [
-        "minimal",
-        "wallpaper",
+        "art",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/012.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/012.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1536
         },
-        "file_size": 152135,
+        "file_size": 362451,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:02.538068",
-        "hash": "e9398214e38b2f6c32c28ed4813778eb",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:54:44.206056",
+        "hash": "da9ebc6b019be061727c21e58c16e169",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/art/063.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/art/063.jpg"
       }
     }
   ]

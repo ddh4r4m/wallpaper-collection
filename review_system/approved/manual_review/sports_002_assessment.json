@@ -1,0 +1,49 @@
+{
+  "path": "review_system/staging/sports_002.jpg",
+  "filename": "sports_002.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 6.31,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 5.55,
+    "brightness": 1.77,
+    "color_quality": 2.5,
+    "composition": 2.51,
+    "technical_quality": 8.99
+  },
+  "watermark_penalty": 2.5,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "sports_002",
+    "source": "wallhaven",
+    "category": "sports",
+    "title": "Sports Wallpaper 2",
+    "description": "High-quality sports wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "sports",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/0j/wallhaven-0jv6kp.jpg",
+    "source_url": "https://w.wallhaven.cc/full/0j/wallhaven-0jv6kp.jpg",
+    "original_info": {
+      "id": "wallhaven_0jv6kp",
+      "url": "https://w.wallhaven.cc/full/0j/wallhaven-0jv6kp.jpg",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "football wallpaper",
+      "width": 3000,
+      "height": 4000
+    },
+    "crawled_at": "2025-07-14T20:59:08.208806Z"
+  },
+  "assessed_at": "2025-07-14T15:31:51.513712Z"
+}

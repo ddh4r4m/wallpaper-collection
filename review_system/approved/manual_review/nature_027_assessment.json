@@ -1,0 +1,49 @@
+{
+  "path": "review_system/staging/nature_027.jpg",
+  "filename": "nature_027.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 7.61,
+  "detailed_scores": {
+    "sharpness": 5.94,
+    "contrast": 8.95,
+    "brightness": 8.42,
+    "color_quality": 1.76,
+    "composition": 8.28,
+    "technical_quality": 9.68
+  },
+  "watermark_penalty": 0.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "nature_027",
+    "source": "wallhaven",
+    "category": "nature",
+    "title": "Nature Wallpaper 27",
+    "description": "High-quality nature wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "nature",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/8o/wallhaven-8oj2g2.jpg",
+    "source_url": "https://w.wallhaven.cc/full/8o/wallhaven-8oj2g2.jpg",
+    "original_info": {
+      "id": "wallhaven_8oj2g2",
+      "url": "https://w.wallhaven.cc/full/8o/wallhaven-8oj2g2.jpg",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "mountains wallpaper",
+      "width": 3142,
+      "height": 3928
+    },
+    "crawled_at": "2025-07-14T20:59:15.085623Z"
+  },
+  "assessed_at": "2025-07-14T15:32:20.273101Z"
+}

@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-19T12:15:32.791759",
+    "page": 162,
+    "per_page": 15,
+    "total_pages": 162,
+    "total_count": 2416,
+    "count_on_page": 1,
+    "categories": 19,
+    "has_next": false,
+    "has_prev": true,
+    "next_page_url": null,
+    "prev_page_url": "/api/v1/all/pages/161.json"
+  },
+  "data": [
+    {
+      "id": "vintage_099",
+      "category": "vintage",
+      "title": "Vintage Wallpaper",
+      "tags": [
+        "vintage",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 608
+        },
+        "file_size": 289845,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:32:09.987305",
+        "hash": "dc8dbd201d11bb0d6b38f975327e6cc3",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/099.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/099.jpg"
+      }
+    }
+  ]
+}

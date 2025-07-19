@@ -1,0 +1,43 @@
+{
+  "path": "crawl_cache/demo_space_022.jpg",
+  "filename": "demo_space_022.jpg",
+  "status": "manual_review",
+  "reason": "Requires manual assessment",
+  "overall_score": 7.72,
+  "detailed_scores": {
+    "sharpness": 8.23,
+    "contrast": 7.36,
+    "brightness": 3.66,
+    "color_quality": 2.85,
+    "composition": 8.86,
+    "technical_quality": 9.69
+  },
+  "watermark_penalty": 0.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": true,
+  "issues": [],
+  "metadata": {
+    "id": "space_022",
+    "source": "unsplash_demo_enhanced",
+    "category": "space",
+    "title": "Space Enhanced Demo Wallpaper 22",
+    "description": "Enhanced demo space wallpaper from Unsplash",
+    "width": 1080,
+    "height": 1920,
+    "tags": [
+      "space",
+      "demo",
+      "wallpaper",
+      "mobile",
+      "enhanced"
+    ],
+    "download_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+    "source_url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=1080&h=1920&fit=crop&crop=faces&auto=enhance",
+    "variation": {
+      "crop": "faces",
+      "auto": "enhance"
+    },
+    "crawled_at": "2025-07-14T20:28:39.651197Z"
+  },
+  "assessed_at": "2025-07-14T15:00:23.112255Z"
+}

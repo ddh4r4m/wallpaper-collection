@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 106,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/107.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "seasonal_036",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 036",
+      "id": "nature_044",
+      "category": "nature",
+      "title": "Nature Wallpaper 044",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/036.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/036.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/044.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/044.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 501125,
+        "file_size": 538561,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:40.879638",
-        "hash": "c8baafe08dff4acc46b350cff60cd644",
+        "added_at": "2025-07-17T00:04:14.820990",
+        "hash": "173543eb8687abf0972651094f06cec1",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_037",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 037",
+      "id": "nature_045",
+      "category": "nature",
+      "title": "Nature Wallpaper 045",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/037.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/037.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/045.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/045.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 394188,
+        "file_size": 349224,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:40.941998",
-        "hash": "970996c7bcc444eb93a26b084d5daa00",
+        "added_at": "2025-07-17T00:04:14.880269",
+        "hash": "f6b8bad9f94bc6d24c7b871c85ba6868",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_038",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 038",
+      "id": "nature_046",
+      "category": "nature",
+      "title": "Nature Wallpaper 046",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/038.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/038.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/046.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/046.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 263283,
+        "file_size": 631902,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:40.998324",
-        "hash": "7c51cc36449c061ba56707130e5a48c4",
+        "added_at": "2025-07-17T00:04:14.955711",
+        "hash": "ab604dad7a9e9e51f0fbb0ec419f4bdd",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_039",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 039",
+      "id": "nature_047",
+      "category": "nature",
+      "title": "Nature Wallpaper 047",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/039.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/039.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/047.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/047.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 424801,
+        "file_size": 653356,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:41.062381",
-        "hash": "91020b81b0e8e660f002b463bf2e743d",
+        "added_at": "2025-07-17T00:04:15.031589",
+        "hash": "0df3618f71cc4f56047b7d99bf743548",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_040",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 040",
+      "id": "nature_048",
+      "category": "nature",
+      "title": "Nature Wallpaper 048",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/040.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/040.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/048.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/048.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 289987,
+        "file_size": 346189,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:41.120150",
-        "hash": "5b0ed9d49cc1740058420d0b4c83c0cd",
+        "added_at": "2025-07-17T00:04:15.092762",
+        "hash": "74ef50819a9e449ac6f98937c63ffeb5",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_041",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 041",
+      "id": "nature_049",
+      "category": "nature",
+      "title": "Nature Wallpaper 049",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/041.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/041.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/049.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/049.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 450983,
+        "file_size": 620668,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:41.183178",
-        "hash": "a999d73aca32992c8a18ec8cc67b8184",
+        "added_at": "2025-07-17T00:04:15.169070",
+        "hash": "101d08e39c0c7261d920fb6e065be108",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_042",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 042",
+      "id": "nature_050",
+      "category": "nature",
+      "title": "Nature Wallpaper 050",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/042.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/042.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/050.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/050.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 358415,
+        "file_size": 736221,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:41.242965",
-        "hash": "bc07f5c9cd0f3780a2646201343f8cf6",
+        "added_at": "2025-07-17T00:04:15.248796",
+        "hash": "1a9b3d6bf5abee28249fb016883204b8",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_043",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 043",
+      "id": "nature_051",
+      "category": "nature",
+      "title": "Nature Wallpaper 051",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/043.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/043.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/051.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/051.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 264440,
+        "file_size": 761396,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:41.297827",
-        "hash": "5c028c2fb86b265db11270bad3d5fa6e",
+        "added_at": "2025-07-17T00:04:15.330847",
+        "hash": "21be02eb2eee5c7c44631e89a69777ac",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_044",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 044",
+      "id": "nature_052",
+      "category": "nature",
+      "title": "Nature Wallpaper 052",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/044.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/044.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/052.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/052.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 462850,
+        "file_size": 544093,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:41.362195",
-        "hash": "6d08f5520559b56689c00e8fffa106fe",
+        "added_at": "2025-07-17T00:04:15.401446",
+        "hash": "f00cf58a4861ccd19b3803b8dfb2d1f1",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_045",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 045",
+      "id": "nature_053",
+      "category": "nature",
+      "title": "Nature Wallpaper 053",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/045.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/045.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/053.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/053.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 203283,
+        "file_size": 470110,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:41.413463",
-        "hash": "bd86153605f9a5ff222434eefdd3a7c9",
+        "added_at": "2025-07-17T00:04:15.465468",
+        "hash": "c5d27db7d2337ad9d9db77b580fbb05e",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_046",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 046",
+      "id": "nature_054",
+      "category": "nature",
+      "title": "Nature Wallpaper 054",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/046.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/046.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/054.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/054.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 578754,
+        "file_size": 143331,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:41.481812",
-        "hash": "7c02ea158cce4e7211ff8e651bee839f",
+        "added_at": "2025-07-17T00:04:15.514740",
+        "hash": "bfd1482fc1192bbe9c7613792a8b4eb0",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_047",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 047",
+      "id": "nature_055",
+      "category": "nature",
+      "title": "Nature Wallpaper 055",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/047.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/047.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/055.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/055.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 614677,
+        "file_size": 835258,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:41.552418",
-        "hash": "73a8bff12755343ecd862176623c407c",
+        "added_at": "2025-07-17T00:04:15.598472",
+        "hash": "af92a49ca4077de1212d1fce39173e8e",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_048",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 048",
+      "id": "nature_056",
+      "category": "nature",
+      "title": "Nature Wallpaper 056",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/048.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/048.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/056.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/056.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 309480,
+        "file_size": 349498,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:41.607735",
-        "hash": "08530deaa94ab24985bb6c027366eb8d",
+        "added_at": "2025-07-17T00:04:15.660782",
+        "hash": "5e12bbcae553f9333f9cfeb1e8bc60e6",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_049",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 049",
+      "id": "nature_057",
+      "category": "nature",
+      "title": "Nature Wallpaper 057",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/049.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/049.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/057.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/057.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 184289,
+        "file_size": 744906,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:41.657609",
-        "hash": "93d26ac5beabb908486d941e6c0f9f1f",
+        "added_at": "2025-07-17T00:04:15.737720",
+        "hash": "1d110ffdfffb8e2f1696caf5c1d4b4eb",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_050",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 050",
+      "id": "nature_058",
+      "category": "nature",
+      "title": "Nature Wallpaper 058",
       "tags": [
-        "seasonal",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/050.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/050.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/058.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/058.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 366083,
+        "file_size": 452470,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:41.717451",
-        "hash": "262758c5fa60347cfb7f1eafccb4e37c",
+        "added_at": "2025-07-17T00:04:15.802874",
+        "hash": "9b543ecd96a9e61ee5b1474cdb2f2a53",
         "source": "migrated"
       }
     }

@@ -1,0 +1,51 @@
+{
+  "path": "review_system/staging/space_031.jpg",
+  "filename": "space_031.jpg",
+  "status": "rejected",
+  "reason": "Basic requirements failed: File too large: 20.0MB",
+  "overall_score": 7.34,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 4.32,
+    "brightness": 3.03,
+    "color_quality": 1.54,
+    "composition": 8.37,
+    "technical_quality": 9.53
+  },
+  "watermark_penalty": 0.0,
+  "mobile_suitability": 10.0,
+  "basic_requirements": false,
+  "issues": [
+    "File too large: 20.0MB"
+  ],
+  "metadata": {
+    "id": "space_031",
+    "source": "wallhaven",
+    "category": "space",
+    "title": "Space Wallpaper 31",
+    "description": "High-quality space wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "space",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/rr/wallhaven-rrrxmm.png",
+    "source_url": "https://w.wallhaven.cc/full/rr/wallhaven-rrrxmm.png",
+    "original_info": {
+      "id": "wallhaven_rrrxmm",
+      "url": "https://w.wallhaven.cc/full/rr/wallhaven-rrrxmm.png",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "galaxy wallpaper",
+      "width": 3051,
+      "height": 4432
+    },
+    "crawled_at": "2025-07-14T20:59:28.211966Z"
+  },
+  "assessed_at": "2025-07-14T15:31:40.266785Z"
+}

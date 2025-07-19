@@ -1,0 +1,23 @@
+{
+  "id": "neon_017",
+  "source": "comprehensive_crawler",
+  "category": "neon",
+  "title": "Neon Wallpaper 17",
+  "description": "High-quality neon wallpaper from curated sources",
+  "width": 1080,
+  "height": 1920,
+  "tags": [
+    "neon",
+    "wallpaper",
+    "hd",
+    "high resolution",
+    "mobile"
+  ],
+  "download_url": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+  "source_url": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1080&h=1920&fit=crop&crop=entropy&auto=compress",
+  "variation": {
+    "crop": "entropy",
+    "auto": "compress"
+  },
+  "crawled_at": "2025-07-14T20:51:46.606735Z"
+}

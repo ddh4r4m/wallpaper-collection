@@ -1,0 +1,35 @@
+{
+  "id": "ai_062",
+  "category": "ai",
+  "title": "Ai AI Art - Civitai",
+  "tags": [
+    "ai",
+    "ai-generated",
+    "civitai",
+    "stable-diffusion",
+    "hd",
+    "mobile",
+    "community-rated"
+  ],
+  "metadata": {
+    "dimensions": {
+      "width": 1080,
+      "height": 1080
+    },
+    "file_size": 310330,
+    "format": "JPEG",
+    "added_at": "2025-07-19T12:00:07.681988",
+    "hash": "7097139bbdb02b2fcf4c2efa0dd314bd",
+    "ai_source": "civitai",
+    "ai_generated": true,
+    "source_platform": "civitai.com",
+    "civitai_stats": {
+      "cryCount": 23,
+      "laughCount": 61,
+      "likeCount": 625,
+      "dislikeCount": 0,
+      "heartCount": 163,
+      "commentCount": 1
+    }
+  }
+}

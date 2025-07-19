@@ -1,0 +1,41 @@
+{
+  "id": "ai_085",
+  "category": "ai",
+  "title": "loraGEN 01v08loraExpressive_H-000001loramodern_ani - Premium Civitai",
+  "tags": [
+    "ai",
+    "ai-generated",
+    "civitai",
+    "stable-diffusion",
+    "hd",
+    "mobile",
+    "viral",
+    "meichidarkmix-meichi",
+    "community-rated"
+  ],
+  "metadata": {
+    "dimensions": {
+      "width": 1080,
+      "height": 1680
+    },
+    "file_size": 212222,
+    "format": "JPEG",
+    "added_at": "2025-07-19T12:13:30.764724",
+    "hash": "2eb269623e81964f7786739957a23575",
+    "ai_source": "civitai",
+    "ai_generated": true,
+    "source_platform": "civitai.com",
+    "civitai_tag_id": 5133,
+    "ai_prompt": "<lora:GEN 0.1v:0.8>,<lora:Expressive_H-000001>,<lora:modern_anime_screencap_v1_0:0.8>,source_anime,score_9,score_8_up,score_7_up,score_6_up,dark background,low light,\n1girl,solo,<lora:age_slider_v4:1.2>,adult,tall female,black hair,medium hair,bangs,full bangs,straight hair,red eyes,pale skin,skinde",
+    "ai_model": "meichidarkMix_meichidarkanimxlV1",
+    "civitai_stats": {
+      "cryCount": 609,
+      "laughCount": 1114,
+      "likeCount": 9648,
+      "dislikeCount": 0,
+      "heartCount": 3703,
+      "commentCount": 2
+    },
+    "total_reactions": 13351
+  }
+}

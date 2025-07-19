@@ -1,0 +1,51 @@
+{
+  "path": "review_system/staging/cars_038.jpg",
+  "filename": "cars_038.jpg",
+  "status": "rejected",
+  "reason": "Basic requirements failed: File too large: 13.5MB",
+  "overall_score": 8.1,
+  "detailed_scores": {
+    "sharpness": 10.0,
+    "contrast": 6.43,
+    "brightness": 8.44,
+    "color_quality": 1.47,
+    "composition": 9.37,
+    "technical_quality": 9.59
+  },
+  "watermark_penalty": 2.5,
+  "mobile_suitability": 10.0,
+  "basic_requirements": false,
+  "issues": [
+    "File too large: 13.5MB"
+  ],
+  "metadata": {
+    "id": "cars_038",
+    "source": "wallhaven",
+    "category": "cars",
+    "title": "Cars Wallpaper 38",
+    "description": "High-quality cars wallpaper from wallhaven",
+    "width": 1080,
+    "height": 1920,
+    "photographer": "Wallhaven Contributor",
+    "tags": [
+      "cars",
+      "wallpaper",
+      "hd",
+      "high resolution",
+      "mobile"
+    ],
+    "download_url": "https://w.wallhaven.cc/full/q6/wallhaven-q66ejd.jpg",
+    "source_url": "https://w.wallhaven.cc/full/q6/wallhaven-q66ejd.jpg",
+    "original_info": {
+      "id": "wallhaven_q66ejd",
+      "url": "https://w.wallhaven.cc/full/q6/wallhaven-q66ejd.jpg",
+      "source": "wallhaven",
+      "photographer": "Wallhaven Contributor",
+      "alt": "racing wallpaper",
+      "width": 3456,
+      "height": 5184
+    },
+    "crawled_at": "2025-07-14T20:59:17.060204Z"
+  },
+  "assessed_at": "2025-07-14T15:32:13.565221Z"
+}

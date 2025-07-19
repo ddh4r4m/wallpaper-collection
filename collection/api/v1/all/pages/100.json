@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 100,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/101.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "neon_073",
-      "category": "neon",
-      "title": "Neon Wallpaper 073",
+      "id": "minimal_018",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 018",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/073.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/073.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/018.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/018.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 109171,
+        "file_size": 62772,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.479916",
-        "hash": "38d634bba06621d5bceaa87726132fe8",
+        "added_at": "2025-07-17T00:04:03.776060",
+        "hash": "fcddf52165b282af2848f4b068a455fa",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_074",
-      "category": "neon",
-      "title": "Neon Wallpaper 074",
+      "id": "minimal_019",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 019",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/074.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/074.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/019.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/019.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 191115,
+        "file_size": 32636,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.531613",
-        "hash": "cd446ea2aeb558e418c96df80486b905",
+        "added_at": "2025-07-17T00:04:03.990438",
+        "hash": "e0e151706ff36342d03b7a2ac10d00de",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_075",
-      "category": "neon",
-      "title": "Neon Wallpaper 075",
+      "id": "minimal_020",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 020",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/075.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/075.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/020.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/020.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 246669,
+        "file_size": 122723,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.590237",
-        "hash": "4f66cc43000c44141043724956df323e",
+        "added_at": "2025-07-17T00:04:04.376914",
+        "hash": "3e894fd1ad828ba43cb7d6536a6a36c9",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_076",
-      "category": "neon",
-      "title": "Neon Wallpaper 076",
+      "id": "minimal_021",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 021",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/076.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/076.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/021.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/021.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 382270,
+        "file_size": 12524,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.653074",
-        "hash": "bd0cd9edeaa5858072771a78832f85df",
+        "added_at": "2025-07-17T00:04:05.015106",
+        "hash": "63fcc8d5d3acaa029664f6a1d4f4a66c",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_077",
-      "category": "neon",
-      "title": "Neon Wallpaper 077",
+      "id": "minimal_022",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 022",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/077.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/077.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/022.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/022.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 368695,
+        "file_size": 12527,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.714223",
-        "hash": "64bd0dab3f6bd933ead253363c9917d6",
+        "added_at": "2025-07-17T00:04:05.164096",
+        "hash": "0df761605e683954bb39c78de2d7c1ea",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_078",
-      "category": "neon",
-      "title": "Neon Wallpaper 078",
+      "id": "minimal_023",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 023",
       "tags": [
-        "neon",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/078.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/078.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/023.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/023.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 282619,
+        "file_size": 122279,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.774632",
-        "hash": "43ce71244b7b2d4a10949e53b7fbad7c",
+        "added_at": "2025-07-17T00:04:05.292240",
+        "hash": "08e59f7d4a3b5fd5c0f6dedc4be88ceb",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_001",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 001",
+      "id": "minimal_024",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 024",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/001.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/001.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/024.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/024.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 454760,
+        "file_size": 190172,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.842372",
-        "hash": "b550b693683cfc708d2b6857966f0fb0",
+        "added_at": "2025-07-17T00:04:05.435912",
+        "hash": "939f005b21bfa9a994c61ef080304b0a",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_002",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 002",
+      "id": "minimal_025",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 025",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/002.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/002.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/025.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/025.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 479226,
+        "file_size": 35531,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.912894",
-        "hash": "baaa28df92e2438f51d1d466dec450cb",
+        "added_at": "2025-07-17T00:04:05.650603",
+        "hash": "d4ddd86275e4cc699b5911453daa13d1",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_003",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 003",
+      "id": "minimal_026",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 026",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/003.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/003.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/026.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/026.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 417881,
+        "file_size": 45023,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.975960",
-        "hash": "58bc4b035425db7559990c3cd74818f2",
+        "added_at": "2025-07-17T00:04:05.898125",
+        "hash": "41fd94151a372742077915e925772c90",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_004",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 004",
+      "id": "minimal_027",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 027",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/004.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/004.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/027.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/027.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 221388,
+        "file_size": 29234,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.030608",
-        "hash": "d54165adcbb9d2b3f2783102e81eda24",
+        "added_at": "2025-07-17T00:04:06.111564",
+        "hash": "c239d4e8075b119fe4a5b07f5ce2338b",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_005",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 005",
+      "id": "minimal_028",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 028",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/005.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/005.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/028.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/028.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 663823,
+        "file_size": 186976,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.109358",
-        "hash": "8026de66c829ab2a324305c406cd4d9d",
+        "added_at": "2025-07-17T00:04:06.247483",
+        "hash": "4ac77c4efcfc9986d01f6208b6fcf915",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_006",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 006",
+      "id": "minimal_029",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 029",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/006.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/006.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/029.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/029.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 413712,
+        "file_size": 207698,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.172479",
-        "hash": "3bc0b7488fe25a0c7ca6b267f67b9211",
+        "added_at": "2025-07-17T00:04:06.504422",
+        "hash": "5032e4f7513c4de66dc911eefa2503dd",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_007",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 007",
+      "id": "minimal_030",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 030",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/007.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/007.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/030.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/030.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 97462,
+        "file_size": 388789,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.219758",
-        "hash": "95e23ea5a47802019f9f44d2a873e5c6",
+        "added_at": "2025-07-17T00:04:06.695281",
+        "hash": "fc89156814a5053279d794af1d0b405e",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_008",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 008",
+      "id": "minimal_031",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 031",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/008.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/008.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/031.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/031.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 435044,
+        "file_size": 211438,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.286950",
-        "hash": "5f2a0dca440e18e5a3bbc4ef2b0724a7",
+        "added_at": "2025-07-17T00:04:06.821367",
+        "hash": "3779ecd43f253668ad9edc80c5641db7",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_009",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 009",
+      "id": "minimal_032",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 032",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/009.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/009.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/032.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/032.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 63107,
+        "file_size": 169952,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.331874",
-        "hash": "fa63242d03d49e063868c6866ada4776",
+        "added_at": "2025-07-17T00:04:07.496537",
+        "hash": "ebcfcab563cb68ff3f17e5224c6e04a5",
         "source": "migrated"
       }
     }

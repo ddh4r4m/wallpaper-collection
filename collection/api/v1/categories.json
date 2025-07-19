@@ -1,33 +1,28 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
-    "total_categories": 17
+    "generated_at": "2025-07-19T12:26:57.111378",
+    "total_categories": 19
   },
   "data": {
-    "cars": {
-      "name": "Cars",
-      "count": 29,
-      "description": "Automotive photography, sports cars, and vehicle designs"
+    "art": {
+      "name": "Art",
+      "count": 90,
+      "description": "Digital art, paintings, illustrations, and creative designs"
     },
-    "seasonal": {
-      "name": "Seasonal",
-      "count": 85,
-      "description": "Holiday themes, seasonal changes, and weather phenomena"
+    "animals": {
+      "name": "Animals",
+      "count": 84,
+      "description": "Wildlife photography, pets, and animal portraits"
     },
-    "neon": {
-      "name": "Neon",
-      "count": 78,
-      "description": "Neon lighting, synthwave aesthetics, and electric themes"
-    },
-    "cyberpunk": {
-      "name": "Cyberpunk",
-      "count": 41,
-      "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
+    "abstract": {
+      "name": "Abstract",
+      "count": 257,
+      "description": "Abstract patterns, geometric designs, and artistic visualizations"
     },
     "gaming": {
       "name": "Gaming",
-      "count": 76,
+      "count": 84,
       "description": "Video game characters, scenes, and gaming-inspired artwork"
     },
     "architecture": {
@@ -37,58 +32,73 @@
     },
     "pastel": {
       "name": "Pastel",
-      "count": 49,
+      "count": 69,
       "description": "Soft colors, gentle aesthetics, and dream-like themes"
     },
-    "minimal": {
-      "name": "Minimal",
-      "count": 46,
-      "description": "Clean, simple designs with minimalist aesthetics"
+    "vintage": {
+      "name": "Vintage",
+      "count": 99,
+      "description": "Retro designs, nostalgic themes, and classic aesthetics"
     },
-    "art": {
-      "name": "Art",
-      "count": 47,
-      "description": "Digital art, paintings, illustrations, and creative designs"
+    "seasonal": {
+      "name": "Seasonal",
+      "count": 90,
+      "description": "Holiday themes, seasonal changes, and weather phenomena"
     },
     "4k": {
       "name": "4K",
       "count": 200,
       "description": "Ultra high-definition wallpapers optimized for 4K displays"
     },
-    "nature": {
-      "name": "Nature",
-      "count": 284,
-      "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
-    },
-    "technology": {
-      "name": "Technology",
-      "count": 10,
-      "description": "Gadgets, circuits, futuristic tech, and digital interfaces"
+    "space": {
+      "name": "Space",
+      "count": 122,
+      "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
     },
     "anime": {
       "name": "Anime",
-      "count": 116,
+      "count": 133,
       "description": "Anime characters, manga art, and Japanese animation styles"
-    },
-    "vintage": {
-      "name": "Vintage",
-      "count": 30,
-      "description": "Retro designs, nostalgic themes, and classic aesthetics"
-    },
-    "abstract": {
-      "name": "Abstract",
-      "count": 219,
-      "description": "Abstract patterns, geometric designs, and artistic visualizations"
-    },
-    "space": {
-      "name": "Space",
-      "count": 86,
-      "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
     },
     "dark": {
       "name": "Dark",
-      "count": 80,
+      "count": 90,
       "description": "Dark themes, gothic aesthetics, and mysterious atmospheres"
+    },
+    "neon": {
+      "name": "Neon",
+      "count": 88,
+      "description": "Neon lighting, synthwave aesthetics, and electric themes"
+    },
+    "nature": {
+      "name": "Nature",
+      "count": 304,
+      "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
+    },
+    "ai": {
+      "name": "Ai",
+      "count": 83,
+      "description": "AI-generated wallpapers from Stable Diffusion, Midjourney, and other AI models"
+    },
+    "cyberpunk": {
+      "name": "Cyberpunk",
+      "count": 88,
+      "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
+    },
+    "minimal": {
+      "name": "Minimal",
+      "count": 64,
+      "description": "Clean, simple designs with minimalist aesthetics"
+    },
+    "cars": {
+      "name": "Cars",
+      "count": 84,
+      "description": "Automotive photography, sports cars, and vehicle designs"
+    },
+    "technology": {
+      "name": "Technology",
+      "count": 83,
+      "description": "Gadgets, circuits, futuristic tech, and digital interfaces"
     }
   }
 }

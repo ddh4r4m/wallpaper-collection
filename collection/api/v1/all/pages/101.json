@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-17T21:14:17.488868",
+    "generated_at": "2025-07-19T12:26:57.111378",
     "page": 101,
     "per_page": 15,
-    "total_pages": 117,
-    "total_count": 1751,
+    "total_pages": 160,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 17,
+    "categories": 19,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/102.json",
@@ -15,393 +15,393 @@
   },
   "data": [
     {
-      "id": "pastel_010",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 010",
+      "id": "minimal_033",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 033",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/010.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/010.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/033.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/033.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 209027,
+        "file_size": 200938,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.385406",
-        "hash": "b2c842925dd96922ef874cf4a74e65bf",
+        "added_at": "2025-07-17T00:04:07.637026",
+        "hash": "ada910b4b00eb90cefc2bec1fdde5e47",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_011",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 011",
+      "id": "minimal_034",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 034",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/011.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/011.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/034.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/034.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 242245,
+        "file_size": 586647,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.441065",
-        "hash": "57c3aa456d510e5fb2ce66d6385a7be5",
+        "added_at": "2025-07-17T00:04:08.186067",
+        "hash": "f76659292c220ba6d506bef34dbacf50",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_012",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 012",
+      "id": "minimal_035",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 035",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/012.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/012.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/035.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/035.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 227340,
+        "file_size": 25049,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.497004",
-        "hash": "c14cffc850fa28b5e1370096a62b4b8f",
+        "added_at": "2025-07-17T00:04:08.400942",
+        "hash": "d7be98d01ef8ed597e4a7fda56c1dfc2",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_013",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 013",
+      "id": "minimal_036",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 036",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/013.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/013.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/036.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/036.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 849476,
+        "file_size": 205942,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.584400",
-        "hash": "a4e3c1877f77dae76a0804ef7df1a268",
+        "added_at": "2025-07-17T00:04:08.538889",
+        "hash": "c6dbb9b7f6a1931719005aaf2e714136",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_014",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 014",
+      "id": "minimal_037",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 037",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/014.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/014.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/037.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/037.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 128249,
+        "file_size": 162792,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.632628",
-        "hash": "6df7f66888c4ee3380df615d92abcd41",
+        "added_at": "2025-07-17T00:04:08.774261",
+        "hash": "9961efc093728c46d528e5ee8664d902",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_015",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 015",
+      "id": "minimal_038",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 038",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/015.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/015.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/038.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/038.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 244308,
+        "file_size": 31645,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.709868",
-        "hash": "e87df0b176205a9d7dbfa5034877dad4",
+        "added_at": "2025-07-17T00:04:08.984932",
+        "hash": "2afb1b7729fdbd6f42d802a493ee7c1f",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_016",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 016",
+      "id": "minimal_039",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 039",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/016.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/016.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/039.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/039.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 366591,
+        "file_size": 32356,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.771218",
-        "hash": "9bf0f43d7002c341ce484788d644ecf0",
+        "added_at": "2025-07-17T00:04:09.127560",
+        "hash": "5ed26d3f4b147d2272dec1686f14dfcf",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_017",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 017",
+      "id": "minimal_040",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 040",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/017.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/017.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/040.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/040.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 207147,
+        "file_size": 55614,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.825327",
-        "hash": "f958f8b57fa95ba37ed6ba9b16ba116b",
+        "added_at": "2025-07-17T00:04:09.371535",
+        "hash": "05881dda8e3b8f61c3b2611a24f60a4a",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_018",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 018",
+      "id": "minimal_041",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 041",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/018.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/018.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/041.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/041.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 724034,
+        "file_size": 114315,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.905521",
-        "hash": "9ddabd306237edd86adc5f66b7024338",
+        "added_at": "2025-07-17T00:04:09.766474",
+        "hash": "86f5ff21d94c61723171a0f3a2d1d4f4",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_019",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 019",
+      "id": "minimal_042",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 042",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/019.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/019.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/042.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/042.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 181563,
+        "file_size": 98514,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.955370",
-        "hash": "87c58f7609987ddd23ef95bfb1517ebb",
+        "added_at": "2025-07-17T00:04:11.060440",
+        "hash": "3d93f822dd21235104cbe50c2d2d0c33",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_020",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 020",
+      "id": "minimal_043",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 043",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/020.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/020.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/043.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/043.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 97967,
+        "file_size": 14612,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:37.003152",
-        "hash": "b994a815c7dc57acba3a4763f887821b",
+        "added_at": "2025-07-17T00:04:11.278165",
+        "hash": "1ac9cde7f83354a31fb35b799f23df4f",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_021",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 021",
+      "id": "minimal_044",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 044",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/021.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/021.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/044.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/044.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 300993,
+        "file_size": 12724,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:37.061598",
-        "hash": "1eece7a7bf2b4405677375a2fe10c9b2",
+        "added_at": "2025-07-17T00:04:11.495400",
+        "hash": "0c14d96fe4516058fa62ea25fd6b5042",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_022",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 022",
+      "id": "minimal_045",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 045",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/022.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/022.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/045.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/045.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 308733,
+        "file_size": 23466,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:37.122554",
-        "hash": "685b047dd0fe57d7511d539cd52f2942",
+        "added_at": "2025-07-17T00:04:11.733509",
+        "hash": "9d81c835bec513ff1d65ff535c367440",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_023",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 023",
+      "id": "minimal_046",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 046",
       "tags": [
-        "pastel",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/023.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/023.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/046.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/046.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 258793,
+        "file_size": 499737,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:37.179527",
-        "hash": "f26228f79f259e80114101f2378f099e",
+        "added_at": "2025-07-17T00:04:11.886739",
+        "hash": "7a1a0c9d1c322e4b4f99e6fcf311ce40",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_024",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 024",
+      "id": "minimal_047",
+      "category": "minimal",
+      "title": "Minimal Wallpaper",
       "tags": [
-        "pastel",
-        "wallpaper",
+        "minimal",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/024.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/024.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1620
         },
-        "file_size": 545710,
+        "file_size": 26758,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:37.252647",
-        "hash": "c49ed1b3b7f68e2a973881ec6344a179",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:27:28.750286",
+        "hash": "62eb74bf300a211b557d9bcad4f70cad",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/047.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/047.jpg"
       }
     }
   ]
