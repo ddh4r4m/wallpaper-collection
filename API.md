@@ -70,46 +70,47 @@ https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/coll
 
 | Category | Count | Description |
 |----------|-------|-------------|
-| `nature` | 284 | Landscapes, wildlife, forests, mountains, and natural scenes |
+| `nature` | 304 | Landscapes, wildlife, forests, mountains, and natural scenes |
 | `architecture` | 275 | Buildings, bridges, modern structures, and urban photography |
-| `abstract` | 219 | Abstract patterns, geometric designs, and artistic visualizations |
+| `abstract` | 257 | Abstract patterns, geometric designs, and artistic visualizations |
 | `4k` | 200 | Ultra high-definition wallpapers optimized for 4K displays |
-| `anime` | 116 | Anime characters, manga art, and Japanese animation styles |
-| `vintage` | 94 | Retro designs, nostalgic themes, and classic aesthetics |
-| `space` | 86 | Galaxies, nebulae, planets, stars, and cosmic photography |
-| `seasonal` | 85 | Holiday themes, seasonal changes, and weather phenomena |
-| `dark` | 80 | Dark themes, gothic aesthetics, and mysterious atmospheres |
-| `neon` | 78 | Neon lighting, synthwave aesthetics, and electric themes |
-| `gaming` | 76 | Video game characters, scenes, and gaming-inspired artwork |
-| `cars` | 74 | Automotive photography, sports cars, and vehicle designs |
-| `technology` | 73 | Gadgets, circuits, futuristic tech, and digital interfaces |
-| `art` | 72 | Digital art, paintings, illustrations, and creative designs |
-| `animals` | 72 | Wildlife photography, pets, and animal portraits |
-| `pastel` | 57 | Soft colors, gentle aesthetics, and dream-like themes |
-| `cyberpunk` | 56 | Futuristic cityscapes, neon lights, and sci-fi themes |
-| `minimal` | 56 | Clean, simple designs with minimalist aesthetics |
+| `anime` | 133 | Anime characters, manga art, and Japanese animation styles |
+| `space` | 122 | Galaxies, nebulae, planets, stars, and cosmic photography |
+| `vintage` | 99 | Retro designs, nostalgic themes, and classic aesthetics |
+| `art` | 90 | Digital art, paintings, illustrations, and creative designs |
+| `seasonal` | 90 | Holiday themes, seasonal changes, and weather phenomena |
+| `dark` | 90 | Dark themes, gothic aesthetics, and mysterious atmospheres |
+| `neon` | 88 | Neon lighting, synthwave aesthetics, and electric themes |
+| `cyberpunk` | 88 | Futuristic cityscapes, neon lights, and sci-fi themes |
+| `gaming` | 84 | Video game characters, scenes, and gaming-inspired artwork |
+| `cars` | 84 | Automotive photography, sports cars, and vehicle designs |
+| `animals` | 84 | Wildlife photography, pets, and animal portraits |
+| `ai` | 83 | AI-generated wallpapers from Stable Diffusion, Midjourney, and other AI models |
+| `technology` | 83 | Gadgets, circuits, futuristic tech, and digital interfaces |
+| `pastel` | 69 | Soft colors, gentle aesthetics, and dream-like themes |
+| `minimal` | 64 | Clean, simple designs with minimalist aesthetics |
 
-**Total: 18 active categories with 2,053 wallpapers**
+**Total: 19 active categories with 2,387 wallpapers**
 
 #### Category API Examples
 ```bash
-# Get nature wallpapers (284 wallpapers - largest collection)
+# Get nature wallpapers (304 wallpapers - largest collection)
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/nature.json
 
 # Get architecture wallpapers (275 wallpapers)
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/architecture.json
 
+# Get abstract wallpapers (257 wallpapers)
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/abstract.json
+
 # Get 4K wallpapers (200 wallpapers)
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k.json
 
-# Get anime wallpapers (116 wallpapers)
+# Get anime wallpapers (133 wallpapers)
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/anime.json
 
-# Get cars wallpapers (74 wallpapers)
-curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/cars.json
-
-# Get animals wallpapers (72 wallpapers - NEW!)
-curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/animals.json
+# Get AI wallpapers (83 wallpapers - NEW!)
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/ai.json
 ```
 
 #### 🚀 Pagination Examples
@@ -126,28 +127,29 @@ curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main
 # Get first page of anime wallpapers
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/anime/pages/1.json
 
-# Available pages: All (1-137), Nature (1-19), Architecture (1-19), 4K (1-14), Anime (1-8)
+# Available pages: All (1-159), Nature (1-21), Architecture (1-19), Abstract (1-18), 4K (1-14), Anime (1-9), AI (1-6)
 ```
 
 **Pagination Available For:**
-- **All wallpapers**: 137 pages (2,053 total wallpapers)
-- **Nature category**: 19 pages (284 wallpapers)
+- **All wallpapers**: 159 pages (2,387 total wallpapers)
+- **Nature category**: 21 pages (304 wallpapers)
 - **Architecture category**: 19 pages (275 wallpapers)
-- **Abstract category**: 15 pages (219 wallpapers)
+- **Abstract category**: 18 pages (257 wallpapers)
 - **4K category**: 14 pages (200 wallpapers)
-- **Anime category**: 8 pages (116 wallpapers)
+- **Anime category**: 9 pages (133 wallpapers)
+- **AI category**: 6 pages (83 wallpapers)
 - **And 12 more categories** with pagination support
 
 ## 📊 Collection Statistics
 
-- **Total Wallpapers**: 2,053 (Live Count)
-- **Categories**: 18 Active Categories
-- **Nature Collection**: 284 high-quality landscape and wildlife wallpapers (largest)
+- **Total Wallpapers**: 2,387 (Live Count)
+- **Categories**: 19 Active Categories
+- **Nature Collection**: 304 high-quality landscape and wildlife wallpapers (largest)
 - **Architecture Collection**: 275 stunning building and structure wallpapers
+- **Abstract Collection**: 257 artistic and geometric wallpapers
 - **4K Collection**: 200 unique wallpapers from Unsplash curated collection
-- **Abstract Collection**: 219 artistic and geometric wallpapers
-- **Anime Collection**: 116 high-quality anime and manga wallpapers
-- **Animals Collection**: 72 wildlife and pet wallpapers (newly added)
+- **Anime Collection**: 133 high-quality anime and manga wallpapers
+- **AI Collection**: 83 AI-generated wallpapers from Civitai and other sources (newly added)
 - **Resolution**: Up to 1080×1920 (Mobile Optimized)
 - **Format**: JPEG, High Quality (85% compression)
 - **Thumbnails**: 400×600px for fast loading (80% compression)
@@ -166,8 +168,8 @@ Complete collection with all wallpapers and metadata.
   "meta": {
     "version": "1.0",
     "generated_at": "2025-07-16T23:29:21.210153",
-    "total_count": 2053,
-    "categories": 18
+    "total_count": 2387,
+    "categories": 19
   },
   "data": [
     {
@@ -213,10 +215,10 @@ Paginated response with navigation metadata and 15 wallpapers per page.
     "generated_at": "2025-07-16T23:29:21.210153",
     "page": 1,
     "per_page": 15,
-    "total_pages": 137,
-    "total_count": 2053,
+    "total_pages": 159,
+    "total_count": 2387,
     "count_on_page": 15,
-    "categories": 18,
+    "categories": 19,
     "has_next": true,
     "has_prev": false,
     "next_page_url": "/api/v1/all/pages/2.json",
@@ -264,7 +266,7 @@ Overview of all categories with counts and descriptions.
   "meta": {
     "version": "1.0",
     "generated_at": "2025-07-16T22:22:47.973645",
-    "total_categories": 18
+    "total_categories": 19
   },
   "data": {
     "nature": {
@@ -289,12 +291,17 @@ Overview of all categories with counts and descriptions.
     },
     "anime": {
       "name": "Anime",
-      "count": 116,
+      "count": 133,
       "description": "Anime characters, manga art, and Japanese animation styles"
+    },
+    "ai": {
+      "name": "AI",
+      "count": 83,
+      "description": "AI-generated wallpapers from Stable Diffusion, Midjourney, and other AI models"
     },
     "animals": {
       "name": "Animals",
-      "count": 72,
+      "count": 84,
       "description": "Wildlife photography, pets, and animal portraits"
     }
   }
@@ -393,8 +400,8 @@ Complete statistics and analytics.
     "generated_at": "2025-07-16T22:22:47.973645"
   },
   "data": {
-    "total_wallpapers": 2053,
-    "total_categories": 18,
+    "total_wallpapers": 2387,
+    "total_categories": 19,
     "categories": {
       "4k": {
         "name": "4K",
@@ -403,12 +410,17 @@ Complete statistics and analytics.
       },
       "anime": {
         "name": "Anime",
-        "count": 58,
+        "count": 133,
         "description": "Anime characters, manga art, and Japanese animation styles"
+      },
+      "ai": {
+        "name": "AI",
+        "count": 83,
+        "description": "AI-generated wallpapers from Stable Diffusion, Midjourney, and other AI models"
       },
       "abstract": {
         "name": "Abstract", 
-        "count": 2,
+        "count": 257,
         "description": "Abstract patterns, geometric designs, and artistic visualizations"
       }
     },
@@ -453,7 +465,7 @@ Complete statistics and analytics.
         "width": 1170,
         "height": 1818
       },
-      "total_files": 2053
+      "total_files": 2387
     }
   }
 }
@@ -461,15 +473,15 @@ Complete statistics and analytics.
 
 ## 🌟 4K Wallpaper Collection Spotlight
 
-### 🔥 Featured: Massive 2,053 Wallpaper Collection
-Our **complete collection** contains **2,053 carefully curated wallpapers** across 18 diverse categories. Notable collections include:
+### 🔥 Featured: Massive 2,387 Wallpaper Collection
+Our **complete collection** contains **2,387 carefully curated wallpapers** across 19 diverse categories. Notable collections include:
 
-- **Nature (284)**: Stunning landscapes and wildlife photography
+- **Nature (304)**: Stunning landscapes and wildlife photography
 - **Architecture (275)**: Modern and classic building photography  
+- **Abstract (257)**: Artistic patterns and geometric designs
 - **4K Collection (200)**: Premium Unsplash curated wallpapers
-- **Abstract (219)**: Artistic patterns and geometric designs
-- **Anime (116)**: High-quality anime and manga artwork
-- **Animals (72)**: Wildlife, pets, and animal portraits
+- **Anime (133)**: High-quality anime and manga artwork
+- **AI (83)**: AI-generated wallpapers from Civitai and other sources
 
 Each wallpaper is:
 
@@ -483,17 +495,23 @@ Each wallpaper is:
 
 #### Quick Start with Major Categories
 ```bash
-# Get all 2,053 wallpapers
+# Get all 2,387 wallpapers
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/all.json
 
-# Get nature wallpapers (largest collection - 284 wallpapers)
+# Get nature wallpapers (largest collection - 304 wallpapers)
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/nature.json
 
 # Get architecture wallpapers (275 wallpapers)
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/architecture.json
 
+# Get abstract wallpapers (257 wallpapers)
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/abstract.json
+
 # Get 4K wallpapers (200 premium wallpapers)
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k.json
+
+# Get AI wallpapers (83 AI-generated wallpapers)
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/ai.json
 
 # Access specific wallpaper (sequential numbering)
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/001.jpg
@@ -513,6 +531,7 @@ const thumbnailUrl = `https://media.githubusercontent.com/media/ddh4r4m/wallpape
 // Examples:
 const nature42 = "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/042.jpg";
 const anime15 = "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/015.jpg";
+const ai01 = "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/001.jpg";
 const cars01 = "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/cars/001.jpg";
 ```
 
@@ -537,6 +556,7 @@ class WallpaperService {
 // Usage for different collections
 final natureUrl = WallpaperService().getWallpaperUrl('nature', 1); // 001.jpg
 final animeUrl = WallpaperService().getWallpaperUrl('anime', 50); // 050.jpg
+final aiUrl = WallpaperService().getWallpaperUrl('ai', 25); // 025.jpg
 final carsThumb = WallpaperService().getThumbnailUrl('cars', 25); // 025.jpg
 ```
 
@@ -559,6 +579,7 @@ class WallpaperAPI {
 // Usage for different collections
 const nature1 = WallpaperAPI.getWallpaperUrl('nature', 1);   // 001.jpg
 const abstract100 = WallpaperAPI.getWallpaperUrl('abstract', 100); // 100.jpg
+const aiThumb = WallpaperAPI.getThumbnailUrl('ai', 35); // 035.jpg
 const animalsThumb = WallpaperAPI.getThumbnailUrl('animals', 35); // 035.jpg
 ```
 
@@ -861,17 +882,20 @@ curl -I https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/m
 
 ---
 
-**The bulletproof WallCraft API with 2,053 wallpapers is ready for production use! 🚀**
+**The bulletproof WallCraft API with 2,387 wallpapers is ready for production use! 🚀**
 
 ```bash
 # Start using the massive collection API today
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/all.json | jq '.meta.total_count'
-# Output: 2053
+# Output: 2387
 
 # Explore the largest collections
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/nature.json | jq '.meta.total_count'
-# Output: 284
+# Output: 304
 
 curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/architecture.json | jq '.meta.total_count'  
 # Output: 275
+
+curl https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/api/v1/ai.json | jq '.meta.total_count'
+# Output: 83
 ```
