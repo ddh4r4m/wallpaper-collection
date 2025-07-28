@@ -1,15 +1,113 @@
 {
   "category": "gradient",
   "name": "Gradient",
-  "description": "Color transitions, smooth blends, modern gradients, and abstract flows",
-  "count": 0,
-  "lastUpdated": "2025-07-15T16:50:05.911332Z",
-  "statistics": {
-    "totalFileSize": 0,
-    "averageWidth": 0,
-    "averageHeight": 0,
-    "sourceBreakdown": {},
-    "uniqueTags": []
-  },
-  "wallpapers": []
+  "description": "Abstract gradient backgrounds and smooth color transitions for mobile wallpapers",
+  "count": 4,
+  "lastUpdated": "2025-01-20T20:40:00Z",
+  "tags": [
+    "gradient",
+    "abstract",
+    "mobile",
+    "colors",
+    "smooth",
+    "backgrounds"
+  ],
+  "wallpapers": [
+    {
+      "id": "gradient_001",
+      "filename": "gradient_001.jpg",
+      "title": "Abstract Gradient Background 2",
+      "description": "High-quality abstract gradient wallpaper for mobile devices",
+      "category": "gradient",
+      "tags": [
+        "gradient",
+        "abstract",
+        "background",
+        "mobile",
+        "wallpaper"
+      ],
+      "source": "pinterest_curated",
+      "width": 1080,
+      "height": 1920,
+      "file_size": 85453,
+      "download_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/wallpapers/gradient/gradient_001.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/thumbnails/gradient/gradient_001.jpg",
+      "gradient_type": "abstract_mixed",
+      "mobile_optimized": true,
+      "quality": "high",
+      "created_at": "2025-07-20T20:38:25.433189"
+    },
+    {
+      "id": "gradient_002",
+      "filename": "gradient_002.jpg",
+      "title": "Abstract Gradient Background 1",
+      "description": "High-quality abstract gradient wallpaper for mobile devices",
+      "category": "gradient",
+      "tags": [
+        "gradient",
+        "abstract",
+        "background",
+        "mobile",
+        "wallpaper"
+      ],
+      "source": "pinterest_curated",
+      "width": 1080,
+      "height": 1920,
+      "file_size": 301975,
+      "download_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/wallpapers/gradient/gradient_002.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/thumbnails/gradient/gradient_002.jpg",
+      "gradient_type": "abstract_mixed",
+      "mobile_optimized": true,
+      "quality": "high",
+      "created_at": "2025-07-20T20:38:24.408254"
+    },
+    {
+      "id": "gradient_003",
+      "filename": "gradient_003.jpg",
+      "title": "Abstract Gradient Blue Purple",
+      "description": "High-quality Cool blue and purple tones gradient background for mobile wallpaper",
+      "category": "gradient",
+      "tags": [
+        "gradient",
+        "abstract",
+        "background",
+        "mobile",
+        "wallpaper"
+      ],
+      "source": "pinterest_verified",
+      "width": 1080,
+      "height": 1920,
+      "file_size": 301975,
+      "download_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/wallpapers/gradient/gradient_003.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/thumbnails/gradient/gradient_003.jpg",
+      "gradient_type": "blue_purple",
+      "mobile_optimized": true,
+      "quality": "high",
+      "created_at": "2025-07-20T20:40:20.370659"
+    },
+    {
+      "id": "gradient_004",
+      "filename": "gradient_004.jpg",
+      "title": "Abstract Gradient Warm Sunset",
+      "description": "High-quality Warm sunset colors gradient background for mobile wallpaper",
+      "category": "gradient",
+      "tags": [
+        "gradient",
+        "abstract",
+        "background",
+        "mobile",
+        "wallpaper"
+      ],
+      "source": "pinterest_verified",
+      "width": 1080,
+      "height": 1920,
+      "file_size": 113482,
+      "download_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/wallpapers/gradient/gradient_004.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/wallpaper-collection/main/thumbnails/gradient/gradient_004.jpg",
+      "gradient_type": "warm_sunset",
+      "mobile_optimized": true,
+      "quality": "high",
+      "created_at": "2025-07-20T20:40:51.518715"
+    }
+  ]
 }

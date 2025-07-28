@@ -1,0 +1,37 @@
+{
+  "id": "football_soccer_030_american_football_4899f0e4",
+  "source": "pinterest_multi_agent",
+  "agent_id": "Agent_3_Football_Soccer",
+  "category": "sports",
+  "sport_type": "american_football",
+  "title": "American Football Wallpaper #30",
+  "description": "High-quality American football wallpaper featuring NFL action, stadiums, and players",
+  "search_query": "football wallpaper mobile NFL",
+  "file_size": 362600,
+  "estimated_resolution": "1440x2960",
+  "download_url": "https://i.pinimg.com/564x/90/70/41/1395429899586853.jpg",
+  "md5_hash": "4b7eaf9d835d81b64c4805583bdbfbb9",
+  "tags": [
+    "sports",
+    "wallpaper",
+    "mobile",
+    "hd",
+    "football",
+    "nfl",
+    "american",
+    "stadium",
+    "helmet"
+  ],
+  "mobile_optimized": true,
+  "quality_tier": "high",
+  "quality_score": 7.8,
+  "agent_specialization": "Stadium & Action Shot Specialist",
+  "collection_strategy": "NFL-focused search with helmet and stadium imagery",
+  "crawled_at": "2025-07-20T18:42:57.718257+00:00",
+  "validation": {
+    "format_verified": true,
+    "mobile_ready": true,
+    "duplicate_checked": true,
+    "content_verified": true
+  }
+}

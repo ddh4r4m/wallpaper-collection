@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-19T12:26:57.111378",
+    "generated_at": "2025-07-28T21:27:34.814586",
     "page": 153,
     "per_page": 15,
-    "total_pages": 160,
-    "total_count": 2387,
+    "total_pages": 177,
+    "total_count": 2647,
     "count_on_page": 15,
-    "categories": 19,
+    "categories": 21,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/154.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "technology_076",
-      "category": "technology",
-      "title": "Technology Wallpaper",
+      "id": "space_053",
+      "category": "space",
+      "title": "Space Wallpaper 053",
       "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1350
-        },
-        "file_size": 143794,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:37:40.109324",
-        "hash": "d21d9ce47e1e4702bb403aa0093e8427",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/076.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/076.jpg"
-      }
-    },
-    {
-      "id": "technology_077",
-      "category": "technology",
-      "title": "Technology Wallpaper",
-      "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 720
-        },
-        "file_size": 64557,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:37:42.476685",
-        "hash": "960653863506b302c44421f59bae4d71",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/077.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/077.jpg"
-      }
-    },
-    {
-      "id": "technology_078",
-      "category": "technology",
-      "title": "Technology Wallpaper",
-      "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 720
-        },
-        "file_size": 58483,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:37:45.883510",
-        "hash": "b1b2111e9c7f76e6e9c8fbe6138e8fda",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/078.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/078.jpg"
-      }
-    },
-    {
-      "id": "technology_079",
-      "category": "technology",
-      "title": "Technology Wallpaper",
-      "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 720
-        },
-        "file_size": 139953,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:37:49.198437",
-        "hash": "95da5f760ce19d177e914fc40da3d750",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/079.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/079.jpg"
-      }
-    },
-    {
-      "id": "technology_080",
-      "category": "technology",
-      "title": "Technology Wallpaper",
-      "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 720
-        },
-        "file_size": 39206,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:37:53.662100",
-        "hash": "4d8050634deae851a9491d46b4fbac01",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/080.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/080.jpg"
-      }
-    },
-    {
-      "id": "technology_081",
-      "category": "technology",
-      "title": "Technology Wallpaper",
-      "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 720
-        },
-        "file_size": 106334,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:37:55.907849",
-        "hash": "0b6a7c1b4c838375d3bb302173b7d5b3",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/081.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/081.jpg"
-      }
-    },
-    {
-      "id": "technology_082",
-      "category": "technology",
-      "title": "Technology Wallpaper",
-      "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 719
-        },
-        "file_size": 40720,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:37:59.240088",
-        "hash": "8cbabf0a6f6620c84355fdca02c1e73d",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/082.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/082.jpg"
-      }
-    },
-    {
-      "id": "technology_083",
-      "category": "technology",
-      "title": "Technology Wallpaper",
-      "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 675
-        },
-        "file_size": 91079,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:38:01.472401",
-        "hash": "f99c631a479c706905b788ba7b83ecfd",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/083.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/083.jpg"
-      }
-    },
-    {
-      "id": "vintage_001",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 001",
-      "tags": [
-        "vintage",
+        "space",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/001.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/001.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/053.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/053.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 213286,
+        "file_size": 270470,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.900251",
-        "hash": "923144fbf876f7c59f47fd2432bc0c98",
+        "added_at": "2025-07-17T00:04:47.252018",
+        "hash": "daaff6a00423cc382b0079b3ade73dd0",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_002",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 002",
+      "id": "space_054",
+      "category": "space",
+      "title": "Space Wallpaper 054",
       "tags": [
-        "vintage",
+        "space",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/002.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/002.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/054.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/054.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 746552,
+        "file_size": 274445,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.977804",
-        "hash": "04511a77ca07bf887e2aeb7d59651383",
+        "added_at": "2025-07-17T00:04:47.310750",
+        "hash": "c8e641a4c289af3a28cbd86141e94b11",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_003",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 003",
+      "id": "space_055",
+      "category": "space",
+      "title": "Space Wallpaper 055",
       "tags": [
-        "vintage",
+        "space",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/003.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/003.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/055.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/055.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 216610,
+        "file_size": 160207,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.030591",
-        "hash": "7c8588632edd9b6d8de53158a9ac8f51",
+        "added_at": "2025-07-17T00:04:47.362700",
+        "hash": "f90298e919820613071b6b5ab54d7e50",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_004",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 004",
+      "id": "space_056",
+      "category": "space",
+      "title": "Space Wallpaper 056",
       "tags": [
-        "vintage",
+        "space",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/004.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/004.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/056.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/056.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 253776,
+        "file_size": 491982,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.084573",
-        "hash": "23ede91a0a9a331c59066af1d1095e30",
+        "added_at": "2025-07-17T00:04:47.429158",
+        "hash": "8eb90344fc7f8d3d1574dc9464bdc80f",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_005",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 005",
+      "id": "space_057",
+      "category": "space",
+      "title": "Space Wallpaper 057",
       "tags": [
-        "vintage",
+        "space",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/005.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/005.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/057.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/057.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 188899,
+        "file_size": 398454,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.142750",
-        "hash": "da8f5a976a42e39bbdbe41b529b1be33",
+        "added_at": "2025-07-17T00:04:47.493163",
+        "hash": "ba8dbb865cd0d75a687913b9dcd5b7bc",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_006",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 006",
+      "id": "space_058",
+      "category": "space",
+      "title": "Space Wallpaper 058",
       "tags": [
-        "vintage",
+        "space",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/006.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/006.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/058.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/058.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 360590,
+        "file_size": 362076,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.202100",
-        "hash": "c3678921fb0ff5bf4c5c1b30b2a7261d",
+        "added_at": "2025-07-17T00:04:47.553518",
+        "hash": "1050eaa6d6b661eb7045c461acbf2bf3",
         "source": "migrated"
       }
     },
     {
-      "id": "vintage_007",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 007",
+      "id": "space_059",
+      "category": "space",
+      "title": "Space Wallpaper 059",
       "tags": [
-        "vintage",
+        "space",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/007.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/007.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/059.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/059.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 224015,
+        "file_size": 312207,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:50.254306",
-        "hash": "b4f373ce835c08141f187ebb2567ad8d",
+        "added_at": "2025-07-17T00:04:47.607726",
+        "hash": "4d40f25b1b9900800065cd632ff14261",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "space_060",
+      "category": "space",
+      "title": "Space Wallpaper 060",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/060.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/060.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 115404,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:47.652618",
+        "hash": "186559a4e9443c2aee9744249784d870",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "space_061",
+      "category": "space",
+      "title": "Space Wallpaper 061",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/061.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/061.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 541870,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:47.722636",
+        "hash": "fbbf574d974183672ea59dceb63ecd35",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "space_062",
+      "category": "space",
+      "title": "Space Wallpaper 062",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/062.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/062.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 301758,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:47.778936",
+        "hash": "8fb0fecad2e18e9b1ea66c0af21a1c8f",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "space_063",
+      "category": "space",
+      "title": "Space Wallpaper 063",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/063.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/063.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 124515,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:47.825057",
+        "hash": "0c349b019d3466201ebab6095e3adbde",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "space_064",
+      "category": "space",
+      "title": "Space Wallpaper 064",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/064.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/064.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 764258,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:47.906736",
+        "hash": "7476a76350c07ed7a9f64e9cf61c963e",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "space_065",
+      "category": "space",
+      "title": "Space Wallpaper 065",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/065.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/065.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 146382,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:47.956658",
+        "hash": "0f76a2928a5d7b72181e614748c1f4dd",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "space_066",
+      "category": "space",
+      "title": "Space Wallpaper 066",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/066.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/066.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 765814,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:48.039740",
+        "hash": "ce7058bac369bd9dc113ff370811c99b",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "space_067",
+      "category": "space",
+      "title": "Space Wallpaper 067",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/067.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/067.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 201202,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:48.090731",
+        "hash": "25578a35e427fe9245067c34b666f8ab",
         "source": "migrated"
       }
     }

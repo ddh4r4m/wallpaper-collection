@@ -1,9 +1,9 @@
 # WallCraft - High-Quality Wallpaper Collection API
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Total Wallpapers](https://img.shields.io/badge/Wallpapers-1491-blue)](https://github.com/ddh4r4m/wallpaper-collection)
-[![Categories](https://img.shields.io/badge/Categories-20-green)](https://github.com/ddh4r4m/wallpaper-collection)
-[![Size](https://img.shields.io/badge/Collection%20Size-1.9GB-orange)](https://github.com/ddh4r4m/wallpaper-collection)
+[![Total Wallpapers](https://img.shields.io/badge/Wallpapers-2387-blue)](https://github.com/ddh4r4m/wallpaper-collection)
+[![Categories](https://img.shields.io/badge/Categories-19-green)](https://github.com/ddh4r4m/wallpaper-collection)
+[![Size](https://img.shields.io/badge/Collection%20Size-1.0GB-orange)](https://github.com/ddh4r4m/wallpaper-collection)
 
 A comprehensive, high-quality wallpaper collection with a RESTful JSON API. Perfect for mobile apps, web applications, and desktop software requiring beautiful wallpapers across multiple categories.
 
@@ -11,17 +11,17 @@ A comprehensive, high-quality wallpaper collection with a RESTful JSON API. Perf
 
 ### Get Collection Overview
 ```bash
-curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/index.json
+curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/stats.json
 ```
 
 ### Get Category Wallpapers
 ```bash
-curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/categories/nature.json
+curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/nature.json
 ```
 
 ### Download a Wallpaper
 ```bash
-curl -o wallpaper.jpg "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/wallpapers/nature/nature_001.jpg"
+curl -o wallpaper.jpg "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/001.jpg"
 ```
 
 ## 📖 Complete API Documentation
@@ -37,176 +37,174 @@ The API.md file includes:
 
 ## 📊 Collection Stats
 
-- **Total Wallpapers**: 1,491
-- **Categories**: 20
-- **Resolution**: 1080×1920 (Mobile Portrait)
-- **Format**: JPEG, High Quality
-- **Total Size**: 1.9GB
-- **Sources**: Unsplash, Wallhaven, Curated Collections
+- **Total Wallpapers**: 2,387
+- **Categories**: 19
+- **Resolution**: Up to 1080×1920 (Mobile Optimized)
+- **Format**: JPEG, High Quality (85% compression)
+- **Total Size**: 1.0GB
+- **Sources**: Unsplash, Civitai, Reddit, Curated Collections
 
 ### Category Breakdown
 
 | Category | Count | Percentage | Description |
 |----------|--------|------------|-------------|
-| **Nature** | 284 | 22.8% | Landscapes, forests, mountains, oceans |
-| **Architecture** | 275 | 22.1% | Buildings, structures, urban photography |
-| **Abstract** | 217 | 17.4% | Artistic patterns, geometric designs |
-| **Space** | 86 | 6.9% | Galaxies, nebulae, cosmic scenes |
-| **Gaming** | 76 | 6.1% | Game screenshots, concept art |
-| **Dark** | 75 | 6.0% | Dark themes, gothic aesthetics |
-| **Anime** | 58 | 4.7% | Anime characters, illustrations |
-| **Art** | 47 | 3.8% | Digital art, paintings |
-| **Minimal** | 46 | 3.7% | Clean, simple designs |
-| **Cyberpunk** | 41 | 3.3% | Neon, futuristic themes |
-| **Cars** | 29 | 2.3% | Automotive photography |
-| **Technology** | 10 | 0.8% | Tech, circuits, digital themes |
+| **Nature** | 304 | 12.7% | Landscapes, wildlife, forests, mountains |
+| **Architecture** | 275 | 11.5% | Buildings, structures, urban photography |
+| **Abstract** | 257 | 10.8% | Artistic patterns, geometric designs |
+| **4K** | 200 | 8.4% | Ultra high-definition wallpapers |
+| **Anime** | 133 | 5.6% | Anime characters, manga art |
+| **Space** | 122 | 5.1% | Galaxies, nebulae, cosmic scenes |
+| **Vintage** | 99 | 4.1% | Retro designs, nostalgic themes |
+| **Art** | 90 | 3.8% | Digital art, paintings, illustrations |
+| **Seasonal** | 90 | 3.8% | Holiday themes, seasonal changes |
+| **Dark** | 90 | 3.8% | Dark themes, gothic aesthetics |
+| **Neon** | 88 | 3.7% | Neon lighting, synthwave aesthetics |
+| **Cyberpunk** | 88 | 3.7% | Neon cities, futuristic themes |
+| **Gaming** | 84 | 3.5% | Video game characters, scenes |
+| **Cars** | 84 | 3.5% | Automotive photography, sports cars |
+| **Animals** | 84 | 3.5% | Wildlife photography, pets |
+| **AI** | 83 | 3.5% | AI-generated wallpapers |
+| **Technology** | 83 | 3.5% | Gadgets, circuits, digital interfaces |
+| **Pastel** | 69 | 2.9% | Soft colors, gentle aesthetics |
+| **Minimal** | 64 | 2.7% | Clean, simple designs |
 
 ## 🔌 API Endpoints
 
 ### Base URL
 ```
-https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/
+https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/
 ```
 
 ### Main Endpoints
 
 | Endpoint | Description | Response |
 |----------|-------------|----------|
-| `index.json` | Master collection index | Complete collection metadata |
-| `categories/{category}.json` | Category-specific wallpapers | All wallpapers in category |
-| `wallpapers/{category}/{filename}` | High-res wallpaper image | JPEG image file |
-| `thumbnails/{category}/{filename}` | Thumbnail (300×533) | JPEG thumbnail |
-| `collection_statistics.txt` | Human-readable stats | Text statistics |
+| `all.json` | All wallpapers with metadata | Complete collection |
+| `categories.json` | Category list and counts | All categories overview |
+| `{category}.json` | Category-specific wallpapers | All wallpapers in category |
+| `featured.json` | Featured wallpapers (latest 20) | Curated selection |
+| `stats.json` | Complete collection statistics | Detailed analytics |
+| `{category}/pages/{page}.json` | Paginated category results | 15 wallpapers per page |
+
+### Image Endpoints
+| Endpoint | Description | Response |
+|----------|-------------|----------|
+| `wallpapers/{category}/{id}.jpg` | High-res wallpaper (up to 1080×1920) | JPEG image |
+| `thumbnails/{category}/{id}.jpg` | Thumbnail (400×600) | JPEG thumbnail |
 
 ### Available Categories
 ```
-abstract, nature, space, minimal, cyberpunk, gaming, anime, movies, music, 
-cars, sports, technology, architecture, art, dark, neon, pastel, vintage, 
-gradient, seasonal
+4k, abstract, ai, animals, anime, architecture, art, cars, cyberpunk, 
+dark, gaming, minimal, nature, neon, pastel, seasonal, space, 
+technology, vintage
 ```
 
 ## 📄 API Response Formats
 
-### Master Index (`index.json`)
+### Statistics Response (`stats.json`)
 ```json
 {
-  "version": "2.0.0",
-  "lastUpdated": "2025-07-15T15:14:34.094342Z",
-  "totalWallpapers": 1491,
-  "categories": [
-    {
-      "id": "nature",
-      "name": "Nature",
-      "count": 284,
-      "description": "Natural landscapes, mountains, forests, oceans, wildlife, and botanical photography"
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-19T12:26:57.111378"
+  },
+  "data": {
+    "total_wallpapers": 2387,
+    "total_categories": 19,
+    "categories": {
+      "nature": {
+        "name": "Nature",
+        "count": 304,
+        "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
+      },
+      "ai": {
+        "name": "AI",
+        "count": 83,
+        "description": "AI-generated wallpapers from Stable Diffusion, Midjourney, and other AI models"
+      }
+    },
+    "file_stats": {
+      "total_size_mb": 1018.95,
+      "average_file_size_kb": 437.12,
+      "total_files": 2387
     }
-  ],
-  "featured": [
-    {
-      "id": "nature_001",
-      "source": "unsplash_nature_bulk",
-      "category": "nature",
-      "title": "High-Quality Nature Wallpaper 1",
-      "description": "High-quality nature wallpaper from Unsplash: a lush green forest filled with lots of trees",
-      "width": 1080,
-      "height": 1920,
-      "photographer": "Unsplash Contributor",
-      "tags": ["nature", "wallpaper", "hd", "high resolution", "mobile"],
-      "download_url": "https://images.unsplash.com/photo-1649700142623-07fe807400fc?w=1080&h=1920&fit=crop&crop=center&q=85",
-      "thumbnail_url": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/thumbnails/nature/nature_001.jpg",
-      "file_size": 712992,
-      "filename": "nature_001.jpg"
-    }
-  ],
-  "statistics": {
-    "totalCategories": 20,
-    "averagePerCategory": 62.2,
-    "totalFileSize": 1959966481,
-    "generatedAt": "2025-07-15T15:14:34.279800Z"
   }
 }
 ```
 
-### Category Index (`categories/{category}.json`)
+### Category Response (`{category}.json`)
 ```json
 {
-  "category": "nature",
-  "name": "Nature",
-  "description": "Natural landscapes, mountains, forests, oceans, wildlife, and botanical photography",
-  "count": 284,
-  "lastUpdated": "2025-07-15T15:14:34.166220Z",
-  "wallpapers": [
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-19T12:26:57.111378",
+    "category": "nature",
+    "total_count": 304
+  },
+  "data": [
     {
       "id": "nature_001",
-      "source": "unsplash_nature_bulk",
       "category": "nature",
-      "title": "High-Quality Nature Wallpaper 1",
-      "description": "High-quality nature wallpaper from Unsplash: a lush green forest filled with lots of trees",
-      "width": 1080,
-      "height": 1920,
-      "photographer": "Unsplash Contributor",
-      "tags": ["nature", "landscape", "mountain", "forest", "ocean"],
-      "download_url": "https://images.unsplash.com/photo-1649700142623-07fe807400fc?w=1080&h=1920&fit=crop&crop=center&q=85",
-      "original_url": "https://images.unsplash.com/photo-1649700142623-07fe807400fc?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjQ2fHxuYXR1cmUlMjBsYW5kc2NhcGV8ZW58MHx8MHx8fDA%3D",
-      "alt_text": "a lush green forest filled with lots of trees",
-      "scraped_at": "2025-07-14T22:02:39.746584Z",
-      "filename": "nature_001.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/thumbnails/nature/nature_001.jpg",
-      "file_size": 712992,
-      "file_modified": "2025-07-14T22:02:39.746202Z"
+      "title": "Nature Wallpaper 001",
+      "tags": ["nature", "hd", "mobile", "wallpaper"],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/001.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/001.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 245760,
+        "format": "JPEG",
+        "added_at": "2025-07-16T21:34:41.205709",
+        "hash": "7c3a0596157f9236646aedebd3123f3e"
+      }
     }
   ]
 }
 ```
 
-## 🔧 Advanced Configuration
+## 🔧 Modern API Features
 
-### Batch Processing Settings
-```python
-# In batch_processor.py
-config = {
-    'crawl_limit_per_category': 100,
-    'quality_threshold': 6.0,
-    'enable_cleanup': True,
-    'update_indexes': True
-}
+### Pagination Support
+```bash
+# Get paginated results (15 items per page)
+curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/all/pages/1.json
+curl https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/nature/pages/1.json
 ```
 
-### Quality Assessment Thresholds
-```python
-# In review_images.py
-thresholds = {
-    'auto_approve': 8.0,
-    'auto_reject': 4.0,
-    'min_resolution': (800, 600),
-    'max_file_size': 10 * 1024 * 1024
-}
-```
+### Bulletproof URL System
+- **Computed URLs**: Never stored, always calculated from file structure
+- **Impossible to be wrong**: URLs generated from actual file paths
+- **Sequential numbering**: Consistent 001.jpg, 002.jpg format
+- **GitHub LFS**: Large files handled efficiently
 
-## 📈 Performance Metrics
+## 📈 Performance Characteristics
 
-### Expected Processing Rates
-- **Crawling**: 50-100 images per minute
-- **Quality Assessment**: 200-500 images per minute
-- **Image Processing**: 100-200 images per minute
-- **Total Pipeline**: 20-50 images per minute (end-to-end)
+### API Response Times
+- **JSON APIs**: < 100ms (pre-generated static files)
+- **Image Loading**: < 500ms (GitHub CDN)
+- **Pagination**: 92% smaller responses (12KB vs 141KB)
+- **Cache Headers**: Long-term browser caching
 
-### Storage Requirements
-- **Original Images**: ~500KB average per image
-- **Thumbnails**: ~100KB average per image
-- **Metadata**: ~2KB average per image
-- **Total**: ~600KB per processed wallpaper
+### File Specifications
+- **Wallpapers**: Up to 1080×1920, <500KB average
+- **Thumbnails**: 400×600, <100KB average
+- **Metadata**: <2KB per wallpaper
+- **Total Collection**: ~1GB (2,387 wallpapers)
 
-## 🎯 Success Metrics
+## 🎯 Production Features
 
-After full implementation:
-- ✅ **20+ diverse categories** for maximum user engagement
-- ✅ **Multi-source crawling** from 4+ APIs and custom scrapers
-- ✅ **AI quality assessment** with 95%+ accuracy
-- ✅ **Automated processing** with mobile optimization
-- ✅ **Comprehensive metadata** for searchability
-- ✅ **Scalable architecture** for thousands of images
-- ✅ **Zero-cost hosting** via GitHub Raw Files
+- ✅ **2,387 wallpapers** across 19 diverse categories
+- ✅ **Multiple sources**: Unsplash, Civitai, Reddit communities
+- ✅ **AI-generated content**: 83 AI wallpapers from Stable Diffusion
+- ✅ **Mobile optimized**: Perfect for portrait displays
+- ✅ **Rich metadata**: Complete information for apps
+- ✅ **Bulletproof URLs**: Self-healing API system
+- ✅ **Pagination support**: Efficient data loading
+- ✅ **Zero-cost hosting**: GitHub Raw Files + LFS
 
 ## 📞 Support
 
@@ -215,13 +213,21 @@ For issues and feature requests, please check:
 2. Script help: `python scripts/script_name.py --help`
 3. Log files for debugging information
 
-## 🔄 Development Workflow
+## 🔄 Usage Examples
 
-1. **Setup**: Run `python setup.py` to install dependencies
-2. **Configure**: Set API keys in `.env` file
-3. **Test**: Run individual scripts with small limits
-4. **Scale**: Use batch processor for production runs
-5. **Deploy**: Commit processed images to GitHub
-6. **Monitor**: Check logs and statistics for issues
+### Mobile App Integration
+```javascript
+// Get all wallpapers
+fetch('https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/all.json')
+  .then(response => response.json())
+  .then(data => console.log(data.meta.total_count)); // 2387
+
+// Get nature wallpapers
+fetch('https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/nature.json')
+  .then(response => response.json())
+  .then(data => data.data.forEach(wallpaper => {
+    console.log(wallpaper.urls.raw); // Direct image URL
+  }));
+```
 
 This system provides a professional-grade wallpaper collection with automated quality control, diverse content sources, and comprehensive processing pipeline - perfect for mobile app integration!

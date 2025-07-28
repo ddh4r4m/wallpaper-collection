@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-19T12:26:57.111378",
+    "generated_at": "2025-07-28T21:27:34.814586",
     "page": 112,
     "per_page": 15,
-    "total_pages": 160,
-    "total_count": 2387,
+    "total_pages": 177,
+    "total_count": 2647,
     "count_on_page": 15,
-    "categories": 19,
+    "categories": 21,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/113.json",
@@ -15,9 +15,345 @@
   },
   "data": [
     {
-      "id": "nature_134",
+      "id": "minimal_053",
+      "category": "minimal",
+      "title": "Minimal Wallpaper",
+      "tags": [
+        "minimal",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1620
+        },
+        "file_size": 26758,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:27:43.274049",
+        "hash": "62eb74bf300a211b557d9bcad4f70cad",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/053.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/053.jpg"
+      }
+    },
+    {
+      "id": "minimal_054",
+      "category": "minimal",
+      "title": "Minimal Wallpaper",
+      "tags": [
+        "minimal",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 810
+        },
+        "file_size": 97816,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:27:45.577350",
+        "hash": "92766bbd1bf072831ca3655af2676713",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/054.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/054.jpg"
+      }
+    },
+    {
+      "id": "minimal_055",
+      "category": "minimal",
+      "title": "Minimal Wallpaper",
+      "tags": [
+        "minimal",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 721
+        },
+        "file_size": 30176,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:27:49.032224",
+        "hash": "18ca6f6b35c6013810b8f07bc665526d",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/055.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/055.jpg"
+      }
+    },
+    {
+      "id": "minimal_056",
+      "category": "minimal",
+      "title": "Minimal Wallpaper",
+      "tags": [
+        "minimal",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1440
+        },
+        "file_size": 81006,
+        "format": "JPEG",
+        "added_at": "2025-07-17T22:27:51.526164",
+        "hash": "feca1b8dd13ac2ab0be660379bdcf902",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/056.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/056.jpg"
+      }
+    },
+    {
+      "id": "minimal_057",
+      "category": "minimal",
+      "title": "The SeedVR2 video upscaler is  - Reddit AI",
+      "tags": [
+        "minimal",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 960,
+          "height": 1440
+        },
+        "file_size": 189862,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:27:14.573013",
+        "hash": "e87030a470a8aace74b5c088c2dd8ac8",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 211
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/057.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/057.jpg"
+      }
+    },
+    {
+      "id": "minimal_058",
+      "category": "minimal",
+      "title": "HiDream image editing model re - Reddit AI",
+      "tags": [
+        "minimal",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 445
+        },
+        "file_size": 144067,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:27:17.045837",
+        "hash": "6df9cdfd51538bc589848fcfa205a62d",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 218
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/058.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/058.jpg"
+      }
+    },
+    {
+      "id": "minimal_059",
+      "category": "minimal",
+      "title": "Wan 2.2 is coming this month. - Reddit AI",
+      "tags": [
+        "minimal",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1296
+        },
+        "file_size": 138209,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:27:18.285300",
+        "hash": "ea19541abf06bfe015a6b45e51365687",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 277
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/059.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/059.jpg"
+      }
+    },
+    {
+      "id": "minimal_060",
+      "category": "minimal",
+      "title": "I've released Place it - Fuse  - Reddit AI",
+      "tags": [
+        "minimal",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 125210,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:27:20.042767",
+        "hash": "db02b531f07963a6e8d888923a98302f",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 439
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/060.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/060.jpg"
+      }
+    },
+    {
+      "id": "minimal_061",
+      "category": "minimal",
+      "title": "Smoking coffee - Reddit AI",
+      "tags": [
+        "minimal",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "file_size": 116221,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:27:21.279492",
+        "hash": "e65893e5ead55a1d1ede3a75275746eb",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 23
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/061.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/061.jpg"
+      }
+    },
+    {
+      "id": "minimal_062",
+      "category": "minimal",
+      "title": "InScene: Flux Kontext LoRA for - Reddit AI",
+      "tags": [
+        "minimal",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1237
+        },
+        "file_size": 184489,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:46:12.164381",
+        "hash": "fb0e599908bad4c59fae0ae91d0bd868",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 327
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/062.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/062.jpg"
+      }
+    },
+    {
+      "id": "minimal_063",
+      "category": "minimal",
+      "title": "Clearing up VAE latents even f - Reddit AI",
+      "tags": [
+        "minimal",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 599
+        },
+        "file_size": 111366,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:46:13.382946",
+        "hash": "1417b4305a41f9af9a3ea448d01170d9",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 30
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/063.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/063.jpg"
+      }
+    },
+    {
+      "id": "minimal_064",
+      "category": "minimal",
+      "title": "Flux Kontext Mask Inpainting W - Reddit AI",
+      "tags": [
+        "minimal",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 559
+        },
+        "file_size": 134114,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:46:14.512896",
+        "hash": "1644a7fdb3c119ad70070c9e32881d8b",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 6
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/064.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/064.jpg"
+      }
+    },
+    {
+      "id": "nature_001",
       "category": "nature",
-      "title": "Nature Wallpaper 134",
+      "title": "Nature Wallpaper 001",
       "tags": [
         "nature",
         "wallpaper",
@@ -25,25 +361,25 @@
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/134.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/134.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/001.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/001.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 356717,
+        "file_size": 697917,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:20.957314",
-        "hash": "91659bf355f516ec43e1f8a43fe12e70",
+        "added_at": "2025-07-17T00:04:11.965564",
+        "hash": "3c273e19c690025db7dc9ab1d94bf985",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_135",
+      "id": "nature_002",
       "category": "nature",
-      "title": "Nature Wallpaper 135",
+      "title": "Nature Wallpaper 002",
       "tags": [
         "nature",
         "wallpaper",
@@ -51,25 +387,25 @@
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/135.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/135.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/002.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/002.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 200289,
+        "file_size": 692614,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.010717",
-        "hash": "4838e92d1d32efba23231733dc64c6e4",
+        "added_at": "2025-07-17T00:04:12.041958",
+        "hash": "023897eb05ffea369cc56c267308edeb",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_136",
+      "id": "nature_003",
       "category": "nature",
-      "title": "Nature Wallpaper 136",
+      "title": "Nature Wallpaper 003",
       "tags": [
         "nature",
         "wallpaper",
@@ -77,330 +413,18 @@
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/136.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/136.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/003.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/003.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 369172,
+        "file_size": 574117,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.072914",
-        "hash": "062a247d9d7074e7fc4648ae4c98c323",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_137",
-      "category": "nature",
-      "title": "Nature Wallpaper 137",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/137.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/137.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 85052,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.119685",
-        "hash": "afec77dd4249cb616e84e431b43bd9ac",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_138",
-      "category": "nature",
-      "title": "Nature Wallpaper 138",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/138.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/138.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 296436,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.175293",
-        "hash": "fca2c310bf6ecfd289e2d252644ef746",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_139",
-      "category": "nature",
-      "title": "Nature Wallpaper 139",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/139.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/139.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 564466,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.245633",
-        "hash": "b5ff6aa3b15fc844e5860fe9bd9693a0",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_140",
-      "category": "nature",
-      "title": "Nature Wallpaper 140",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/140.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/140.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 420568,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.309418",
-        "hash": "492d6473f1553ac0f42a67f190d05941",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_141",
-      "category": "nature",
-      "title": "Nature Wallpaper 141",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/141.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/141.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 505270,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.377141",
-        "hash": "d078c0d176a5f21d49554e6458ba9ea4",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_142",
-      "category": "nature",
-      "title": "Nature Wallpaper 142",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/142.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/142.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 107539,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.459994",
-        "hash": "99910991c3071ab6c44d0126a5a3da11",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_143",
-      "category": "nature",
-      "title": "Nature Wallpaper 143",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/143.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/143.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 295942,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.516735",
-        "hash": "f211de5087ec635edf5a75adc35cec87",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_144",
-      "category": "nature",
-      "title": "Nature Wallpaper 144",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/144.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/144.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 544877,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.588636",
-        "hash": "a5c75f862a3a57ddfcd48b361d12b458",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_145",
-      "category": "nature",
-      "title": "Nature Wallpaper 145",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/145.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/145.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 389076,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.652228",
-        "hash": "8eff90ff108f74bf4ae077082e925b8f",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_146",
-      "category": "nature",
-      "title": "Nature Wallpaper 146",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/146.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/146.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 725212,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.731695",
-        "hash": "e4fcdb8424a55a164b68b231191168d2",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_147",
-      "category": "nature",
-      "title": "Nature Wallpaper 147",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/147.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/147.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 268300,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.787699",
-        "hash": "9a3030ebd7a1dc75b9b88f799e2a0eae",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_148",
-      "category": "nature",
-      "title": "Nature Wallpaper 148",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/148.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/148.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 423201,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:21.850174",
-        "hash": "e52dae8f5b2efbd7764e3af676e838e7",
+        "added_at": "2025-07-17T00:04:12.113866",
+        "hash": "1f617ebb1245e8f2e6dc66ba98c0791c",
         "source": "migrated"
       }
     }

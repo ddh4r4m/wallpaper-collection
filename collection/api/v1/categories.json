@@ -1,104 +1,114 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-19T12:26:57.111378",
-    "total_categories": 19
+    "generated_at": "2025-07-28T21:27:34.814586",
+    "total_categories": 21
   },
   "data": {
-    "art": {
-      "name": "Art",
-      "count": 90,
-      "description": "Digital art, paintings, illustrations, and creative designs"
-    },
-    "animals": {
-      "name": "Animals",
-      "count": 84,
-      "description": "Wildlife photography, pets, and animal portraits"
-    },
-    "abstract": {
-      "name": "Abstract",
-      "count": 257,
-      "description": "Abstract patterns, geometric designs, and artistic visualizations"
-    },
-    "gaming": {
-      "name": "Gaming",
-      "count": 84,
-      "description": "Video game characters, scenes, and gaming-inspired artwork"
+    "cyberpunk": {
+      "name": "Cyberpunk",
+      "count": 88,
+      "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
     },
     "architecture": {
       "name": "Architecture",
       "count": 275,
       "description": "Buildings, bridges, modern structures, and urban photography"
     },
-    "pastel": {
-      "name": "Pastel",
-      "count": 69,
-      "description": "Soft colors, gentle aesthetics, and dream-like themes"
-    },
-    "vintage": {
-      "name": "Vintage",
-      "count": 99,
-      "description": "Retro designs, nostalgic themes, and classic aesthetics"
-    },
-    "seasonal": {
-      "name": "Seasonal",
-      "count": 90,
-      "description": "Holiday themes, seasonal changes, and weather phenomena"
-    },
     "4k": {
       "name": "4K",
       "count": 200,
       "description": "Ultra high-definition wallpapers optimized for 4K displays"
-    },
-    "space": {
-      "name": "Space",
-      "count": 122,
-      "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
-    },
-    "anime": {
-      "name": "Anime",
-      "count": 133,
-      "description": "Anime characters, manga art, and Japanese animation styles"
-    },
-    "dark": {
-      "name": "Dark",
-      "count": 90,
-      "description": "Dark themes, gothic aesthetics, and mysterious atmospheres"
     },
     "neon": {
       "name": "Neon",
       "count": 88,
       "description": "Neon lighting, synthwave aesthetics, and electric themes"
     },
+    "pastel": {
+      "name": "Pastel",
+      "count": 69,
+      "description": "Soft colors, gentle aesthetics, and dream-like themes"
+    },
+    "sports": {
+      "name": "Sports",
+      "count": 115,
+      "description": "Athletic photography, sports action, and fitness themes"
+    },
+    "gaming": {
+      "name": "Gaming",
+      "count": 84,
+      "description": "Video game characters, scenes, and gaming-inspired artwork"
+    },
     "nature": {
       "name": "Nature",
       "count": 304,
       "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
+    },
+    "vintage": {
+      "name": "Vintage",
+      "count": 99,
+      "description": "Retro designs, nostalgic themes, and classic aesthetics"
     },
     "ai": {
       "name": "Ai",
       "count": 83,
       "description": "AI-generated wallpapers from Stable Diffusion, Midjourney, and other AI models"
     },
-    "cyberpunk": {
-      "name": "Cyberpunk",
-      "count": 88,
-      "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
-    },
     "minimal": {
       "name": "Minimal",
       "count": 64,
       "description": "Clean, simple designs with minimalist aesthetics"
     },
-    "cars": {
-      "name": "Cars",
+    "space": {
+      "name": "Space",
+      "count": 122,
+      "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
+    },
+    "dark": {
+      "name": "Dark",
+      "count": 90,
+      "description": "Dark themes, gothic aesthetics, and mysterious atmospheres"
+    },
+    "animals": {
+      "name": "Animals",
       "count": 84,
-      "description": "Automotive photography, sports cars, and vehicle designs"
+      "description": "Wildlife photography, pets, and animal portraits"
+    },
+    "seasonal": {
+      "name": "Seasonal",
+      "count": 90,
+      "description": "Holiday themes, seasonal changes, and weather phenomena"
+    },
+    "abstract": {
+      "name": "Abstract",
+      "count": 257,
+      "description": "Abstract patterns, geometric designs, and artistic visualizations"
+    },
+    "art": {
+      "name": "Art",
+      "count": 90,
+      "description": "Digital art, paintings, illustrations, and creative designs"
     },
     "technology": {
       "name": "Technology",
       "count": 83,
       "description": "Gadgets, circuits, futuristic tech, and digital interfaces"
+    },
+    "gradient": {
+      "name": "Gradient",
+      "count": 145,
+      "description": "Color transitions, smooth blends, and abstract flows"
+    },
+    "anime": {
+      "name": "Anime",
+      "count": 133,
+      "description": "Anime characters, manga art, and Japanese animation styles"
+    },
+    "cars": {
+      "name": "Cars",
+      "count": 84,
+      "description": "Automotive photography, sports cars, and vehicle designs"
     }
   }
 }

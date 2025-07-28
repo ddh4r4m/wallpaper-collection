@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-19T12:26:57.111378",
+    "generated_at": "2025-07-28T21:27:34.814586",
     "page": 157,
     "per_page": 15,
-    "total_pages": 160,
-    "total_count": 2387,
+    "total_pages": 177,
+    "total_count": 2647,
     "count_on_page": 15,
-    "categories": 19,
+    "categories": 21,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/158.json",
@@ -15,393 +15,502 @@
   },
   "data": [
     {
-      "id": "vintage_053",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_113",
+      "category": "space",
+      "title": "RAW photo, analog photography.  Sensual - Civitai AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 810
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 211098,
+        "file_size": 107124,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:04:21.235483",
-        "hash": "48afe3c1cdb675fa6f2520ef9983fa82",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:59:31.425393",
+        "hash": "2d6f52b8c855ea24238d286006f45b20",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "RAW photo, analog photography.  Sensual young woman, solo, looking at camera, ((blushing, flustered, horny, naughty smile, smirk)), ((gold hairband)), (mascara, eyeliner,eyeshadow), ((black choker)), ",
+        "civitai_stats": {
+          "cryCount": 10,
+          "laughCount": 29,
+          "likeCount": 216,
+          "dislikeCount": 0,
+          "heartCount": 73,
+          "commentCount": 0
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/053.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/053.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/113.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/113.jpg"
       }
     },
     {
-      "id": "vintage_054",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_114",
+      "category": "space",
+      "title": "Space AI Art - Civitai",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1584
+          "height": 1607
         },
-        "file_size": 116381,
+        "file_size": 178255,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:04:22.551957",
-        "hash": "ea3536dffb4ab45f843b608e0c6537ed",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:59:34.626286",
+        "hash": "de208147e519a4edb6c4527c09926366",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_stats": {
+          "cryCount": 6,
+          "laughCount": 17,
+          "likeCount": 227,
+          "dislikeCount": 0,
+          "heartCount": 45,
+          "commentCount": 0
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/054.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/054.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/114.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/114.jpg"
       }
     },
     {
-      "id": "vintage_055",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_115",
+      "category": "space",
+      "title": "full length photo, sensual elite woman, - Civitai AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 608
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 289845,
+        "file_size": 155116,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:04:25.020358",
-        "hash": "dc8dbd201d11bb0d6b38f975327e6cc3",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:59:36.425818",
+        "hash": "604812bee6c9e58df00cb95a7ccafc68",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "full length photo, sensual elite woman, sexy attire, photorealistic, glamour photography, artistic photo, seductive adult woman, sensual fashionista woman, sexy long grey hair with dark highlights, go",
+        "civitai_stats": {
+          "cryCount": 11,
+          "laughCount": 21,
+          "likeCount": 148,
+          "dislikeCount": 0,
+          "heartCount": 56,
+          "commentCount": 0
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/055.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/055.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/115.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/115.jpg"
       }
     },
     {
-      "id": "vintage_056",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_116",
+      "category": "space",
+      "title": "full length photo, sensual elite woman, - Civitai AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1620
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 169114,
+        "file_size": 141585,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:04:27.653635",
-        "hash": "d4442235a5337c0922ded310044d9e7e",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:59:37.755005",
+        "hash": "a20f7c27675bdd0da797d50d94a8ebc0",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "full length photo, sensual elite woman, sexy attire, photorealistic, glamour photography, artistic photo, seductive adult woman, sensual fashionista woman, sexy long grey hair with dark highlights, go",
+        "civitai_stats": {
+          "cryCount": 9,
+          "laughCount": 14,
+          "likeCount": 139,
+          "dislikeCount": 0,
+          "heartCount": 57,
+          "commentCount": 0
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/056.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/056.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/116.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/116.jpg"
       }
     },
     {
-      "id": "vintage_057",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_117",
+      "category": "space",
+      "title": "full length photo, sensual elite woman, - Civitai AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 720
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 129966,
+        "file_size": 135956,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:04:30.756840",
-        "hash": "8624309fa298ab573199f0e2d51481a0",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:59:39.087704",
+        "hash": "f774e7ed0aed2dafdfd08b93bb0ff4c1",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "full length photo, sensual elite woman, sexy attire, photorealistic, glamour photography, artistic photo, seductive adult woman, sensual fashionista woman, sexy long grey hair with dark highlights, go",
+        "civitai_stats": {
+          "cryCount": 1,
+          "laughCount": 15,
+          "likeCount": 115,
+          "dislikeCount": 0,
+          "heartCount": 48,
+          "commentCount": 0
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/057.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/057.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/117.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/117.jpg"
       }
     },
     {
-      "id": "vintage_058",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_118",
+      "category": "space",
+      "title": "full length photo, sensual elite woman, - Civitai AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 720
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 162665,
+        "file_size": 143026,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:04:32.213720",
-        "hash": "5db6f383a5b67eba576e823deb01895a",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:59:41.453199",
+        "hash": "8745f95fb64d4c3bf0a8ee14c2fcd141",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "full length photo, sensual elite woman, sexy attire, photorealistic, glamour photography, artistic photo, seductive adult woman, sensual fashionista woman, sexy long grey hair with dark highlights, go",
+        "civitai_stats": {
+          "cryCount": 1,
+          "laughCount": 11,
+          "likeCount": 124,
+          "dislikeCount": 0,
+          "heartCount": 41,
+          "commentCount": 0
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/058.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/058.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/118.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/118.jpg"
       }
     },
     {
-      "id": "vintage_059",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_119",
+      "category": "space",
+      "title": "luxury magazine phtotography, Full body - Civitai AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 720
+          "height": 739
         },
-        "file_size": 131681,
+        "file_size": 146462,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:04:33.642644",
-        "hash": "9f22b8ef69939769490092f9729bfaf3",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:59:43.894204",
+        "hash": "fb65ae2d30f7f2b0c84b9659011ad00f",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "luxury magazine phtotography, Full body photography of a sensual lady pirate, black hair blowing, tattoo at her neck, sits near the window, relaxed while holding a glass of whiskey. highly detailed dr",
+        "civitai_stats": {
+          "cryCount": 1,
+          "laughCount": 11,
+          "likeCount": 100,
+          "dislikeCount": 0,
+          "heartCount": 40,
+          "commentCount": 0
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/059.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/059.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/119.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/119.jpg"
       }
     },
     {
-      "id": "vintage_060",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_120",
+      "category": "space",
+      "title": "full length photo, sensual elite woman, - Civitai AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1464
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 249883,
+        "file_size": 142085,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:05:23.438300",
-        "hash": "b59049252329ad947687624a3fa47f6e",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:59:45.742210",
+        "hash": "b86e6be5c9db7fae670d43b24ca8a5e5",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "full length photo, sensual elite woman, sexy attire, photorealistic, glamour photography, artistic photo, seductive adult woman, sensual fashionista woman, sexy long grey hair with dark highlights, go",
+        "civitai_stats": {
+          "cryCount": 0,
+          "laughCount": 5,
+          "likeCount": 95,
+          "dislikeCount": 0,
+          "heartCount": 35,
+          "commentCount": 0
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/060.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/060.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/120.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/120.jpg"
       }
     },
     {
-      "id": "vintage_061",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_121",
+      "category": "space",
+      "title": "luxury magazine phtotography, Full body - Civitai AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 771
+          "height": 739
         },
-        "file_size": 112767,
+        "file_size": 109417,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:05:26.033747",
-        "hash": "d209645572dc832506e4dbe545533106",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:59:48.007276",
+        "hash": "38b4949ab360edcd0fffa8a06d019332",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "luxury magazine phtotography, Full body photography of a sensual lady pirate, black hair blowing, tattoo at her neck, sits near the window, relaxed while holding a glass of whiskey. highly detailed dr",
+        "civitai_stats": {
+          "cryCount": 8,
+          "laughCount": 3,
+          "likeCount": 84,
+          "dislikeCount": 0,
+          "heartCount": 37,
+          "commentCount": 0
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/061.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/061.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/121.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/121.jpg"
       }
     },
     {
-      "id": "vintage_062",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_122",
+      "category": "space",
+      "title": "full length photo, sensual elite woman, - Civitai AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
         "hd",
-        "mobile"
+        "mobile",
+        "community-rated"
       ],
       "metadata": {
         "dimensions": {
-          "width": 1080,
-          "height": 1561
+          "width": 832,
+          "height": 1216
         },
-        "file_size": 256005,
+        "file_size": 106142,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:05:28.420461",
-        "hash": "6c6527c6bb9400ec9bbb860f1b3d86bf",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:59:50.201517",
+        "hash": "325ce54d4107a5e2749e59e97eea6cad",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "full length photo, sensual elite woman, sexy attire, photorealistic, glamour photography, artistic photo, seductive adult woman, sensual fashionista woman, sexy long grey hair with dark highlights, go",
+        "civitai_stats": {
+          "cryCount": 0,
+          "laughCount": 3,
+          "likeCount": 77,
+          "dislikeCount": 0,
+          "heartCount": 38,
+          "commentCount": 0
+        }
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/062.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/062.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/122.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/122.jpg"
       }
     },
     {
-      "id": "vintage_063",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "sports_001",
+      "category": "sports",
+      "title": "Sports Wallpaper 001",
       "tags": [
-        "vintage",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/001.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/001.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:01:48.684571",
+        "file_size": 319206,
         "dimensions": {
           "width": 1080,
-          "height": 1440
-        },
-        "file_size": 241333,
-        "format": "JPEG",
-        "added_at": "2025-07-17T22:05:31.972431",
-        "hash": "5872969de3f1598dfa6b557c6954241c",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/063.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/063.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "vintage_064",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "sports_002",
+      "category": "sports",
+      "title": "Sports Wallpaper 002",
       "tags": [
-        "vintage",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/002.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/002.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:01:48.792540",
+        "file_size": 292741,
         "dimensions": {
           "width": 1080,
-          "height": 1584
-        },
-        "file_size": 116381,
-        "format": "JPEG",
-        "added_at": "2025-07-17T22:05:34.468288",
-        "hash": "ea3536dffb4ab45f843b608e0c6537ed",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/064.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/064.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "vintage_065",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "sports_003",
+      "category": "sports",
+      "title": "Sports Wallpaper 003",
       "tags": [
-        "vintage",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/003.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/003.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:01:48.922003",
+        "file_size": 351508,
         "dimensions": {
           "width": 1080,
-          "height": 810
-        },
-        "file_size": 76721,
-        "format": "JPEG",
-        "added_at": "2025-07-17T22:05:37.137412",
-        "hash": "c4c42c3542c916a23c6a5a83f6b63b43",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/065.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/065.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "vintage_066",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "sports_004",
+      "category": "sports",
+      "title": "Sports Wallpaper 004",
       "tags": [
-        "vintage",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/004.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/004.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:01:49.223329",
+        "file_size": 62938,
         "dimensions": {
           "width": 1080,
-          "height": 1464
-        },
-        "file_size": 249883,
-        "format": "JPEG",
-        "added_at": "2025-07-17T22:05:38.480830",
-        "hash": "b59049252329ad947687624a3fa47f6e",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/066.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/066.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "vintage_067",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "sports_005",
+      "category": "sports",
+      "title": "Sports Wallpaper 005",
       "tags": [
-        "vintage",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/005.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/005.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:01:49.316399",
+        "file_size": 125592,
         "dimensions": {
           "width": 1080,
-          "height": 1620
-        },
-        "file_size": 243993,
-        "format": "JPEG",
-        "added_at": "2025-07-17T22:05:41.294515",
-        "hash": "9dabe615635c19bda35e82f9fc384f6d",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/067.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/067.jpg"
+          "height": 1920
+        }
       }
     }
   ]

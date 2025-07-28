@@ -1,0 +1,49 @@
+{
+  "mission": "Agent 4 - Fitness/Workout Wallpaper Collection",
+  "status": "PARTIAL",
+  "target_images": 30,
+  "actual_downloaded": 0,
+  "duplicates_skipped": 4,
+  "quality_rejected": 23,
+  "total_attempts": 27,
+  "success_rate": "0.0%",
+  "search_results": {
+    "fitness wallpaper mobile": 3,
+    "workout motivation wallpaper": 3,
+    "gym wallpaper hd": 3,
+    "fitness background phone": 3,
+    "athletic motivation background": 3,
+    "weightlifting wallpaper": 3,
+    "running wallpaper mobile": 3,
+    "crossfit wallpaper": 3,
+    "bodybuilding wallpaper": 3
+  },
+  "category_breakdown": {},
+  "search_terms_used": [
+    "fitness wallpaper mobile",
+    "workout motivation wallpaper",
+    "gym wallpaper hd",
+    "fitness background phone",
+    "athletic motivation background",
+    "weightlifting wallpaper",
+    "running wallpaper mobile",
+    "crossfit wallpaper",
+    "bodybuilding wallpaper"
+  ],
+  "most_successful_searches": [
+    [
+      "fitness wallpaper mobile",
+      3
+    ],
+    [
+      "workout motivation wallpaper",
+      3
+    ],
+    [
+      "gym wallpaper hd",
+      3
+    ]
+  ],
+  "images": [],
+  "completion_time": "2025-07-21T00:49:10.992808"
+}

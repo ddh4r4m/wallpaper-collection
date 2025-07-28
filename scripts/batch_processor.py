@@ -47,26 +47,26 @@ class BatchProcessor:
         
         # Source-category mapping (optimized for each category)
         self.source_mapping = {
-            'nature': ['unsplash', 'pexels', 'pixabay'],
-            'gaming': ['wallhaven'],
-            'anime': ['wallhaven'],
-            'cars': ['pexels', 'unsplash'],
-            'sports': ['pexels', 'unsplash'],
-            'technology': ['unsplash', 'pexels', 'wallhaven'],
-            'space': ['unsplash', 'pexels', 'pixabay'],
-            'abstract': ['pixabay', 'unsplash', 'pexels'],
-            'architecture': ['unsplash', 'pexels'],
-            'art': ['pixabay', 'unsplash'],
-            'movies': ['pixabay'],
-            'music': ['unsplash', 'pexels'],
-            'cyberpunk': ['wallhaven'],
-            'minimal': ['unsplash', 'pixabay'],
-            'dark': ['wallhaven'],
-            'neon': ['wallhaven'],
-            'pastel': ['pixabay', 'unsplash'],
-            'vintage': ['pixabay', 'unsplash'],
-            'gradient': ['pixabay', 'unsplash'],
-            'seasonal': ['unsplash', 'pexels']
+            'nature': ['pinterest', 'unsplash', 'pexels', 'pixabay'],
+            'gaming': ['pinterest', 'wallhaven'],
+            'anime': ['pinterest', 'wallhaven'],
+            'cars': ['pinterest', 'pexels', 'unsplash'],
+            'sports': ['pinterest', 'pexels', 'unsplash'],
+            'technology': ['pinterest', 'unsplash', 'pexels', 'wallhaven'],
+            'space': ['pinterest', 'unsplash', 'pexels', 'pixabay'],
+            'abstract': ['pinterest', 'pixabay', 'unsplash', 'pexels'],
+            'architecture': ['pinterest', 'unsplash', 'pexels'],
+            'art': ['pinterest', 'pixabay', 'unsplash'],
+            'movies': ['pinterest', 'pixabay'],
+            'music': ['pinterest', 'unsplash', 'pexels'],
+            'cyberpunk': ['pinterest', 'wallhaven'],
+            'minimal': ['pinterest', 'unsplash', 'pixabay'],
+            'dark': ['pinterest', 'wallhaven'],
+            'neon': ['pinterest', 'wallhaven'],
+            'pastel': ['pinterest', 'pixabay', 'unsplash'],
+            'vintage': ['pinterest', 'pixabay', 'unsplash'],
+            'gradient': ['pinterest', 'pixabay', 'unsplash'],
+            'seasonal': ['pinterest', 'unsplash', 'pexels']
         }
         
         # Processing statistics
@@ -133,36 +133,102 @@ class BatchProcessor:
         """Crawl images for a specific category"""
         logger.info(f"Starting crawl for category: {category}")
         
-        # Prepare arguments
-        args = [
-            '--category', category,
-            '--limit', str(limit),
-            '--output', str(self.crawl_cache_dir)
-        ]
+        total_images = 0
+        all_summaries = []
         
-        if sources:
-            args.extend(['--sources', ','.join(sources)])
+        # Separate Pinterest from other sources since it uses a different scraper
+        pinterest_sources = [s for s in sources if s == 'pinterest']
+        other_sources = [s for s in sources if s != 'pinterest']
         
-        # Run crawler
-        result = self.run_script('crawl_images.py', args)
-        
-        if result['success']:
-            # Parse crawl results
-            try:
-                # Look for crawl summary
-                summary_file = self.crawl_cache_dir / f"{category}_crawl_summary.json"
-                if summary_file.exists():
-                    with open(summary_file, 'r') as f:
-                        summary = json.load(f)
-                        self.stats['total_crawled'] += summary.get('total_images', 0)
-                        return {'success': True, 'summary': summary}
-            except Exception as e:
-                logger.warning(f"Failed to parse crawl summary: {e}")
+        # Handle Pinterest crawling separately
+        if pinterest_sources:
+            logger.info(f"Running Pinterest scraper for category: {category}")
+            pinterest_limit = limit // len(sources) if len(sources) > 1 else min(25, limit)
             
-            return {'success': True, 'summary': {'total_images': 0}}
+            # Create Pinterest cache directory
+            pinterest_cache = self.crawl_cache_dir / "pinterest"
+            pinterest_cache.mkdir(parents=True, exist_ok=True)
+            
+            # Prepare Pinterest scraper arguments
+            pinterest_args = [
+                '--category', category,
+                '--limit', str(pinterest_limit),
+                '--output', str(pinterest_cache),
+                '--headless'  # Run in headless mode for automation
+            ]
+            
+            # Run Pinterest scraper
+            pinterest_result = self.run_script('pinterest_scraper.py', pinterest_args)
+            
+            if pinterest_result['success']:
+                # Check for Pinterest summary
+                pinterest_summary_file = pinterest_cache / f"pinterest_{category}_summary.json"
+                if pinterest_summary_file.exists():
+                    try:
+                        with open(pinterest_summary_file, 'r') as f:
+                            pinterest_summary = json.load(f)
+                            pinterest_count = pinterest_summary.get('high_res_downloaded', 0)
+                            total_images += pinterest_count
+                            all_summaries.append(pinterest_summary)
+                            logger.info(f"Pinterest: {pinterest_count} high-res images downloaded")
+                    except Exception as e:
+                        logger.warning(f"Failed to parse Pinterest summary: {e}")
+            else:
+                self.stats['errors'].append(f"Pinterest crawl failed for {category}: {pinterest_result['error']}")
+        
+        # Handle other sources with the standard crawler
+        if other_sources:
+            logger.info(f"Running standard crawler for sources: {other_sources}")
+            other_limit = limit - total_images if total_images > 0 else limit
+            
+            if other_limit > 0:
+                # Prepare arguments for standard crawler
+                args = [
+                    '--category', category,
+                    '--limit', str(other_limit),
+                    '--output', str(self.crawl_cache_dir)
+                ]
+                
+                args.extend(['--sources', ','.join(other_sources)])
+                
+                # Run standard crawler
+                result = self.run_script('crawl_images.py', args)
+                
+                if result['success']:
+                    # Parse crawl results
+                    try:
+                        # Look for crawl summary
+                        summary_file = self.crawl_cache_dir / f"{category}_crawl_summary.json"
+                        if summary_file.exists():
+                            with open(summary_file, 'r') as f:
+                                summary = json.load(f)
+                                standard_count = summary.get('total_images', 0)
+                                total_images += standard_count
+                                all_summaries.append(summary)
+                                logger.info(f"Standard sources: {standard_count} images downloaded")
+                    except Exception as e:
+                        logger.warning(f"Failed to parse standard crawl summary: {e}")
+                else:
+                    self.stats['errors'].append(f"Standard crawl failed for {category}: {result['error']}")
+        
+        # Update total stats
+        self.stats['total_crawled'] += total_images
+        
+        # Create combined summary
+        combined_summary = {
+            'category': category,
+            'sources': sources,
+            'total_images': total_images,
+            'pinterest_images': sum(s.get('high_res_downloaded', 0) for s in all_summaries if s.get('source') == 'pinterest' or 'pinterest' in str(s)),
+            'standard_images': sum(s.get('total_images', 0) for s in all_summaries if s.get('source') != 'pinterest' and 'pinterest' not in str(s)),
+            'crawl_time': datetime.utcnow().isoformat() + 'Z',
+            'details': all_summaries
+        }
+        
+        if total_images > 0:
+            return {'success': True, 'summary': combined_summary}
         else:
-            self.stats['errors'].append(f"Crawl failed for {category}: {result['error']}")
-            return result
+            return {'success': False, 'error': f"No images downloaded for category {category}"}
     
     def review_images(self) -> Dict:
         """Run AI quality assessment on crawled images"""

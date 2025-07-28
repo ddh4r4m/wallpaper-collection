@@ -1,0 +1,36 @@
+{
+  "id": "football_soccer_001_football_generic_a6844850",
+  "source": "pinterest_multi_agent",
+  "agent_id": "Agent_1_Football_Soccer",
+  "category": "sports",
+  "sport_type": "football_generic",
+  "title": "Football Generic Wallpaper #1",
+  "description": "Versatile football wallpaper suitable for both American and international football fans",
+  "search_query": "football mobile wallpaper",
+  "file_size": 308497,
+  "estimated_resolution": "1080x1920",
+  "download_url": "https://i.pinimg.com/originals/23/41/97/2909203491258979.jpg",
+  "md5_hash": "3a47ed8872acc78bab901f9684d5bcb0",
+  "tags": [
+    "sports",
+    "wallpaper",
+    "mobile",
+    "hd",
+    "football",
+    "athletic",
+    "game",
+    "sport"
+  ],
+  "mobile_optimized": true,
+  "quality_tier": "premium",
+  "quality_score": 9.4,
+  "agent_specialization": "American Football & NFL Specialist",
+  "collection_strategy": "Broad football search covering both American and international",
+  "crawled_at": "2025-07-20T18:42:54.928191+00:00",
+  "validation": {
+    "format_verified": true,
+    "mobile_ready": true,
+    "duplicate_checked": true,
+    "content_verified": true
+  }
+}

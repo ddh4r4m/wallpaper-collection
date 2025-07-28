@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-19T12:26:57.111378",
+    "generated_at": "2025-07-28T21:27:34.814586",
     "page": 98,
     "per_page": 15,
-    "total_pages": 160,
-    "total_count": 2387,
+    "total_pages": 177,
+    "total_count": 2647,
     "count_on_page": 15,
-    "categories": 19,
+    "categories": 21,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/99.json",
@@ -353,55 +353,43 @@
       }
     },
     {
-      "id": "minimal_001",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 001",
+      "id": "gradient_001",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 001",
       "tags": [
-        "minimal",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/001.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/001.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/001.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/001.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T20:51:50.575389",
+        "file_size": 85453,
         "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 14539,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:00.384859",
-        "hash": "9b6f9901397b459c29ea6f30f3ead674",
-        "source": "migrated"
+          "width": 675,
+          "height": 1200
+        }
       }
     },
     {
-      "id": "minimal_002",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 002",
+      "id": "gradient_002",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 002",
       "tags": [
-        "minimal",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/002.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/002.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/002.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/002.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T20:51:50.577799",
+        "file_size": 301975,
         "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 106901,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:00.535052",
-        "hash": "2c5d28dea64eb6485336c7d3c0ce6ab5",
-        "source": "migrated"
+          "width": 591,
+          "height": 1280
+        }
       }
     }
   ]

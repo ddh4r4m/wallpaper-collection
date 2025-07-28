@@ -1,0 +1,70 @@
+{
+  "scraping_type": "specific_pinterest_pins",
+  "target_pins": [
+    "https://in.pinterest.com/pin/4081455906953894/",
+    "https://in.pinterest.com/pin/281543725129330/",
+    "https://in.pinterest.com/pin/14003448837374227/",
+    "https://in.pinterest.com/pin/985231164541094/"
+  ],
+  "scraping_stats": {
+    "duration_seconds": 133.93,
+    "pins_processed": 4,
+    "main_pins_extracted": 4,
+    "related_pins_found": 33,
+    "high_res_images": 27,
+    "downloaded_count": 27,
+    "duplicates_skipped": 0,
+    "low_res_skipped": 0,
+    "failed_downloads": 0,
+    "success_rate": 100.0,
+    "target_achieved": false
+  },
+  "requirements": {
+    "min_width": 1080,
+    "min_height": 1920,
+    "preferred_width": 1440,
+    "preferred_height": 2560,
+    "total_target": 40,
+    "target_per_pin": 10
+  },
+  "pin_results": [
+    {
+      "pin_url": "https://in.pinterest.com/pin/4081455906953894/",
+      "total_found": 16,
+      "high_res_found": 10,
+      "downloaded": 10,
+      "main_image_downloaded": true,
+      "related_pins_found": 15
+    },
+    {
+      "pin_url": "https://in.pinterest.com/pin/281543725129330/",
+      "total_found": 3,
+      "high_res_found": 2,
+      "downloaded": 2,
+      "main_image_downloaded": true,
+      "related_pins_found": 2
+    },
+    {
+      "pin_url": "https://in.pinterest.com/pin/14003448837374227/",
+      "total_found": 9,
+      "high_res_found": 6,
+      "downloaded": 6,
+      "main_image_downloaded": false,
+      "related_pins_found": 8
+    },
+    {
+      "pin_url": "https://in.pinterest.com/pin/985231164541094/",
+      "total_found": 9,
+      "high_res_found": 9,
+      "downloaded": 9,
+      "main_image_downloaded": true,
+      "related_pins_found": 8
+    }
+  ],
+  "download_summary": {
+    "total_images": 27,
+    "main_pin_images": 3,
+    "related_images": 24
+  },
+  "crawl_timestamp": "2025-07-20T15:38:43.714186Z"
+}

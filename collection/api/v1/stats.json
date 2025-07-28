@@ -1,541 +1,317 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-19T12:26:57.111378"
+    "generated_at": "2025-07-28T21:27:34.814586"
   },
   "data": {
-    "total_wallpapers": 2387,
-    "total_categories": 19,
+    "total_wallpapers": 2647,
+    "total_categories": 21,
     "categories": {
-      "art": {
-        "name": "Art",
-        "count": 90,
-        "description": "Digital art, paintings, illustrations, and creative designs"
-      },
-      "animals": {
-        "name": "Animals",
-        "count": 84,
-        "description": "Wildlife photography, pets, and animal portraits"
-      },
-      "abstract": {
-        "name": "Abstract",
-        "count": 257,
-        "description": "Abstract patterns, geometric designs, and artistic visualizations"
-      },
-      "gaming": {
-        "name": "Gaming",
-        "count": 84,
-        "description": "Video game characters, scenes, and gaming-inspired artwork"
+      "cyberpunk": {
+        "name": "Cyberpunk",
+        "count": 88,
+        "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
       },
       "architecture": {
         "name": "Architecture",
         "count": 275,
         "description": "Buildings, bridges, modern structures, and urban photography"
       },
-      "pastel": {
-        "name": "Pastel",
-        "count": 69,
-        "description": "Soft colors, gentle aesthetics, and dream-like themes"
-      },
-      "vintage": {
-        "name": "Vintage",
-        "count": 99,
-        "description": "Retro designs, nostalgic themes, and classic aesthetics"
-      },
-      "seasonal": {
-        "name": "Seasonal",
-        "count": 90,
-        "description": "Holiday themes, seasonal changes, and weather phenomena"
-      },
       "4k": {
         "name": "4K",
         "count": 200,
         "description": "Ultra high-definition wallpapers optimized for 4K displays"
-      },
-      "space": {
-        "name": "Space",
-        "count": 122,
-        "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
-      },
-      "anime": {
-        "name": "Anime",
-        "count": 133,
-        "description": "Anime characters, manga art, and Japanese animation styles"
-      },
-      "dark": {
-        "name": "Dark",
-        "count": 90,
-        "description": "Dark themes, gothic aesthetics, and mysterious atmospheres"
       },
       "neon": {
         "name": "Neon",
         "count": 88,
         "description": "Neon lighting, synthwave aesthetics, and electric themes"
       },
+      "pastel": {
+        "name": "Pastel",
+        "count": 69,
+        "description": "Soft colors, gentle aesthetics, and dream-like themes"
+      },
+      "sports": {
+        "name": "Sports",
+        "count": 115,
+        "description": "Athletic photography, sports action, and fitness themes"
+      },
+      "gaming": {
+        "name": "Gaming",
+        "count": 84,
+        "description": "Video game characters, scenes, and gaming-inspired artwork"
+      },
       "nature": {
         "name": "Nature",
         "count": 304,
         "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
+      },
+      "vintage": {
+        "name": "Vintage",
+        "count": 99,
+        "description": "Retro designs, nostalgic themes, and classic aesthetics"
       },
       "ai": {
         "name": "Ai",
         "count": 83,
         "description": "AI-generated wallpapers from Stable Diffusion, Midjourney, and other AI models"
       },
-      "cyberpunk": {
-        "name": "Cyberpunk",
-        "count": 88,
-        "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
-      },
       "minimal": {
         "name": "Minimal",
         "count": 64,
         "description": "Clean, simple designs with minimalist aesthetics"
       },
-      "cars": {
-        "name": "Cars",
+      "space": {
+        "name": "Space",
+        "count": 122,
+        "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
+      },
+      "dark": {
+        "name": "Dark",
+        "count": 90,
+        "description": "Dark themes, gothic aesthetics, and mysterious atmospheres"
+      },
+      "animals": {
+        "name": "Animals",
         "count": 84,
-        "description": "Automotive photography, sports cars, and vehicle designs"
+        "description": "Wildlife photography, pets, and animal portraits"
+      },
+      "seasonal": {
+        "name": "Seasonal",
+        "count": 90,
+        "description": "Holiday themes, seasonal changes, and weather phenomena"
+      },
+      "abstract": {
+        "name": "Abstract",
+        "count": 257,
+        "description": "Abstract patterns, geometric designs, and artistic visualizations"
+      },
+      "art": {
+        "name": "Art",
+        "count": 90,
+        "description": "Digital art, paintings, illustrations, and creative designs"
       },
       "technology": {
         "name": "Technology",
         "count": 83,
         "description": "Gadgets, circuits, futuristic tech, and digital interfaces"
+      },
+      "gradient": {
+        "name": "Gradient",
+        "count": 145,
+        "description": "Color transitions, smooth blends, and abstract flows"
+      },
+      "anime": {
+        "name": "Anime",
+        "count": 133,
+        "description": "Anime characters, manga art, and Japanese animation styles"
+      },
+      "cars": {
+        "name": "Cars",
+        "count": 84,
+        "description": "Automotive photography, sports cars, and vehicle designs"
       }
     },
     "recent_additions": [
       {
-        "id": "ai_083",
-        "category": "ai",
-        "title": "Ai Premium AI - Civitai",
+        "id": "sports_115",
+        "category": "sports",
+        "title": "Sports Wallpaper 115",
         "tags": [
-          "ai",
-          "ai-generated",
-          "civitai",
-          "stable-diffusion",
-          "hd",
-          "mobile",
-          "viral",
-          "community-rated"
+          "sports"
         ],
-        "metadata": {
-          "dimensions": {
-            "width": 864,
-            "height": 1152
-          },
-          "file_size": 130023,
-          "format": "JPEG",
-          "added_at": "2025-07-19T12:26:55.601485",
-          "hash": "441bc33f994e807b72fa3df7558263be",
-          "ai_source": "civitai",
-          "ai_generated": true,
-          "source_platform": "civitai.com",
-          "scraping_method": "scroll_based",
-          "civitai_tag_id": 4,
-          "civitai_stats": {
-            "cryCount": 192,
-            "laughCount": 1058,
-            "likeCount": 2176,
-            "dislikeCount": 0,
-            "heartCount": 746,
-            "commentCount": 4
-          },
-          "total_reactions": 2922
-        },
         "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/083.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/083.jpg"
-        }
-      },
-      {
-        "id": "ai_082",
-        "category": "ai",
-        "title": "Ai Premium AI - Civitai",
-        "tags": [
-          "ai",
-          "ai-generated",
-          "civitai",
-          "stable-diffusion",
-          "hd",
-          "mobile",
-          "viral",
-          "community-rated"
-        ],
-        "metadata": {
-          "dimensions": {
-            "width": 832,
-            "height": 1216
-          },
-          "file_size": 79069,
-          "format": "JPEG",
-          "added_at": "2025-07-19T12:26:54.286982",
-          "hash": "4b68b2028ad6842cda1f5f30e61ed459",
-          "ai_source": "civitai",
-          "ai_generated": true,
-          "source_platform": "civitai.com",
-          "scraping_method": "scroll_based",
-          "civitai_tag_id": 4,
-          "civitai_stats": {
-            "cryCount": 409,
-            "laughCount": 461,
-            "likeCount": 2315,
-            "dislikeCount": 0,
-            "heartCount": 963,
-            "commentCount": 47
-          },
-          "total_reactions": 3278
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/115.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/115.jpg"
         },
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/082.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/082.jpg"
-        }
-      },
-      {
-        "id": "ai_081",
-        "category": "ai",
-        "title": "Ai Premium AI - Civitai",
-        "tags": [
-          "ai",
-          "ai-generated",
-          "civitai",
-          "stable-diffusion",
-          "hd",
-          "mobile",
-          "viral",
-          "community-rated"
-        ],
         "metadata": {
-          "dimensions": {
-            "width": 992,
-            "height": 1544
-          },
-          "file_size": 194197,
-          "format": "JPEG",
-          "added_at": "2025-07-19T12:26:52.946567",
-          "hash": "af233c679f35d4e327b0777ae159eabc",
-          "ai_source": "civitai",
-          "ai_generated": true,
-          "source_platform": "civitai.com",
-          "scraping_method": "scroll_based",
-          "civitai_tag_id": 4,
-          "civitai_stats": {
-            "cryCount": 192,
-            "laughCount": 523,
-            "likeCount": 2179,
-            "dislikeCount": 0,
-            "heartCount": 1253,
-            "commentCount": 2
-          },
-          "total_reactions": 3432
-        },
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/081.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/081.jpg"
-        }
-      },
-      {
-        "id": "ai_080",
-        "category": "ai",
-        "title": "Ai Premium AI - Civitai",
-        "tags": [
-          "ai",
-          "ai-generated",
-          "civitai",
-          "stable-diffusion",
-          "hd",
-          "mobile",
-          "viral",
-          "community-rated"
-        ],
-        "metadata": {
-          "dimensions": {
-            "width": 832,
-            "height": 1216
-          },
-          "file_size": 114107,
-          "format": "JPEG",
-          "added_at": "2025-07-19T12:26:51.620948",
-          "hash": "01029076587024b960d57cc15b2d9e8f",
-          "ai_source": "civitai",
-          "ai_generated": true,
-          "source_platform": "civitai.com",
-          "scraping_method": "scroll_based",
-          "civitai_tag_id": 4,
-          "civitai_stats": {
-            "cryCount": 208,
-            "laughCount": 433,
-            "likeCount": 2664,
-            "dislikeCount": 0,
-            "heartCount": 808,
-            "commentCount": 2
-          },
-          "total_reactions": 3472
-        },
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/080.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/080.jpg"
-        }
-      },
-      {
-        "id": "ai_079",
-        "category": "ai",
-        "title": "Ai Premium AI - Civitai",
-        "tags": [
-          "ai",
-          "ai-generated",
-          "civitai",
-          "stable-diffusion",
-          "hd",
-          "mobile",
-          "viral",
-          "high-resolution",
-          "community-rated"
-        ],
-        "metadata": {
+          "added_at": "2025-07-21T01:09:18.924527",
+          "file_size": 181802,
           "dimensions": {
             "width": 1080,
-            "height": 1620
-          },
-          "file_size": 420287,
-          "format": "JPEG",
-          "added_at": "2025-07-19T12:26:50.273333",
-          "hash": "481a8cede7157486b0e120f783564d72",
-          "ai_source": "civitai",
-          "ai_generated": true,
-          "source_platform": "civitai.com",
-          "scraping_method": "scroll_based",
-          "civitai_tag_id": 4,
-          "civitai_stats": {
-            "cryCount": 230,
-            "laughCount": 420,
-            "likeCount": 2693,
-            "dislikeCount": 0,
-            "heartCount": 797,
-            "commentCount": 5
-          },
-          "total_reactions": 3490
-        },
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/079.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/079.jpg"
+            "height": 1920
+          }
         }
       },
       {
-        "id": "ai_078",
-        "category": "ai",
-        "title": "Ai Premium AI - Civitai",
+        "id": "sports_114",
+        "category": "sports",
+        "title": "Sports Wallpaper 114",
         "tags": [
-          "ai",
-          "ai-generated",
-          "civitai",
-          "stable-diffusion",
-          "hd",
-          "mobile",
-          "viral",
-          "high-resolution",
-          "community-rated"
+          "sports"
         ],
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/114.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/114.jpg"
+        },
         "metadata": {
+          "added_at": "2025-07-21T01:09:18.781762",
+          "file_size": 218309,
           "dimensions": {
             "width": 1080,
-            "height": 1620
-          },
-          "file_size": 495139,
-          "format": "JPEG",
-          "added_at": "2025-07-19T12:26:48.236487",
-          "hash": "f055a7e246eb0ce542672d653015eae7",
-          "ai_source": "civitai",
-          "ai_generated": true,
-          "source_platform": "civitai.com",
-          "scraping_method": "scroll_based",
-          "civitai_tag_id": 4,
-          "civitai_stats": {
-            "cryCount": 236,
-            "laughCount": 413,
-            "likeCount": 2660,
-            "dislikeCount": 0,
-            "heartCount": 830,
-            "commentCount": 3
-          },
-          "total_reactions": 3490
-        },
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/078.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/078.jpg"
+            "height": 1920
+          }
         }
       },
       {
-        "id": "ai_077",
-        "category": "ai",
-        "title": "Ai Premium AI - Civitai",
+        "id": "sports_113",
+        "category": "sports",
+        "title": "Sports Wallpaper 113",
         "tags": [
-          "ai",
-          "ai-generated",
-          "civitai",
-          "stable-diffusion",
-          "hd",
-          "mobile",
-          "viral",
-          "community-rated"
+          "sports"
         ],
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/113.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/113.jpg"
+        },
         "metadata": {
+          "added_at": "2025-07-21T01:09:18.675967",
+          "file_size": 427277,
           "dimensions": {
             "width": 1080,
-            "height": 1620
-          },
-          "file_size": 241916,
-          "format": "JPEG",
-          "added_at": "2025-07-19T12:26:45.239800",
-          "hash": "7cbfc03de84bb0d016a4b5be363c0660",
-          "ai_source": "civitai",
-          "ai_generated": true,
-          "source_platform": "civitai.com",
-          "scraping_method": "scroll_based",
-          "civitai_tag_id": 4,
-          "civitai_stats": {
-            "cryCount": 118,
-            "laughCount": 477,
-            "likeCount": 2704,
-            "dislikeCount": 0,
-            "heartCount": 821,
-            "commentCount": 5
-          },
-          "total_reactions": 3525
-        },
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/077.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/077.jpg"
+            "height": 1920
+          }
         }
       },
       {
-        "id": "ai_076",
-        "category": "ai",
-        "title": "Ai Premium AI - Civitai",
+        "id": "sports_112",
+        "category": "sports",
+        "title": "Sports Wallpaper 112",
         "tags": [
-          "ai",
-          "ai-generated",
-          "civitai",
-          "stable-diffusion",
-          "hd",
-          "mobile",
-          "viral",
-          "high-resolution",
-          "community-rated"
+          "sports"
         ],
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/112.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/112.jpg"
+        },
         "metadata": {
+          "added_at": "2025-07-21T01:09:18.551617",
+          "file_size": 339826,
           "dimensions": {
             "width": 1080,
-            "height": 1409
-          },
-          "file_size": 164105,
-          "format": "JPEG",
-          "added_at": "2025-07-19T12:26:42.981595",
-          "hash": "439abef4f6c7a4decb591a8061922905",
-          "ai_source": "civitai",
-          "ai_generated": true,
-          "source_platform": "civitai.com",
-          "scraping_method": "scroll_based",
-          "civitai_tag_id": 4,
-          "civitai_stats": {
-            "cryCount": 251,
-            "laughCount": 378,
-            "likeCount": 2715,
-            "dislikeCount": 0,
-            "heartCount": 824,
-            "commentCount": 2
-          },
-          "total_reactions": 3539
-        },
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/076.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/076.jpg"
+            "height": 1920
+          }
         }
       },
       {
-        "id": "ai_075",
-        "category": "ai",
-        "title": "Ai Premium AI - Civitai",
+        "id": "sports_111",
+        "category": "sports",
+        "title": "Sports Wallpaper 111",
         "tags": [
-          "ai",
-          "ai-generated",
-          "civitai",
-          "stable-diffusion",
-          "hd",
-          "mobile",
-          "viral",
-          "high-resolution",
-          "community-rated"
+          "sports"
         ],
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/111.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/111.jpg"
+        },
         "metadata": {
+          "added_at": "2025-07-21T01:09:18.438860",
+          "file_size": 277314,
           "dimensions": {
             "width": 1080,
-            "height": 1543
-          },
-          "file_size": 296086,
-          "format": "JPEG",
-          "added_at": "2025-07-19T12:26:41.528839",
-          "hash": "9c7e0c6a5ee5e954f46a10537a0349c1",
-          "ai_source": "civitai",
-          "ai_generated": true,
-          "source_platform": "civitai.com",
-          "scraping_method": "scroll_based",
-          "civitai_tag_id": 4,
-          "civitai_stats": {
-            "cryCount": 237,
-            "laughCount": 368,
-            "likeCount": 2697,
-            "dislikeCount": 0,
-            "heartCount": 845,
-            "commentCount": 5
-          },
-          "total_reactions": 3542
-        },
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/075.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/075.jpg"
+            "height": 1920
+          }
         }
       },
       {
-        "id": "ai_074",
-        "category": "ai",
-        "title": "Ai Premium AI - Civitai",
+        "id": "sports_110",
+        "category": "sports",
+        "title": "Sports Wallpaper 110",
         "tags": [
-          "ai",
-          "ai-generated",
-          "civitai",
-          "stable-diffusion",
-          "hd",
-          "mobile",
-          "viral",
-          "community-rated"
+          "sports"
         ],
-        "metadata": {
-          "dimensions": {
-            "width": 832,
-            "height": 1216
-          },
-          "file_size": 104684,
-          "format": "JPEG",
-          "added_at": "2025-07-19T12:26:39.462546",
-          "hash": "5e5e8deb2c8a5b9c57303b5ae98eb8f1",
-          "ai_source": "civitai",
-          "ai_generated": true,
-          "source_platform": "civitai.com",
-          "scraping_method": "scroll_based",
-          "civitai_tag_id": 4,
-          "civitai_stats": {
-            "cryCount": 201,
-            "laughCount": 379,
-            "likeCount": 2668,
-            "dislikeCount": 0,
-            "heartCount": 879,
-            "commentCount": 2
-          },
-          "total_reactions": 3547
-        },
         "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/ai/074.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/ai/074.jpg"
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/110.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/110.jpg"
+        },
+        "metadata": {
+          "added_at": "2025-07-21T01:09:18.332474",
+          "file_size": 258825,
+          "dimensions": {
+            "width": 1080,
+            "height": 1920
+          }
+        }
+      },
+      {
+        "id": "sports_109",
+        "category": "sports",
+        "title": "Sports Wallpaper 109",
+        "tags": [
+          "sports"
+        ],
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/109.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/109.jpg"
+        },
+        "metadata": {
+          "added_at": "2025-07-21T01:09:18.225335",
+          "file_size": 220714,
+          "dimensions": {
+            "width": 1080,
+            "height": 1920
+          }
+        }
+      },
+      {
+        "id": "sports_108",
+        "category": "sports",
+        "title": "Sports Wallpaper 108",
+        "tags": [
+          "sports"
+        ],
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/108.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/108.jpg"
+        },
+        "metadata": {
+          "added_at": "2025-07-21T01:09:18.054257",
+          "file_size": 451120,
+          "dimensions": {
+            "width": 1080,
+            "height": 1920
+          }
+        }
+      },
+      {
+        "id": "sports_107",
+        "category": "sports",
+        "title": "Sports Wallpaper 107",
+        "tags": [
+          "sports"
+        ],
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/107.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/107.jpg"
+        },
+        "metadata": {
+          "added_at": "2025-07-21T01:09:17.927728",
+          "file_size": 241724,
+          "dimensions": {
+            "width": 1080,
+            "height": 1920
+          }
+        }
+      },
+      {
+        "id": "sports_106",
+        "category": "sports",
+        "title": "Sports Wallpaper 106",
+        "tags": [
+          "sports"
+        ],
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/106.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/106.jpg"
+        },
+        "metadata": {
+          "added_at": "2025-07-21T01:09:17.823444",
+          "file_size": 162020,
+          "dimensions": {
+            "width": 1080,
+            "height": 1920
+          }
         }
       }
     ],
@@ -581,12 +357,20 @@
         155
       ],
       [
+        "gradient",
+        146
+      ],
+      [
         "anime",
         133
       ],
       [
         "space",
         122
+      ],
+      [
+        "sports",
+        115
       ],
       [
         "portrait",
@@ -611,24 +395,16 @@
       [
         "vintage",
         99
-      ],
-      [
-        "dark",
-        91
-      ],
-      [
-        "art",
-        90
       ]
     ],
     "file_stats": {
-      "total_size_mb": 1018.95,
-      "average_file_size_kb": 437.12,
+      "total_size_mb": 1083.76,
+      "average_file_size_kb": 419.26,
       "average_dimensions": {
-        "width": 1151,
-        "height": 1731
+        "width": 1143,
+        "height": 1749
       },
-      "total_files": 2387
+      "total_files": 2647
     }
   }
 }

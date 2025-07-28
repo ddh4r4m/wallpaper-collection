@@ -1,0 +1,36 @@
+{
+  "id": "football_soccer_002_premier_league_a383765d",
+  "source": "pinterest_multi_agent",
+  "agent_id": "Agent_1_Football_Soccer",
+  "category": "sports",
+  "sport_type": "premier_league",
+  "title": "Premier League Wallpaper #2",
+  "description": "English Premier League inspired wallpaper with club themes and player action",
+  "search_query": "premier league football wallpaper",
+  "file_size": 108188,
+  "estimated_resolution": "1440x2960",
+  "download_url": "https://i.pinimg.com/originals/35/78/71/3803755903753396.jpg",
+  "md5_hash": "f0ea9ba60177fc9c235807190ef99b45",
+  "tags": [
+    "sports",
+    "wallpaper",
+    "mobile",
+    "hd",
+    "premier league",
+    "england",
+    "club",
+    "professional"
+  ],
+  "mobile_optimized": true,
+  "quality_tier": "standard",
+  "quality_score": 6.1,
+  "agent_specialization": "American Football & NFL Specialist",
+  "collection_strategy": "English club football and professional league focus",
+  "crawled_at": "2025-07-20T18:42:54.967656+00:00",
+  "validation": {
+    "format_verified": true,
+    "mobile_ready": true,
+    "duplicate_checked": true,
+    "content_verified": true
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "agent": "Agent 3 - Basketball Specialist",
+  "mission": "Basketball Wallpaper Collection",
+  "target_count": 40,
+  "downloaded_count": 17,
+  "success_rate": "42.5%",
+  "status": "PARTIAL",
+  "category_breakdown": {
+    "general_basketball": 17
+  },
+  "quality_metrics": {
+    "total_urls_attempted": 37,
+    "successful_downloads": 17,
+    "failed_downloads": 18,
+    "duplicates_filtered": 0,
+    "average_file_size_kb": 297.71,
+    "total_collection_size_mb": 4.94
+  },
+  "basketball_categories": [
+    "general_basketball"
+  ],
+  "downloaded_images": [
+    {
+      "filename": "basketball_001_general_basketball_5bc3f21a.jpg",
+      "category": "general_basketball",
+      "dimensions": "1920x1080",
+      "size_kb": 259.68
+    },
+    {
+      "filename": "basketball_002_general_basketball_47f8a388.jpg",
+      "category": "general_basketball",
+      "dimensions": "1024x768",
+      "size_kb": 84.12
+    },
+    {
+      "filename": "basketball_003_general_basketball_28220496.jpg",
+      "category": "general_basketball",
+      "dimensions": "1080x1920",
+      "size_kb": 201.43
+    },
+    {
+      "filename": "basketball_004_general_basketball_efdc04e1.jpg",
+      "category": "general_basketball",
+      "dimensions": "1080x1920",
+      "size_kb": 396.45
+    },
+    {
+      "filename": "basketball_005_general_basketball_e35c06bb.jpg",
+      "category": "general_basketball",
+      "dimensions": "1920x800",
+      "size_kb": 105.13
+    },
+    {
+      "filename": "basketball_006_general_basketball_bb5c7d66.jpg",
+      "category": "general_basketball",
+      "dimensions": "1080x1920",
+      "size_kb": 371.43
+    },
+    {
+      "filename": "basketball_007_general_basketball_3bc84e3e.jpg",
+      "category": "general_basketball",
+      "dimensions": "1080x1920",
+      "size_kb": 233.15
+    },
+    {
+      "filename": "basketball_008_general_basketball_3064f06e.jpg",
+      "category": "general_basketball",
+      "dimensions": "4034x2690",
+      "size_kb": 1084.1
+    },
+    {
+      "filename": "basketball_009_general_basketball_20dae7e5.jpg",
+      "category": "general_basketball",
+      "dimensions": "1080x1920",
+      "size_kb": 199.09
+    },
+    {
+      "filename": "basketball_010_general_basketball_47c798bf.jpg",
+      "category": "general_basketball",
+      "dimensions": "1600x1200",
+      "size_kb": 353.34
+    },
+    {
+      "filename": "basketball_011_general_basketball_7be88192.jpg",
+      "category": "general_basketball",
+      "dimensions": "1080x1920",
+      "size_kb": 300.16
+    },
+    {
+      "filename": "basketball_012_general_basketball_0d7fc4b5.jpg",
+      "category": "general_basketball",
+      "dimensions": "1400x1050",
+      "size_kb": 152.68
+    },
+    {
+      "filename": "basketball_013_general_basketball_4dbd4182.jpg",
+      "category": "general_basketball",
+      "dimensions": "1920x1200",
+      "size_kb": 172.5
+    },
+    {
+      "filename": "basketball_014_general_basketball_8b7bb5fe.jpg",
+      "category": "general_basketball",
+      "dimensions": "1080x1920",
+      "size_kb": 235.04
+    },
+    {
+      "filename": "basketball_015_general_basketball_448a4125.jpg",
+      "category": "general_basketball",
+      "dimensions": "2880x2300",
+      "size_kb": 468.62
+    },
+    {
+      "filename": "basketball_016_general_basketball_3bb3be7b.jpg",
+      "category": "general_basketball",
+      "dimensions": "1080x1920",
+      "size_kb": 134.11
+    },
+    {
+      "filename": "basketball_017_general_basketball_18161c37.jpg",
+      "category": "general_basketball",
+      "dimensions": "1080x1920",
+      "size_kb": 309.95
+    }
+  ]
+}

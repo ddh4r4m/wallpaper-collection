@@ -32,12 +32,14 @@ class ApprovedImageProcessor:
     
     def __init__(self, repo_path: str = "."):
         self.repo_path = Path(repo_path)
-        self.wallpapers_dir = self.repo_path / "wallpapers"
-        self.thumbnails_dir = self.repo_path / "thumbnails"
-        self.categories_dir = self.repo_path / "categories"
+        # Use WallCraft API structure
+        self.collection_dir = self.repo_path / "collection"
+        self.wallpapers_dir = self.collection_dir / "wallpapers"
+        self.thumbnails_dir = self.collection_dir / "thumbnails"
+        self.api_dir = self.collection_dir / "api" / "v1"
         
         # Create directories if they don't exist
-        for directory in [self.wallpapers_dir, self.thumbnails_dir, self.categories_dir]:
+        for directory in [self.wallpapers_dir, self.thumbnails_dir, self.api_dir]:
             directory.mkdir(parents=True, exist_ok=True)
         
         # Processing settings
@@ -67,20 +69,19 @@ class ApprovedImageProcessor:
         
         existing_files = []
         for ext in ['.jpg', '.jpeg', '.png']:
-            existing_files.extend(category_dir.glob(f"{category}_*{ext}"))
+            existing_files.extend(category_dir.glob(f"*{ext}"))
         
         if not existing_files:
             return 1
         
-        # Extract numbers from existing files
+        # Extract numbers from existing files (WallCraft API uses sequential numbering)
         numbers = []
         for filepath in existing_files:
             try:
-                # Extract number from filename like "category_001.jpg"
+                # Extract number from filename like "001.jpg", "002.jpg"
                 stem = filepath.stem
-                if stem.startswith(f"{category}_"):
-                    number_str = stem[len(f"{category}_"):]
-                    numbers.append(int(number_str))
+                if stem.isdigit():
+                    numbers.append(int(stem))
             except (ValueError, IndexError):
                 continue
         
@@ -164,24 +165,25 @@ class ApprovedImageProcessor:
         title = self.generate_title(original_metadata, category, new_filename)
         tags = self.generate_tags(original_metadata, category)
         
-        # Create enhanced metadata
+        # Create enhanced metadata (WallCraft API format)
         enhanced_metadata = {
-            'id': f"{category}_{new_filename.split('_')[1].split('.')[0]}",
+            'id': f"{category}_{new_filename.split('.')[0]}",
             'category': category,
-            'filename': new_filename,
             'title': title,
-            'width': final_width,
-            'height': final_height,
-            'file_size': file_size,
-            'hash': file_hash,
             'tags': tags,
-            'download_url': f"https://raw.githubusercontent.com/username/wallpaper-collection/main/wallpapers/{category}/{new_filename}",
-            'thumbnail_url': f"https://raw.githubusercontent.com/username/wallpaper-collection/main/thumbnails/{category}/{new_filename}",
-            'processed_at': datetime.utcnow().isoformat() + 'Z',
-            'processing_info': {
-                'optimized_for_mobile': True,
-                'original_size': original_metadata.get('width', 0) if 'width' in original_metadata else None,
-                'compression_quality': self.settings['quality']
+            'urls': {
+                'raw': f"https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/{category}/{new_filename}",
+                'thumb': f"https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/{category}/{new_filename}"
+            },
+            'metadata': {
+                'dimensions': {
+                    'width': final_width,
+                    'height': final_height
+                },
+                'file_size': file_size,
+                'format': 'JPEG',
+                'added_at': datetime.utcnow().isoformat(),
+                'photographer': original_metadata.get('photographer', 'Pinterest Curated')
             }
         }
         
@@ -208,9 +210,9 @@ class ApprovedImageProcessor:
         if metadata and 'title' in metadata and metadata['title']:
             return metadata['title']
         
-        # Extract number from filename
+        # Extract number from filename (WallCraft API format: 001.jpg)
         try:
-            number = filename.split('_')[1].split('.')[0]
+            number = filename.split('.')[0]
             return f"{category.title()} Wallpaper {number}"
         except (IndexError, ValueError):
             return f"{category.title()} Wallpaper"
@@ -279,9 +281,9 @@ class ApprovedImageProcessor:
                     with open(metadata_path, 'r') as f:
                         original_metadata = json.load(f)
                 
-                # Get next number for this category
+                # Get next number for this category (WallCraft API uses sequential numbering)
                 next_number = self.get_next_number(category)
-                new_filename = f"{category}_{next_number:03d}.jpg"
+                new_filename = f"{next_number:03d}.jpg"
                 
                 # Optimize for mobile
                 optimized_image = self.optimize_for_mobile(image)
@@ -331,8 +333,8 @@ class ApprovedImageProcessor:
             return None
     
     def update_category_index(self, category: str, new_images: List[Dict]):
-        """Update the category-specific JSON index"""
-        category_file = self.categories_dir / f"{category}.json"
+        """Update the category-specific JSON index (WallCraft API format)"""
+        category_file = self.api_dir / f"{category}.json"
         
         # Load existing index or create new
         if category_file.exists():
@@ -345,27 +347,28 @@ class ApprovedImageProcessor:
         else:
             category_data = {}
         
-        # Initialize structure if needed
-        if 'wallpapers' not in category_data:
-            category_data['wallpapers'] = []
+        # Initialize WallCraft API structure if needed
+        if 'meta' not in category_data:
+            category_data['meta'] = {}
+        if 'data' not in category_data:
+            category_data['data'] = []
         
-        # Add new images
-        category_data['wallpapers'].extend(new_images)
+        # Add new images to data array
+        category_data['data'].extend(new_images)
         
-        # Update category metadata
-        category_data.update({
+        # Update meta information
+        category_data['meta'].update({
+            'version': '1.0',
+            'generated_at': datetime.utcnow().isoformat(),
             'category': category,
-            'name': category.title(),
-            'description': self.get_category_description(category),
-            'count': len(category_data['wallpapers']),
-            'last_updated': datetime.utcnow().isoformat() + 'Z'
+            'total_count': len(category_data['data'])
         })
         
         # Save updated index
         with open(category_file, 'w') as f:
             json.dump(category_data, f, indent=2)
         
-        logger.info(f"Updated category index: {category} ({category_data['count']} wallpapers)")
+        logger.info(f"Updated category index: {category} ({category_data['meta']['total_count']} wallpapers)")
     
     def get_category_description(self, category: str) -> str:
         """Get description for category"""

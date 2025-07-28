@@ -22,9 +22,12 @@ tqdm>=4.65.0
 # Date and time handling
 python-dateutil>=2.8.0
 
+# Pinterest scraping dependencies
+beautifulsoup4>=4.12.0  # For web scraping
+selenium>=4.15.0  # For dynamic content scraping
+webdriver-manager>=4.0.0  # For automatic ChromeDriver management
+
 # Optional: For advanced features
-# beautifulsoup4>=4.12.0  # For web scraping
-# selenium>=4.15.0  # For dynamic content scraping
 # psutil>=5.9.0  # For system resource monitoring
 
 # Testing (optional)

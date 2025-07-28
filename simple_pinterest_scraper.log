@@ -1,0 +1,53 @@
+2025-07-20 20:32:38,073 - INFO - Starting Pinterest gradient wallpaper scraping...
+2025-07-20 20:32:38,073 - INFO - Searching for: abstract gradient background
+2025-07-20 20:32:39,122 - INFO - Found 6 potential images for 'abstract gradient background'
+2025-07-20 20:32:39,596 - ERROR - Failed to download https://i.pinimg.com/736x/c5/9f/3b/c59f3b1e0de4c5b960ab39e8e0a7efa1.jpg: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/c5/9f/3b/c59f3b1e0de4c5b960ab39e8e0a7efa1.jpg
+2025-07-20 20:32:43,018 - INFO - Image too small, skipping: https://i.pinimg.com/originals/45/c0/86/45c08695ac7400476965367aababdd3b.jpg
+2025-07-20 20:32:46,465 - INFO - Downloaded gradient wallpaper: gradient_003_31191c6c.jpg (301975 bytes)
+2025-07-20 20:32:49,814 - INFO - Image too small, skipping: https://i.pinimg.com/originals/20/0a/80/200a80450cf1694f748b0e91c04f4334.jpg
+2025-07-20 20:32:53,212 - INFO - Downloaded gradient wallpaper: gradient_005_169a3368.jpg (157148 bytes)
+2025-07-20 20:32:56,666 - INFO - Downloaded gradient wallpaper: gradient_006_4739e80f.jpg (76044 bytes)
+2025-07-20 20:33:05,671 - INFO - Searching for: gradient wallpaper mobile
+2025-07-20 20:33:06,623 - INFO - Found 6 potential images for 'gradient wallpaper mobile'
+2025-07-20 20:33:06,913 - ERROR - Failed to download https://i.pinimg.com/736x/36/eb/5e/36eb5e5814aea1c30f0972950386ccb5.jpg: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/36/eb/5e/36eb5e5814aea1c30f0972950386ccb5.jpg
+2025-07-20 20:33:13,467 - INFO - Downloaded gradient wallpaper: gradient_008_21ddc5f9.jpg (66225 bytes)
+2025-07-20 20:33:16,764 - INFO - Image too small, skipping: https://i.pinimg.com/originals/98/45/8c/98458cb3c658a5514e3cbe977e0226d7.jpg
+2025-07-20 20:33:20,215 - INFO - Downloaded gradient wallpaper: gradient_010_fedd1674.jpg (67456 bytes)
+2025-07-20 20:33:23,694 - INFO - Image too small, skipping: https://i.pinimg.com/originals/e7/bb/75/e7bb752f0f0143b5c19a6754def64d82.jpg
+2025-07-20 20:33:26,732 - INFO - Downloaded gradient wallpaper: gradient_012_588ffc2d.jpg (176385 bytes)
+2025-07-20 20:33:35,738 - INFO - Searching for: abstract gradient phone wallpaper
+2025-07-20 20:33:36,654 - INFO - Found 6 potential images for 'abstract gradient phone wallpaper'
+2025-07-20 20:33:36,926 - INFO - Image too small, skipping: https://i.pinimg.com/originals/8b/26/02/8b26023ebfc08cefa82738e5f7d9fe4c.jpg
+2025-07-20 20:33:43,887 - INFO - Duplicate image skipped: https://i.pinimg.com/originals/8b/7e/53/8b7e533966c9d9c514d32d0eaaea993f.jpg
+2025-07-20 20:33:47,351 - INFO - Downloaded gradient wallpaper: gradient_015_79d76b63.jpg (66517 bytes)
+2025-07-20 20:33:50,385 - INFO - Downloaded gradient wallpaper: gradient_016_b9411775.jpg (282622 bytes)
+2025-07-20 20:33:53,696 - INFO - Downloaded gradient wallpaper: gradient_017_24b5dcb4.jpg (85453 bytes)
+2025-07-20 20:33:56,942 - INFO - Image too small, skipping: https://i.pinimg.com/originals/f8/02/6e/f8026ea5f24f253b9cdd28ae1553d737.jpg
+2025-07-20 20:34:05,955 - INFO - Searching for: colorful gradient background
+2025-07-20 20:34:07,014 - INFO - Found 6 potential images for 'colorful gradient background'
+2025-07-20 20:34:07,032 - INFO - Image too small, skipping: https://i.pinimg.com/originals/54/ce/5d/54ce5d4e7b9c33361d788d81371e177e.jpg
+2025-07-20 20:34:10,069 - INFO - Duplicate image skipped: https://i.pinimg.com/originals/81/d6/a8/81d6a8f2b52bb31722eff7419742bf91.jpg
+2025-07-20 20:34:13,096 - INFO - Downloaded gradient wallpaper: gradient_021_c0c99dd3.jpg (77890 bytes)
+2025-07-20 20:34:16,123 - INFO - Image too small, skipping: https://i.pinimg.com/originals/03/79/30/03793005e935a2c11d71554121dc5d37.jpg
+2025-07-20 20:34:19,399 - INFO - Image too small, skipping: https://i.pinimg.com/originals/57/4e/85/574e85f6067b454edc9e4608d10e6153.jpg
+2025-07-20 20:34:22,728 - ERROR - Failed to download https://i.pinimg.com/736x/a3/db/94/a3db9414ffe68937f49311b2c58c28c5.jpg: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/a3/db/94/a3db9414ffe68937f49311b2c58c28c5.jpg
+2025-07-20 20:34:31,743 - INFO - Searching for: smooth gradient wallpaper
+2025-07-20 20:34:32,738 - INFO - Found 6 potential images for 'smooth gradient wallpaper'
+2025-07-20 20:34:33,192 - INFO - Downloaded gradient wallpaper: gradient_025_a7e08573.jpg (104727 bytes)
+2025-07-20 20:34:36,485 - ERROR - Failed to download https://i.pinimg.com/736x/99/32/6e/99326e3c682c1071d7317852452a628c.jpg: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/99/32/6e/99326e3c682c1071d7317852452a628c.jpg
+2025-07-20 20:34:39,786 - ERROR - Failed to download https://i.pinimg.com/736x/6f/8e/a2/6f8ea2ce32f273522934aa43079b79d2.jpg: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/6f/8e/a2/6f8ea2ce32f273522934aa43079b79d2.jpg
+2025-07-20 20:34:43,120 - ERROR - Failed to download https://i.pinimg.com/736x/3f/dd/71/3fdd71c134b9ac81c230923cc0a1d8a7.jpg: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/3f/dd/71/3fdd71c134b9ac81c230923cc0a1d8a7.jpg
+2025-07-20 20:34:46,456 - INFO - Image too small, skipping: https://i.pinimg.com/originals/30/84/e4/3084e4b74c4d4121522889f1999ecb9a.jpg
+2025-07-20 20:34:49,711 - ERROR - Failed to download https://i.pinimg.com/736x/05/81/12/058112d2cf0eb0f9da381073ea7c518a.jpg: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/05/81/12/058112d2cf0eb0f9da381073ea7c518a.jpg
+2025-07-20 20:34:58,722 - INFO - Searching for: rainbow gradient background
+2025-07-20 20:34:59,581 - INFO - Found 6 potential images for 'rainbow gradient background'
+2025-07-20 20:34:59,905 - INFO - Image too small, skipping: https://i.pinimg.com/originals/a5/f6/d2/a5f6d2b063d0e42f37c260cc7d1701dc.jpg
+2025-07-20 20:35:03,141 - INFO - Image too small, skipping: https://i.pinimg.com/originals/63/8a/27/638a274d4285dd0b01032582862f1c46.jpg
+2025-07-20 20:35:06,479 - INFO - Downloaded gradient wallpaper: gradient_033_623fee6c.jpg (55354 bytes)
+2025-07-20 20:35:09,573 - INFO - Downloaded gradient wallpaper: gradient_034_4ebe5b4f.jpg (217551 bytes)
+2025-07-20 20:35:12,861 - INFO - Image too small, skipping: https://i.pinimg.com/originals/7a/6a/d3/7a6ad3d3bfb55b73332bf4ca7801668d.jpg
+2025-07-20 20:35:16,157 - INFO - Image too small, skipping: https://i.pinimg.com/originals/77/56/31/775631b9154449820794e342a6faf6b3.jpg
+2025-07-20 20:35:25,163 - INFO - Searching for: minimal gradient wallpaper
+2025-07-20 20:35:26,003 - INFO - Found 6 potential images for 'minimal gradient wallpaper'
+2025-07-20 20:35:26,353 - INFO - Downloaded gradient wallpaper: gradient_037_4cdd4281.jpg (173362 bytes)
+2025-07-20 20:35:29,604 - ERROR - Failed to download https://i.pinimg.com/736x/2a/73/64/2a7364c2648355e394f226366e71c048.jpg: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/2a/73/64/2a7364c2648355e394f226366e71c048.jpg

@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-19T12:26:57.111378",
+    "generated_at": "2025-07-28T21:27:34.814586",
     "page": 107,
     "per_page": 15,
-    "total_pages": 160,
-    "total_count": 2387,
+    "total_pages": 177,
+    "total_count": 2647,
     "count_on_page": 15,
-    "categories": 19,
+    "categories": 21,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/108.json",
@@ -15,393 +15,303 @@
   },
   "data": [
     {
-      "id": "nature_059",
-      "category": "nature",
-      "title": "Nature Wallpaper 059",
+      "id": "gradient_127",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 127",
       "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/059.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/059.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/127.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/127.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:12:19.589787",
+        "file_size": 54528,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 875937,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:15.888129",
-        "hash": "c9bc9e281e98f72e19f425d782cd7674",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "nature_060",
-      "category": "nature",
-      "title": "Nature Wallpaper 060",
+      "id": "gradient_128",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 128",
       "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/060.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/060.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/128.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/128.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:12:19.719742",
+        "file_size": 150263,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 343631,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:15.949519",
-        "hash": "6f09315f23508e0aa4484c1f3fe97cd2",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "nature_061",
-      "category": "nature",
-      "title": "Nature Wallpaper 061",
+      "id": "gradient_129",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 129",
       "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/061.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/061.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/129.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/129.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:12:19.822388",
+        "file_size": 203003,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 412965,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:16.013403",
-        "hash": "7bdbcb8be8586e976824d57ddca68722",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "nature_062",
-      "category": "nature",
-      "title": "Nature Wallpaper 062",
+      "id": "gradient_130",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 130",
       "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/062.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/062.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/130.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/130.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:12:19.946997",
+        "file_size": 429145,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 532079,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:16.083350",
-        "hash": "60f1f6c64451cae624bad9fba68806b5",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "nature_063",
-      "category": "nature",
-      "title": "Nature Wallpaper 063",
+      "id": "gradient_131",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 131",
       "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/063.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/063.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/131.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/131.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:12:20.121986",
+        "file_size": 743859,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 427510,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:16.148212",
-        "hash": "2a056f926c3a49e72a1a6c60014b8816",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "nature_064",
-      "category": "nature",
-      "title": "Nature Wallpaper 064",
+      "id": "gradient_132",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 132",
       "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/064.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/064.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/132.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/132.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:12:20.240378",
+        "file_size": 346844,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 675336,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:16.222903",
-        "hash": "64d5ee0e323c50c1c585ac548d2e7ff5",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "nature_065",
-      "category": "nature",
-      "title": "Nature Wallpaper 065",
+      "id": "gradient_133",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 133",
       "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/065.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/065.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/133.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/133.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:12:20.402326",
+        "file_size": 484708,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 488404,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:16.288662",
-        "hash": "1a0f1565130922c273c3eea0b57f4624",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "nature_066",
-      "category": "nature",
-      "title": "Nature Wallpaper 066",
+      "id": "gradient_134",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 134",
       "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/066.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/066.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/134.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/134.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:12:20.611893",
+        "file_size": 400714,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 551613,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:16.358878",
-        "hash": "46e0d36971107812588237ce69dd7972",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "nature_067",
-      "category": "nature",
-      "title": "Nature Wallpaper 067",
+      "id": "gradient_135",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 135",
       "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/067.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/067.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/135.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/135.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:12:20.741049",
+        "file_size": 25201,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 749381,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:16.440794",
-        "hash": "fe3f98443f1440e83f59063e1ae05827",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "nature_068",
-      "category": "nature",
-      "title": "Nature Wallpaper 068",
+      "id": "gradient_136",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 136",
       "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/068.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/068.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/136.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/136.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:12:20.919179",
+        "file_size": 40261,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 360556,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:16.502417",
-        "hash": "2931fab0cc8e7a087a25fe44f07b8757",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "nature_069",
-      "category": "nature",
-      "title": "Nature Wallpaper 069",
+      "id": "gradient_137",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 137",
       "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/069.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/069.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/137.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/137.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:12:21.057852",
+        "file_size": 18874,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 589347,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:16.575017",
-        "hash": "34df96f775e83f82ffd98d7126268c22",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "nature_070",
-      "category": "nature",
-      "title": "Nature Wallpaper 070",
+      "id": "gradient_138",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 138",
       "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/070.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/070.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/138.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/138.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:12:21.384579",
+        "file_size": 46721,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 251100,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:16.629814",
-        "hash": "84eebebf5f8fa7bf2f018c9e661a92d2",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "nature_071",
-      "category": "nature",
-      "title": "Nature Wallpaper 071",
+      "id": "gradient_139",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 139",
       "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/071.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/071.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/139.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/139.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:12:21.534237",
+        "file_size": 288671,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 418694,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:16.692819",
-        "hash": "9369fcaac15bc5fec3b050818ac3c7a1",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "nature_072",
-      "category": "nature",
-      "title": "Nature Wallpaper 072",
+      "id": "gradient_140",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 140",
       "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/072.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/072.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/140.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/140.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:12:21.645474",
+        "file_size": 259167,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 366408,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:16.752926",
-        "hash": "57139c290cfc7270153ba9864614d800",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "nature_073",
-      "category": "nature",
-      "title": "Nature Wallpaper 073",
+      "id": "gradient_141",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 141",
       "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/073.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/073.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/141.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/141.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:12:21.834867",
+        "file_size": 772145,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 286408,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:16.811338",
-        "hash": "ffa886b4d68c5561d4a6674dc1da4650",
-        "source": "migrated"
+        }
       }
     }
   ]

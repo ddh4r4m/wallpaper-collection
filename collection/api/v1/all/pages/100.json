@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-19T12:26:57.111378",
+    "generated_at": "2025-07-28T21:27:34.814586",
     "page": 100,
     "per_page": 15,
-    "total_pages": 160,
-    "total_count": 2387,
+    "total_pages": 177,
+    "total_count": 2647,
     "count_on_page": 15,
-    "categories": 19,
+    "categories": 21,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/101.json",
@@ -15,393 +15,303 @@
   },
   "data": [
     {
-      "id": "minimal_018",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 018",
+      "id": "gradient_018",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 018",
       "tags": [
-        "minimal",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/018.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/018.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/018.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/018.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T21:26:42.982882",
+        "file_size": 128792,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 62772,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:03.776060",
-        "hash": "fcddf52165b282af2848f4b068a455fa",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "minimal_019",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 019",
+      "id": "gradient_019",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 019",
       "tags": [
-        "minimal",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/019.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/019.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/019.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/019.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T21:26:43.121842",
+        "file_size": 456193,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 32636,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:03.990438",
-        "hash": "e0e151706ff36342d03b7a2ac10d00de",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "minimal_020",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 020",
+      "id": "gradient_020",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 020",
       "tags": [
-        "minimal",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/020.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/020.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/020.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/020.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T21:26:43.231580",
+        "file_size": 54537,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 122723,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:04.376914",
-        "hash": "3e894fd1ad828ba43cb7d6536a6a36c9",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "minimal_021",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 021",
+      "id": "gradient_021",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 021",
       "tags": [
-        "minimal",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/021.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/021.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/021.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/021.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T21:26:43.335401",
+        "file_size": 39115,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 12524,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:05.015106",
-        "hash": "63fcc8d5d3acaa029664f6a1d4f4a66c",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "minimal_022",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 022",
+      "id": "gradient_022",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 022",
       "tags": [
-        "minimal",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/022.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/022.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/022.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/022.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T21:26:43.440355",
+        "file_size": 43544,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 12527,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:05.164096",
-        "hash": "0df761605e683954bb39c78de2d7c1ea",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "minimal_023",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 023",
+      "id": "gradient_023",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 023",
       "tags": [
-        "minimal",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/023.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/023.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/023.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/023.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T21:26:43.528382",
+        "file_size": 44522,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 122279,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:05.292240",
-        "hash": "08e59f7d4a3b5fd5c0f6dedc4be88ceb",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "minimal_024",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 024",
+      "id": "gradient_024",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 024",
       "tags": [
-        "minimal",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/024.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/024.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/024.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/024.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T21:26:43.637452",
+        "file_size": 41048,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 190172,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:05.435912",
-        "hash": "939f005b21bfa9a994c61ef080304b0a",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "minimal_025",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 025",
+      "id": "gradient_025",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 025",
       "tags": [
-        "minimal",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/025.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/025.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/025.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/025.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T21:26:43.754230",
+        "file_size": 95971,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 35531,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:05.650603",
-        "hash": "d4ddd86275e4cc699b5911453daa13d1",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "minimal_026",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 026",
+      "id": "gradient_026",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 026",
       "tags": [
-        "minimal",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/026.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/026.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/026.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/026.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T21:26:43.893831",
+        "file_size": 466210,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 45023,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:05.898125",
-        "hash": "41fd94151a372742077915e925772c90",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "minimal_027",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 027",
+      "id": "gradient_027",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 027",
       "tags": [
-        "minimal",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/027.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/027.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/027.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/027.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T21:26:44.010671",
+        "file_size": 34885,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 29234,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:06.111564",
-        "hash": "c239d4e8075b119fe4a5b07f5ce2338b",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "minimal_028",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 028",
+      "id": "gradient_028",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 028",
       "tags": [
-        "minimal",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/028.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/028.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/028.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/028.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T21:26:44.115335",
+        "file_size": 44632,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 186976,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:06.247483",
-        "hash": "4ac77c4efcfc9986d01f6208b6fcf915",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "minimal_029",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 029",
+      "id": "gradient_029",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 029",
       "tags": [
-        "minimal",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/029.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/029.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/029.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/029.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T21:26:44.248319",
+        "file_size": 31581,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 207698,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:06.504422",
-        "hash": "5032e4f7513c4de66dc911eefa2503dd",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "minimal_030",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 030",
+      "id": "gradient_030",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 030",
       "tags": [
-        "minimal",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/030.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/030.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/030.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/030.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:09:21.184916",
+        "file_size": 697110,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 388789,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:06.695281",
-        "hash": "fc89156814a5053279d794af1d0b405e",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "minimal_031",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 031",
+      "id": "gradient_031",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 031",
       "tags": [
-        "minimal",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/031.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/031.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/031.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/031.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:09:21.341516",
+        "file_size": 147221,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 211438,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:06.821367",
-        "hash": "3779ecd43f253668ad9edc80c5641db7",
-        "source": "migrated"
+        }
       }
     },
     {
-      "id": "minimal_032",
-      "category": "minimal",
-      "title": "Minimal Wallpaper 032",
+      "id": "gradient_032",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 032",
       "tags": [
-        "minimal",
-        "wallpaper",
-        "hd",
-        "mobile"
+        "gradient"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/032.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/032.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/032.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/032.jpg"
       },
       "metadata": {
+        "added_at": "2025-07-20T23:09:21.509918",
+        "file_size": 595884,
         "dimensions": {
           "width": 1080,
           "height": 1920
-        },
-        "file_size": 169952,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:07.496537",
-        "hash": "ebcfcab563cb68ff3f17e5224c6e04a5",
-        "source": "migrated"
+        }
       }
     }
   ]

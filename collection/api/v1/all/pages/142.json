@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-19T12:26:57.111378",
+    "generated_at": "2025-07-28T21:27:34.814586",
     "page": 142,
     "per_page": 15,
-    "total_pages": 160,
-    "total_count": 2387,
+    "total_pages": 177,
+    "total_count": 2647,
     "count_on_page": 15,
-    "categories": 19,
+    "categories": 21,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/143.json",
@@ -15,393 +15,393 @@
   },
   "data": [
     {
-      "id": "space_033",
-      "category": "space",
-      "title": "Space Wallpaper 033",
+      "id": "pastel_047",
+      "category": "pastel",
+      "title": "Pastel Wallpaper 047",
       "tags": [
-        "space",
+        "pastel",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/033.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/033.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/047.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/047.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 341728,
+        "file_size": 91587,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:45.973506",
-        "hash": "465b630279dbba7b3e8ed36e2072ba9e",
+        "added_at": "2025-07-17T00:04:38.590360",
+        "hash": "ebca6202cd58cd546af37725cea31d3a",
         "source": "migrated"
       }
     },
     {
-      "id": "space_034",
-      "category": "space",
-      "title": "Space Wallpaper 034",
+      "id": "pastel_048",
+      "category": "pastel",
+      "title": "Pastel Wallpaper 048",
       "tags": [
-        "space",
+        "pastel",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/034.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/034.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/048.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/048.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 383167,
+        "file_size": 151863,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:46.035734",
-        "hash": "96277f851472bbcbbccab5414f16d17b",
+        "added_at": "2025-07-17T00:04:38.640986",
+        "hash": "8d11cb30dbaf482fae8d00c8c038ca4b",
         "source": "migrated"
       }
     },
     {
-      "id": "space_035",
-      "category": "space",
-      "title": "Space Wallpaper 035",
+      "id": "pastel_049",
+      "category": "pastel",
+      "title": "Pastel Wallpaper 049",
       "tags": [
-        "space",
+        "pastel",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/035.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/035.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/049.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/049.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 174482,
+        "file_size": 201942,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:46.085793",
-        "hash": "f5ff63c4c598b942ecb8ef152c513c6e",
+        "added_at": "2025-07-17T00:04:38.695238",
+        "hash": "74fa919f986bfcc5cf69df34e2812a53",
         "source": "migrated"
       }
     },
     {
-      "id": "space_036",
-      "category": "space",
-      "title": "Space Wallpaper 036",
+      "id": "pastel_050",
+      "category": "pastel",
+      "title": "Pastel Wallpaper",
       "tags": [
-        "space",
-        "wallpaper",
+        "pastel",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/036.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/036.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 720
         },
-        "file_size": 992164,
+        "file_size": 18562,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:46.178996",
-        "hash": "a3918551699445c185fbddd6211b4ccd",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:24:57.800058",
+        "hash": "171006a1e6e06d58ec62028c18f02335",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/050.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/050.jpg"
       }
     },
     {
-      "id": "space_037",
-      "category": "space",
-      "title": "Space Wallpaper 037",
+      "id": "pastel_051",
+      "category": "pastel",
+      "title": "Pastel Wallpaper",
       "tags": [
-        "space",
-        "wallpaper",
+        "pastel",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/037.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/037.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 721
         },
-        "file_size": 680860,
+        "file_size": 39891,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:46.256645",
-        "hash": "b8a6352e7ab1cc2328731532e614903c",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:25:00.181284",
+        "hash": "3a3bea846225b6ebdc6406175903281a",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/051.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/051.jpg"
       }
     },
     {
-      "id": "space_038",
-      "category": "space",
-      "title": "Space Wallpaper 038",
+      "id": "pastel_052",
+      "category": "pastel",
+      "title": "Pastel Wallpaper",
       "tags": [
-        "space",
-        "wallpaper",
+        "pastel",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/038.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/038.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 720
         },
-        "file_size": 648968,
+        "file_size": 16327,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:46.330798",
-        "hash": "5b90190299f8a8f246a9ec4f62375b07",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:25:03.407386",
+        "hash": "42eae9a81c04effa81db5b60b71839c8",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/052.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/052.jpg"
       }
     },
     {
-      "id": "space_039",
-      "category": "space",
-      "title": "Space Wallpaper 039",
+      "id": "pastel_053",
+      "category": "pastel",
+      "title": "Pastel Wallpaper",
       "tags": [
-        "space",
-        "wallpaper",
+        "pastel",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/039.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/039.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 608
         },
-        "file_size": 321550,
+        "file_size": 66603,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:46.387843",
-        "hash": "dd3af6d6518df1ebfa6ecec5ef1e6155",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:25:05.942263",
+        "hash": "a49c1d098ba336875b7db834332ee17d",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/053.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/053.jpg"
       }
     },
     {
-      "id": "space_040",
-      "category": "space",
-      "title": "Space Wallpaper 040",
+      "id": "pastel_054",
+      "category": "pastel",
+      "title": "Pastel Wallpaper",
       "tags": [
-        "space",
-        "wallpaper",
+        "pastel",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/040.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/040.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 720
         },
-        "file_size": 221953,
+        "file_size": 49536,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:46.439425",
-        "hash": "4a51f115298cddbe81592d0500efa728",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:25:10.898453",
+        "hash": "23715d62a08111af19c36675e63679fb",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/054.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/054.jpg"
       }
     },
     {
-      "id": "space_041",
-      "category": "space",
-      "title": "Space Wallpaper 041",
+      "id": "pastel_055",
+      "category": "pastel",
+      "title": "Pastel Wallpaper",
       "tags": [
-        "space",
-        "wallpaper",
+        "pastel",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/041.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/041.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 720
         },
-        "file_size": 604470,
+        "file_size": 46210,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:46.514171",
-        "hash": "3702b917a7e1653ae90a3b1250b5df5e",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:25:13.530159",
+        "hash": "0547659ea10b3b443ad1422122611b50",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/055.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/055.jpg"
       }
     },
     {
-      "id": "space_042",
-      "category": "space",
-      "title": "Space Wallpaper 042",
+      "id": "pastel_056",
+      "category": "pastel",
+      "title": "Pastel Wallpaper",
       "tags": [
-        "space",
-        "wallpaper",
+        "pastel",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/042.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/042.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1620
         },
-        "file_size": 543258,
+        "file_size": 139711,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:46.585096",
-        "hash": "497fe05b568421e3049dd26490a8d4b0",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:25:18.568793",
+        "hash": "12b58afc5a1f7aedc9d7657edce26b6a",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/056.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/056.jpg"
       }
     },
     {
-      "id": "space_043",
-      "category": "space",
-      "title": "Space Wallpaper 043",
+      "id": "pastel_057",
+      "category": "pastel",
+      "title": "Pastel Wallpaper",
       "tags": [
-        "space",
-        "wallpaper",
+        "pastel",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/043.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/043.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1623
         },
-        "file_size": 527205,
+        "file_size": 40274,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:46.653523",
-        "hash": "65217073dc35dd70cfe42930ebd0215b",
-        "source": "migrated"
+        "added_at": "2025-07-17T22:25:21.159275",
+        "hash": "9d93b0e60fff6037c3ab0e66e048dfab",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/057.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/057.jpg"
       }
     },
     {
-      "id": "space_044",
-      "category": "space",
-      "title": "Space Wallpaper 044",
+      "id": "pastel_058",
+      "category": "pastel",
+      "title": "Pastel Wallpaper",
       "tags": [
-        "space",
-        "wallpaper",
+        "pastel",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/044.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/044.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 720
         },
-        "file_size": 162212,
+        "file_size": 18562,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:46.703546",
-        "hash": "3fcd50bceee3338114e9a4fefa3eb69b",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:36:20.974983",
+        "hash": "171006a1e6e06d58ec62028c18f02335",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/058.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/058.jpg"
       }
     },
     {
-      "id": "space_045",
-      "category": "space",
-      "title": "Space Wallpaper 045",
+      "id": "pastel_059",
+      "category": "pastel",
+      "title": "Pastel Wallpaper",
       "tags": [
-        "space",
-        "wallpaper",
+        "pastel",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/045.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/045.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 721
         },
-        "file_size": 398454,
+        "file_size": 39891,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:46.766003",
-        "hash": "ba8dbb865cd0d75a687913b9dcd5b7bc",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:36:23.207247",
+        "hash": "3a3bea846225b6ebdc6406175903281a",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/059.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/059.jpg"
       }
     },
     {
-      "id": "space_046",
-      "category": "space",
-      "title": "Space Wallpaper 046",
+      "id": "pastel_060",
+      "category": "pastel",
+      "title": "Pastel Wallpaper",
       "tags": [
-        "space",
-        "wallpaper",
+        "pastel",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/046.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/046.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1620
         },
-        "file_size": 315617,
+        "file_size": 58208,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:46.823671",
-        "hash": "ccb4f3264944b7cbcafd28fedd9ea581",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:36:24.505838",
+        "hash": "de4e56eaa252931b620031d8b94e3f07",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/060.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/060.jpg"
       }
     },
     {
-      "id": "space_047",
-      "category": "space",
-      "title": "Space Wallpaper 047",
+      "id": "pastel_061",
+      "category": "pastel",
+      "title": "Pastel Wallpaper",
       "tags": [
-        "space",
-        "wallpaper",
+        "pastel",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/047.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/047.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 720
         },
-        "file_size": 722876,
+        "file_size": 16327,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:46.902548",
-        "hash": "a43d29922516869f38bfeb73c8ae4a65",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:36:27.726072",
+        "hash": "42eae9a81c04effa81db5b60b71839c8",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/061.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/061.jpg"
       }
     }
   ]

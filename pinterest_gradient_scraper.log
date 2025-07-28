@@ -1,0 +1,80 @@
+2025-07-20 21:00:02,559 - INFO - ====== WebDriver manager ======
+2025-07-20 21:00:03,169 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-20 21:00:03,238 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-20 21:00:03,293 - INFO - There is no [mac64] chromedriver "138.0.7204.157" for browser google-chrome "138.0.7204" in cache
+2025-07-20 21:00:03,300 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-20 21:00:03,441 - INFO - WebDriver version 138.0.7204.157 selected
+2025-07-20 21:00:03,443 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.157/mac-arm64/chromedriver-mac-arm64.zip
+2025-07-20 21:00:03,444 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.157/mac-arm64/chromedriver-mac-arm64.zip
+2025-07-20 21:00:03,526 - INFO - Driver downloading response is 200
+2025-07-20 21:00:03,978 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-20 21:00:04,115 - INFO - Driver has been saved in cache [/Users/dharamdhurandhar/.wdm/drivers/chromedriver/mac64/138.0.7204.157]
+2025-07-20 21:00:06,184 - INFO - Browser setup complete
+2025-07-20 21:00:06,185 - INFO - 🎨 Starting Pinterest gradient background scraping
+2025-07-20 21:00:06,185 - INFO - Target: 50 high-quality gradient images
+2025-07-20 21:00:06,185 - INFO - Search URL: https://in.pinterest.com/search/pins/?q=abstract%20gradient%20background&rs=ac&len=13&source_id=ac_li5uWglg&eq=abstract%20grad&etslf=7977
+2025-07-20 21:00:06,185 - INFO - Phase 1: Scrolling and extracting pins...
+2025-07-20 21:00:06,185 - INFO - Starting enhanced scrolling extraction from: https://in.pinterest.com/search/pins/?q=abstract%20gradient%20background&rs=ac&len=13&source_id=ac_li5uWglg&eq=abstract%20grad&etslf=7977
+2025-07-20 21:00:13,096 - INFO - Scroll 1/20 - Current pins: 0
+2025-07-20 21:00:13,418 - INFO - Found 18 new pins this scroll
+2025-07-20 21:00:22,621 - INFO - Scroll 2/20 - Current pins: 18
+2025-07-20 21:00:23,299 - INFO - Found 28 new pins this scroll
+2025-07-20 21:00:32,361 - INFO - Scroll 3/20 - Current pins: 46
+2025-07-20 21:00:33,178 - INFO - Found 28 new pins this scroll
+2025-07-20 21:00:42,299 - INFO - Scrolling complete! Found 74 total pins after 3 scrolls
+2025-07-20 21:00:42,300 - INFO - Found 74 total pins
+2025-07-20 21:00:42,300 - INFO - Phase 2: Filtering for high-resolution pins...
+2025-07-20 21:01:03,371 - INFO - Found 64 high-resolution pins
+2025-07-20 21:01:03,374 - INFO - Phase 3: Downloading high-quality images...
+2025-07-20 21:01:03,557 - INFO - Downloaded: pinterest_gradient_15129348744243588.jpg (1440x2560, 17405 bytes)
+2025-07-20 21:01:05,386 - INFO - Downloaded: pinterest_gradient_914862420090536.jpg (1440x2560, 157148 bytes)
+2025-07-20 21:01:07,136 - INFO - Downloaded: pinterest_gradient_8796161768576043.jpg (1440x2560, 42093 bytes)
+2025-07-20 21:01:08,821 - INFO - Downloaded: pinterest_gradient_298082069103925923.jpg (1440x2560, 54098 bytes)
+2025-07-20 21:01:10,488 - INFO - Downloaded: pinterest_gradient_82753711897931354.jpg (1440x2560, 14475 bytes)
+2025-07-20 21:01:12,204 - INFO - Downloaded: pinterest_gradient_422281211464873.jpg (1440x2560, 204636 bytes)
+2025-07-20 21:01:13,913 - INFO - Downloaded: pinterest_gradient_212302569983346177.jpg (1440x2560, 216518 bytes)
+2025-07-20 21:01:15,618 - INFO - Downloaded: pinterest_gradient_2322237300161214.jpg (1440x2560, 184810 bytes)
+2025-07-20 21:01:17,316 - INFO - Downloaded: pinterest_gradient_2040762328481568.jpg (1440x2560, 20656 bytes)
+2025-07-20 21:01:18,992 - INFO - Downloaded: pinterest_gradient_62839357297048607.jpg (1440x2560, 7419 bytes)
+2025-07-20 21:01:20,750 - INFO - Downloaded: pinterest_gradient_281543720740044.jpg (1440x2560, 301975 bytes)
+2025-07-20 21:01:22,609 - INFO - Downloaded: pinterest_gradient_7881368094714026.jpg (1440x2560, 1715775 bytes)
+2025-07-20 21:01:24,299 - INFO - Downloaded: pinterest_gradient_30821578688118302.jpg (1440x2560, 382046 bytes)
+2025-07-20 21:01:25,979 - INFO - Downloaded: pinterest_gradient_817051557433398401.jpg (1440x2560, 106047 bytes)
+2025-07-20 21:01:27,661 - INFO - Downloaded: pinterest_gradient_313915036547561575.jpg (1440x2560, 27545 bytes)
+2025-07-20 21:01:29,344 - INFO - Downloaded: pinterest_gradient_57843176456876614.jpg (1440x2560, 91562 bytes)
+2025-07-20 21:01:31,022 - INFO - Downloaded: pinterest_gradient_56506170343256455.jpg (1440x2560, 19429 bytes)
+2025-07-20 21:01:32,699 - INFO - Downloaded: pinterest_gradient_110690103335641693.jpg (1440x2560, 8650 bytes)
+2025-07-20 21:01:34,445 - INFO - Downloaded: pinterest_gradient_9148005521139580.jpg (1440x2560, 13871 bytes)
+2025-07-20 21:01:39,490 - INFO - Downloaded: pinterest_gradient_2885187254609751.jpg (1440x2560, 517522 bytes)
+2025-07-20 21:01:42,504 - INFO - Downloaded: pinterest_gradient_4222193393600001.jpg (1440x2560, 91299 bytes)
+2025-07-20 21:01:44,956 - INFO - Downloaded: pinterest_gradient_1196337401626273.jpg (1440x2560, 139570 bytes)
+2025-07-20 21:01:46,940 - INFO - Downloaded: pinterest_gradient_3025924743921190.jpg (1440x2560, 123785 bytes)
+2025-07-20 21:01:48,970 - INFO - Downloaded: pinterest_gradient_740842207484874479.jpg (1440x2560, 79958 bytes)
+2025-07-20 21:01:50,670 - INFO - Downloaded: pinterest_gradient_19914423347584929.jpg (1440x2560, 15391 bytes)
+2025-07-20 21:01:52,437 - INFO - Downloaded: pinterest_gradient_127086020730806545.jpg (1440x2560, 50282 bytes)
+2025-07-20 21:01:54,670 - INFO - Downloaded: pinterest_gradient_1125968651858194.jpg (1440x2560, 551808 bytes)
+2025-07-20 21:01:56,424 - INFO - Downloaded: pinterest_gradient_31173422417910171.jpg (1440x2560, 134444 bytes)
+2025-07-20 21:01:58,133 - INFO - Downloaded: pinterest_gradient_12596073953283207.jpg (1440x2560, 73957 bytes)
+2025-07-20 21:01:59,905 - INFO - Downloaded: pinterest_gradient_281543725129330.jpg (1440x2560, 201014 bytes)
+2025-07-20 21:02:01,648 - INFO - Downloaded: pinterest_gradient_140806233561455.jpg (1440x2560, 157395 bytes)
+2025-07-20 21:02:03,412 - INFO - Downloaded: pinterest_gradient_1970393582976201.jpg (1440x2560, 198569 bytes)
+2025-07-20 21:02:05,591 - INFO - Downloaded: pinterest_gradient_3448137208549099.jpg (1440x2560, 645298 bytes)
+2025-07-20 21:02:07,275 - INFO - Downloaded: pinterest_gradient_9148005521139574.jpg (1440x2560, 15851 bytes)
+2025-07-20 21:02:08,955 - INFO - Downloaded: pinterest_gradient_6544361953867337.jpg (1440x2560, 39662 bytes)
+2025-07-20 21:02:10,664 - INFO - Downloaded: pinterest_gradient_10062799163066525.jpg (1440x2560, 125432 bytes)
+2025-07-20 21:02:12,352 - INFO - Downloaded: pinterest_gradient_589408670026332961.jpg (1440x2560, 17303 bytes)
+2025-07-20 21:02:14,056 - INFO - Downloaded: pinterest_gradient_4222193392187632.jpg (1440x2560, 88249 bytes)
+2025-07-20 21:02:15,738 - INFO - Downloaded: pinterest_gradient_1033646551971508776.jpg (1440x2560, 24209 bytes)
+2025-07-20 21:02:17,606 - INFO - Downloaded: pinterest_gradient_4925880837439104.jpg (1440x2560, 660348 bytes)
+2025-07-20 21:02:19,293 - INFO - Downloaded: pinterest_gradient_1759287347073634.jpg (1440x2560, 61099 bytes)
+2025-07-20 21:02:20,998 - INFO - Downloaded: pinterest_gradient_78109374781972895.jpg (1440x2560, 8785 bytes)
+2025-07-20 21:02:22,715 - INFO - Downloaded: pinterest_gradient_4644405858098719.jpg (1440x2560, 132801 bytes)
+2025-07-20 21:02:24,414 - INFO - Downloaded: pinterest_gradient_8585055533364082.jpg (1440x2560, 36640 bytes)
+2025-07-20 21:02:26,089 - INFO - Downloaded: pinterest_gradient_56224695342247781.jpg (1440x2560, 16878 bytes)
+2025-07-20 21:02:27,814 - INFO - Downloaded: pinterest_gradient_2462974791176493.jpg (1440x2560, 183479 bytes)
+2025-07-20 21:02:29,539 - INFO - Downloaded: pinterest_gradient_6544361952450673.jpg (1440x2560, 176385 bytes)
+2025-07-20 21:02:31,224 - INFO - Downloaded: pinterest_gradient_15973773674334750.jpg (1440x2560, 33706 bytes)
+2025-07-20 21:02:32,992 - INFO - Downloaded: pinterest_gradient_9359111715766105.jpg (1440x2560, 362429 bytes)
+2025-07-20 21:02:34,676 - INFO - Downloaded: pinterest_gradient_136304326217237714.jpg (1440x2560, 61407 bytes)
+2025-07-20 21:02:36,180 - INFO - Crawl summary saved: /Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/crawl_cache/pinterest/gradient_search/pinterest_gradient_crawl_summary.json
+2025-07-20 21:02:36,180 - INFO - 🎉 Pinterest gradient scraping completed!

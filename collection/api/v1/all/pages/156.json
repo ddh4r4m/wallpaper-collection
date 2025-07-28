@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-19T12:26:57.111378",
+    "generated_at": "2025-07-28T21:27:34.814586",
     "page": 156,
     "per_page": 15,
-    "total_pages": 160,
-    "total_count": 2387,
+    "total_pages": 177,
+    "total_count": 2647,
     "count_on_page": 15,
-    "categories": 19,
+    "categories": 21,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/157.json",
@@ -15,393 +15,438 @@
   },
   "data": [
     {
-      "id": "vintage_038",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_098",
+      "category": "space",
+      "title": "Zigzag High-altitude clouds on - Reddit AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1620
+          "height": 750
         },
-        "file_size": 243993,
+        "file_size": 55486,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:03:42.941176",
-        "hash": "9dabe615635c19bda35e82f9fc384f6d",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:45:12.225802",
+        "hash": "e7c021980096113df0b058e7bc8d6ddb",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 1200
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/038.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/038.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/098.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/098.jpg"
       }
     },
     {
-      "id": "vintage_039",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_099",
+      "category": "space",
+      "title": "Reprocessed horsehead nebula - Reddit AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 625
+        },
+        "file_size": 49935,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:45:14.605420",
+        "hash": "eeb3890f93bc37bac0ea26049736e7ef",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 292
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/099.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/099.jpg"
+      }
+    },
+    {
+      "id": "space_100",
+      "category": "space",
+      "title": "Saturn over the years - Reddit AI",
+      "tags": [
+        "space",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1080
+        },
+        "file_size": 71340,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:45:15.706732",
+        "hash": "cc563c9ca9990c3b6e25430c3b3bc01c",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 363
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/100.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/100.jpg"
+      }
+    },
+    {
+      "id": "space_101",
+      "category": "space",
+      "title": "Auroras over waterfall - Reddit AI",
+      "tags": [
+        "space",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 788
+        },
+        "file_size": 159317,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:45:16.830606",
+        "hash": "ec9ecbea604fbef71a289f7e6349c41a",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 62
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/101.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/101.jpg"
+      }
+    },
+    {
+      "id": "space_102",
+      "category": "space",
+      "title": "Cool Artifact From Chicago, IL - Reddit AI",
+      "tags": [
+        "space",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1440
+        },
+        "file_size": 245146,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:45:18.097667",
+        "hash": "a8500bd3df0412e9e4c643efcfc44ecb",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 47
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/102.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/102.jpg"
+      }
+    },
+    {
+      "id": "space_103",
+      "category": "space",
+      "title": "Colours of the Milky Way - Reddit AI",
+      "tags": [
+        "space",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1167
+        },
+        "file_size": 273586,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:45:19.237584",
+        "hash": "cf9a128f02738b186a634d2e875ccef2",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 500
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/103.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/103.jpg"
+      }
+    },
+    {
+      "id": "space_104",
+      "category": "space",
+      "title": "LARGEST piece of Mars on Earth - Reddit AI",
+      "tags": [
+        "space",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 720
         },
-        "file_size": 103980,
+        "file_size": 140224,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:03:45.251239",
-        "hash": "74c6e05a80f0e591d034b15be7dedefe",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:49:28.508646",
+        "hash": "b0935cc2454c0d97b5f24bcb30d0959a",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 8164
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/039.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/039.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/104.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/104.jpg"
       }
     },
     {
-      "id": "vintage_040",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_105",
+      "category": "space",
+      "title": "Meteor impact may have trigger - Reddit AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 771
+          "height": 608
         },
-        "file_size": 112767,
+        "file_size": 151611,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:03:47.474448",
-        "hash": "d209645572dc832506e4dbe545533106",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:49:29.580666",
+        "hash": "893dcb19cd6364d0ff1b8ba36d96c19e",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 4302
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/040.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/040.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/105.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/105.jpg"
       }
     },
     {
-      "id": "vintage_041",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_106",
+      "category": "space",
+      "title": "In new analysis, NASA and Oxfo - Reddit AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1620
+          "height": 1080
         },
-        "file_size": 216431,
+        "file_size": 74643,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:03:49.908279",
-        "hash": "9482da4947dcdd3d7b7cc56a4f82f4d5",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:49:30.779204",
+        "hash": "dbaabbed822fca055d13a586047101d1",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 11988
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/041.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/041.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/106.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/106.jpg"
       }
     },
     {
-      "id": "vintage_042",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_107",
+      "category": "space",
+      "title": "Zigzag High-altitude clouds on - Reddit AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 810
+          "height": 750
         },
-        "file_size": 76721,
+        "file_size": 55486,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:03:51.087684",
-        "hash": "c4c42c3542c916a23c6a5a83f6b63b43",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:49:31.888091",
+        "hash": "e7c021980096113df0b058e7bc8d6ddb",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 1209
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/042.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/042.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/107.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/107.jpg"
       }
     },
     {
-      "id": "vintage_043",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_108",
+      "category": "space",
+      "title": "Reprocessed horsehead nebula - Reddit AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 717
+          "height": 625
         },
-        "file_size": 143681,
+        "file_size": 49935,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:03:54.432939",
-        "hash": "00d6c33e040f1b41797b42e218b5f0fb",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:49:34.434586",
+        "hash": "eeb3890f93bc37bac0ea26049736e7ef",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 290
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/043.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/043.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/108.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/108.jpg"
       }
     },
     {
-      "id": "vintage_044",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_109",
+      "category": "space",
+      "title": "Saturn over the years - Reddit AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1620
+          "height": 1080
         },
-        "file_size": 234699,
+        "file_size": 71340,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:03:57.028693",
-        "hash": "1794c6d301d530334256074c9a01ab77",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:49:35.559030",
+        "hash": "cc563c9ca9990c3b6e25430c3b3bc01c",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 362
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/044.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/044.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/109.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/109.jpg"
       }
     },
     {
-      "id": "vintage_045",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_110",
+      "category": "space",
+      "title": "Auroras over waterfall - Reddit AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1814
+          "height": 788
         },
-        "file_size": 171099,
+        "file_size": 159317,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:03:59.516379",
-        "hash": "ea51d20c741e0a1d298a7ed2f003135b",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:49:36.705667",
+        "hash": "ec9ecbea604fbef71a289f7e6349c41a",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 62
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/045.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/045.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/110.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/110.jpg"
       }
     },
     {
-      "id": "vintage_046",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_111",
+      "category": "space",
+      "title": "Cool Artifact From Chicago, IL - Reddit AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1512
+          "height": 1440
         },
-        "file_size": 378282,
+        "file_size": 245146,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:04:03.438203",
-        "hash": "1ecd9e9c6d6720e2b68de67f8fb16d5c",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:49:38.033988",
+        "hash": "a8500bd3df0412e9e4c643efcfc44ecb",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 48
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/046.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/046.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/111.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/111.jpg"
       }
     },
     {
-      "id": "vintage_047",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "space_112",
+      "category": "space",
+      "title": "Colours of the Milky Way - Reddit AI",
       "tags": [
-        "vintage",
-        "unsplash",
+        "space",
+        "ai-generated",
         "hd",
-        "mobile"
+        "mobile",
+        "community"
       ],
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 723
+          "height": 1167
         },
-        "file_size": 93997,
+        "file_size": 273586,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:04:05.755913",
-        "hash": "6b7c654fa155e8787f3e8193dcc7be95",
-        "photographer": "Unknown"
+        "added_at": "2025-07-19T11:49:39.165711",
+        "hash": "cf9a128f02738b186a634d2e875ccef2",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 503
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/047.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/047.jpg"
-      }
-    },
-    {
-      "id": "vintage_048",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
-      "tags": [
-        "vintage",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1041
-        },
-        "file_size": 260392,
-        "format": "JPEG",
-        "added_at": "2025-07-17T22:04:08.407410",
-        "hash": "3ffa0798ee73072d90606d969a543582",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/048.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/048.jpg"
-      }
-    },
-    {
-      "id": "vintage_049",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
-      "tags": [
-        "vintage",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1445
-        },
-        "file_size": 201091,
-        "format": "JPEG",
-        "added_at": "2025-07-17T22:04:11.015391",
-        "hash": "4bdd6950742a07047485b44697e59f45",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/049.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/049.jpg"
-      }
-    },
-    {
-      "id": "vintage_050",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
-      "tags": [
-        "vintage",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 743
-        },
-        "file_size": 201134,
-        "format": "JPEG",
-        "added_at": "2025-07-17T22:04:13.456015",
-        "hash": "b7755bf64551265352d0e0d5a6d95cfb",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/050.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/050.jpg"
-      }
-    },
-    {
-      "id": "vintage_051",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
-      "tags": [
-        "vintage",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 708
-        },
-        "file_size": 97921,
-        "format": "JPEG",
-        "added_at": "2025-07-17T22:04:16.169493",
-        "hash": "e35f1513e77a8189d5ef8f7f6be76128",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/051.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/051.jpg"
-      }
-    },
-    {
-      "id": "vintage_052",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
-      "tags": [
-        "vintage",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1350
-        },
-        "file_size": 231714,
-        "format": "JPEG",
-        "added_at": "2025-07-17T22:04:18.753842",
-        "hash": "17d68e79152fb3eb64a11b599908731f",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/052.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/052.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/112.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/112.jpg"
       }
     }
   ]

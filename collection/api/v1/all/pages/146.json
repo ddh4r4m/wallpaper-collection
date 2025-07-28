@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-19T12:26:57.111378",
+    "generated_at": "2025-07-28T21:27:34.814586",
     "page": 146,
     "per_page": 15,
-    "total_pages": 160,
-    "total_count": 2387,
+    "total_pages": 177,
+    "total_count": 2647,
     "count_on_page": 15,
-    "categories": 19,
+    "categories": 21,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/147.json",
@@ -15,438 +15,393 @@
   },
   "data": [
     {
-      "id": "space_093",
-      "category": "space",
-      "title": "A Fissure and Channel near Pav - Reddit AI",
+      "id": "seasonal_038",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 038",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/038.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/038.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 810
+          "height": 1920
         },
-        "file_size": 198773,
+        "file_size": 263283,
         "format": "JPEG",
-        "added_at": "2025-07-18T00:27:50.476199",
-        "hash": "6baca3484c15d05c15010e961d3d1816",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 41
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/093.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/093.jpg"
+        "added_at": "2025-07-17T00:04:40.998324",
+        "hash": "7c51cc36449c061ba56707130e5a48c4",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_094",
-      "category": "space",
-      "title": "[OC] orion nebula - Reddit AI",
+      "id": "seasonal_039",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 039",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/039.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/039.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1088
+          "height": 1920
         },
-        "file_size": 115851,
+        "file_size": 424801,
         "format": "JPEG",
-        "added_at": "2025-07-18T00:27:51.802578",
-        "hash": "66ffad2fa7cb8ea64cafb9c9ebf1947c",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 192
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/094.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/094.jpg"
+        "added_at": "2025-07-17T00:04:41.062381",
+        "hash": "91020b81b0e8e660f002b463bf2e743d",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_095",
-      "category": "space",
-      "title": "LARGEST piece of Mars on Earth - Reddit AI",
+      "id": "seasonal_040",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 040",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/040.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/040.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 720
+          "height": 1920
         },
-        "file_size": 140224,
+        "file_size": 289987,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:45:08.903280",
-        "hash": "b0935cc2454c0d97b5f24bcb30d0959a",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 8006
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/095.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/095.jpg"
+        "added_at": "2025-07-17T00:04:41.120150",
+        "hash": "5b0ed9d49cc1740058420d0b4c83c0cd",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_096",
-      "category": "space",
-      "title": "Meteor impact may have trigger - Reddit AI",
+      "id": "seasonal_041",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 041",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/041.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/041.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 608
+          "height": 1920
         },
-        "file_size": 151611,
+        "file_size": 450983,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:45:09.965502",
-        "hash": "893dcb19cd6364d0ff1b8ba36d96c19e",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 4296
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/096.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/096.jpg"
+        "added_at": "2025-07-17T00:04:41.183178",
+        "hash": "a999d73aca32992c8a18ec8cc67b8184",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_097",
-      "category": "space",
-      "title": "In new analysis, NASA and Oxfo - Reddit AI",
+      "id": "seasonal_042",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 042",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/042.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/042.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1080
+          "height": 1920
         },
-        "file_size": 74643,
+        "file_size": 358415,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:45:11.117780",
-        "hash": "dbaabbed822fca055d13a586047101d1",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 11995
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/097.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/097.jpg"
+        "added_at": "2025-07-17T00:04:41.242965",
+        "hash": "bc07f5c9cd0f3780a2646201343f8cf6",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_098",
-      "category": "space",
-      "title": "Zigzag High-altitude clouds on - Reddit AI",
+      "id": "seasonal_043",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 043",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/043.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/043.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 750
+          "height": 1920
         },
-        "file_size": 55486,
+        "file_size": 264440,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:45:12.225802",
-        "hash": "e7c021980096113df0b058e7bc8d6ddb",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 1200
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/098.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/098.jpg"
+        "added_at": "2025-07-17T00:04:41.297827",
+        "hash": "5c028c2fb86b265db11270bad3d5fa6e",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_099",
-      "category": "space",
-      "title": "Reprocessed horsehead nebula - Reddit AI",
+      "id": "seasonal_044",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 044",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/044.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/044.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 625
+          "height": 1920
         },
-        "file_size": 49935,
+        "file_size": 462850,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:45:14.605420",
-        "hash": "eeb3890f93bc37bac0ea26049736e7ef",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 292
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/099.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/099.jpg"
+        "added_at": "2025-07-17T00:04:41.362195",
+        "hash": "6d08f5520559b56689c00e8fffa106fe",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_100",
-      "category": "space",
-      "title": "Saturn over the years - Reddit AI",
+      "id": "seasonal_045",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 045",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/045.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/045.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1080
+          "height": 1920
         },
-        "file_size": 71340,
+        "file_size": 203283,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:45:15.706732",
-        "hash": "cc563c9ca9990c3b6e25430c3b3bc01c",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 363
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/100.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/100.jpg"
+        "added_at": "2025-07-17T00:04:41.413463",
+        "hash": "bd86153605f9a5ff222434eefdd3a7c9",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_101",
-      "category": "space",
-      "title": "Auroras over waterfall - Reddit AI",
+      "id": "seasonal_046",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 046",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/046.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/046.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 788
+          "height": 1920
         },
-        "file_size": 159317,
+        "file_size": 578754,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:45:16.830606",
-        "hash": "ec9ecbea604fbef71a289f7e6349c41a",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 62
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/101.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/101.jpg"
+        "added_at": "2025-07-17T00:04:41.481812",
+        "hash": "7c02ea158cce4e7211ff8e651bee839f",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_102",
-      "category": "space",
-      "title": "Cool Artifact From Chicago, IL - Reddit AI",
+      "id": "seasonal_047",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 047",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/047.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/047.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1440
+          "height": 1920
         },
-        "file_size": 245146,
+        "file_size": 614677,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:45:18.097667",
-        "hash": "a8500bd3df0412e9e4c643efcfc44ecb",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 47
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/102.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/102.jpg"
+        "added_at": "2025-07-17T00:04:41.552418",
+        "hash": "73a8bff12755343ecd862176623c407c",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_103",
-      "category": "space",
-      "title": "Colours of the Milky Way - Reddit AI",
+      "id": "seasonal_048",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 048",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/048.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/048.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1167
+          "height": 1920
         },
-        "file_size": 273586,
+        "file_size": 309480,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:45:19.237584",
-        "hash": "cf9a128f02738b186a634d2e875ccef2",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 500
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/103.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/103.jpg"
+        "added_at": "2025-07-17T00:04:41.607735",
+        "hash": "08530deaa94ab24985bb6c027366eb8d",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_104",
-      "category": "space",
-      "title": "LARGEST piece of Mars on Earth - Reddit AI",
+      "id": "seasonal_049",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 049",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/049.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/049.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 720
+          "height": 1920
         },
-        "file_size": 140224,
+        "file_size": 184289,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:49:28.508646",
-        "hash": "b0935cc2454c0d97b5f24bcb30d0959a",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 8164
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/104.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/104.jpg"
+        "added_at": "2025-07-17T00:04:41.657609",
+        "hash": "93d26ac5beabb908486d941e6c0f9f1f",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_105",
-      "category": "space",
-      "title": "Meteor impact may have trigger - Reddit AI",
+      "id": "seasonal_050",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 050",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/050.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/050.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 608
+          "height": 1920
         },
-        "file_size": 151611,
+        "file_size": 366083,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:49:29.580666",
-        "hash": "893dcb19cd6364d0ff1b8ba36d96c19e",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 4302
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/105.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/105.jpg"
+        "added_at": "2025-07-17T00:04:41.717451",
+        "hash": "262758c5fa60347cfb7f1eafccb4e37c",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_106",
-      "category": "space",
-      "title": "In new analysis, NASA and Oxfo - Reddit AI",
+      "id": "seasonal_051",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 051",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/051.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/051.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1080
+          "height": 1920
         },
-        "file_size": 74643,
+        "file_size": 427316,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:49:30.779204",
-        "hash": "dbaabbed822fca055d13a586047101d1",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 11988
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/106.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/106.jpg"
+        "added_at": "2025-07-17T00:04:41.779562",
+        "hash": "d8a7591ed8dfed8b3df0e97997c9b53d",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_107",
-      "category": "space",
-      "title": "Zigzag High-altitude clouds on - Reddit AI",
+      "id": "seasonal_052",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 052",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/052.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/052.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 750
+          "height": 1920
         },
-        "file_size": 55486,
+        "file_size": 318288,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:49:31.888091",
-        "hash": "e7c021980096113df0b058e7bc8d6ddb",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 1209
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/107.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/107.jpg"
+        "added_at": "2025-07-17T00:04:41.836839",
+        "hash": "66229da11872d94dc43573230402c643",
+        "source": "migrated"
       }
     }
   ]

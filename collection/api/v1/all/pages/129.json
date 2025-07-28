@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-19T12:26:57.111378",
+    "generated_at": "2025-07-28T21:27:34.814586",
     "page": 129,
     "per_page": 15,
-    "total_pages": 160,
-    "total_count": 2387,
+    "total_pages": 177,
+    "total_count": 2647,
     "count_on_page": 15,
-    "categories": 19,
+    "categories": 21,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/130.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "neon_085",
-      "category": "neon",
-      "title": "Neon Wallpaper",
+      "id": "nature_244",
+      "category": "nature",
+      "title": "Nature Wallpaper 244",
       "tags": [
-        "neon",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 720
-        },
-        "file_size": 96158,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:33:25.970053",
-        "hash": "2352bbc7be264b60cdcb2ed8b5dedd26",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/085.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/085.jpg"
-      }
-    },
-    {
-      "id": "neon_086",
-      "category": "neon",
-      "title": "Neon Wallpaper",
-      "tags": [
-        "neon",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 810
-        },
-        "file_size": 51995,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:33:28.295534",
-        "hash": "d8cf2e8c95f2e09dfe7a79f48df60c55",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/086.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/086.jpg"
-      }
-    },
-    {
-      "id": "neon_087",
-      "category": "neon",
-      "title": "Neon Wallpaper",
-      "tags": [
-        "neon",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 720
-        },
-        "file_size": 67101,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:33:31.735827",
-        "hash": "eba3c2e7ddd65447cdd759b758e870fa",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/087.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/087.jpg"
-      }
-    },
-    {
-      "id": "neon_088",
-      "category": "neon",
-      "title": "Neon Wallpaper",
-      "tags": [
-        "neon",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1620
-        },
-        "file_size": 160857,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:33:35.645489",
-        "hash": "0a5cc4853c11c1ed5791392f23823236",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/088.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/088.jpg"
-      }
-    },
-    {
-      "id": "pastel_001",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 001",
-      "tags": [
-        "pastel",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/001.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/001.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/244.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/244.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 454760,
+        "file_size": 909608,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.842372",
-        "hash": "b550b693683cfc708d2b6857966f0fb0",
+        "added_at": "2025-07-17T00:04:28.517582",
+        "hash": "74e73efac06644851605f5c3bc5cfed7",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_002",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 002",
+      "id": "nature_245",
+      "category": "nature",
+      "title": "Nature Wallpaper 245",
       "tags": [
-        "pastel",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/002.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/002.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/245.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/245.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 479226,
+        "file_size": 306034,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.912894",
-        "hash": "baaa28df92e2438f51d1d466dec450cb",
+        "added_at": "2025-07-17T00:04:28.575620",
+        "hash": "52cc398262795ecf6b61c7d7e44d7610",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_003",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 003",
+      "id": "nature_246",
+      "category": "nature",
+      "title": "Nature Wallpaper 246",
       "tags": [
-        "pastel",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/003.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/003.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/246.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/246.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 417881,
+        "file_size": 498461,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:35.975960",
-        "hash": "58bc4b035425db7559990c3cd74818f2",
+        "added_at": "2025-07-17T00:04:28.644584",
+        "hash": "4291a26fbf3c37478f20b94e7787a7cc",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_004",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 004",
+      "id": "nature_247",
+      "category": "nature",
+      "title": "Nature Wallpaper 247",
       "tags": [
-        "pastel",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/004.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/004.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/247.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/247.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 221388,
+        "file_size": 642457,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.030608",
-        "hash": "d54165adcbb9d2b3f2783102e81eda24",
+        "added_at": "2025-07-17T00:04:28.721139",
+        "hash": "4259ad63cfc38a29852587719f9e4de3",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_005",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 005",
+      "id": "nature_248",
+      "category": "nature",
+      "title": "Nature Wallpaper 248",
       "tags": [
-        "pastel",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/005.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/005.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/248.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/248.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 663823,
+        "file_size": 731130,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.109358",
-        "hash": "8026de66c829ab2a324305c406cd4d9d",
+        "added_at": "2025-07-17T00:04:28.800472",
+        "hash": "47f511e526f6df9519656234ce09f91a",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_006",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 006",
+      "id": "nature_249",
+      "category": "nature",
+      "title": "Nature Wallpaper 249",
       "tags": [
-        "pastel",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/006.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/006.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/249.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/249.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 413712,
+        "file_size": 400086,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.172479",
-        "hash": "3bc0b7488fe25a0c7ca6b267f67b9211",
+        "added_at": "2025-07-17T00:04:28.890498",
+        "hash": "5f3f850a0aee890160e011f2e9bc04dd",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_007",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 007",
+      "id": "nature_250",
+      "category": "nature",
+      "title": "Nature Wallpaper 250",
       "tags": [
-        "pastel",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/007.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/007.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/250.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/250.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 97462,
+        "file_size": 335084,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.219758",
-        "hash": "95e23ea5a47802019f9f44d2a873e5c6",
+        "added_at": "2025-07-17T00:04:28.951692",
+        "hash": "414d26b6e10b8b65287a89096ccb0498",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_008",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 008",
+      "id": "nature_251",
+      "category": "nature",
+      "title": "Nature Wallpaper 251",
       "tags": [
-        "pastel",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/008.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/008.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/251.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/251.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 435044,
+        "file_size": 540936,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.286950",
-        "hash": "5f2a0dca440e18e5a3bbc4ef2b0724a7",
+        "added_at": "2025-07-17T00:04:29.022042",
+        "hash": "da3d9a595a829bd91eb8fecb65bc0995",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_009",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 009",
+      "id": "nature_252",
+      "category": "nature",
+      "title": "Nature Wallpaper 252",
       "tags": [
-        "pastel",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/009.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/009.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/252.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/252.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 63107,
+        "file_size": 533712,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.331874",
-        "hash": "fa63242d03d49e063868c6866ada4776",
+        "added_at": "2025-07-17T00:04:29.092380",
+        "hash": "0d4a02ce4fe0e25c5def93e439aefd7d",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_010",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 010",
+      "id": "nature_253",
+      "category": "nature",
+      "title": "Nature Wallpaper 253",
       "tags": [
-        "pastel",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/010.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/010.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/253.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/253.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 209027,
+        "file_size": 355529,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.385406",
-        "hash": "b2c842925dd96922ef874cf4a74e65bf",
+        "added_at": "2025-07-17T00:04:29.153087",
+        "hash": "cf4dc280c0e5b2714f40ee1466e16afc",
         "source": "migrated"
       }
     },
     {
-      "id": "pastel_011",
-      "category": "pastel",
-      "title": "Pastel Wallpaper 011",
+      "id": "nature_254",
+      "category": "nature",
+      "title": "Nature Wallpaper 254",
       "tags": [
-        "pastel",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/pastel/011.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/pastel/011.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/254.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/254.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 242245,
+        "file_size": 715569,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:36.441065",
-        "hash": "57c3aa456d510e5fb2ce66d6385a7be5",
+        "added_at": "2025-07-17T00:04:29.230568",
+        "hash": "6632117749f736bc83b1435c4b1ffa9e",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "nature_255",
+      "category": "nature",
+      "title": "Nature Wallpaper 255",
+      "tags": [
+        "nature",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/255.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/255.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 398957,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:29.294412",
+        "hash": "1dc5044ac01bcfb76fc0b1b6a2a6f6ca",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "nature_256",
+      "category": "nature",
+      "title": "Nature Wallpaper 256",
+      "tags": [
+        "nature",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/256.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/256.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 150770,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:29.348837",
+        "hash": "06b1b748fdef7b6a6e8118a4c06c3bb5",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "nature_257",
+      "category": "nature",
+      "title": "Nature Wallpaper 257",
+      "tags": [
+        "nature",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/257.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/257.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 321764,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:29.407981",
+        "hash": "484f5a90124c7010568e3255ad694f48",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "nature_258",
+      "category": "nature",
+      "title": "Nature Wallpaper 258",
+      "tags": [
+        "nature",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/258.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/258.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 328813,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:29.466745",
+        "hash": "2195f1a6ffcdc7bc0842ecd83e7d4e4d",
         "source": "migrated"
       }
     }

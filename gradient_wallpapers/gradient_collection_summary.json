@@ -1,0 +1,46 @@
+{
+  "collection_info": {
+    "name": "Pinterest Abstract Gradient Collection",
+    "total_downloaded": 2,
+    "source": "pinterest_verified_urls",
+    "quality": "mobile_optimized_hd",
+    "collection_date": "2025-07-20T20:40:59.165084"
+  },
+  "quality_metrics": {
+    "total_size_mb": 0.4,
+    "average_size_kb": 202.9,
+    "quality_distribution": {
+      "premium": 1,
+      "high": 1
+    },
+    "min_resolution": "Mobile HD (720x1280+)",
+    "optimized_for": "Mobile wallpapers"
+  },
+  "gradient_types": {
+    "blue_purple": 1,
+    "warm_sunset": 1
+  },
+  "successful_downloads": [
+    {
+      "filename": "gradient_001_blue_purple_31191c6c.jpg",
+      "type": "blue_purple",
+      "size": 301975,
+      "url": "https://i.pinimg.com/736x/8b/7e/53/8b7e533966c9d9c514d32d0eaaea993f.jpg"
+    },
+    {
+      "filename": "gradient_013_warm_sunset_6089d314.jpg",
+      "type": "warm_sunset",
+      "size": 113482,
+      "url": "https://i.pinimg.com/736x/6f/8e/a2/6f8ea2ce32f273522934aa43079b79d2.jpg"
+    }
+  ],
+  "features": [
+    "High-resolution mobile wallpapers",
+    "Abstract gradient designs",
+    "Premium quality filtering",
+    "Diverse color themes",
+    "Pinterest curated sources",
+    "Duplicate prevention",
+    "Comprehensive metadata"
+  ]
+}

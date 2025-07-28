@@ -1,0 +1,36 @@
+{
+  "id": "football_soccer_023_world_cup_64d35142",
+  "source": "pinterest_multi_agent",
+  "agent_id": "Agent_3_Football_Soccer",
+  "category": "sports",
+  "sport_type": "world_cup",
+  "title": "World Cup Wallpaper #23",
+  "description": "FIFA World Cup themed wallpaper with international tournament atmosphere",
+  "search_query": "world cup soccer wallpaper",
+  "file_size": 692322,
+  "estimated_resolution": "1080x2340",
+  "download_url": "https://i.pinimg.com/originals/39/71/73/4894152233860966.jpg",
+  "md5_hash": "1f6847c84b0b7cbed8c60a9bce6f8ffc",
+  "tags": [
+    "sports",
+    "wallpaper",
+    "mobile",
+    "hd",
+    "world cup",
+    "fifa",
+    "tournament",
+    "international"
+  ],
+  "mobile_optimized": true,
+  "quality_tier": "high",
+  "quality_score": 7.4,
+  "agent_specialization": "Stadium & Action Shot Specialist",
+  "collection_strategy": "International tournament and competition focus",
+  "crawled_at": "2025-07-20T18:42:56.987127+00:00",
+  "validation": {
+    "format_verified": true,
+    "mobile_ready": true,
+    "duplicate_checked": true,
+    "content_verified": true
+  }
+}

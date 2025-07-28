@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-19T12:26:57.111378",
+    "generated_at": "2025-07-28T21:27:34.814586",
     "page": 134,
     "per_page": 15,
-    "total_pages": 160,
-    "total_count": 2387,
+    "total_pages": 177,
+    "total_count": 2647,
     "count_on_page": 15,
-    "categories": 19,
+    "categories": 21,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/135.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "seasonal_003",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 003",
+      "id": "neon_015",
+      "category": "neon",
+      "title": "Neon Wallpaper 015",
       "tags": [
-        "seasonal",
+        "neon",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/003.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/003.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/015.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/015.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 240703,
+        "file_size": 495139,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:38.884237",
-        "hash": "780250f272ad3d1498caf737c53926d0",
+        "added_at": "2025-07-17T00:04:32.183795",
+        "hash": "d3ebabfa9f9dc7f3b327f7dce06d7251",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_004",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 004",
+      "id": "neon_016",
+      "category": "neon",
+      "title": "Neon Wallpaper 016",
       "tags": [
-        "seasonal",
+        "neon",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/004.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/004.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/016.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/016.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 236227,
+        "file_size": 391521,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:38.939845",
-        "hash": "dc4724c0e5810d918aa2ffbef166452e",
+        "added_at": "2025-07-17T00:04:32.247228",
+        "hash": "8fabc732843eb3c9aa8a892dde4b3480",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_005",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 005",
+      "id": "neon_017",
+      "category": "neon",
+      "title": "Neon Wallpaper 017",
       "tags": [
-        "seasonal",
+        "neon",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/005.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/005.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/017.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/017.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 498776,
+        "file_size": 249441,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:39.011830",
-        "hash": "59b3c9d1acc6490f47d40a40176b7eda",
+        "added_at": "2025-07-17T00:04:32.302874",
+        "hash": "df7ef81667ce6aa180ff934c954734ed",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_006",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 006",
+      "id": "neon_018",
+      "category": "neon",
+      "title": "Neon Wallpaper 018",
       "tags": [
-        "seasonal",
+        "neon",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/006.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/006.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/018.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/018.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 427221,
+        "file_size": 144143,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:39.078223",
-        "hash": "64f374d90ba72aa03577490df3979c8e",
+        "added_at": "2025-07-17T00:04:32.352290",
+        "hash": "870cdc9e42d5634eaba12b90845c043b",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_007",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 007",
+      "id": "neon_019",
+      "category": "neon",
+      "title": "Neon Wallpaper 019",
       "tags": [
-        "seasonal",
+        "neon",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/007.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/007.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/019.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/019.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 191440,
+        "file_size": 157921,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:39.133257",
-        "hash": "9f6a44087fe22c2998080d8ffa290c79",
+        "added_at": "2025-07-17T00:04:32.401730",
+        "hash": "ba22dfa4b9d251e6cd113a87d9bd0ce5",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_008",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 008",
+      "id": "neon_020",
+      "category": "neon",
+      "title": "Neon Wallpaper 020",
       "tags": [
-        "seasonal",
+        "neon",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/008.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/008.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/020.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/020.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 397823,
+        "file_size": 259768,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:39.196565",
-        "hash": "06e714df93495bd89b5e9b99ddacea07",
+        "added_at": "2025-07-17T00:04:32.458080",
+        "hash": "9cdd1c3399fe970fa6122434cb545bf6",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_009",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 009",
+      "id": "neon_021",
+      "category": "neon",
+      "title": "Neon Wallpaper 021",
       "tags": [
-        "seasonal",
+        "neon",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/009.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/009.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/021.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/021.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 284894,
+        "file_size": 533964,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:39.253009",
-        "hash": "78f6781d06380604c3ba600a5b249279",
+        "added_at": "2025-07-17T00:04:32.528023",
+        "hash": "0e122a6e88aa0507533637bae30f7f14",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_010",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 010",
+      "id": "neon_022",
+      "category": "neon",
+      "title": "Neon Wallpaper 022",
       "tags": [
-        "seasonal",
+        "neon",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/010.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/010.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/022.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/022.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 318623,
+        "file_size": 427255,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:39.312739",
-        "hash": "a5e1eaa5aaccdb17a00328571d2c3984",
+        "added_at": "2025-07-17T00:04:32.591534",
+        "hash": "2eac1e22a18c706a883a0be487464ba4",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_011",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 011",
+      "id": "neon_023",
+      "category": "neon",
+      "title": "Neon Wallpaper 023",
       "tags": [
-        "seasonal",
+        "neon",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/011.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/011.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/023.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/023.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 265536,
+        "file_size": 435360,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:39.367157",
-        "hash": "efbdca77d278857bc48613a4957ad4e1",
+        "added_at": "2025-07-17T00:04:32.658683",
+        "hash": "e73dfa1bcde5af136a6e1478b38e01e7",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_012",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 012",
+      "id": "neon_024",
+      "category": "neon",
+      "title": "Neon Wallpaper 024",
       "tags": [
-        "seasonal",
+        "neon",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/012.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/012.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/024.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/024.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 678726,
+        "file_size": 161803,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:39.440973",
-        "hash": "f69202fdcde0bc8fbaf6e222813cae4b",
+        "added_at": "2025-07-17T00:04:32.708367",
+        "hash": "bb84aea24b21167b161350aafa77792a",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_013",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 013",
+      "id": "neon_025",
+      "category": "neon",
+      "title": "Neon Wallpaper 025",
       "tags": [
-        "seasonal",
+        "neon",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/013.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/013.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/025.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/025.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 175793,
+        "file_size": 292890,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:39.490148",
-        "hash": "74e1149d4baf2e2f80e148956e37837c",
+        "added_at": "2025-07-17T00:04:32.766114",
+        "hash": "0f5ce9fa87655bd252e73286352d5dec",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_014",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 014",
+      "id": "neon_026",
+      "category": "neon",
+      "title": "Neon Wallpaper 026",
       "tags": [
-        "seasonal",
+        "neon",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/014.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/014.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/026.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/026.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 265382,
+        "file_size": 157904,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:39.546198",
-        "hash": "799be252111c413c3408176c961923f5",
+        "added_at": "2025-07-17T00:04:32.816644",
+        "hash": "83c38bdbb120409a6b5266b6e77c66d0",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_015",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 015",
+      "id": "neon_027",
+      "category": "neon",
+      "title": "Neon Wallpaper 027",
       "tags": [
-        "seasonal",
+        "neon",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/015.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/015.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/027.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/027.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 415716,
+        "file_size": 205723,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:39.613875",
-        "hash": "de82fd82a790d749043fccf6dba36328",
+        "added_at": "2025-07-17T00:04:32.868896",
+        "hash": "bb1e4e9962c4f90c693fe29d5722957e",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_016",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 016",
+      "id": "neon_028",
+      "category": "neon",
+      "title": "Neon Wallpaper 028",
       "tags": [
-        "seasonal",
+        "neon",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/016.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/016.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/028.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/028.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 358913,
+        "file_size": 320548,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:39.672825",
-        "hash": "10888aa2d08e979ce464a441e4596a79",
+        "added_at": "2025-07-17T00:04:32.928489",
+        "hash": "a4a8354ed6d8a6d19fc4e9717777cbc5",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_017",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper 017",
+      "id": "neon_029",
+      "category": "neon",
+      "title": "Neon Wallpaper 029",
       "tags": [
-        "seasonal",
+        "neon",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/017.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/017.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/029.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/029.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 249226,
+        "file_size": 270171,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:39.727439",
-        "hash": "f9216ae40fcf8c2ac0db7c49cdc00699",
+        "added_at": "2025-07-17T00:04:32.988976",
+        "hash": "49cff5f44ed96a99f9b8484147ff7a47",
         "source": "migrated"
       }
     }

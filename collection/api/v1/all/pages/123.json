@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-19T12:26:57.111378",
+    "generated_at": "2025-07-28T21:27:34.814586",
     "page": 123,
     "per_page": 15,
-    "total_pages": 160,
-    "total_count": 2387,
+    "total_pages": 177,
+    "total_count": 2647,
     "count_on_page": 15,
-    "categories": 19,
+    "categories": 21,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/124.json",
@@ -15,410 +15,392 @@
   },
   "data": [
     {
-      "id": "nature_299",
+      "id": "nature_154",
       "category": "nature",
-      "title": "Manzanita OR [OC] [8256x5504] - Reddit AI",
+      "title": "Nature Wallpaper 154",
       "tags": [
         "nature",
-        "ai-generated",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/154.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/154.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 720
+          "height": 1920
         },
-        "file_size": 65871,
+        "file_size": 619150,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:45:38.902630",
-        "hash": "34dc5103127c0d214d76c4a27675e8da",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 104
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/299.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/299.jpg"
+        "added_at": "2025-07-17T00:04:22.262450",
+        "hash": "e6d084a2b4ee3fb844d1ac483c13e07a",
+        "source": "migrated"
       }
     },
     {
-      "id": "nature_300",
+      "id": "nature_155",
       "category": "nature",
-      "title": "Near Carrington Point on Santa - Reddit AI",
+      "title": "Nature Wallpaper 155",
       "tags": [
         "nature",
-        "ai-generated",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/155.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/155.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 720
+          "height": 1920
         },
-        "file_size": 276336,
+        "file_size": 393941,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:45:40.161809",
-        "hash": "3b8602a1637fa73aac94145c52589bf8",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 97
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/300.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/300.jpg"
+        "added_at": "2025-07-17T00:04:22.324732",
+        "hash": "c58fd4b29c010bff6a0d9669dfc8c78d",
+        "source": "migrated"
       }
     },
     {
-      "id": "nature_301",
+      "id": "nature_156",
       "category": "nature",
-      "title": "Tasmanian Rainforest [OC][3000 - Reddit AI",
+      "title": "Nature Wallpaper 156",
       "tags": [
         "nature",
-        "ai-generated",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/156.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/156.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1620
+          "height": 1920
         },
-        "file_size": 573180,
+        "file_size": 182355,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:45:41.637445",
-        "hash": "788f5e876b13662ce2ea40f62a99569f",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 1182
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/301.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/301.jpg"
+        "added_at": "2025-07-17T00:04:22.377199",
+        "hash": "e53a72e0377be3f6e30c9df50c94b682",
+        "source": "migrated"
       }
     },
     {
-      "id": "nature_302",
+      "id": "nature_157",
       "category": "nature",
-      "title": "Arch Cape, OR [OC] [4000x6000] - Reddit AI",
+      "title": "Nature Wallpaper 157",
       "tags": [
         "nature",
-        "ai-generated",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/157.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/157.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1620
+          "height": 1920
         },
-        "file_size": 453244,
+        "file_size": 445952,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:45:43.770092",
-        "hash": "1fd3ff40f5ee9afba439085b675236cc",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 36
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/302.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/302.jpg"
+        "added_at": "2025-07-17T00:04:22.442613",
+        "hash": "33d9145d75f02a74b9019eab587bfef1",
+        "source": "migrated"
       }
     },
     {
-      "id": "nature_303",
+      "id": "nature_158",
       "category": "nature",
-      "title": "Ridges and glaciers in the Nor - Reddit AI",
+      "title": "Nature Wallpaper 158",
       "tags": [
         "nature",
-        "ai-generated",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/158.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/158.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 720
+          "height": 1920
         },
-        "file_size": 113335,
+        "file_size": 601431,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:45:45.015701",
-        "hash": "e5d2d730c36e6ecb2b3ed72d3f18abf5",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 486
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/303.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/303.jpg"
+        "added_at": "2025-07-17T00:04:22.516360",
+        "hash": "7fa329251ba73f91eb80899815f934b7",
+        "source": "migrated"
       }
     },
     {
-      "id": "nature_304",
+      "id": "nature_159",
       "category": "nature",
-      "title": "The Deschutes River, Oregon [4 - Reddit AI",
+      "title": "Nature Wallpaper 159",
       "tags": [
         "nature",
-        "ai-generated",
-        "hd",
-        "mobile",
-        "community"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 810
-        },
-        "file_size": 268577,
-        "format": "JPEG",
-        "added_at": "2025-07-19T11:45:46.309020",
-        "hash": "edf86eb35c90367e8e2c41196cb1c2eb",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 96
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/304.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/304.jpg"
-      }
-    },
-    {
-      "id": "neon_001",
-      "category": "neon",
-      "title": "Neon Wallpaper 001",
-      "tags": [
-        "neon",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/001.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/001.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/159.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/159.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 448820,
+        "file_size": 561021,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:31.345173",
-        "hash": "c0cd7fbd5462d9eebdff2c1c892b4111",
+        "added_at": "2025-07-17T00:04:22.585900",
+        "hash": "b45173ba82e13584aa17196c81473583",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_002",
-      "category": "neon",
-      "title": "Neon Wallpaper 002",
+      "id": "nature_160",
+      "category": "nature",
+      "title": "Nature Wallpaper 160",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/002.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/002.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/160.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/160.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 174434,
+        "file_size": 451969,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:31.396139",
-        "hash": "c8ae53a00c501c50ed68a06c4ce97eb6",
+        "added_at": "2025-07-17T00:04:22.651102",
+        "hash": "f5e75286c6d03532b167d3201afc640c",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_003",
-      "category": "neon",
-      "title": "Neon Wallpaper 003",
+      "id": "nature_161",
+      "category": "nature",
+      "title": "Nature Wallpaper 161",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/003.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/003.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/161.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/161.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 204987,
+        "file_size": 405137,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:31.448888",
-        "hash": "d94a4689c71fee5c2e5b7ded6e892f10",
+        "added_at": "2025-07-17T00:04:22.714605",
+        "hash": "8b0a9ffc7f58d50f484ae3c01ef39dfb",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_004",
-      "category": "neon",
-      "title": "Neon Wallpaper 004",
+      "id": "nature_162",
+      "category": "nature",
+      "title": "Nature Wallpaper 162",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/004.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/004.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/162.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/162.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 412173,
+        "file_size": 571604,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:31.514031",
-        "hash": "dfefad3f229c4f551288dabcc455e814",
+        "added_at": "2025-07-17T00:04:22.786195",
+        "hash": "59ccac155fac34565479f447c782d46e",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_005",
-      "category": "neon",
-      "title": "Neon Wallpaper 005",
+      "id": "nature_163",
+      "category": "nature",
+      "title": "Nature Wallpaper 163",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/005.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/005.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/163.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/163.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 386909,
+        "file_size": 456883,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:31.577044",
-        "hash": "92928b6ad2fee5e3ded2ff511cc4edbb",
+        "added_at": "2025-07-17T00:04:22.852253",
+        "hash": "053be9a5f0aa60fea88942798ff8a84a",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_006",
-      "category": "neon",
-      "title": "Neon Wallpaper 006",
+      "id": "nature_164",
+      "category": "nature",
+      "title": "Nature Wallpaper 164",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/006.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/006.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/164.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/164.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 169983,
+        "file_size": 611300,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:31.628484",
-        "hash": "d1ed644d6e4aeaee9497de063f049ac4",
+        "added_at": "2025-07-17T00:04:22.926160",
+        "hash": "1674b8262bacc435fec99bbc5587875a",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_007",
-      "category": "neon",
-      "title": "Neon Wallpaper 007",
+      "id": "nature_165",
+      "category": "nature",
+      "title": "Nature Wallpaper 165",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/007.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/007.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/165.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/165.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 144399,
+        "file_size": 499107,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:31.677903",
-        "hash": "71d29a6546e9b77cca1dd09ee393c769",
+        "added_at": "2025-07-17T00:04:22.996503",
+        "hash": "96ca7934ffa9e351231ecdfa4442a020",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_008",
-      "category": "neon",
-      "title": "Neon Wallpaper 008",
+      "id": "nature_166",
+      "category": "nature",
+      "title": "Nature Wallpaper 166",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/008.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/008.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/166.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/166.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 434782,
+        "file_size": 570011,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:31.744901",
-        "hash": "ba6bb6e75665851ada7610061c83c9bd",
+        "added_at": "2025-07-17T00:04:23.069751",
+        "hash": "7da6e8ce85648fc3082a58a793dfd509",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_009",
-      "category": "neon",
-      "title": "Neon Wallpaper 009",
+      "id": "nature_167",
+      "category": "nature",
+      "title": "Nature Wallpaper 167",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/009.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/009.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/167.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/167.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 319082,
+        "file_size": 429176,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:31.805229",
-        "hash": "465953ef0e652b0875c88ac30bf13c26",
+        "added_at": "2025-07-17T00:04:23.133409",
+        "hash": "a77e97cd80b4bb7b0d76588d189403a9",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "nature_168",
+      "category": "nature",
+      "title": "Nature Wallpaper 168",
+      "tags": [
+        "nature",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/168.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/168.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 738620,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:23.212816",
+        "hash": "02e4f6b87b650c87e3d135172ba576fd",
         "source": "migrated"
       }
     }

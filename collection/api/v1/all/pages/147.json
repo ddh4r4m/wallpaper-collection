@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-19T12:26:57.111378",
+    "generated_at": "2025-07-28T21:27:34.814586",
     "page": 147,
     "per_page": 15,
-    "total_pages": 160,
-    "total_count": 2387,
+    "total_pages": 177,
+    "total_count": 2647,
     "count_on_page": 15,
-    "categories": 19,
+    "categories": 21,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/148.json",
@@ -15,547 +15,393 @@
   },
   "data": [
     {
-      "id": "space_108",
-      "category": "space",
-      "title": "Reprocessed horsehead nebula - Reddit AI",
+      "id": "seasonal_053",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 053",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/053.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/053.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 625
+          "height": 1920
         },
-        "file_size": 49935,
+        "file_size": 385537,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:49:34.434586",
-        "hash": "eeb3890f93bc37bac0ea26049736e7ef",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 290
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/108.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/108.jpg"
+        "added_at": "2025-07-17T00:04:41.897891",
+        "hash": "1164d808e60a26d9f6839882921859b9",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_109",
-      "category": "space",
-      "title": "Saturn over the years - Reddit AI",
+      "id": "seasonal_054",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 054",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/054.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/054.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1080
+          "height": 1920
         },
-        "file_size": 71340,
+        "file_size": 480829,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:49:35.559030",
-        "hash": "cc563c9ca9990c3b6e25430c3b3bc01c",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 362
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/109.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/109.jpg"
+        "added_at": "2025-07-17T00:04:41.963858",
+        "hash": "9c0586451c6e15445d69a9cf17c99819",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_110",
-      "category": "space",
-      "title": "Auroras over waterfall - Reddit AI",
+      "id": "seasonal_055",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 055",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/055.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/055.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 788
+          "height": 1920
         },
-        "file_size": 159317,
+        "file_size": 357729,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:49:36.705667",
-        "hash": "ec9ecbea604fbef71a289f7e6349c41a",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 62
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/110.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/110.jpg"
+        "added_at": "2025-07-17T00:04:42.023710",
+        "hash": "1aca64518ceafd67c2f6e19ca640821a",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_111",
-      "category": "space",
-      "title": "Cool Artifact From Chicago, IL - Reddit AI",
+      "id": "seasonal_056",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 056",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/056.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/056.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1440
+          "height": 1920
         },
-        "file_size": 245146,
+        "file_size": 161575,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:49:38.033988",
-        "hash": "a8500bd3df0412e9e4c643efcfc44ecb",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 48
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/111.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/111.jpg"
+        "added_at": "2025-07-17T00:04:42.073239",
+        "hash": "b447ff33b7e0a79dc778ae89b1ace64a",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_112",
-      "category": "space",
-      "title": "Colours of the Milky Way - Reddit AI",
+      "id": "seasonal_057",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 057",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/057.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/057.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1167
+          "height": 1920
         },
-        "file_size": 273586,
+        "file_size": 511512,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:49:39.165711",
-        "hash": "cf9a128f02738b186a634d2e875ccef2",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 503
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/112.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/112.jpg"
+        "added_at": "2025-07-17T00:04:42.139072",
+        "hash": "d70c8858197c7eb19ec037e2d80cd5f5",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_113",
-      "category": "space",
-      "title": "RAW photo, analog photography.  Sensual - Civitai AI",
+      "id": "seasonal_058",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 058",
       "tags": [
-        "space",
-        "ai-generated",
-        "civitai",
-        "stable-diffusion",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community-rated"
+        "mobile"
       ],
-      "metadata": {
-        "dimensions": {
-          "width": 832,
-          "height": 1216
-        },
-        "file_size": 107124,
-        "format": "JPEG",
-        "added_at": "2025-07-19T11:59:31.425393",
-        "hash": "2d6f52b8c855ea24238d286006f45b20",
-        "ai_source": "civitai",
-        "ai_generated": true,
-        "source_platform": "civitai.com",
-        "ai_prompt": "RAW photo, analog photography.  Sensual young woman, solo, looking at camera, ((blushing, flustered, horny, naughty smile, smirk)), ((gold hairband)), (mascara, eyeliner,eyeshadow), ((black choker)), ",
-        "civitai_stats": {
-          "cryCount": 10,
-          "laughCount": 29,
-          "likeCount": 216,
-          "dislikeCount": 0,
-          "heartCount": 73,
-          "commentCount": 0
-        }
-      },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/113.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/113.jpg"
-      }
-    },
-    {
-      "id": "space_114",
-      "category": "space",
-      "title": "Space AI Art - Civitai",
-      "tags": [
-        "space",
-        "ai-generated",
-        "civitai",
-        "stable-diffusion",
-        "hd",
-        "mobile",
-        "community-rated"
-      ],
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/058.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/058.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1607
+          "height": 1920
         },
-        "file_size": 178255,
+        "file_size": 429535,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:59:34.626286",
-        "hash": "de208147e519a4edb6c4527c09926366",
-        "ai_source": "civitai",
-        "ai_generated": true,
-        "source_platform": "civitai.com",
-        "civitai_stats": {
-          "cryCount": 6,
-          "laughCount": 17,
-          "likeCount": 227,
-          "dislikeCount": 0,
-          "heartCount": 45,
-          "commentCount": 0
-        }
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/114.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/114.jpg"
+        "added_at": "2025-07-17T00:04:42.202359",
+        "hash": "4affdc61fdce87f83741a164d223cbd3",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_115",
-      "category": "space",
-      "title": "full length photo, sensual elite woman, - Civitai AI",
+      "id": "seasonal_059",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 059",
       "tags": [
-        "space",
-        "ai-generated",
-        "civitai",
-        "stable-diffusion",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community-rated"
+        "mobile"
       ],
-      "metadata": {
-        "dimensions": {
-          "width": 832,
-          "height": 1216
-        },
-        "file_size": 155116,
-        "format": "JPEG",
-        "added_at": "2025-07-19T11:59:36.425818",
-        "hash": "604812bee6c9e58df00cb95a7ccafc68",
-        "ai_source": "civitai",
-        "ai_generated": true,
-        "source_platform": "civitai.com",
-        "ai_prompt": "full length photo, sensual elite woman, sexy attire, photorealistic, glamour photography, artistic photo, seductive adult woman, sensual fashionista woman, sexy long grey hair with dark highlights, go",
-        "civitai_stats": {
-          "cryCount": 11,
-          "laughCount": 21,
-          "likeCount": 148,
-          "dislikeCount": 0,
-          "heartCount": 56,
-          "commentCount": 0
-        }
-      },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/115.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/115.jpg"
-      }
-    },
-    {
-      "id": "space_116",
-      "category": "space",
-      "title": "full length photo, sensual elite woman, - Civitai AI",
-      "tags": [
-        "space",
-        "ai-generated",
-        "civitai",
-        "stable-diffusion",
-        "hd",
-        "mobile",
-        "community-rated"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 832,
-          "height": 1216
-        },
-        "file_size": 141585,
-        "format": "JPEG",
-        "added_at": "2025-07-19T11:59:37.755005",
-        "hash": "a20f7c27675bdd0da797d50d94a8ebc0",
-        "ai_source": "civitai",
-        "ai_generated": true,
-        "source_platform": "civitai.com",
-        "ai_prompt": "full length photo, sensual elite woman, sexy attire, photorealistic, glamour photography, artistic photo, seductive adult woman, sensual fashionista woman, sexy long grey hair with dark highlights, go",
-        "civitai_stats": {
-          "cryCount": 9,
-          "laughCount": 14,
-          "likeCount": 139,
-          "dislikeCount": 0,
-          "heartCount": 57,
-          "commentCount": 0
-        }
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/059.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/059.jpg"
       },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/116.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/116.jpg"
-      }
-    },
-    {
-      "id": "space_117",
-      "category": "space",
-      "title": "full length photo, sensual elite woman, - Civitai AI",
-      "tags": [
-        "space",
-        "ai-generated",
-        "civitai",
-        "stable-diffusion",
-        "hd",
-        "mobile",
-        "community-rated"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 832,
-          "height": 1216
-        },
-        "file_size": 135956,
-        "format": "JPEG",
-        "added_at": "2025-07-19T11:59:39.087704",
-        "hash": "f774e7ed0aed2dafdfd08b93bb0ff4c1",
-        "ai_source": "civitai",
-        "ai_generated": true,
-        "source_platform": "civitai.com",
-        "ai_prompt": "full length photo, sensual elite woman, sexy attire, photorealistic, glamour photography, artistic photo, seductive adult woman, sensual fashionista woman, sexy long grey hair with dark highlights, go",
-        "civitai_stats": {
-          "cryCount": 1,
-          "laughCount": 15,
-          "likeCount": 115,
-          "dislikeCount": 0,
-          "heartCount": 48,
-          "commentCount": 0
-        }
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/117.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/117.jpg"
-      }
-    },
-    {
-      "id": "space_118",
-      "category": "space",
-      "title": "full length photo, sensual elite woman, - Civitai AI",
-      "tags": [
-        "space",
-        "ai-generated",
-        "civitai",
-        "stable-diffusion",
-        "hd",
-        "mobile",
-        "community-rated"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 832,
-          "height": 1216
-        },
-        "file_size": 143026,
-        "format": "JPEG",
-        "added_at": "2025-07-19T11:59:41.453199",
-        "hash": "8745f95fb64d4c3bf0a8ee14c2fcd141",
-        "ai_source": "civitai",
-        "ai_generated": true,
-        "source_platform": "civitai.com",
-        "ai_prompt": "full length photo, sensual elite woman, sexy attire, photorealistic, glamour photography, artistic photo, seductive adult woman, sensual fashionista woman, sexy long grey hair with dark highlights, go",
-        "civitai_stats": {
-          "cryCount": 1,
-          "laughCount": 11,
-          "likeCount": 124,
-          "dislikeCount": 0,
-          "heartCount": 41,
-          "commentCount": 0
-        }
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/118.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/118.jpg"
-      }
-    },
-    {
-      "id": "space_119",
-      "category": "space",
-      "title": "luxury magazine phtotography, Full body - Civitai AI",
-      "tags": [
-        "space",
-        "ai-generated",
-        "civitai",
-        "stable-diffusion",
-        "hd",
-        "mobile",
-        "community-rated"
-      ],
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 739
+          "height": 1920
         },
-        "file_size": 146462,
+        "file_size": 332851,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:59:43.894204",
-        "hash": "fb65ae2d30f7f2b0c84b9659011ad00f",
-        "ai_source": "civitai",
-        "ai_generated": true,
-        "source_platform": "civitai.com",
-        "ai_prompt": "luxury magazine phtotography, Full body photography of a sensual lady pirate, black hair blowing, tattoo at her neck, sits near the window, relaxed while holding a glass of whiskey. highly detailed dr",
-        "civitai_stats": {
-          "cryCount": 1,
-          "laughCount": 11,
-          "likeCount": 100,
-          "dislikeCount": 0,
-          "heartCount": 40,
-          "commentCount": 0
-        }
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/119.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/119.jpg"
+        "added_at": "2025-07-17T00:04:42.261412",
+        "hash": "78de3c84c3aa85cf8800064299746183",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_120",
-      "category": "space",
-      "title": "full length photo, sensual elite woman, - Civitai AI",
+      "id": "seasonal_060",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 060",
       "tags": [
-        "space",
-        "ai-generated",
-        "civitai",
-        "stable-diffusion",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community-rated"
+        "mobile"
       ],
-      "metadata": {
-        "dimensions": {
-          "width": 832,
-          "height": 1216
-        },
-        "file_size": 142085,
-        "format": "JPEG",
-        "added_at": "2025-07-19T11:59:45.742210",
-        "hash": "b86e6be5c9db7fae670d43b24ca8a5e5",
-        "ai_source": "civitai",
-        "ai_generated": true,
-        "source_platform": "civitai.com",
-        "ai_prompt": "full length photo, sensual elite woman, sexy attire, photorealistic, glamour photography, artistic photo, seductive adult woman, sensual fashionista woman, sexy long grey hair with dark highlights, go",
-        "civitai_stats": {
-          "cryCount": 0,
-          "laughCount": 5,
-          "likeCount": 95,
-          "dislikeCount": 0,
-          "heartCount": 35,
-          "commentCount": 0
-        }
-      },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/120.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/120.jpg"
-      }
-    },
-    {
-      "id": "space_121",
-      "category": "space",
-      "title": "luxury magazine phtotography, Full body - Civitai AI",
-      "tags": [
-        "space",
-        "ai-generated",
-        "civitai",
-        "stable-diffusion",
-        "hd",
-        "mobile",
-        "community-rated"
-      ],
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/060.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/060.jpg"
+      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 739
+          "height": 1920
         },
-        "file_size": 109417,
+        "file_size": 547437,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:59:48.007276",
-        "hash": "38b4949ab360edcd0fffa8a06d019332",
-        "ai_source": "civitai",
-        "ai_generated": true,
-        "source_platform": "civitai.com",
-        "ai_prompt": "luxury magazine phtotography, Full body photography of a sensual lady pirate, black hair blowing, tattoo at her neck, sits near the window, relaxed while holding a glass of whiskey. highly detailed dr",
-        "civitai_stats": {
-          "cryCount": 8,
-          "laughCount": 3,
-          "likeCount": 84,
-          "dislikeCount": 0,
-          "heartCount": 37,
-          "commentCount": 0
-        }
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/121.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/121.jpg"
+        "added_at": "2025-07-17T00:04:42.331572",
+        "hash": "701f65bef12ae1fdc01245c7d36fd187",
+        "source": "migrated"
       }
     },
     {
-      "id": "space_122",
-      "category": "space",
-      "title": "full length photo, sensual elite woman, - Civitai AI",
+      "id": "seasonal_061",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 061",
       "tags": [
-        "space",
-        "ai-generated",
-        "civitai",
-        "stable-diffusion",
+        "seasonal",
+        "wallpaper",
         "hd",
-        "mobile",
-        "community-rated"
+        "mobile"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/061.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/061.jpg"
+      },
       "metadata": {
         "dimensions": {
-          "width": 832,
-          "height": 1216
+          "width": 1080,
+          "height": 1920
         },
-        "file_size": 106142,
+        "file_size": 216493,
         "format": "JPEG",
-        "added_at": "2025-07-19T11:59:50.201517",
-        "hash": "325ce54d4107a5e2749e59e97eea6cad",
-        "ai_source": "civitai",
-        "ai_generated": true,
-        "source_platform": "civitai.com",
-        "ai_prompt": "full length photo, sensual elite woman, sexy attire, photorealistic, glamour photography, artistic photo, seductive adult woman, sensual fashionista woman, sexy long grey hair with dark highlights, go",
-        "civitai_stats": {
-          "cryCount": 0,
-          "laughCount": 3,
-          "likeCount": 77,
-          "dislikeCount": 0,
-          "heartCount": 38,
-          "commentCount": 0
-        }
-      },
+        "added_at": "2025-07-17T00:04:42.386459",
+        "hash": "213143a8e8abcedebe45f3fb863a9f7b",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "seasonal_062",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 062",
+      "tags": [
+        "seasonal",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/122.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/122.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/062.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/062.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 236013,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:42.439687",
+        "hash": "d3d2fdb8b0ff337fb047673b228de817",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "seasonal_063",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 063",
+      "tags": [
+        "seasonal",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/063.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/063.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 511942,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:42.507088",
+        "hash": "e5ff78a3275dcf6d55264cca908d8416",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "seasonal_064",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 064",
+      "tags": [
+        "seasonal",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/064.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/064.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 396641,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:42.570748",
+        "hash": "6b5e10cef20963b6896c6d2585673921",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "seasonal_065",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 065",
+      "tags": [
+        "seasonal",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/065.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/065.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 154387,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:42.619217",
+        "hash": "c10fa2f3eb0b3c086bd32deba3b8d1b1",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "seasonal_066",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 066",
+      "tags": [
+        "seasonal",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/066.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/066.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 361051,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:42.679811",
+        "hash": "c7fe4342ef7694d4a13f4917a4723f77",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "seasonal_067",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper 067",
+      "tags": [
+        "seasonal",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/067.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/067.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 278572,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:42.734820",
+        "hash": "63536eedecc5e7ca1a23f200717b99ce",
+        "source": "migrated"
       }
     }
   ]

@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-19T12:26:57.111378",
+    "generated_at": "2025-07-28T21:27:34.814586",
     "page": 108,
     "per_page": 15,
-    "total_pages": 160,
-    "total_count": 2387,
+    "total_pages": 177,
+    "total_count": 2647,
     "count_on_page": 15,
-    "categories": 19,
+    "categories": 21,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/109.json",
@@ -15,392 +15,344 @@
   },
   "data": [
     {
-      "id": "nature_074",
-      "category": "nature",
-      "title": "Nature Wallpaper 074",
+      "id": "gradient_142",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 142",
       "tags": [
-        "nature",
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/142.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/142.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T23:12:21.929388",
+        "file_size": 93547,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "gradient_143",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 143",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/143.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/143.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T23:12:22.015091",
+        "file_size": 28756,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "gradient_144",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 144",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/144.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/144.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T23:12:22.338352",
+        "file_size": 171842,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "gradient_145",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 145",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/145.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/145.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T23:12:22.495144",
+        "file_size": 294728,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "gradient_146",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 146",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/146.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/146.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T23:12:22.657923",
+        "file_size": 293240,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "gradient_147",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 147",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/147.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/147.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T23:12:22.780923",
+        "file_size": 40848,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "gradient_148",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 148",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/148.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/148.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T23:12:22.882577",
+        "file_size": 173605,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "gradient_149",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 149",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/149.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/149.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T23:12:23.040759",
+        "file_size": 444981,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "minimal_001",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 001",
+      "tags": [
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/074.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/074.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/001.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/001.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 227215,
+        "file_size": 14539,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:16.867527",
-        "hash": "c8dcb176c3ec1982ecbb00044fe1886a",
+        "added_at": "2025-07-17T00:04:00.384859",
+        "hash": "9b6f9901397b459c29ea6f30f3ead674",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_075",
-      "category": "nature",
-      "title": "Nature Wallpaper 075",
+      "id": "minimal_002",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 002",
       "tags": [
-        "nature",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/075.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/075.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/002.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/002.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 576203,
+        "file_size": 106901,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:16.937880",
-        "hash": "3d8bbc3aa41d2ea5ee059517eb09206e",
+        "added_at": "2025-07-17T00:04:00.535052",
+        "hash": "2c5d28dea64eb6485336c7d3c0ce6ab5",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_076",
-      "category": "nature",
-      "title": "Nature Wallpaper 076",
+      "id": "minimal_003",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 003",
       "tags": [
-        "nature",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/076.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/076.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/003.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/003.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 445223,
+        "file_size": 35239,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:17.003392",
-        "hash": "170c52152176f8caa573cc08042b1438",
+        "added_at": "2025-07-17T00:04:00.751082",
+        "hash": "06127cca133d2cf12317650d18a302eb",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_077",
-      "category": "nature",
-      "title": "Nature Wallpaper 077",
+      "id": "minimal_004",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 004",
       "tags": [
-        "nature",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/077.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/077.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/004.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/004.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 442437,
+        "file_size": 12526,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:17.066409",
-        "hash": "7941cf28145abed3e2877197046b89f5",
+        "added_at": "2025-07-17T00:04:00.968116",
+        "hash": "3bb9d740e795d5ac06b404dc78cce91a",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_078",
-      "category": "nature",
-      "title": "Nature Wallpaper 078",
+      "id": "minimal_005",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 005",
       "tags": [
-        "nature",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/078.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/078.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/005.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/005.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 523957,
+        "file_size": 422081,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:17.139371",
-        "hash": "8438f751e4efce221fba25e445cf53e1",
+        "added_at": "2025-07-17T00:04:01.179344",
+        "hash": "61033eac90023431564c688d1c9e99b0",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_079",
-      "category": "nature",
-      "title": "Nature Wallpaper 079",
+      "id": "minimal_006",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 006",
       "tags": [
-        "nature",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/079.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/079.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/006.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/006.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 406925,
+        "file_size": 91681,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:17.203633",
-        "hash": "bac046810313d1f854612e53d3cbb120",
+        "added_at": "2025-07-17T00:04:01.390204",
+        "hash": "6a25d8b0515674cc71b0ec052185ce07",
         "source": "migrated"
       }
     },
     {
-      "id": "nature_080",
-      "category": "nature",
-      "title": "Nature Wallpaper 080",
+      "id": "minimal_007",
+      "category": "minimal",
+      "title": "Minimal Wallpaper 007",
       "tags": [
-        "nature",
+        "minimal",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/080.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/080.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/minimal/007.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/minimal/007.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 341959,
+        "file_size": 144049,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:17.262266",
-        "hash": "3a869bbf27d5dc7dcb28d5504c0b034e",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_081",
-      "category": "nature",
-      "title": "Nature Wallpaper 081",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/081.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/081.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 452477,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:17.328966",
-        "hash": "1de1c72e7c1f64635840281ea1a9760b",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_082",
-      "category": "nature",
-      "title": "Nature Wallpaper 082",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/082.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/082.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 509264,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:17.396548",
-        "hash": "bd39d75a0c5714d74651f94a9dafd168",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_083",
-      "category": "nature",
-      "title": "Nature Wallpaper 083",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/083.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/083.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 696174,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:17.476765",
-        "hash": "896e13ed49dc57e8568244da02fe039d",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_084",
-      "category": "nature",
-      "title": "Nature Wallpaper 084",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/084.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/084.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 617432,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:17.551407",
-        "hash": "6ce6738f6662c69144e7be21cb93cbe0",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_085",
-      "category": "nature",
-      "title": "Nature Wallpaper 085",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/085.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/085.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 478274,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:17.619074",
-        "hash": "bcd0816c64c048d4e80fd199500e6a8e",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_086",
-      "category": "nature",
-      "title": "Nature Wallpaper 086",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/086.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/086.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 844310,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:17.704183",
-        "hash": "20c5ad6bae2cf70805633f0c34087dd4",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_087",
-      "category": "nature",
-      "title": "Nature Wallpaper 087",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/087.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/087.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 551616,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:17.774136",
-        "hash": "5488ab76d292d29894379b56625d07c9",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "nature_088",
-      "category": "nature",
-      "title": "Nature Wallpaper 088",
-      "tags": [
-        "nature",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/088.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/088.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 395642,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:17.836722",
-        "hash": "6d4034e06547174681d39483e3301a25",
+        "added_at": "2025-07-17T00:04:01.549741",
+        "hash": "ba984e260d39cf01ae4b9ecbfa7f7821",
         "source": "migrated"
       }
     }

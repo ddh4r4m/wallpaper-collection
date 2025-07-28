@@ -1,0 +1,72 @@
+2025-07-20 21:06:27,928 - INFO - ====== WebDriver manager ======
+2025-07-20 21:06:28,170 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-20 21:06:28,227 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-20 21:06:28,285 - INFO - Driver [/Users/dharamdhurandhar/.wdm/drivers/chromedriver/mac64/138.0.7204.157/chromedriver-mac-arm64/chromedriver] found in cache
+2025-07-20 21:06:29,787 - INFO - Browser setup complete for pin scraping
+2025-07-20 21:06:29,788 - INFO - 🎯 Starting Pinterest Specific Pin Scraping (Agent 2)
+2025-07-20 21:06:29,788 - INFO - Target pins: 4
+2025-07-20 21:06:29,788 - INFO - Goal: 40 high-quality gradient images
+2025-07-20 21:06:29,788 - INFO - 
+📌 Processing pin 1/4: https://in.pinterest.com/pin/4081455906953894/
+2025-07-20 21:06:29,788 - INFO - Processing pin: https://in.pinterest.com/pin/4081455906953894/
+2025-07-20 21:06:40,890 - INFO - Downloaded: pin_4081455906953894_main_4081455906953894_main.jpg (1440x2560, 548919 bytes)
+2025-07-20 21:06:50,014 - INFO - Found 15 potential related pins
+2025-07-20 21:06:50,253 - INFO - Extracted 15 related pins
+2025-07-20 21:06:53,632 - INFO - Downloaded: pin_4081455906953894_related_2_48132289764179293_related_2.jpg (1440x2560, 26046 bytes)
+2025-07-20 21:06:54,700 - INFO - Downloaded: pin_4081455906953894_related_3_4222193395276235_related_3.jpg (1440x2560, 195383 bytes)
+2025-07-20 21:06:55,766 - INFO - Downloaded: pin_4081455906953894_related_4_20055160839684686_related_4.jpg (1440x2560, 190387 bytes)
+2025-07-20 21:06:58,321 - INFO - Downloaded: pin_4081455906953894_related_5_related_5_related_5.jpg (1440x2560, 749548 bytes)
+2025-07-20 21:06:59,378 - INFO - Downloaded: pin_4081455906953894_related_6_related_6_related_6.jpg (1440x2560, 47789 bytes)
+2025-07-20 21:07:01,099 - INFO - Downloaded: pin_4081455906953894_related_7_related_7_related_7.jpg (1440x2560, 75816 bytes)
+2025-07-20 21:07:03,086 - INFO - Downloaded: pin_4081455906953894_related_8_related_8_related_8.jpg (1440x2560, 181201 bytes)
+2025-07-20 21:07:04,763 - INFO - Downloaded: pin_4081455906953894_related_9_related_9_related_9.jpg (1440x2560, 78494 bytes)
+2025-07-20 21:07:06,972 - INFO - Downloaded: pin_4081455906953894_related_10_related_10_related_10.jpg (1440x2560, 390815 bytes)
+2025-07-20 21:07:07,977 - INFO - Pin processed: 10 images downloaded
+2025-07-20 21:07:07,977 - INFO - Pin 1 results: 10 images downloaded
+2025-07-20 21:07:07,977 - INFO - Total downloaded so far: 10
+2025-07-20 21:07:07,977 - INFO - Waiting 8.0 seconds before next pin...
+2025-07-20 21:07:15,980 - INFO - 
+📌 Processing pin 2/4: https://in.pinterest.com/pin/281543725129330/
+2025-07-20 21:07:15,986 - INFO - Processing pin: https://in.pinterest.com/pin/281543725129330/
+2025-07-20 21:07:23,119 - INFO - Downloaded: pin_281543725129330_main_281543725129330_main.jpg (1440x2560, 201014 bytes)
+2025-07-20 21:07:32,210 - INFO - Found 2 potential related pins
+2025-07-20 21:07:32,245 - INFO - Extracted 2 related pins
+2025-07-20 21:07:33,612 - INFO - Downloaded: pin_281543725129330_related_1_4574037117375446_related_1.jpg (1440x2560, 53111 bytes)
+2025-07-20 21:07:34,619 - INFO - Pin processed: 2 images downloaded
+2025-07-20 21:07:34,621 - INFO - Pin 2 results: 2 images downloaded
+2025-07-20 21:07:34,621 - INFO - Total downloaded so far: 12
+2025-07-20 21:07:34,621 - INFO - Waiting 8.0 seconds before next pin...
+2025-07-20 21:07:42,628 - INFO - 
+📌 Processing pin 3/4: https://in.pinterest.com/pin/14003448837374227/
+2025-07-20 21:07:42,630 - INFO - Processing pin: https://in.pinterest.com/pin/14003448837374227/
+2025-07-20 21:07:58,325 - INFO - Found 9 potential related pins
+2025-07-20 21:07:58,440 - INFO - Extracted 8 related pins
+2025-07-20 21:07:59,881 - INFO - Downloaded: pin_14003448837374227_related_1_830773462551502296_related_1.jpg (1440x2560, 132046 bytes)
+2025-07-20 21:08:02,382 - INFO - Downloaded: pin_14003448837374227_related_3_563018698862118_related_3.jpg (1440x2560, 1343365 bytes)
+2025-07-20 21:08:03,468 - INFO - Downloaded: pin_14003448837374227_related_4_1196337403426587_related_5.jpg (1440x2560, 183858 bytes)
+2025-07-20 21:08:05,264 - INFO - Downloaded: pin_14003448837374227_related_5_wallpaper-for-nothingr-in-2025--95631192082842150_related_6.jpg (1440x2560, 180804 bytes)
+2025-07-20 21:08:07,044 - INFO - Downloaded: pin_14003448837374227_related_6_84794405481500685_related_7.jpg (1440x2560, 198252 bytes)
+2025-07-20 21:08:08,742 - INFO - Downloaded: pin_14003448837374227_related_7_78742693480784709_related_8.jpg (1440x2560, 229937 bytes)
+2025-07-20 21:08:09,744 - INFO - Pin processed: 6 images downloaded
+2025-07-20 21:08:09,747 - INFO - Pin 3 results: 6 images downloaded
+2025-07-20 21:08:09,747 - INFO - Total downloaded so far: 18
+2025-07-20 21:08:09,747 - INFO - Waiting 8.0 seconds before next pin...
+2025-07-20 21:08:17,758 - INFO - 
+📌 Processing pin 4/4: https://in.pinterest.com/pin/985231164541094/
+2025-07-20 21:08:17,760 - INFO - Processing pin: https://in.pinterest.com/pin/985231164541094/
+2025-07-20 21:08:24,828 - INFO - Downloaded: pin_985231164541094_main_985231164541094_main.jpg (1440x2560, 57775 bytes)
+2025-07-20 21:08:33,916 - INFO - Found 9 potential related pins
+2025-07-20 21:08:34,035 - INFO - Extracted 8 related pins
+2025-07-20 21:08:34,148 - INFO - Downloaded: pin_985231164541094_related_0_351912466494685_related_0.jpg (1440x2560, 45255 bytes)
+2025-07-20 21:08:36,122 - INFO - Downloaded: pin_985231164541094_related_1_1548181165831955_related_1.jpg (1440x2560, 460168 bytes)
+2025-07-20 21:08:37,161 - INFO - Downloaded: pin_985231164541094_related_2_pins-by-you--703756187751070_related_2.jpg (1440x2560, 18101 bytes)
+2025-07-20 21:08:38,257 - INFO - Downloaded: pin_985231164541094_related_3_14636767535989320_related_3.jpg (1440x2560, 541009 bytes)
+2025-07-20 21:08:39,366 - INFO - Downloaded: pin_985231164541094_related_4_27725353951843462_related_4.jpg (1440x2560, 476193 bytes)
+2025-07-20 21:08:40,445 - INFO - Downloaded: pin_985231164541094_related_5_1477812374239323_related_6.jpg (1440x2560, 286410 bytes)
+2025-07-20 21:08:41,593 - INFO - Downloaded: pin_985231164541094_related_6_15692298697395535_related_7.jpg (1440x2560, 329159 bytes)
+2025-07-20 21:08:42,707 - INFO - Downloaded: pin_985231164541094_related_7_38562140558741667_related_8.jpg (1440x2560, 840584 bytes)
+2025-07-20 21:08:43,710 - INFO - Pin processed: 9 images downloaded
+2025-07-20 21:08:43,712 - INFO - Pin 4 results: 9 images downloaded
+2025-07-20 21:08:43,712 - INFO - Total downloaded so far: 27
+2025-07-20 21:08:43,715 - INFO - Pin scraping summary saved: /Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/crawl_cache/pinterest/specific_pins/pinterest_pin_scraping_summary.json
+2025-07-20 21:08:43,715 - INFO - 🎉 Pinterest pin scraping completed!

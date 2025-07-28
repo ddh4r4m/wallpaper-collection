@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-19T12:26:57.111378",
+    "generated_at": "2025-07-28T21:27:34.814586",
     "page": 124,
     "per_page": 15,
-    "total_pages": 160,
-    "total_count": 2387,
+    "total_pages": 177,
+    "total_count": 2647,
     "count_on_page": 15,
-    "categories": 19,
+    "categories": 21,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/125.json",
@@ -15,392 +15,392 @@
   },
   "data": [
     {
-      "id": "neon_010",
-      "category": "neon",
-      "title": "Neon Wallpaper 010",
+      "id": "nature_169",
+      "category": "nature",
+      "title": "Nature Wallpaper 169",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/010.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/010.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/169.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/169.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 478879,
+        "file_size": 304612,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:31.872706",
-        "hash": "6300a0223c34a4e51e33bf11c50853f8",
+        "added_at": "2025-07-17T00:04:23.273719",
+        "hash": "540d5b2b8d8cd89ba814030c14af2d9b",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_011",
-      "category": "neon",
-      "title": "Neon Wallpaper 011",
+      "id": "nature_170",
+      "category": "nature",
+      "title": "Nature Wallpaper 170",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/011.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/011.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/170.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/170.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 273969,
+        "file_size": 444985,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:31.931137",
-        "hash": "55d811b524a01c76e7aa2a0c48886a47",
+        "added_at": "2025-07-17T00:04:23.340249",
+        "hash": "ae5c8e181223d976ea08a4c0944f1695",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_012",
-      "category": "neon",
-      "title": "Neon Wallpaper 012",
+      "id": "nature_171",
+      "category": "nature",
+      "title": "Nature Wallpaper 171",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/012.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/012.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/171.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/171.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 212372,
+        "file_size": 475905,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:31.983710",
-        "hash": "6c1a30ce4a195aa902e54a6acf664f1c",
+        "added_at": "2025-07-17T00:04:23.406657",
+        "hash": "65fb88598cb57700c8521adf69167cc8",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_013",
-      "category": "neon",
-      "title": "Neon Wallpaper 013",
+      "id": "nature_172",
+      "category": "nature",
+      "title": "Nature Wallpaper 172",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/013.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/013.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/172.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/172.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 321905,
+        "file_size": 641420,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:32.045120",
-        "hash": "f776e8180ead3fbf408b4d54994da6b7",
+        "added_at": "2025-07-17T00:04:23.481255",
+        "hash": "8ff6caca49aa37b8b14579529d8031a2",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_014",
-      "category": "neon",
-      "title": "Neon Wallpaper 014",
+      "id": "nature_173",
+      "category": "nature",
+      "title": "Nature Wallpaper 173",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/014.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/014.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/173.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/173.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 532687,
+        "file_size": 328652,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:32.115727",
-        "hash": "0e4156814971335fd0f3fd42479fbdc1",
+        "added_at": "2025-07-17T00:04:23.539715",
+        "hash": "6979118ce237216c794103c319f53074",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_015",
-      "category": "neon",
-      "title": "Neon Wallpaper 015",
+      "id": "nature_174",
+      "category": "nature",
+      "title": "Nature Wallpaper 174",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/015.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/015.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/174.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/174.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 495139,
+        "file_size": 702658,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:32.183795",
-        "hash": "d3ebabfa9f9dc7f3b327f7dce06d7251",
+        "added_at": "2025-07-17T00:04:23.616127",
+        "hash": "7889808369420d593b7427b171b6265a",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_016",
-      "category": "neon",
-      "title": "Neon Wallpaper 016",
+      "id": "nature_175",
+      "category": "nature",
+      "title": "Nature Wallpaper 175",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/016.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/016.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/175.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/175.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 391521,
+        "file_size": 319316,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:32.247228",
-        "hash": "8fabc732843eb3c9aa8a892dde4b3480",
+        "added_at": "2025-07-17T00:04:23.674505",
+        "hash": "3550dd0825586162f90d8f744ff64cf9",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_017",
-      "category": "neon",
-      "title": "Neon Wallpaper 017",
+      "id": "nature_176",
+      "category": "nature",
+      "title": "Nature Wallpaper 176",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/017.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/017.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/176.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/176.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 249441,
+        "file_size": 549129,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:32.302874",
-        "hash": "df7ef81667ce6aa180ff934c954734ed",
+        "added_at": "2025-07-17T00:04:23.745017",
+        "hash": "9eb17e1c0dddc8eda2560da0b84fe584",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_018",
-      "category": "neon",
-      "title": "Neon Wallpaper 018",
+      "id": "nature_177",
+      "category": "nature",
+      "title": "Nature Wallpaper 177",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/018.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/018.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/177.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/177.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 144143,
+        "file_size": 566629,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:32.352290",
-        "hash": "870cdc9e42d5634eaba12b90845c043b",
+        "added_at": "2025-07-17T00:04:23.817320",
+        "hash": "ceac88c66e7ff1da5d1a1acfe9b55a32",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_019",
-      "category": "neon",
-      "title": "Neon Wallpaper 019",
+      "id": "nature_178",
+      "category": "nature",
+      "title": "Nature Wallpaper 178",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/019.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/019.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/178.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/178.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 157921,
+        "file_size": 363569,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:32.401730",
-        "hash": "ba22dfa4b9d251e6cd113a87d9bd0ce5",
+        "added_at": "2025-07-17T00:04:23.878440",
+        "hash": "61d8c22bf04f667b6a5c12c2b3b20884",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_020",
-      "category": "neon",
-      "title": "Neon Wallpaper 020",
+      "id": "nature_179",
+      "category": "nature",
+      "title": "Nature Wallpaper 179",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/020.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/020.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/179.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/179.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 259768,
+        "file_size": 448271,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:32.458080",
-        "hash": "9cdd1c3399fe970fa6122434cb545bf6",
+        "added_at": "2025-07-17T00:04:23.942789",
+        "hash": "0ef9874612cc9c9e7a5e8188e56db240",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_021",
-      "category": "neon",
-      "title": "Neon Wallpaper 021",
+      "id": "nature_180",
+      "category": "nature",
+      "title": "Nature Wallpaper 180",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/021.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/021.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/180.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/180.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 533964,
+        "file_size": 673469,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:32.528023",
-        "hash": "0e122a6e88aa0507533637bae30f7f14",
+        "added_at": "2025-07-17T00:04:24.023599",
+        "hash": "02743bfb83ecaafe890e75ce4b7b0ef4",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_022",
-      "category": "neon",
-      "title": "Neon Wallpaper 022",
+      "id": "nature_181",
+      "category": "nature",
+      "title": "Nature Wallpaper 181",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/022.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/022.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/181.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/181.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 427255,
+        "file_size": 798535,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:32.591534",
-        "hash": "2eac1e22a18c706a883a0be487464ba4",
+        "added_at": "2025-07-17T00:04:24.106298",
+        "hash": "dd96f6055760d4fab19ebb4788be58ea",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_023",
-      "category": "neon",
-      "title": "Neon Wallpaper 023",
+      "id": "nature_182",
+      "category": "nature",
+      "title": "Nature Wallpaper 182",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/023.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/023.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/182.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/182.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 435360,
+        "file_size": 385750,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:32.658683",
-        "hash": "e73dfa1bcde5af136a6e1478b38e01e7",
+        "added_at": "2025-07-17T00:04:24.170136",
+        "hash": "a91a0cd4720617d965517b7a92b119b5",
         "source": "migrated"
       }
     },
     {
-      "id": "neon_024",
-      "category": "neon",
-      "title": "Neon Wallpaper 024",
+      "id": "nature_183",
+      "category": "nature",
+      "title": "Nature Wallpaper 183",
       "tags": [
-        "neon",
+        "nature",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/neon/024.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/neon/024.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/183.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/183.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 161803,
+        "file_size": 461267,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:32.708367",
-        "hash": "bb84aea24b21167b161350aafa77792a",
+        "added_at": "2025-07-17T00:04:24.234685",
+        "hash": "b0026dc94345a560bd77f26b3e6e078c",
         "source": "migrated"
       }
     }
