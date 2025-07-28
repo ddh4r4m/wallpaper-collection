@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-28T23:12:02.393375",
+    "category": "anime",
+    "page": 10,
+    "per_page": 15,
+    "total_pages": 10,
+    "total_count": 139,
+    "count_on_page": 4,
+    "has_next": false,
+    "has_prev": true,
+    "next_page_url": null,
+    "prev_page_url": "/api/v1/anime/pages/9.json"
+  },
+  "data": [
+    {
+      "id": "anime_136",
+      "category": "anime",
+      "title": "Anime Wallpaper 136",
+      "tags": [
+        "anime"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/136.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/136.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T23:02:23.799133",
+        "file_size": 199821,
+        "dimensions": {
+          "width": 998,
+          "height": 1774
+        }
+      }
+    },
+    {
+      "id": "anime_137",
+      "category": "anime",
+      "title": "Anime Wallpaper 137",
+      "tags": [
+        "anime"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/137.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/137.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T23:02:25.404732",
+        "file_size": 62075,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "anime_138",
+      "category": "anime",
+      "title": "Anime Wallpaper 138",
+      "tags": [
+        "anime"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/138.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/138.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T23:02:26.991907",
+        "file_size": 335630,
+        "dimensions": {
+          "width": 1080,
+          "height": 1927
+        }
+      }
+    },
+    {
+      "id": "anime_139",
+      "category": "anime",
+      "title": "Anime Wallpaper 139",
+      "tags": [
+        "anime"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/139.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/139.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T23:02:28.576071",
+        "file_size": 299307,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    }
+  ]
+}

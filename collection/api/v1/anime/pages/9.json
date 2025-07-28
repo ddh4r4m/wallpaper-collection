@@ -1,16 +1,16 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-28T22:48:38.208699",
+    "generated_at": "2025-07-28T23:12:02.393375",
     "category": "anime",
     "page": 9,
     "per_page": 15,
-    "total_pages": 9,
-    "total_count": 133,
-    "count_on_page": 13,
-    "has_next": false,
+    "total_pages": 10,
+    "total_count": 139,
+    "count_on_page": 15,
+    "has_next": true,
     "has_prev": true,
-    "next_page_url": null,
+    "next_page_url": "/api/v1/anime/pages/10.json",
     "prev_page_url": "/api/v1/anime/pages/8.json"
   },
   "data": [
@@ -389,6 +389,46 @@
       "urls": {
         "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/133.jpg",
         "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/133.jpg"
+      }
+    },
+    {
+      "id": "anime_134",
+      "category": "anime",
+      "title": "Anime Wallpaper 134",
+      "tags": [
+        "anime"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/134.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/134.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T23:02:19.924007",
+        "file_size": 307811,
+        "dimensions": {
+          "width": 1200,
+          "height": 2133
+        }
+      }
+    },
+    {
+      "id": "anime_135",
+      "category": "anime",
+      "title": "Anime Wallpaper 135",
+      "tags": [
+        "anime"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/135.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/135.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T23:02:21.938117",
+        "file_size": 492724,
+        "dimensions": {
+          "width": 1349,
+          "height": 2494
+        }
       }
     }
   ]

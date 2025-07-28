@@ -1,0 +1,138 @@
+{
+  "scrape_params": {
+    "url": "https://www.pinterest.com/pin/34128909672384904",
+    "category": "anime",
+    "quantity": 100
+  },
+  "scraping_stats": {
+    "duration_seconds": 132.02,
+    "pins_found": 100,
+    "high_res_pins": 48,
+    "downloaded_count": 48,
+    "duplicates_skipped": 0,
+    "low_res_skipped": 47,
+    "api_generated": true,
+    "pagination_generated": true,
+    "success_rate": 48.0
+  },
+  "downloaded_images": 48,
+  "sample_images": [
+    {
+      "id": "anime_109",
+      "category": "anime",
+      "title": "Anime Wallpaper 109",
+      "tags": [
+        "anime"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/109.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/109.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T17:31:36.319930",
+        "file_size": 572619,
+        "dimensions": {
+          "width": 1076,
+          "height": 1913
+        },
+        "source": "pinterest",
+        "source_url": "https://www.pinterest.com/pin/80501912085498572/"
+      }
+    },
+    {
+      "id": "anime_110",
+      "category": "anime",
+      "title": "Anime Wallpaper 110",
+      "tags": [
+        "anime"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/110.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/110.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T17:31:38.298884",
+        "file_size": 274926,
+        "dimensions": {
+          "width": 1063,
+          "height": 1890
+        },
+        "source": "pinterest",
+        "source_url": "https://www.pinterest.com/pin/91409067436760962/"
+      }
+    },
+    {
+      "id": "anime_111",
+      "category": "anime",
+      "title": "Anime Wallpaper 111",
+      "tags": [
+        "anime"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/111.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/111.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T17:31:40.143204",
+        "file_size": 617161,
+        "dimensions": {
+          "width": 2048,
+          "height": 4096
+        },
+        "source": "pinterest",
+        "source_url": "https://www.pinterest.com/pin/48765608461000451/"
+      }
+    },
+    {
+      "id": "anime_112",
+      "category": "anime",
+      "title": "Anime Wallpaper 112",
+      "tags": [
+        "anime"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/112.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/112.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T17:31:41.744295",
+        "file_size": 525534,
+        "dimensions": {
+          "width": 1430,
+          "height": 2542
+        },
+        "source": "pinterest",
+        "source_url": "https://www.pinterest.com/pin/pingl-par-sur--129900770499189774/"
+      }
+    },
+    {
+      "id": "anime_113",
+      "category": "anime",
+      "title": "Anime Wallpaper 113",
+      "tags": [
+        "anime"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/113.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/113.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T17:31:43.789765",
+        "file_size": 711052,
+        "dimensions": {
+          "width": 1440,
+          "height": 2399
+        },
+        "source": "pinterest",
+        "source_url": "https://www.pinterest.com/pin/32158584834413932/"
+      }
+    }
+  ],
+  "api_endpoints": {
+    "category_api": "/collection/api/v1/anime.json",
+    "pagination_base": "/collection/api/v1/anime/pages/",
+    "wallpapers_base": "/collection/wallpapers/anime/",
+    "thumbnails_base": "/collection/thumbnails/anime/"
+  },
+  "timestamp": "2025-07-28T17:33:02.103328Z"
+}

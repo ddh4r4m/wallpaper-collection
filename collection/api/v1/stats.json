@@ -1,81 +1,41 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-28T22:48:38.208699"
+    "generated_at": "2025-07-28T23:12:02.393375"
   },
   "data": {
-    "total_wallpapers": 2737,
+    "total_wallpapers": 2743,
     "total_categories": 22,
     "categories": {
+      "sports": {
+        "name": "Sports",
+        "count": 115,
+        "description": "Athletic photography, sports action, and fitness themes"
+      },
       "ai": {
         "name": "Ai",
         "count": 83,
         "description": "AI-generated wallpapers from Stable Diffusion, Midjourney, and other AI models"
       },
-      "architecture": {
-        "name": "Architecture",
-        "count": 275,
-        "description": "Buildings, bridges, modern structures, and urban photography"
-      },
-      "gradient": {
-        "name": "Gradient",
-        "count": 145,
-        "description": "Color transitions, smooth blends, and abstract flows"
-      },
-      "pastel": {
-        "name": "Pastel",
-        "count": 69,
-        "description": "Soft colors, gentle aesthetics, and dream-like themes"
-      },
-      "dark": {
-        "name": "Dark",
-        "count": 90,
-        "description": "Dark themes, gothic aesthetics, and mysterious atmospheres"
-      },
-      "4k": {
-        "name": "4K",
-        "count": 200,
-        "description": "Ultra high-definition wallpapers optimized for 4K displays"
-      },
-      "neon": {
-        "name": "Neon",
-        "count": 88,
-        "description": "Neon lighting, synthwave aesthetics, and electric themes"
-      },
-      "cyberpunk": {
-        "name": "Cyberpunk",
-        "count": 88,
-        "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
-      },
-      "cars": {
-        "name": "Cars",
+      "animals": {
+        "name": "Animals",
         "count": 84,
-        "description": "Automotive photography, sports cars, and vehicle designs"
-      },
-      "gaming": {
-        "name": "Gaming",
-        "count": 84,
-        "description": "Video game characters, scenes, and gaming-inspired artwork"
-      },
-      "space": {
-        "name": "Space",
-        "count": 125,
-        "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
-      },
-      "seasonal": {
-        "name": "Seasonal",
-        "count": 90,
-        "description": "Holiday themes, seasonal changes, and weather phenomena"
+        "description": "Wildlife photography, pets, and animal portraits"
       },
       "nature": {
         "name": "Nature",
         "count": 310,
         "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
       },
-      "technology": {
-        "name": "Technology",
-        "count": 83,
-        "description": "Gadgets, circuits, futuristic tech, and digital interfaces"
+      "architecture": {
+        "name": "Architecture",
+        "count": 275,
+        "description": "Buildings, bridges, modern structures, and urban photography"
+      },
+      "neon": {
+        "name": "Neon",
+        "count": 88,
+        "description": "Neon lighting, synthwave aesthetics, and electric themes"
       },
       "vintage": {
         "name": "Vintage",
@@ -87,38 +47,198 @@
         "count": 257,
         "description": "Abstract patterns, geometric designs, and artistic visualizations"
       },
-      "animals": {
-        "name": "Animals",
+      "cars": {
+        "name": "Cars",
         "count": 84,
-        "description": "Wildlife photography, pets, and animal portraits"
+        "description": "Automotive photography, sports cars, and vehicle designs"
       },
-      "minimal": {
-        "name": "Minimal",
-        "count": 64,
-        "description": "Clean, simple designs with minimalist aesthetics"
+      "pastel": {
+        "name": "Pastel",
+        "count": 69,
+        "description": "Soft colors, gentle aesthetics, and dream-like themes"
+      },
+      "4k": {
+        "name": "4K",
+        "count": 200,
+        "description": "Ultra high-definition wallpapers optimized for 4K displays"
+      },
+      "technology": {
+        "name": "Technology",
+        "count": 83,
+        "description": "Gadgets, circuits, futuristic tech, and digital interfaces"
+      },
+      "anime": {
+        "name": "Anime",
+        "count": 139,
+        "description": "Anime characters, manga art, and Japanese animation styles"
+      },
+      "cyberpunk": {
+        "name": "Cyberpunk",
+        "count": 88,
+        "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
+      },
+      "gaming": {
+        "name": "Gaming",
+        "count": 84,
+        "description": "Video game characters, scenes, and gaming-inspired artwork"
+      },
+      "gradient": {
+        "name": "Gradient",
+        "count": 145,
+        "description": "Color transitions, smooth blends, and abstract flows"
+      },
+      "art": {
+        "name": "Art",
+        "count": 90,
+        "description": "Digital art, paintings, illustrations, and creative designs"
+      },
+      "dark": {
+        "name": "Dark",
+        "count": 90,
+        "description": "Dark themes, gothic aesthetics, and mysterious atmospheres"
       },
       "patterns": {
         "name": "Patterns",
         "count": 81,
         "description": "Geometric patterns, repeating designs, textures, and decorative motifs"
       },
-      "anime": {
-        "name": "Anime",
-        "count": 133,
-        "description": "Anime characters, manga art, and Japanese animation styles"
+      "minimal": {
+        "name": "Minimal",
+        "count": 64,
+        "description": "Clean, simple designs with minimalist aesthetics"
       },
-      "sports": {
-        "name": "Sports",
-        "count": 115,
-        "description": "Athletic photography, sports action, and fitness themes"
-      },
-      "art": {
-        "name": "Art",
+      "seasonal": {
+        "name": "Seasonal",
         "count": 90,
-        "description": "Digital art, paintings, illustrations, and creative designs"
+        "description": "Holiday themes, seasonal changes, and weather phenomena"
+      },
+      "space": {
+        "name": "Space",
+        "count": 125,
+        "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
       }
     },
     "recent_additions": [
+      {
+        "id": "anime_139",
+        "category": "anime",
+        "title": "Anime Wallpaper 139",
+        "tags": [
+          "anime"
+        ],
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/139.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/139.jpg"
+        },
+        "metadata": {
+          "added_at": "2025-07-28T23:02:28.576071",
+          "file_size": 299307,
+          "dimensions": {
+            "width": 1080,
+            "height": 1920
+          }
+        }
+      },
+      {
+        "id": "anime_138",
+        "category": "anime",
+        "title": "Anime Wallpaper 138",
+        "tags": [
+          "anime"
+        ],
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/138.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/138.jpg"
+        },
+        "metadata": {
+          "added_at": "2025-07-28T23:02:26.991907",
+          "file_size": 335630,
+          "dimensions": {
+            "width": 1080,
+            "height": 1927
+          }
+        }
+      },
+      {
+        "id": "anime_137",
+        "category": "anime",
+        "title": "Anime Wallpaper 137",
+        "tags": [
+          "anime"
+        ],
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/137.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/137.jpg"
+        },
+        "metadata": {
+          "added_at": "2025-07-28T23:02:25.404732",
+          "file_size": 62075,
+          "dimensions": {
+            "width": 1080,
+            "height": 1920
+          }
+        }
+      },
+      {
+        "id": "anime_136",
+        "category": "anime",
+        "title": "Anime Wallpaper 136",
+        "tags": [
+          "anime"
+        ],
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/136.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/136.jpg"
+        },
+        "metadata": {
+          "added_at": "2025-07-28T23:02:23.799133",
+          "file_size": 199821,
+          "dimensions": {
+            "width": 998,
+            "height": 1774
+          }
+        }
+      },
+      {
+        "id": "anime_135",
+        "category": "anime",
+        "title": "Anime Wallpaper 135",
+        "tags": [
+          "anime"
+        ],
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/135.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/135.jpg"
+        },
+        "metadata": {
+          "added_at": "2025-07-28T23:02:21.938117",
+          "file_size": 492724,
+          "dimensions": {
+            "width": 1349,
+            "height": 2494
+          }
+        }
+      },
+      {
+        "id": "anime_134",
+        "category": "anime",
+        "title": "Anime Wallpaper 134",
+        "tags": [
+          "anime"
+        ],
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/anime/134.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/anime/134.jpg"
+        },
+        "metadata": {
+          "added_at": "2025-07-28T23:02:19.924007",
+          "file_size": 307811,
+          "dimensions": {
+            "width": 1200,
+            "height": 2133
+          }
+        }
+      },
       {
         "id": "patterns_081",
         "category": "patterns",
@@ -198,126 +318,6 @@
             "height": 1920
           }
         }
-      },
-      {
-        "id": "patterns_077",
-        "category": "patterns",
-        "title": "Patterns Wallpaper 077",
-        "tags": [
-          "patterns"
-        ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/077.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/077.jpg"
-        },
-        "metadata": {
-          "added_at": "2025-07-28T22:37:53.657747",
-          "file_size": 304659,
-          "dimensions": {
-            "width": 1080,
-            "height": 1920
-          }
-        }
-      },
-      {
-        "id": "patterns_076",
-        "category": "patterns",
-        "title": "Patterns Wallpaper 076",
-        "tags": [
-          "patterns"
-        ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/076.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/076.jpg"
-        },
-        "metadata": {
-          "added_at": "2025-07-28T22:37:50.097375",
-          "file_size": 388127,
-          "dimensions": {
-            "width": 822,
-            "height": 1462
-          }
-        }
-      },
-      {
-        "id": "patterns_075",
-        "category": "patterns",
-        "title": "Patterns Wallpaper 075",
-        "tags": [
-          "patterns"
-        ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/075.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/075.jpg"
-        },
-        "metadata": {
-          "added_at": "2025-07-28T22:37:48.476826",
-          "file_size": 329960,
-          "dimensions": {
-            "width": 1080,
-            "height": 1920
-          }
-        }
-      },
-      {
-        "id": "patterns_074",
-        "category": "patterns",
-        "title": "Patterns Wallpaper 074",
-        "tags": [
-          "patterns"
-        ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/074.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/074.jpg"
-        },
-        "metadata": {
-          "added_at": "2025-07-28T22:37:46.656557",
-          "file_size": 134759,
-          "dimensions": {
-            "width": 800,
-            "height": 1200
-          }
-        }
-      },
-      {
-        "id": "patterns_073",
-        "category": "patterns",
-        "title": "Patterns Wallpaper 073",
-        "tags": [
-          "patterns"
-        ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/073.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/073.jpg"
-        },
-        "metadata": {
-          "added_at": "2025-07-28T22:37:44.223001",
-          "file_size": 374870,
-          "dimensions": {
-            "width": 896,
-            "height": 1344
-          }
-        }
-      },
-      {
-        "id": "patterns_072",
-        "category": "patterns",
-        "title": "Patterns Wallpaper 072",
-        "tags": [
-          "patterns"
-        ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/072.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/072.jpg"
-        },
-        "metadata": {
-          "added_at": "2025-07-28T22:37:42.148246",
-          "file_size": 199852,
-          "dimensions": {
-            "width": 816,
-            "height": 1440
-          }
-        }
       }
     ],
     "popular_tags": [
@@ -367,7 +367,7 @@
       ],
       [
         "anime",
-        133
+        139
       ],
       [
         "space",
@@ -403,13 +403,13 @@
       ]
     ],
     "file_stats": {
-      "total_size_mb": 1118.0,
-      "average_file_size_kb": 418.28,
+      "total_size_mb": 1119.62,
+      "average_file_size_kb": 417.97,
       "average_dimensions": {
         "width": 1145,
         "height": 1762
       },
-      "total_files": 2737
+      "total_files": 2743
     }
   }
 }

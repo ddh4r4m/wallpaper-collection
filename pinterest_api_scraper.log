@@ -710,3 +710,237 @@
 2025-07-28 22:38:03,896 - INFO - ✅ API generation completed successfully
 2025-07-28 22:38:03,898 - INFO - Summary saved: /Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/pinterest_scrape_summary_patterns.json
 2025-07-28 22:38:03,898 - INFO - 🎉 Pipeline completed successfully!
+2025-07-28 23:00:47,950 - INFO - ====== WebDriver manager ======
+2025-07-28 23:00:48,540 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-28 23:00:48,597 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-28 23:00:48,645 - INFO - Driver [/Users/dharamdhurandhar/.wdm/drivers/chromedriver/mac64/138.0.7204.168/chromedriver-mac-arm64/chromedriver] found in cache
+2025-07-28 23:00:50,079 - INFO - Browser setup complete
+2025-07-28 23:00:50,079 - INFO - 🚀 Starting Pinterest API Scraper Pipeline
+2025-07-28 23:00:58,797 - INFO - 📌 URL: https://www.pinterest.com/pin/34128909672384904
+2025-07-28 23:00:58,798 - INFO - 📂 Category: anime
+2025-07-28 23:00:58,798 - INFO - 🔢 Quantity: 100
+2025-07-28 23:00:58,799 - INFO - 
+🔍 Phase 1: Scraping Pinterest...
+2025-07-28 23:00:58,799 - INFO - Starting Pinterest scrape from: https://www.pinterest.com/pin/34128909672384904
+2025-07-28 23:01:04,911 - INFO - Scroll 1/15 - Pins found: 0
+2025-07-28 23:01:05,056 - INFO - Found 7 new pins this scroll
+2025-07-28 23:01:10,078 - INFO - Scroll 2/15 - Pins found: 7
+2025-07-28 23:01:10,891 - INFO - Found 25 new pins this scroll
+2025-07-28 23:01:16,034 - INFO - Scroll 3/15 - Pins found: 32
+2025-07-28 23:01:16,875 - INFO - Found 32 new pins this scroll
+2025-07-28 23:01:21,891 - INFO - Scroll 4/15 - Pins found: 64
+2025-07-28 23:01:22,317 - INFO - Found 27 new pins this scroll
+2025-07-28 23:01:27,403 - INFO - Scroll 5/15 - Pins found: 91
+2025-07-28 23:01:27,869 - INFO - Found 29 new pins this scroll
+2025-07-28 23:01:32,893 - INFO - Pinterest scraping complete! Found 100 pins
+2025-07-28 23:01:32,893 - INFO - 
+⬇️  Phase 2: Downloading 100 images...
+2025-07-28 23:01:32,893 - INFO - Starting download of 100 images for category: anime
+2025-07-28 23:01:32,896 - INFO - Downloading image 1/100: an anime character with long hair and green eyes looking up into the sky in front of trees
+2025-07-28 23:01:36,187 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 23:01:36,187 - INFO - Downloading image 1/100: a woman with red eyes is floating in the water next to a black bird and snow covered ground
+2025-07-28 23:01:36,215 - INFO - Image too low resolution (720x1285), skipping
+2025-07-28 23:01:36,215 - INFO - Downloading image 1/100: an anime character sitting in the middle of a forest reading a book with green lights
+2025-07-28 23:01:36,319 - INFO - ✅ Downloaded: 109.jpg (1076x1913)
+2025-07-28 23:01:37,822 - INFO - Downloading image 2/100: a person standing in the middle of some trees
+2025-07-28 23:01:37,890 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 23:01:37,890 - INFO - Downloading image 2/100: a man sitting on top of a tree branch
+2025-07-28 23:01:38,182 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/cb/35/da/cb35da305f337719f2d9e2f7961ee294.jpg
+2025-07-28 23:01:38,182 - INFO - Downloading image 2/100: a woman standing in front of a red sun surrounded by birds
+2025-07-28 23:01:38,298 - INFO - ✅ Downloaded: 110.jpg (1063x1890)
+2025-07-28 23:01:39,804 - INFO - Downloading image 3/100: a man with white hair and glasses standing in front of some butterflies on the ground
+2025-07-28 23:01:39,863 - INFO - Image too low resolution (736x1314), skipping
+2025-07-28 23:01:39,863 - INFO - Downloading image 3/100: an anime character with black hair and red eyes
+2025-07-28 23:01:39,917 - INFO - Image too low resolution (736x1307), skipping
+2025-07-28 23:01:39,917 - INFO - Downloading image 3/100: an anime character standing in front of some green trees with the sun shining behind him
+2025-07-28 23:01:39,978 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 23:01:39,979 - INFO - Downloading image 3/100: a man in a black jacket with an orange spiral on his head and the words obito above him
+2025-07-28 23:01:40,021 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 23:01:40,021 - INFO - Downloading image 3/100: Pinterest Image 3
+2025-07-28 23:01:40,143 - INFO - ✅ Downloaded: 111.jpg (2048x4096)
+2025-07-28 23:01:41,644 - INFO - Downloading image 4/100: a woman with headphones is looking up into the sky through some trees and leaves
+2025-07-28 23:01:41,744 - INFO - ✅ Downloaded: 112.jpg (1430x2542)
+2025-07-28 23:01:43,249 - INFO - Downloading image 5/100: a man laying in the grass with headphones on his ears looking up at the sky
+2025-07-28 23:01:43,276 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 23:01:43,276 - INFO - Downloading image 5/100: the silhouette of a person standing on top of a hill with red hair and an orange tail
+2025-07-28 23:01:43,580 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/ea/2b/9a/ea2b9afb9341774d63ea697bbcb77faf.jpg
+2025-07-28 23:01:43,580 - INFO - Downloading image 5/100: a woman walking down a red carpeted floor with an umbrella on it's head
+2025-07-28 23:01:43,639 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 23:01:43,639 - INFO - Downloading image 5/100: Pinterest Image 8
+2025-07-28 23:01:43,682 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 23:01:43,682 - INFO - Downloading image 5/100: a man standing next to a motorcycle under a palm tree in the rain with clouds
+2025-07-28 23:01:43,789 - INFO - ✅ Downloaded: 113.jpg (1440x2399)
+2025-07-28 23:01:45,295 - INFO - Downloading image 6/100: a man with a hat on standing in front of an orange and yellow sky, holding a pirate ship
+2025-07-28 23:01:45,317 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 23:01:45,317 - INFO - Downloading image 6/100: a man sitting on top of a rock next to a field under a cloudy sky
+2025-07-28 23:01:45,408 - INFO - ✅ Downloaded: 114.jpg (1440x2569)
+2025-07-28 23:01:46,912 - INFO - Downloading image 7/100: a man sitting on top of a tree branch
+2025-07-28 23:01:47,384 - INFO - ✅ Downloaded: 115.jpg (1565x2048)
+2025-07-28 23:01:48,890 - INFO - Downloading image 8/100: a man sitting next to a motorcycle on top of a lush green field under a blue cloudy sky
+2025-07-28 23:01:48,998 - INFO - ✅ Downloaded: 116.jpg (1440x2399)
+2025-07-28 23:01:50,503 - INFO - Downloading image 9/100: an image of a man wearing a straw hat with his hands on his face and the sun shining behind him
+2025-07-28 23:01:50,585 - INFO - ✅ Downloaded: 117.jpg (1170x2087)
+2025-07-28 23:01:52,091 - INFO - Downloading image 10/100: an anime character with red eyes surrounded by black birds and barbed wire in the foreground
+2025-07-28 23:01:52,117 - INFO - Image too low resolution (474x842), skipping
+2025-07-28 23:01:52,118 - INFO - Downloading image 10/100: an anime character standing in front of a red sun
+2025-07-28 23:01:52,193 - INFO - ✅ Downloaded: 118.jpg (1063x1890)
+2025-07-28 23:01:53,699 - INFO - Downloading image 11/100: an anime character standing in front of a full moon
+2025-07-28 23:01:53,756 - INFO - ✅ Downloaded: 119.jpg (1080x1920)
+2025-07-28 23:01:55,261 - INFO - Downloading image 12/100: a person sitting in the grass with flowers
+2025-07-28 23:01:55,673 - INFO - ✅ Downloaded: 120.jpg (1080x1920)
+2025-07-28 23:01:57,176 - INFO - Downloading image 13/100: an anime character standing in the grass with his hands on his hips and looking off into the distance
+2025-07-28 23:01:57,629 - INFO - ✅ Downloaded: 121.jpg (1080x1920)
+2025-07-28 23:01:59,134 - INFO - Downloading image 14/100: a woman sitting at a table with flowers in vases
+2025-07-28 23:01:59,169 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 23:01:59,169 - INFO - Downloading image 14/100: a person laying on the ground with their head down and eyes closed, surrounded by flowers
+2025-07-28 23:01:59,261 - INFO - ✅ Downloaded: 122.jpg (1080x1833)
+2025-07-28 23:02:00,767 - INFO - Downloading image 15/100: a man sitting on top of a throne surrounded by birds
+2025-07-28 23:02:00,809 - INFO - Image too low resolution (736x1349), skipping
+2025-07-28 23:02:00,809 - INFO - Downloading image 15/100: Pinterest Image 23
+2025-07-28 23:02:00,837 - INFO - Image too low resolution (736x1326), skipping
+2025-07-28 23:02:00,837 - INFO - Downloading image 15/100: Pinterest Image 24
+2025-07-28 23:02:00,909 - INFO - ✅ Downloaded: 123.jpg (1080x1439)
+2025-07-28 23:02:02,411 - INFO - Downloading image 16/100: a woman sitting on top of a roof with her hair in the air and looking up into the sky
+2025-07-28 23:02:02,491 - INFO - ✅ Downloaded: 124.jpg (1200x2133)
+2025-07-28 23:02:03,996 - INFO - Downloading image 17/100: a man sitting on top of a rock next to a forest filled with lush green trees
+2025-07-28 23:02:04,499 - INFO - ✅ Downloaded: 125.jpg (1152x2048)
+2025-07-28 23:02:06,004 - INFO - Downloading image 18/100: Pinterest Image 2
+2025-07-28 23:02:06,024 - INFO - Image too low resolution (768x1365), skipping
+2025-07-28 23:02:06,024 - INFO - Downloading image 18/100: Pinterest Image 3
+2025-07-28 23:02:06,167 - INFO - ✅ Downloaded: 126.jpg (1080x1920)
+2025-07-28 23:02:07,670 - INFO - Downloading image 19/100: an anime character standing in front of some trees
+2025-07-28 23:02:07,779 - INFO - ✅ Downloaded: 127.jpg (1340x2390)
+2025-07-28 23:02:09,283 - INFO - Downloading image 20/100: a man in a black jacket with an orange spiral on his head and the words ottto written above him
+2025-07-28 23:02:09,381 - INFO - ✅ Downloaded: 128.jpg (1440x2569)
+2025-07-28 23:02:10,886 - INFO - Downloading image 21/100: Lillian Edwards
+2025-07-28 23:02:10,909 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 23:02:10,909 - INFO - Downloading image 21/100: Pinterest Image 7
+2025-07-28 23:02:10,946 - INFO - Image too low resolution (736x1313), skipping
+2025-07-28 23:02:10,946 - INFO - Downloading image 21/100: an anime character floating in the water with her head above the water's surface
+2025-07-28 23:02:11,340 - INFO - ✅ Downloaded: 129.jpg (1080x1920)
+2025-07-28 23:02:12,845 - INFO - Downloading image 22/100: two people sitting on the floor in front of an open window looking out at trees
+2025-07-28 23:02:12,936 - INFO - ✅ Downloaded: 130.jpg (1012x1799)
+2025-07-28 23:02:14,441 - INFO - Downloading image 23/100: Pinterest Image 10
+2025-07-28 23:02:14,460 - INFO - Image too low resolution (564x1002), skipping
+2025-07-28 23:02:14,460 - INFO - Downloading image 23/100: a man kneeling down in the water holding a stick and looking at something behind him
+2025-07-28 23:02:14,545 - INFO - ✅ Downloaded: 131.jpg (1170x2282)
+2025-07-28 23:02:16,050 - INFO - Downloading image 24/100: a cat is looking at the camera with a lion in the back ground behind it
+2025-07-28 23:02:16,126 - INFO - ✅ Downloaded: 132.jpg (1080x1920)
+2025-07-28 23:02:17,631 - INFO - Downloading image 25/100: #AnimeArt #AnimeWallpaper #AnimeAesthetic #AnimeLovers #AnimeCommunity #AnimeFanArt #AnimeInspiration #AnimeStyle #AnimeAddict #AnimeIllustration
+2025-07-28 23:02:17,711 - INFO - ✅ Downloaded: 133.jpg (1080x1920)
+2025-07-28 23:02:19,216 - INFO - Downloading image 26/100: a woman laying in the grass with her eyes closed
+2025-07-28 23:02:19,973 - INFO - ✅ Downloaded: 134.jpg (1200x2133)
+2025-07-28 23:02:21,478 - INFO - Downloading image 27/100: a man laying in bed next to a laptop computer and cell phone on top of it
+2025-07-28 23:02:21,502 - INFO - Image too low resolution (720x717), skipping
+2025-07-28 23:02:21,502 - INFO - Downloading image 27/100: Pinterest Image 16
+2025-07-28 23:02:21,818 - INFO - Image too low resolution (736x1104), skipping
+2025-07-28 23:02:21,818 - INFO - Downloading image 27/100: Pinterest Image 17
+2025-07-28 23:02:21,878 - INFO - Image too low resolution (736x1098), skipping
+2025-07-28 23:02:21,879 - INFO - Downloading image 27/100: Pinterest Image 18
+2025-07-28 23:02:21,978 - INFO - ✅ Downloaded: 135.jpg (1349x2494)
+2025-07-28 23:02:23,483 - INFO - Downloading image 28/100: No description. 
+2025-07-28 23:02:23,507 - INFO - Image too low resolution (563x976), skipping
+2025-07-28 23:02:23,507 - INFO - Downloading image 28/100: a man standing in front of a tree with leaves flying around him and looking up at the sky
+2025-07-28 23:02:23,769 - INFO - Image too low resolution (667x1208), skipping
+2025-07-28 23:02:23,769 - INFO - Downloading image 28/100: an anime character with long hair wearing a trench coat and looking to his left side
+2025-07-28 23:02:23,831 - INFO - ✅ Downloaded: 136.jpg (998x1774)
+2025-07-28 23:02:25,337 - INFO - Downloading image 29/100: an image of a man with chains on his neck and head wearing a shirt that says spike
+2025-07-28 23:02:25,370 - INFO - Image too low resolution (736x1312), skipping
+2025-07-28 23:02:25,371 - INFO - Downloading image 29/100: an image of a man with black hair and beards on his face in the dark
+2025-07-28 23:02:25,454 - INFO - ✅ Downloaded: 137.jpg (1080x1920)
+2025-07-28 23:02:26,956 - INFO - Downloading image 30/100: a close up of a person's face with snow falling on her head and eyes
+2025-07-28 23:02:27,031 - INFO - ✅ Downloaded: 138.jpg (1080x1927)
+2025-07-28 23:02:28,536 - INFO - Downloading image 31/100: a man in a straw hat sitting on top of a tree branch next to water
+2025-07-28 23:02:28,632 - INFO - ✅ Downloaded: 139.jpg (1080x1920)
+2025-07-28 23:02:30,136 - INFO - Downloading image 32/100: 【NEZUKO】 ⁀➷ Wallpaper ✪ 
+2025-07-28 23:02:30,170 - INFO - Image too low resolution (736x1334), skipping
+2025-07-28 23:02:30,171 - INFO - Downloading image 32/100: an anime character with long hair and black eyes
+2025-07-28 23:02:30,200 - INFO - Image too low resolution (736x1313), skipping
+2025-07-28 23:02:30,200 - INFO - Downloading image 32/100: Pinterest Image 28
+2025-07-28 23:02:30,499 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/f9/dd/85/f9dd8550ff57d6dc3f766c7ecd7be457.jpg
+2025-07-28 23:02:30,499 - INFO - Downloading image 32/100: a black and white photo of a street sign with the moon in the sky behind it
+2025-07-28 23:02:30,620 - INFO - ✅ Downloaded: 140.jpg (1080x1920)
+2025-07-28 23:02:32,125 - INFO - Downloading image 33/100: a skeleton is sitting on a swing in the sky with clouds and trees behind it
+2025-07-28 23:02:32,836 - INFO - ✅ Downloaded: 141.jpg (1080x1927)
+2025-07-28 23:02:34,338 - INFO - Downloading image 34/100: two people sitting on the ground in front of some trees and grass, looking at something
+2025-07-28 23:02:34,447 - INFO - ✅ Downloaded: 142.jpg (1440x2560)
+2025-07-28 23:02:35,952 - INFO - Downloading image 35/100: a man with a hat on standing in front of an orange sky and ocean at sunset
+2025-07-28 23:02:35,971 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 23:02:35,971 - INFO - Downloading image 35/100: a man sitting on top of a cliff next to a tree
+2025-07-28 23:02:36,001 - INFO - Image too low resolution (720x1285), skipping
+2025-07-28 23:02:36,001 - INFO - Downloading image 35/100: an anime character standing in front of a sky full of stars and birds with their arms crossed
+2025-07-28 23:02:36,030 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 23:02:36,030 - INFO - Downloading image 35/100: a person sitting in the grass with daisies
+2025-07-28 23:02:36,315 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/74/41/30/744130052a7e9ad9b75473aad9a48a00.jpg
+2025-07-28 23:02:36,316 - INFO - Downloading image 35/100: an image of the eyes of a woman with long hair and blood on her face
+2025-07-28 23:02:36,395 - INFO - Image too low resolution (720x1280), skipping
+2025-07-28 23:02:36,395 - INFO - Downloading image 35/100: an anime character standing in the middle of a city
+2025-07-28 23:02:36,467 - INFO - ✅ Downloaded: 143.jpg (1080x1440)
+2025-07-28 23:02:37,973 - INFO - Downloading image 36/100: a woman standing on top of a beach next to the ocean at sunset with her long hair blowing in the wind
+2025-07-28 23:02:38,248 - INFO - Image too low resolution (736x1313), skipping
+2025-07-28 23:02:38,249 - INFO - Downloading image 36/100: Pinterest Image 8
+2025-07-28 23:02:38,284 - INFO - Image too low resolution (736x1313), skipping
+2025-07-28 23:02:38,284 - INFO - Downloading image 36/100: an anime character walking in the dark with his arms spread out and blood dripping from his chest
+2025-07-28 23:02:38,367 - INFO - ✅ Downloaded: 144.jpg (1080x1909)
+2025-07-28 23:02:39,868 - INFO - Downloading image 37/100: a black and white photo of a cat with red eyes on it's face
+2025-07-28 23:02:39,897 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 23:02:39,897 - INFO - Downloading image 37/100: a woman with red hair and black eyes is peeking out from behind some plastic wrap
+2025-07-28 23:02:39,972 - INFO - ✅ Downloaded: 145.jpg (1080x1928)
+2025-07-28 23:02:41,477 - INFO - Downloading image 38/100: a person sitting on top of a log in a field
+2025-07-28 23:02:41,506 - INFO - Image too low resolution (736x1104), skipping
+2025-07-28 23:02:41,507 - INFO - Downloading image 38/100: Pinterest Image 13
+2025-07-28 23:02:41,536 - INFO - Image too low resolution (736x1276), skipping
+2025-07-28 23:02:41,537 - INFO - Downloading image 38/100: 666666
+2025-07-28 23:02:41,634 - INFO - ✅ Downloaded: 146.jpg (1080x1920)
+2025-07-28 23:02:43,140 - INFO - Downloading image 39/100: a woman is laying in the middle of red leaves
+2025-07-28 23:02:43,456 - INFO - Image too low resolution (736x1312), skipping
+2025-07-28 23:02:43,457 - INFO - Downloading image 39/100: Pinterest Image 16
+2025-07-28 23:02:43,489 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 23:02:43,489 - INFO - Downloading image 39/100: a man standing in front of a mirror next to a trash can on the ground
+2025-07-28 23:02:43,573 - INFO - ✅ Downloaded: 147.jpg (1200x2133)
+2025-07-28 23:02:45,076 - INFO - Downloading image 40/100: Pinterest Image 18
+2025-07-28 23:02:45,105 - INFO - Image too low resolution (564x1002), skipping
+2025-07-28 23:02:45,105 - INFO - Downloading image 40/100: a man in an orange jacket with his back to the camera, looking at something
+2025-07-28 23:02:45,129 - INFO - Image too low resolution (735x1300), skipping
+2025-07-28 23:02:45,129 - INFO - Downloading image 40/100: Pinterest Image 20
+2025-07-28 23:02:45,340 - INFO - ✅ Downloaded: 148.jpg (2752x5375)
+2025-07-28 23:02:46,847 - INFO - Downloading image 41/100: a person standing in the middle of a forest
+2025-07-28 23:02:46,954 - INFO - ✅ Downloaded: 149.jpg (1440x2556)
+2025-07-28 23:02:48,457 - INFO - Downloading image 42/100: a man standing in front of a giant monster
+2025-07-28 23:02:48,481 - INFO - Image too low resolution (720x1280), skipping
+2025-07-28 23:02:48,481 - INFO - Downloading image 42/100: two people are walking through the grass holding hands and looking at something in the distance
+2025-07-28 23:02:48,507 - INFO - Image too low resolution (683x1200), skipping
+2025-07-28 23:02:48,508 - INFO - Downloading image 42/100: sunlight shining through the trees and leaves in a forest with lots of gold coins on the ground
+2025-07-28 23:02:48,572 - INFO - ✅ Downloaded: 150.jpg (1000x1880)
+2025-07-28 23:02:50,073 - INFO - Downloading image 43/100: a close up of a person with blue eyes and an orange headband, looking at the camera
+2025-07-28 23:02:50,373 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/3b/cf/5f/3bcf5f6da9503f86030352f9a21b72d4.jpg
+2025-07-28 23:02:50,373 - INFO - Downloading image 43/100: an evil looking man with red eyes stares into the camera
+2025-07-28 23:02:50,521 - INFO - Image too low resolution (673x1200), skipping
+2025-07-28 23:02:50,521 - INFO - Downloading image 43/100: Pinterest Image 27
+2025-07-28 23:02:50,554 - INFO - Image too low resolution (768x1152), skipping
+2025-07-28 23:02:50,554 - INFO - Downloading image 43/100: Pinterest Image 0
+2025-07-28 23:02:50,587 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 23:02:50,588 - INFO - Downloading image 43/100: an anime character with red eyes holding a crow
+2025-07-28 23:02:50,655 - INFO - ✅ Downloaded: 151.jpg (1080x1928)
+2025-07-28 23:02:52,160 - INFO - Downloading image 44/100: a knight standing in a field full of red flowers
+2025-07-28 23:02:52,264 - INFO - ✅ Downloaded: 152.jpg (1440x2560)
+2025-07-28 23:02:53,770 - INFO - Downloading image 45/100: Pinterest Image 3
+2025-07-28 23:02:53,850 - INFO - ✅ Downloaded: 153.jpg (1080x1920)
+2025-07-28 23:02:55,355 - INFO - Downloading image 46/100: A Itachi uchiha Claymation style background is nature he is walking in forest night A mesmerizing scene of a lone figure in a dark cloak surrounded by a haunting forest under a glowing full moon. The atmosphere is filled with mystery, with crows flying amidst the misty, blue-lit trees, creating an eerie yet captivating visual. Perfect for fans of dark, atmospheric art. 
+2025-07-28 23:02:55,421 - INFO - ✅ Downloaded: 154.jpg (816x1456)
+2025-07-28 23:02:56,922 - INFO - Downloading image 47/100: the avatar of lord rama is swimming in water with two snakes around him and his head on
+2025-07-28 23:02:57,014 - INFO - ✅ Downloaded: 155.jpg (1024x1536)
+2025-07-28 23:02:58,517 - INFO - Downloading image 48/100: Pinterest Image 6
+2025-07-28 23:02:59,603 - INFO - ✅ Downloaded: 156.jpg (1436x2551)
+2025-07-28 23:03:01,109 - INFO - Downloading image 49/100: a person standing on top of a rock under an eyeball in front of a city
+2025-07-28 23:03:01,131 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 23:03:01,132 - INFO - Downloading image 49/100: an anime character holding a large knife with glowing orange eyes and blood on it's face
+2025-07-28 23:03:01,178 - INFO - Image too low resolution (736x1472), skipping
+2025-07-28 23:03:01,178 - INFO - Download complete! 48 images processed
+2025-07-28 23:03:01,179 - INFO - 
+🔧 Phase 3: Generating APIs and pagination...
+2025-07-28 23:03:01,179 - INFO - Generating APIs for category: anime
+2025-07-28 23:03:01,179 - INFO - Running API generation script...
+2025-07-28 23:03:02,102 - INFO - ✅ API generation completed successfully
+2025-07-28 23:03:02,104 - INFO - Summary saved: /Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/pinterest_scrape_summary_anime.json
+2025-07-28 23:03:02,104 - INFO - 🎉 Pipeline completed successfully!
