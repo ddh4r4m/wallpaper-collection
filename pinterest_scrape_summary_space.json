@@ -1,0 +1,94 @@
+{
+  "scrape_params": {
+    "url": "https://www.pinterest.com/pin/13018286422349921",
+    "category": "space",
+    "quantity": 10
+  },
+  "scraping_stats": {
+    "duration_seconds": 53.17,
+    "pins_found": 10,
+    "high_res_pins": 3,
+    "downloaded_count": 3,
+    "duplicates_skipped": 0,
+    "low_res_skipped": 7,
+    "api_generated": true,
+    "pagination_generated": true,
+    "success_rate": 30.0
+  },
+  "downloaded_images": 3,
+  "sample_images": [
+    {
+      "id": "space_123",
+      "category": "space",
+      "title": "Space Wallpaper 123",
+      "tags": [
+        "space"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/123.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/123.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T16:53:13.755480",
+        "file_size": 206590,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "source": "pinterest",
+        "source_url": "https://www.pinterest.com/pin/this-is-awsome--665406913698581875/"
+      }
+    },
+    {
+      "id": "space_124",
+      "category": "space",
+      "title": "Space Wallpaper 124",
+      "tags": [
+        "space"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/124.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/124.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T16:53:16.462938",
+        "file_size": 229834,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "source": "pinterest",
+        "source_url": "https://www.pinterest.com/pin/6333255723357341/"
+      }
+    },
+    {
+      "id": "space_125",
+      "category": "space",
+      "title": "Space Wallpaper 125",
+      "tags": [
+        "space"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/125.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/125.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T16:53:18.468998",
+        "file_size": 178557,
+        "dimensions": {
+          "width": 1306,
+          "height": 1587
+        },
+        "source": "pinterest",
+        "source_url": "https://www.pinterest.com/pin/26317979067826543/"
+      }
+    }
+  ],
+  "api_endpoints": {
+    "category_api": "/collection/api/v1/space.json",
+    "pagination_base": "/collection/api/v1/space/pages/",
+    "wallpapers_base": "/collection/wallpapers/space/",
+    "thumbnails_base": "/collection/thumbnails/space/"
+  },
+  "timestamp": "2025-07-28T16:53:21.290971Z"
+}

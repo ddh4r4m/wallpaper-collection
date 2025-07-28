@@ -1,0 +1,138 @@
+{
+  "scrape_params": {
+    "url": "https://www.pinterest.com/pin/34691859626485893",
+    "category": "nature",
+    "quantity": 10
+  },
+  "scraping_stats": {
+    "duration_seconds": 49.61,
+    "pins_found": 10,
+    "high_res_pins": 6,
+    "downloaded_count": 6,
+    "duplicates_skipped": 0,
+    "low_res_skipped": 3,
+    "api_generated": true,
+    "pagination_generated": true,
+    "success_rate": 60.0
+  },
+  "downloaded_images": 6,
+  "sample_images": [
+    {
+      "id": "nature_305",
+      "category": "nature",
+      "title": "Nature Wallpaper 305",
+      "tags": [
+        "nature"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/305.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/305.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T16:50:42.685461",
+        "file_size": 297014,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "source": "pinterest",
+        "source_url": "https://www.pinterest.com/pin/grsel-in-2025--1688918605756648/"
+      }
+    },
+    {
+      "id": "nature_306",
+      "category": "nature",
+      "title": "Nature Wallpaper 306",
+      "tags": [
+        "nature"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/306.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/306.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T16:50:44.329077",
+        "file_size": 672339,
+        "dimensions": {
+          "width": 1294,
+          "height": 2300
+        },
+        "source": "pinterest",
+        "source_url": "https://www.pinterest.com/pin/563018698775256/"
+      }
+    },
+    {
+      "id": "nature_307",
+      "category": "nature",
+      "title": "Nature Wallpaper 307",
+      "tags": [
+        "nature"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/307.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/307.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T16:50:45.881928",
+        "file_size": 170028,
+        "dimensions": {
+          "width": 1440,
+          "height": 2560
+        },
+        "source": "pinterest",
+        "source_url": "https://www.pinterest.com/pin/9077636744560167/"
+      }
+    },
+    {
+      "id": "nature_308",
+      "category": "nature",
+      "title": "Nature Wallpaper 308",
+      "tags": [
+        "nature"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/308.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/308.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T16:50:47.887923",
+        "file_size": 290911,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "source": "pinterest",
+        "source_url": "https://www.pinterest.com/pin/49398927158650335/"
+      }
+    },
+    {
+      "id": "nature_309",
+      "category": "nature",
+      "title": "Nature Wallpaper 309",
+      "tags": [
+        "nature"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/309.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/309.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T16:50:49.473424",
+        "file_size": 286512,
+        "dimensions": {
+          "width": 1024,
+          "height": 1792
+        },
+        "source": "pinterest",
+        "source_url": "https://www.pinterest.com/pin/anime-art-in-2025--9148005520878965/"
+      }
+    }
+  ],
+  "api_endpoints": {
+    "category_api": "/collection/api/v1/nature.json",
+    "pagination_base": "/collection/api/v1/nature/pages/",
+    "wallpapers_base": "/collection/wallpapers/nature/",
+    "thumbnails_base": "/collection/thumbnails/nature/"
+  },
+  "timestamp": "2025-07-28T16:50:53.486816Z"
+}

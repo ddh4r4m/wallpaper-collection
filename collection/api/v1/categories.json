@@ -1,114 +1,114 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-28T21:27:34.814586",
+    "generated_at": "2025-07-28T22:38:03.579947",
     "total_categories": 21
   },
   "data": {
-    "cyberpunk": {
-      "name": "Cyberpunk",
-      "count": 88,
-      "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
-    },
-    "architecture": {
-      "name": "Architecture",
-      "count": 275,
-      "description": "Buildings, bridges, modern structures, and urban photography"
-    },
-    "4k": {
-      "name": "4K",
-      "count": 200,
-      "description": "Ultra high-definition wallpapers optimized for 4K displays"
-    },
     "neon": {
       "name": "Neon",
       "count": 88,
       "description": "Neon lighting, synthwave aesthetics, and electric themes"
-    },
-    "pastel": {
-      "name": "Pastel",
-      "count": 69,
-      "description": "Soft colors, gentle aesthetics, and dream-like themes"
-    },
-    "sports": {
-      "name": "Sports",
-      "count": 115,
-      "description": "Athletic photography, sports action, and fitness themes"
-    },
-    "gaming": {
-      "name": "Gaming",
-      "count": 84,
-      "description": "Video game characters, scenes, and gaming-inspired artwork"
-    },
-    "nature": {
-      "name": "Nature",
-      "count": 304,
-      "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
-    },
-    "vintage": {
-      "name": "Vintage",
-      "count": 99,
-      "description": "Retro designs, nostalgic themes, and classic aesthetics"
-    },
-    "ai": {
-      "name": "Ai",
-      "count": 83,
-      "description": "AI-generated wallpapers from Stable Diffusion, Midjourney, and other AI models"
-    },
-    "minimal": {
-      "name": "Minimal",
-      "count": 64,
-      "description": "Clean, simple designs with minimalist aesthetics"
-    },
-    "space": {
-      "name": "Space",
-      "count": 122,
-      "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
-    },
-    "dark": {
-      "name": "Dark",
-      "count": 90,
-      "description": "Dark themes, gothic aesthetics, and mysterious atmospheres"
-    },
-    "animals": {
-      "name": "Animals",
-      "count": 84,
-      "description": "Wildlife photography, pets, and animal portraits"
-    },
-    "seasonal": {
-      "name": "Seasonal",
-      "count": 90,
-      "description": "Holiday themes, seasonal changes, and weather phenomena"
-    },
-    "abstract": {
-      "name": "Abstract",
-      "count": 257,
-      "description": "Abstract patterns, geometric designs, and artistic visualizations"
     },
     "art": {
       "name": "Art",
       "count": 90,
       "description": "Digital art, paintings, illustrations, and creative designs"
     },
+    "anime": {
+      "name": "Anime",
+      "count": 133,
+      "description": "Anime characters, manga art, and Japanese animation styles"
+    },
+    "sports": {
+      "name": "Sports",
+      "count": 115,
+      "description": "Athletic photography, sports action, and fitness themes"
+    },
+    "animals": {
+      "name": "Animals",
+      "count": 84,
+      "description": "Wildlife photography, pets, and animal portraits"
+    },
+    "pastel": {
+      "name": "Pastel",
+      "count": 69,
+      "description": "Soft colors, gentle aesthetics, and dream-like themes"
+    },
+    "4k": {
+      "name": "4K",
+      "count": 200,
+      "description": "Ultra high-definition wallpapers optimized for 4K displays"
+    },
+    "cyberpunk": {
+      "name": "Cyberpunk",
+      "count": 88,
+      "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
+    },
+    "dark": {
+      "name": "Dark",
+      "count": 90,
+      "description": "Dark themes, gothic aesthetics, and mysterious atmospheres"
+    },
     "technology": {
       "name": "Technology",
       "count": 83,
       "description": "Gadgets, circuits, futuristic tech, and digital interfaces"
+    },
+    "minimal": {
+      "name": "Minimal",
+      "count": 64,
+      "description": "Clean, simple designs with minimalist aesthetics"
+    },
+    "vintage": {
+      "name": "Vintage",
+      "count": 99,
+      "description": "Retro designs, nostalgic themes, and classic aesthetics"
+    },
+    "architecture": {
+      "name": "Architecture",
+      "count": 275,
+      "description": "Buildings, bridges, modern structures, and urban photography"
+    },
+    "seasonal": {
+      "name": "Seasonal",
+      "count": 90,
+      "description": "Holiday themes, seasonal changes, and weather phenomena"
+    },
+    "gaming": {
+      "name": "Gaming",
+      "count": 84,
+      "description": "Video game characters, scenes, and gaming-inspired artwork"
+    },
+    "space": {
+      "name": "Space",
+      "count": 125,
+      "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
+    },
+    "ai": {
+      "name": "Ai",
+      "count": 83,
+      "description": "AI-generated wallpapers from Stable Diffusion, Midjourney, and other AI models"
     },
     "gradient": {
       "name": "Gradient",
       "count": 145,
       "description": "Color transitions, smooth blends, and abstract flows"
     },
-    "anime": {
-      "name": "Anime",
-      "count": 133,
-      "description": "Anime characters, manga art, and Japanese animation styles"
-    },
     "cars": {
       "name": "Cars",
       "count": 84,
       "description": "Automotive photography, sports cars, and vehicle designs"
+    },
+    "abstract": {
+      "name": "Abstract",
+      "count": 257,
+      "description": "Abstract patterns, geometric designs, and artistic visualizations"
+    },
+    "nature": {
+      "name": "Nature",
+      "count": 310,
+      "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
     }
   }
 }
