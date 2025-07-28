@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-28T22:38:03.579947",
+    "generated_at": "2025-07-28T22:48:38.208699",
     "page": 173,
     "per_page": 15,
-    "total_pages": 178,
-    "total_count": 2656,
+    "total_pages": 183,
+    "total_count": 2737,
     "count_on_page": 15,
-    "categories": 21,
+    "categories": 22,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/174.json",
@@ -15,193 +15,11 @@
   },
   "data": [
     {
-      "id": "vintage_024",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 024",
+      "id": "technology_026",
+      "category": "technology",
+      "title": "Technology Wallpaper",
       "tags": [
-        "vintage",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/024.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/024.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 299922,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:51.271422",
-        "hash": "5d2a87d613e92fa0b16e462d84f5cbb0",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "vintage_025",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 025",
-      "tags": [
-        "vintage",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/025.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/025.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 411485,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:51.332699",
-        "hash": "d1c080ce80d1a31d35ce035b966b476b",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "vintage_026",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 026",
-      "tags": [
-        "vintage",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/026.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/026.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 346767,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:51.391555",
-        "hash": "bc1d714a2042f8a62e94f39f84e56c69",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "vintage_027",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 027",
-      "tags": [
-        "vintage",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/027.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/027.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 360667,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:51.451285",
-        "hash": "f1e3623a80dd3f830444f6bf537dedaa",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "vintage_028",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 028",
-      "tags": [
-        "vintage",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/028.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/028.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 373366,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:51.511723",
-        "hash": "f24d6af82673d83c59f20d465a598dfe",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "vintage_029",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 029",
-      "tags": [
-        "vintage",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/029.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/029.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 263969,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:51.565590",
-        "hash": "b38e22fda613aaaffa0f9d3d7d796cf8",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "vintage_030",
-      "category": "vintage",
-      "title": "Vintage Wallpaper 030",
-      "tags": [
-        "vintage",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/030.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/030.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 314414,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:51.623234",
-        "hash": "bdfaad6edbe6e68ebc7cdf537a153259",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "vintage_031",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
-      "tags": [
-        "vintage",
+        "technology",
         "unsplash",
         "hd",
         "mobile"
@@ -209,25 +27,25 @@
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1464
+          "height": 720
         },
-        "file_size": 249883,
+        "file_size": 64557,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:03:25.891582",
-        "hash": "b59049252329ad947687624a3fa47f6e",
+        "added_at": "2025-07-17T21:58:52.573315",
+        "hash": "960653863506b302c44421f59bae4d71",
         "photographer": "Unknown"
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/031.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/031.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/026.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/026.jpg"
       }
     },
     {
-      "id": "vintage_032",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "technology_027",
+      "category": "technology",
+      "title": "Technology Wallpaper",
       "tags": [
-        "vintage",
+        "technology",
         "unsplash",
         "hd",
         "mobile"
@@ -235,25 +53,25 @@
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 771
+          "height": 720
         },
-        "file_size": 112767,
+        "file_size": 98957,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:03:28.192295",
-        "hash": "d209645572dc832506e4dbe545533106",
+        "added_at": "2025-07-17T21:58:54.784564",
+        "hash": "afa6ea8313f9c14a91908ef820f602c6",
         "photographer": "Unknown"
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/032.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/032.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/027.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/027.jpg"
       }
     },
     {
-      "id": "vintage_033",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "technology_028",
+      "category": "technology",
+      "title": "Technology Wallpaper",
       "tags": [
-        "vintage",
+        "technology",
         "unsplash",
         "hd",
         "mobile"
@@ -261,25 +79,25 @@
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1561
+          "height": 720
         },
-        "file_size": 256005,
+        "file_size": 100991,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:03:30.886144",
-        "hash": "6c6527c6bb9400ec9bbb860f1b3d86bf",
+        "added_at": "2025-07-17T21:58:58.031910",
+        "hash": "0595c686aebba0e11ee488f37eee1829",
         "photographer": "Unknown"
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/033.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/033.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/028.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/028.jpg"
       }
     },
     {
-      "id": "vintage_034",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "technology_029",
+      "category": "technology",
+      "title": "Technology Wallpaper",
       "tags": [
-        "vintage",
+        "technology",
         "unsplash",
         "hd",
         "mobile"
@@ -287,51 +105,25 @@
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1440
+          "height": 719
         },
-        "file_size": 241333,
+        "file_size": 101331,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:03:34.357630",
-        "hash": "5872969de3f1598dfa6b557c6954241c",
+        "added_at": "2025-07-17T21:59:00.221354",
+        "hash": "8a31eaf1159e159c757bba06702a4a52",
         "photographer": "Unknown"
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/034.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/034.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/029.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/029.jpg"
       }
     },
     {
-      "id": "vintage_035",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "technology_030",
+      "category": "technology",
+      "title": "Technology Wallpaper",
       "tags": [
-        "vintage",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1584
-        },
-        "file_size": 116381,
-        "format": "JPEG",
-        "added_at": "2025-07-17T22:03:36.779526",
-        "hash": "ea3536dffb4ab45f843b608e0c6537ed",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/035.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/035.jpg"
-      }
-    },
-    {
-      "id": "vintage_036",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
-      "tags": [
-        "vintage",
+        "technology",
         "unsplash",
         "hd",
         "mobile"
@@ -341,23 +133,23 @@
           "width": 1080,
           "height": 810
         },
-        "file_size": 76721,
+        "file_size": 97754,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:03:39.233474",
-        "hash": "c4c42c3542c916a23c6a5a83f6b63b43",
+        "added_at": "2025-07-17T21:59:02.400200",
+        "hash": "c445246ff53ba31c74f84b7d1593c81e",
         "photographer": "Unknown"
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/036.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/036.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/030.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/030.jpg"
       }
     },
     {
-      "id": "vintage_037",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "technology_031",
+      "category": "technology",
+      "title": "Technology Wallpaper",
       "tags": [
-        "vintage",
+        "technology",
         "unsplash",
         "hd",
         "mobile"
@@ -365,25 +157,25 @@
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1464
+          "height": 718
         },
-        "file_size": 249883,
+        "file_size": 117640,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:03:40.526558",
-        "hash": "b59049252329ad947687624a3fa47f6e",
+        "added_at": "2025-07-17T21:59:05.629219",
+        "hash": "7018c1394a43b1533ffa94322e8fa46a",
         "photographer": "Unknown"
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/037.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/037.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/031.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/031.jpg"
       }
     },
     {
-      "id": "vintage_038",
-      "category": "vintage",
-      "title": "Vintage Wallpaper",
+      "id": "technology_032",
+      "category": "technology",
+      "title": "Technology Wallpaper",
       "tags": [
-        "vintage",
+        "technology",
         "unsplash",
         "hd",
         "mobile"
@@ -391,17 +183,225 @@
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1620
+          "height": 720
         },
-        "file_size": 243993,
+        "file_size": 58483,
         "format": "JPEG",
-        "added_at": "2025-07-17T22:03:42.941176",
-        "hash": "9dabe615635c19bda35e82f9fc384f6d",
+        "added_at": "2025-07-17T21:59:08.866119",
+        "hash": "b1b2111e9c7f76e6e9c8fbe6138e8fda",
         "photographer": "Unknown"
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/vintage/038.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/vintage/038.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/032.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/032.jpg"
+      }
+    },
+    {
+      "id": "technology_033",
+      "category": "technology",
+      "title": "Technology Wallpaper",
+      "tags": [
+        "technology",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 139953,
+        "format": "JPEG",
+        "added_at": "2025-07-17T21:59:11.110831",
+        "hash": "95da5f760ce19d177e914fc40da3d750",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/033.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/033.jpg"
+      }
+    },
+    {
+      "id": "technology_034",
+      "category": "technology",
+      "title": "Technology Wallpaper",
+      "tags": [
+        "technology",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 78488,
+        "format": "JPEG",
+        "added_at": "2025-07-17T21:59:13.551881",
+        "hash": "e71025b155b10d37c648f7d3250ba257",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/034.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/034.jpg"
+      }
+    },
+    {
+      "id": "technology_035",
+      "category": "technology",
+      "title": "Technology Wallpaper",
+      "tags": [
+        "technology",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 719
+        },
+        "file_size": 99747,
+        "format": "JPEG",
+        "added_at": "2025-07-17T21:59:15.880366",
+        "hash": "09e3e394986fdc1e33501e1e67d1eb35",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/035.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/035.jpg"
+      }
+    },
+    {
+      "id": "technology_036",
+      "category": "technology",
+      "title": "Technology Wallpaper",
+      "tags": [
+        "technology",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 154821,
+        "format": "JPEG",
+        "added_at": "2025-07-17T21:59:17.056940",
+        "hash": "54732510c2caa2b642f9c44d08d2b454",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/036.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/036.jpg"
+      }
+    },
+    {
+      "id": "technology_037",
+      "category": "technology",
+      "title": "Technology Wallpaper",
+      "tags": [
+        "technology",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 721
+        },
+        "file_size": 381528,
+        "format": "JPEG",
+        "added_at": "2025-07-17T21:59:19.347214",
+        "hash": "f577f005c4c677d5c02d7c3899ed82a0",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/037.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/037.jpg"
+      }
+    },
+    {
+      "id": "technology_038",
+      "category": "technology",
+      "title": "Technology Wallpaper",
+      "tags": [
+        "technology",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 51991,
+        "format": "JPEG",
+        "added_at": "2025-07-17T21:59:22.805267",
+        "hash": "ec4e94cf5b93affee07c2ad3b17aaa00",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/038.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/038.jpg"
+      }
+    },
+    {
+      "id": "technology_039",
+      "category": "technology",
+      "title": "Technology Wallpaper",
+      "tags": [
+        "technology",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 39206,
+        "format": "JPEG",
+        "added_at": "2025-07-17T21:59:26.260523",
+        "hash": "4d8050634deae851a9491d46b4fbac01",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/039.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/039.jpg"
+      }
+    },
+    {
+      "id": "technology_040",
+      "category": "technology",
+      "title": "Technology Wallpaper",
+      "tags": [
+        "technology",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 720
+        },
+        "file_size": 106334,
+        "format": "JPEG",
+        "added_at": "2025-07-17T21:59:28.579442",
+        "hash": "0b6a7c1b4c838375d3bb302173b7d5b3",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/040.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/040.jpg"
       }
     }
   ]

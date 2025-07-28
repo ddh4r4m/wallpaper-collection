@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-28T22:38:03.579947",
+    "generated_at": "2025-07-28T22:48:38.208699",
     "page": 155,
     "per_page": 15,
-    "total_pages": 178,
-    "total_count": 2656,
+    "total_pages": 183,
+    "total_count": 2737,
     "count_on_page": 15,
-    "categories": 21,
+    "categories": 22,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/156.json",
@@ -15,408 +15,393 @@
   },
   "data": [
     {
-      "id": "space_077",
-      "category": "space",
-      "title": "Space Wallpaper 077",
+      "id": "seasonal_086",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper",
       "tags": [
-        "space",
-        "wallpaper",
+        "seasonal",
+        "unsplash",
         "hd",
         "mobile"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/077.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/077.jpg"
-      },
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1620
         },
-        "file_size": 557958,
+        "file_size": 240025,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:48.689405",
-        "hash": "20883306a9194bc88f999d360d01ee08",
-        "source": "migrated"
+        "added_at": "2025-07-18T00:35:02.981424",
+        "hash": "205d6f1bb7fe4ffb5501bd3e8429d248",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/086.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/086.jpg"
       }
     },
     {
-      "id": "space_078",
-      "category": "space",
-      "title": "Space Wallpaper 078",
+      "id": "seasonal_087",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper",
       "tags": [
-        "space",
-        "wallpaper",
+        "seasonal",
+        "unsplash",
         "hd",
         "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/078.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/078.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 388572,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:48.748485",
-        "hash": "47aea930235e0550b22bb7298cedc76e",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "space_079",
-      "category": "space",
-      "title": "Space Wallpaper 079",
-      "tags": [
-        "space",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/079.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/079.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 428725,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:48.813253",
-        "hash": "e4d38cd45a91ffd0c2a848d02892523c",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "space_080",
-      "category": "space",
-      "title": "Space Wallpaper 080",
-      "tags": [
-        "space",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/080.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/080.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 473250,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:48.881478",
-        "hash": "26d5a9626015af95e81cb520ec98bfa1",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "space_081",
-      "category": "space",
-      "title": "Space Wallpaper 081",
-      "tags": [
-        "space",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/081.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/081.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 181430,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:48.931947",
-        "hash": "fb77d79f212bf2df633d09a3336d879f",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "space_082",
-      "category": "space",
-      "title": "Space Wallpaper 082",
-      "tags": [
-        "space",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/082.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/082.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 485412,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:48.997538",
-        "hash": "0c0f275c2a4a72c4e79d4f4215239378",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "space_083",
-      "category": "space",
-      "title": "Space Wallpaper 083",
-      "tags": [
-        "space",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/083.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/083.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 234629,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.051540",
-        "hash": "62d75cb09f87ee497504a8eb79e88db1",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "space_084",
-      "category": "space",
-      "title": "Space Wallpaper 084",
-      "tags": [
-        "space",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/084.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/084.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 300100,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.107466",
-        "hash": "a13335f6fee372340845c0250df2ef77",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "space_085",
-      "category": "space",
-      "title": "Space Wallpaper 085",
-      "tags": [
-        "space",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/085.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/085.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 394382,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.170208",
-        "hash": "b6bb5056aebfd1ef7e90cf8a385e786d",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "space_086",
-      "category": "space",
-      "title": "Space Wallpaper 086",
-      "tags": [
-        "space",
-        "wallpaper",
-        "hd",
-        "mobile"
-      ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/086.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/086.jpg"
-      },
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1920
-        },
-        "file_size": 435438,
-        "format": "JPEG",
-        "added_at": "2025-07-17T00:04:49.233497",
-        "hash": "c455c662d50c207beece7f671262673b",
-        "source": "migrated"
-      }
-    },
-    {
-      "id": "space_087",
-      "category": "space",
-      "title": "New JWST photos show the EARLI - Reddit AI",
-      "tags": [
-        "space",
-        "ai-generated",
-        "hd",
-        "mobile",
-        "community"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 864,
-          "height": 1080
-        },
-        "file_size": 41798,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:27:38.599347",
-        "hash": "e9cbaeef99deb1c8931af51cf0e5af06",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 14750
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/087.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/087.jpg"
-      }
-    },
-    {
-      "id": "space_088",
-      "category": "space",
-      "title": "HOPS-315, where astronomers ju - Reddit AI",
-      "tags": [
-        "space",
-        "ai-generated",
-        "hd",
-        "mobile",
-        "community"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1543
-        },
-        "file_size": 124351,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:27:42.083726",
-        "hash": "0737ad34d522dea22a1371b44c04cadd",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 1396
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/088.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/088.jpg"
-      }
-    },
-    {
-      "id": "space_089",
-      "category": "space",
-      "title": "For the first time, astronomer - Reddit AI",
-      "tags": [
-        "space",
-        "ai-generated",
-        "hd",
-        "mobile",
-        "community"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 864,
-          "height": 864
-        },
-        "file_size": 57031,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:27:43.282404",
-        "hash": "617bb8de76edf30b11362beceecf349a",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 157
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/089.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/089.jpg"
-      }
-    },
-    {
-      "id": "space_090",
-      "category": "space",
-      "title": "A lion in Orion - Reddit AI",
-      "tags": [
-        "space",
-        "ai-generated",
-        "hd",
-        "mobile",
-        "community"
       ],
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 810
         },
-        "file_size": 174308,
+        "file_size": 90619,
         "format": "JPEG",
-        "added_at": "2025-07-18T00:27:44.544722",
-        "hash": "1fddd9b7d1dcbad8c42ce3ce518aa09e",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 234
+        "added_at": "2025-07-18T00:35:07.475308",
+        "hash": "e1862769d47cb5b85ae8c348016e3512",
+        "photographer": "Unknown"
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/090.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/090.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/087.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/087.jpg"
       }
     },
     {
-      "id": "space_091",
-      "category": "space",
-      "title": "A deep look into Scorpius. An  - Reddit AI",
+      "id": "seasonal_088",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper",
       "tags": [
-        "space",
-        "ai-generated",
+        "seasonal",
+        "unsplash",
         "hd",
-        "mobile",
-        "community"
+        "mobile"
       ],
       "metadata": {
         "dimensions": {
           "width": 1080,
-          "height": 919
+          "height": 720
         },
-        "file_size": 197995,
+        "file_size": 86747,
         "format": "JPEG",
-        "added_at": "2025-07-18T00:27:46.720106",
-        "hash": "c28e7c64f73a15b2b84b2cb38722b2c2",
-        "ai_source": "reddit",
-        "ai_generated": true,
-        "community_score": 115
+        "added_at": "2025-07-18T00:35:10.951193",
+        "hash": "371323372fc838d36e9b49ff3e7c9d06",
+        "photographer": "Unknown"
       },
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/091.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/091.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/088.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/088.jpg"
+      }
+    },
+    {
+      "id": "seasonal_089",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper",
+      "tags": [
+        "seasonal",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 816
+        },
+        "file_size": 149697,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:35:15.160670",
+        "hash": "216016940e1e3b065178f2e2d7389ed8",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/089.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/089.jpg"
+      }
+    },
+    {
+      "id": "seasonal_090",
+      "category": "seasonal",
+      "title": "Seasonal Wallpaper",
+      "tags": [
+        "seasonal",
+        "unsplash",
+        "hd",
+        "mobile"
+      ],
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1598
+        },
+        "file_size": 764810,
+        "format": "JPEG",
+        "added_at": "2025-07-18T00:35:20.850115",
+        "hash": "f467bbce949372f927c36a8f328d8ee1",
+        "photographer": "Unknown"
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/090.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/090.jpg"
+      }
+    },
+    {
+      "id": "space_001",
+      "category": "space",
+      "title": "Space Wallpaper 001",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/001.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/001.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 618663,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:43.972500",
+        "hash": "30401a78a49c8264f402d1e105d5f699",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "space_002",
+      "category": "space",
+      "title": "Space Wallpaper 002",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/002.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/002.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 465502,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:44.041712",
+        "hash": "a5e6fc27e476a8054982ceb891ea267c",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "space_003",
+      "category": "space",
+      "title": "Space Wallpaper 003",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/003.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/003.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 675867,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:44.117083",
+        "hash": "5fca8784192831f18d781421ca5a85e2",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "space_004",
+      "category": "space",
+      "title": "Space Wallpaper 004",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/004.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/004.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 323514,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:44.173767",
+        "hash": "becb7bd1b3289f28d3f10016655ccdb1",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "space_005",
+      "category": "space",
+      "title": "Space Wallpaper 005",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/005.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/005.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 686584,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:44.253228",
+        "hash": "c0b5a1e4a3e724f72be8d45d4e3035e2",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "space_006",
+      "category": "space",
+      "title": "Space Wallpaper 006",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/006.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/006.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 64815,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:44.299196",
+        "hash": "e24a550530e2f5b50d6aec96399c491a",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "space_007",
+      "category": "space",
+      "title": "Space Wallpaper 007",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/007.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/007.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 109965,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:44.346736",
+        "hash": "32f2495932fd65f571664c8ab45f1369",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "space_008",
+      "category": "space",
+      "title": "Space Wallpaper 008",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/008.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/008.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 373081,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:44.409368",
+        "hash": "4f2b6cf779552fbbd620fc44cd519184",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "space_009",
+      "category": "space",
+      "title": "Space Wallpaper 009",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/009.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/009.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 163915,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:44.458347",
+        "hash": "4ce189c30381d63ff65e01b0b48bd624",
+        "source": "migrated"
+      }
+    },
+    {
+      "id": "space_010",
+      "category": "space",
+      "title": "Space Wallpaper 010",
+      "tags": [
+        "space",
+        "wallpaper",
+        "hd",
+        "mobile"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/010.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/010.jpg"
+      },
+      "metadata": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "file_size": 75994,
+        "format": "JPEG",
+        "added_at": "2025-07-17T00:04:44.502288",
+        "hash": "24227f7865022d6145155eab92dfb1ba",
+        "source": "migrated"
       }
     }
   ]

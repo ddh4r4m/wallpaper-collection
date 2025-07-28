@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-28T22:38:03.579947",
+    "generated_at": "2025-07-28T22:48:38.208699",
     "page": 167,
     "per_page": 15,
-    "total_pages": 178,
-    "total_count": 2656,
+    "total_pages": 183,
+    "total_count": 2737,
     "count_on_page": 15,
-    "categories": 21,
+    "categories": 22,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/168.json",
@@ -15,393 +15,303 @@
   },
   "data": [
     {
-      "id": "technology_017",
-      "category": "technology",
-      "title": "Technology Wallpaper",
+      "id": "sports_051",
+      "category": "sports",
+      "title": "Sports Wallpaper 051",
       "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/051.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/051.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:08:36.737367",
+        "file_size": 398633,
         "dimensions": {
           "width": 1080,
-          "height": 720
-        },
-        "file_size": 58483,
-        "format": "JPEG",
-        "added_at": "2025-07-17T21:57:31.277874",
-        "hash": "b1b2111e9c7f76e6e9c8fbe6138e8fda",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/017.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/017.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "technology_018",
-      "category": "technology",
-      "title": "Technology Wallpaper",
+      "id": "sports_052",
+      "category": "sports",
+      "title": "Sports Wallpaper 052",
       "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/052.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/052.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:08:36.856462",
+        "file_size": 353537,
         "dimensions": {
           "width": 1080,
-          "height": 720
-        },
-        "file_size": 90437,
-        "format": "JPEG",
-        "added_at": "2025-07-17T21:58:33.586113",
-        "hash": "0f3bd8c7af9258a6d7f644e61122d927",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/018.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/018.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "technology_019",
-      "category": "technology",
-      "title": "Technology Wallpaper",
+      "id": "sports_053",
+      "category": "sports",
+      "title": "Sports Wallpaper 053",
       "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/053.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/053.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:08:37.028753",
+        "file_size": 350739,
         "dimensions": {
           "width": 1080,
-          "height": 765
-        },
-        "file_size": 33419,
-        "format": "JPEG",
-        "added_at": "2025-07-17T21:58:36.907145",
-        "hash": "36dd938f95be45722b5451f8f5cb25ba",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/019.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/019.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "technology_020",
-      "category": "technology",
-      "title": "Technology Wallpaper",
+      "id": "sports_054",
+      "category": "sports",
+      "title": "Sports Wallpaper 054",
       "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/054.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/054.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:08:37.135166",
+        "file_size": 218309,
         "dimensions": {
           "width": 1080,
-          "height": 720
-        },
-        "file_size": 86301,
-        "format": "JPEG",
-        "added_at": "2025-07-17T21:58:39.088042",
-        "hash": "67e24cbfeaa9202006805ac7962e8ca9",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/020.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/020.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "technology_021",
-      "category": "technology",
-      "title": "Technology Wallpaper",
+      "id": "sports_055",
+      "category": "sports",
+      "title": "Sports Wallpaper 055",
       "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/055.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/055.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:08:37.248706",
+        "file_size": 277314,
         "dimensions": {
           "width": 1080,
-          "height": 720
-        },
-        "file_size": 145145,
-        "format": "JPEG",
-        "added_at": "2025-07-17T21:58:41.413047",
-        "hash": "4a4c8004a7c941a81f3d4b04bb0697d8",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/021.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/021.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "technology_022",
-      "category": "technology",
-      "title": "Technology Wallpaper",
+      "id": "sports_056",
+      "category": "sports",
+      "title": "Sports Wallpaper 056",
       "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/056.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/056.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:08:37.357322",
+        "file_size": 263486,
         "dimensions": {
           "width": 1080,
-          "height": 720
-        },
-        "file_size": 154821,
-        "format": "JPEG",
-        "added_at": "2025-07-17T21:58:43.652864",
-        "hash": "54732510c2caa2b642f9c44d08d2b454",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/022.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/022.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "technology_023",
-      "category": "technology",
-      "title": "Technology Wallpaper",
+      "id": "sports_057",
+      "category": "sports",
+      "title": "Sports Wallpaper 057",
       "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/057.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/057.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:08:37.547223",
+        "file_size": 134428,
         "dimensions": {
           "width": 1080,
-          "height": 720
-        },
-        "file_size": 135581,
-        "format": "JPEG",
-        "added_at": "2025-07-17T21:58:44.840069",
-        "hash": "5c1b6341ad7b17b20e376ecdf128472b",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/023.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/023.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "technology_024",
-      "category": "technology",
-      "title": "Technology Wallpaper",
+      "id": "sports_058",
+      "category": "sports",
+      "title": "Sports Wallpaper 058",
       "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/058.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/058.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:08:37.714151",
+        "file_size": 268956,
         "dimensions": {
           "width": 1080,
-          "height": 719
-        },
-        "file_size": 99747,
-        "format": "JPEG",
-        "added_at": "2025-07-17T21:58:47.014591",
-        "hash": "09e3e394986fdc1e33501e1e67d1eb35",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/024.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/024.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "technology_025",
-      "category": "technology",
-      "title": "Technology Wallpaper",
+      "id": "sports_059",
+      "category": "sports",
+      "title": "Sports Wallpaper 059",
       "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/059.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/059.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:08:37.870436",
+        "file_size": 243928,
         "dimensions": {
           "width": 1080,
-          "height": 1350
-        },
-        "file_size": 143794,
-        "format": "JPEG",
-        "added_at": "2025-07-17T21:58:50.404762",
-        "hash": "d21d9ce47e1e4702bb403aa0093e8427",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/025.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/025.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "technology_026",
-      "category": "technology",
-      "title": "Technology Wallpaper",
+      "id": "sports_060",
+      "category": "sports",
+      "title": "Sports Wallpaper 060",
       "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/060.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/060.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:08:37.988700",
+        "file_size": 349258,
         "dimensions": {
           "width": 1080,
-          "height": 720
-        },
-        "file_size": 64557,
-        "format": "JPEG",
-        "added_at": "2025-07-17T21:58:52.573315",
-        "hash": "960653863506b302c44421f59bae4d71",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/026.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/026.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "technology_027",
-      "category": "technology",
-      "title": "Technology Wallpaper",
+      "id": "sports_061",
+      "category": "sports",
+      "title": "Sports Wallpaper 061",
       "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/061.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/061.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:08:38.129056",
+        "file_size": 347904,
         "dimensions": {
           "width": 1080,
-          "height": 720
-        },
-        "file_size": 98957,
-        "format": "JPEG",
-        "added_at": "2025-07-17T21:58:54.784564",
-        "hash": "afa6ea8313f9c14a91908ef820f602c6",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/027.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/027.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "technology_028",
-      "category": "technology",
-      "title": "Technology Wallpaper",
+      "id": "sports_062",
+      "category": "sports",
+      "title": "Sports Wallpaper 062",
       "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/062.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/062.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:08:38.237868",
+        "file_size": 259466,
         "dimensions": {
           "width": 1080,
-          "height": 720
-        },
-        "file_size": 100991,
-        "format": "JPEG",
-        "added_at": "2025-07-17T21:58:58.031910",
-        "hash": "0595c686aebba0e11ee488f37eee1829",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/028.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/028.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "technology_029",
-      "category": "technology",
-      "title": "Technology Wallpaper",
+      "id": "sports_063",
+      "category": "sports",
+      "title": "Sports Wallpaper 063",
       "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/063.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/063.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:08:38.339140",
+        "file_size": 186859,
         "dimensions": {
           "width": 1080,
-          "height": 719
-        },
-        "file_size": 101331,
-        "format": "JPEG",
-        "added_at": "2025-07-17T21:59:00.221354",
-        "hash": "8a31eaf1159e159c757bba06702a4a52",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/029.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/029.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "technology_030",
-      "category": "technology",
-      "title": "Technology Wallpaper",
+      "id": "sports_064",
+      "category": "sports",
+      "title": "Sports Wallpaper 064",
       "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/064.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/064.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:08:38.457479",
+        "file_size": 380808,
         "dimensions": {
           "width": 1080,
-          "height": 810
-        },
-        "file_size": 97754,
-        "format": "JPEG",
-        "added_at": "2025-07-17T21:59:02.400200",
-        "hash": "c445246ff53ba31c74f84b7d1593c81e",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/030.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/030.jpg"
+          "height": 1920
+        }
       }
     },
     {
-      "id": "technology_031",
-      "category": "technology",
-      "title": "Technology Wallpaper",
+      "id": "sports_065",
+      "category": "sports",
+      "title": "Sports Wallpaper 065",
       "tags": [
-        "technology",
-        "unsplash",
-        "hd",
-        "mobile"
+        "sports"
       ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/065.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/065.jpg"
+      },
       "metadata": {
+        "added_at": "2025-07-21T01:08:38.680551",
+        "file_size": 244601,
         "dimensions": {
           "width": 1080,
-          "height": 718
-        },
-        "file_size": 117640,
-        "format": "JPEG",
-        "added_at": "2025-07-17T21:59:05.629219",
-        "hash": "7018c1394a43b1533ffa94322e8fa46a",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/technology/031.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/technology/031.jpg"
+          "height": 1920
+        }
       }
     }
   ]

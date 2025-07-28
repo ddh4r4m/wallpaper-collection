@@ -1,0 +1,712 @@
+2025-07-28 22:19:58,349 - INFO - ====== WebDriver manager ======
+2025-07-28 22:19:58,756 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-28 22:19:58,948 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-28 22:19:59,007 - INFO - There is no [mac64] chromedriver "138.0.7204.168" for browser google-chrome "138.0.7204" in cache
+2025-07-28 22:19:59,017 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-28 22:19:59,155 - INFO - WebDriver version 138.0.7204.168 selected
+2025-07-28 22:19:59,157 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.168/mac-arm64/chromedriver-mac-arm64.zip
+2025-07-28 22:19:59,157 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.168/mac-arm64/chromedriver-mac-arm64.zip
+2025-07-28 22:19:59,496 - INFO - Driver downloading response is 200
+2025-07-28 22:20:00,038 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-28 22:20:00,156 - INFO - Driver has been saved in cache [/Users/dharamdhurandhar/.wdm/drivers/chromedriver/mac64/138.0.7204.168]
+2025-07-28 22:20:03,878 - INFO - Browser setup complete
+2025-07-28 22:20:03,880 - INFO - 🚀 Starting Pinterest API Scraper Pipeline
+2025-07-28 22:20:25,489 - INFO - 📌 URL: https://www.pinterest.com/pin/34691859626485893
+2025-07-28 22:20:25,498 - INFO - 📂 Category: nature
+2025-07-28 22:20:25,499 - INFO - 🔢 Quantity: 10
+2025-07-28 22:20:25,499 - INFO - 
+🔍 Phase 1: Scraping Pinterest...
+2025-07-28 22:20:25,499 - INFO - Starting Pinterest scrape from: https://www.pinterest.com/pin/34691859626485893
+2025-07-28 22:20:31,806 - INFO - Scroll 1/15 - Pins found: 0
+2025-07-28 22:20:31,940 - INFO - Found 7 new pins this scroll
+2025-07-28 22:20:36,968 - INFO - Scroll 2/15 - Pins found: 7
+2025-07-28 22:20:37,357 - INFO - Found 28 new pins this scroll
+2025-07-28 22:20:42,389 - INFO - Pinterest scraping complete! Found 10 pins
+2025-07-28 22:20:42,390 - INFO - 
+⬇️  Phase 2: Downloading 10 images...
+2025-07-28 22:20:42,390 - INFO - Starting download of 10 images for category: nature
+2025-07-28 22:20:42,415 - INFO - Downloading image 1/10: a house on top of a mountain surrounded by clouds
+2025-07-28 22:20:42,685 - INFO - ✅ Downloaded: 305.jpg (1080x1920)
+2025-07-28 22:20:44,190 - INFO - Downloading image 2/10: a man standing on top of a lush green field next to a mountain covered in clouds
+2025-07-28 22:20:44,329 - INFO - ✅ Downloaded: 306.jpg (1294x2300)
+2025-07-28 22:20:45,833 - INFO - Downloading image 3/10: This may contain: a painting of a boy running down a path in the grass with mountains in the background
+2025-07-28 22:20:45,881 - INFO - ✅ Downloaded: 307.jpg (1440x2560)
+2025-07-28 22:20:47,383 - INFO - Downloading image 4/10: a painting of a mountain range with a river running through it
+2025-07-28 22:20:47,682 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/3e/0a/3c/3e0a3cda390234292affa2e83fa0d6fa.jpg
+2025-07-28 22:20:47,683 - INFO - Downloading image 4/10: This may contain: an artistic painting of mountains and trees in the sunlight with water flowing down from them
+2025-07-28 22:20:47,887 - INFO - ✅ Downloaded: 308.jpg (1080x1920)
+2025-07-28 22:20:49,393 - INFO - Downloading image 5/10: a person sitting under a tree on top of a lush green field
+2025-07-28 22:20:49,473 - INFO - ✅ Downloaded: 309.jpg (1024x1792)
+2025-07-28 22:20:50,978 - INFO - Downloading image 6/10: the sun shines down on an outdoor area with green trees and stone walkways
+2025-07-28 22:20:51,062 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:20:51,062 - INFO - Downloading image 6/10: a painting of a mountain landscape with a dirt path leading to a small cabin in the foreground
+2025-07-28 22:20:51,176 - INFO - ✅ Downloaded: 310.jpg (1080x1920)
+2025-07-28 22:20:52,681 - INFO - Downloading image 7/10: a painting of a cabin in the middle of a field with wildflowers and mountains
+2025-07-28 22:20:52,711 - INFO - Image too low resolution (600x1200), skipping
+2025-07-28 22:20:52,711 - INFO - Downloading image 7/10: a man standing on top of a lush green field under a blue sky filled with clouds
+2025-07-28 22:20:52,743 - INFO - Image too low resolution (736x1307), skipping
+2025-07-28 22:20:52,743 - INFO - Download complete! 6 images processed
+2025-07-28 22:20:52,743 - INFO - 
+🔧 Phase 3: Generating APIs and pagination...
+2025-07-28 22:20:52,743 - INFO - Generating APIs for category: nature
+2025-07-28 22:20:52,744 - INFO - Running API generation script...
+2025-07-28 22:20:53,486 - INFO - ✅ API generation completed successfully
+2025-07-28 22:20:53,487 - INFO - Summary saved: /Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/pinterest_scrape_summary_nature.json
+2025-07-28 22:20:53,487 - INFO - 🎉 Pipeline completed successfully!
+2025-07-28 22:22:26,634 - INFO - ====== WebDriver manager ======
+2025-07-28 22:22:26,878 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-28 22:22:26,948 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-28 22:22:26,998 - INFO - Driver [/Users/dharamdhurandhar/.wdm/drivers/chromedriver/mac64/138.0.7204.168/chromedriver-mac-arm64/chromedriver] found in cache
+2025-07-28 22:22:28,120 - INFO - Browser setup complete
+2025-07-28 22:22:28,120 - INFO - 🚀 Starting Pinterest API Scraper Pipeline
+2025-07-28 22:22:54,364 - INFO - 📌 URL: https://www.pinterest.com/pin/13018286422349921
+2025-07-28 22:22:54,365 - INFO - 📂 Category: space
+2025-07-28 22:22:54,365 - INFO - 🔢 Quantity: 10
+2025-07-28 22:22:54,365 - INFO - 
+🔍 Phase 1: Scraping Pinterest...
+2025-07-28 22:22:54,365 - INFO - Starting Pinterest scrape from: https://www.pinterest.com/pin/13018286422349921
+2025-07-28 22:23:00,467 - INFO - Scroll 1/15 - Pins found: 0
+2025-07-28 22:23:00,807 - INFO - Found 7 new pins this scroll
+2025-07-28 22:23:05,839 - INFO - Scroll 2/15 - Pins found: 7
+2025-07-28 22:23:06,448 - INFO - Found 22 new pins this scroll
+2025-07-28 22:23:11,479 - INFO - Pinterest scraping complete! Found 10 pins
+2025-07-28 22:23:11,480 - INFO - 
+⬇️  Phase 2: Downloading 10 images...
+2025-07-28 22:23:11,480 - INFO - Starting download of 10 images for category: space
+2025-07-28 22:23:11,489 - INFO - Downloading image 1/10: This may contain: an astronaut is in the middle of a field of purple flowers with blue sky and clouds behind him
+2025-07-28 22:23:13,755 - INFO - ✅ Downloaded: 123.jpg (1080x1920)
+2025-07-28 22:23:15,260 - INFO - Downloading image 2/10: an astronaut is sitting on the edge of a body of water
+2025-07-28 22:23:15,694 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:23:15,695 - INFO - Downloading image 2/10: This may contain: an astronaut is sitting on top of the planet
+2025-07-28 22:23:16,043 - INFO - Image too low resolution (720x1280), skipping
+2025-07-28 22:23:16,043 - INFO - Downloading image 2/10: This may contain: an astronaut floating in the water with a pink flamingo
+2025-07-28 22:23:16,374 - INFO - Image too low resolution (720x858), skipping
+2025-07-28 22:23:16,374 - INFO - Downloading image 2/10: a woman with headphones sitting on a bench in front of pink lights and columns
+2025-07-28 22:23:16,400 - INFO - Image too low resolution (474x845), skipping
+2025-07-28 22:23:16,401 - INFO - Downloading image 2/10: This may contain: an astronaut floating in the water wearing a space suit
+2025-07-28 22:23:16,462 - INFO - ✅ Downloaded: 124.jpg (1080x1920)
+2025-07-28 22:23:17,964 - INFO - Downloading image 3/10: an astronaut is floating in the water with a pink flamingo
+2025-07-28 22:23:18,469 - INFO - ✅ Downloaded: 125.jpg (1306x1587)
+2025-07-28 22:23:19,974 - INFO - Downloading image 4/10: Astronaut Background, Galaxy Wallpaper 4k, Astronaut Aesthetic, Hd Astronaut Wallpaper, Astronaut Artwork, Space Art Wallpaper, Witcher Wallpaper, Outer Space Wallpaper, Space Art Gallery
+2025-07-28 22:23:20,370 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:23:20,370 - INFO - Downloading image 4/10: a person standing in the middle of an alley way with buildings and signs on either side
+2025-07-28 22:23:20,402 - INFO - Image too low resolution (638x1200), skipping
+2025-07-28 22:23:20,403 - INFO - Downloading image 4/10: a herd of sheep standing next to each other
+2025-07-28 22:23:20,431 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:23:20,431 - INFO - Download complete! 3 images processed
+2025-07-28 22:23:20,431 - INFO - 
+🔧 Phase 3: Generating APIs and pagination...
+2025-07-28 22:23:20,431 - INFO - Generating APIs for category: space
+2025-07-28 22:23:20,431 - INFO - Running API generation script...
+2025-07-28 22:23:21,290 - INFO - ✅ API generation completed successfully
+2025-07-28 22:23:21,291 - INFO - Summary saved: /Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/pinterest_scrape_summary_space.json
+2025-07-28 22:23:21,291 - INFO - 🎉 Pipeline completed successfully!
+2025-07-28 22:28:49,575 - INFO - ====== WebDriver manager ======
+2025-07-28 22:28:49,826 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-28 22:28:49,883 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-28 22:28:49,929 - INFO - Driver [/Users/dharamdhurandhar/.wdm/drivers/chromedriver/mac64/138.0.7204.168/chromedriver-mac-arm64/chromedriver] found in cache
+2025-07-28 22:28:51,288 - INFO - Browser setup complete
+2025-07-28 22:28:51,289 - INFO - 🚀 Starting Pinterest API Scraper Pipeline
+2025-07-28 22:29:04,002 - INFO - 📌 URL: https://www.pinterest.com/pin/774124929372347
+2025-07-28 22:29:04,004 - INFO - 📂 Category: patterns
+2025-07-28 22:29:04,004 - INFO - 🔢 Quantity: 100
+2025-07-28 22:29:04,004 - INFO - 
+🔍 Phase 1: Scraping Pinterest...
+2025-07-28 22:29:04,004 - INFO - Starting Pinterest scrape from: https://www.pinterest.com/pin/774124929372347
+2025-07-28 22:29:10,081 - INFO - Scroll 1/15 - Pins found: 0
+2025-07-28 22:29:10,229 - INFO - Found 7 new pins this scroll
+2025-07-28 22:29:15,318 - INFO - Scroll 2/15 - Pins found: 7
+2025-07-28 22:29:15,844 - INFO - Found 29 new pins this scroll
+2025-07-28 22:29:20,890 - INFO - Scroll 3/15 - Pins found: 36
+2025-07-28 22:29:21,408 - INFO - Found 32 new pins this scroll
+2025-07-28 22:29:26,476 - INFO - Scroll 4/15 - Pins found: 68
+2025-07-28 22:29:27,043 - INFO - Found 29 new pins this scroll
+2025-07-28 22:29:32,108 - INFO - Scroll 5/15 - Pins found: 97
+2025-07-28 22:29:32,612 - INFO - Found 30 new pins this scroll
+2025-07-28 22:29:37,724 - INFO - Pinterest scraping complete! Found 100 pins
+2025-07-28 22:29:37,726 - INFO - 
+⬇️  Phase 2: Downloading 100 images...
+2025-07-28 22:29:37,726 - INFO - Starting download of 100 images for category: patterns
+2025-07-28 22:29:37,728 - INFO - Downloading image 1/100: three blue flowers are in the air
+2025-07-28 22:29:38,899 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:29:38,899 - INFO - Downloading image 1/100: an abstract painting with blue, pink and purple flowers on it's back side
+2025-07-28 22:29:38,933 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:29:38,934 - INFO - Downloading image 1/100: blue and white swirls in the water
+2025-07-28 22:29:38,959 - INFO - Image too low resolution (236x413), skipping
+2025-07-28 22:29:38,959 - INFO - Downloading image 1/100: an image of a bird flying in the air over water with ripples on it's surface
+2025-07-28 22:29:39,029 - INFO - ✅ Downloaded: 001.jpg (1080x1920)
+2025-07-28 22:29:40,534 - INFO - Downloading image 2/100: a blue and white wallpaper with leaves on it
+2025-07-28 22:29:40,578 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:29:40,578 - INFO - Downloading image 2/100: a blue and black camouflage print fabric with small spots on it's edges,
+2025-07-28 22:29:40,621 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:29:40,621 - INFO - Downloading image 2/100: an image of arabic calligraphy in blue and white
+2025-07-28 22:29:40,973 - INFO - Image too low resolution (600x900), skipping
+2025-07-28 22:29:40,974 - INFO - Downloading image 2/100: an abstract checkerboard pattern in navy blue and white, as well as cream
+2025-07-28 22:29:41,003 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:29:41,003 - INFO - Downloading image 2/100: an image of blue and white cells in water
+2025-07-28 22:29:41,453 - INFO - Image too low resolution (500x635), skipping
+2025-07-28 22:29:41,453 - INFO - Downloading image 2/100: the night sky is full of stars and swirly blue waves with gold stars on them
+2025-07-28 22:29:41,481 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:29:41,481 - INFO - Downloading image 2/100: an abstract painting of mountains and waves in the blue sky with white swirls on them
+2025-07-28 22:29:41,597 - INFO - ✅ Downloaded: 002.jpg (1500x3000)
+2025-07-28 22:29:43,102 - INFO - Downloading image 3/100: a blurry image of an airplane flying in the sky with clouds and water behind it
+2025-07-28 22:29:43,167 - INFO - Image too low resolution (600x1200), skipping
+2025-07-28 22:29:43,167 - INFO - Downloading image 3/100: birds are flying over the ocean on a cloudy day
+2025-07-28 22:29:43,194 - INFO - Image too low resolution (600x1200), skipping
+2025-07-28 22:29:43,194 - INFO - Downloading image 3/100: an image of many fish swimming in the water
+2025-07-28 22:29:43,218 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:29:43,218 - INFO - Downloading image 3/100: an abstract blue background with wavy lines
+2025-07-28 22:29:43,531 - INFO - Image too low resolution (338x486), skipping
+2025-07-28 22:29:43,531 - INFO - Downloading image 3/100: blue and white floral wallpaper with large flowers on the left side of the image
+2025-07-28 22:29:43,981 - INFO - ✅ Downloaded: 003.jpg (1080x1920)
+2025-07-28 22:29:45,494 - INFO - Downloading image 4/100: an abstract blue background with wavy lines and stars in the sky, as well as waves
+2025-07-28 22:29:45,771 - INFO - Image too low resolution (673x1200), skipping
+2025-07-28 22:29:45,771 - INFO - Downloading image 4/100: a blue and white animal print background
+2025-07-28 22:29:46,172 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:29:46,173 - INFO - Downloading image 4/100: three blue flowers are in the air on a white background
+2025-07-28 22:29:46,547 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:29:46,547 - INFO - Downloading image 4/100: watercolor painting of a village on a cliff above the ocean with boats in it
+2025-07-28 22:29:46,841 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/f4/30/ac/f430acc0a15d192f81745c81a5e4f150.jpg
+2025-07-28 22:29:46,841 - INFO - Downloading image 4/100: an abstract blue and white background with lots of bubbles
+2025-07-28 22:29:47,287 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:29:47,287 - INFO - Downloading image 4/100: blue and white swirls in the water
+2025-07-28 22:29:47,358 - INFO - Image too low resolution (564x986), skipping
+2025-07-28 22:29:47,358 - INFO - Downloading image 4/100: an abstract painting with blue and black circles
+2025-07-28 22:29:47,759 - INFO - ✅ Downloaded: 004.jpg (1080x1920)
+2025-07-28 22:29:49,264 - INFO - Downloading image 5/100: blue flowers and leaves on a white background
+2025-07-28 22:29:49,311 - INFO - Image too low resolution (691x1200), skipping
+2025-07-28 22:29:49,311 - INFO - Downloading image 5/100: an abstract painting with blue and white colors
+2025-07-28 22:29:49,343 - INFO - Image too low resolution (810x1080), skipping
+2025-07-28 22:29:49,343 - INFO - Downloading image 5/100: a blue and white checkered pattern with watercolor paint on it's surface
+2025-07-28 22:29:49,683 - INFO - Image too low resolution (750x1333), skipping
+2025-07-28 22:29:49,683 - INFO - Downloading image 5/100: an abstract painting of a wave in the dark blue ocean with white dots on it
+2025-07-28 22:29:49,773 - INFO - ✅ Downloaded: 005.jpg (1080x2160)
+2025-07-28 22:29:51,279 - INFO - Downloading image 6/100: a painting of a man reading a book in the dark blue water with white lines on it
+2025-07-28 22:29:51,324 - INFO - Image too low resolution (689x1200), skipping
+2025-07-28 22:29:51,324 - INFO - Downloading image 6/100: a drawing of a sea turtle on top of a wave with the words 727 above it
+2025-07-28 22:29:51,352 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:29:51,352 - INFO - Downloading image 6/100: an abstract painting with blue and black shapes on white paper, in shades of blue
+2025-07-28 22:29:51,716 - INFO - Image too low resolution (600x900), skipping
+2025-07-28 22:29:51,717 - INFO - Downloading image 6/100: an abstract blue and white background with wavy lines in the shape of swirls or waves
+2025-07-28 22:29:52,121 - INFO - Image too low resolution (736x1055), skipping
+2025-07-28 22:29:52,121 - INFO - Downloading image 6/100: a blue background with white leaves and swirls on the bottom right corner, in an abstract manner
+2025-07-28 22:29:52,158 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:29:52,158 - INFO - Downloading image 6/100: an abstract painting with blue and white colors
+2025-07-28 22:29:52,611 - INFO - ✅ Downloaded: 006.jpg (1080x1920)
+2025-07-28 22:29:54,120 - INFO - Downloading image 7/100: white birds flying in the sky with blue background
+2025-07-28 22:29:54,507 - INFO - Image too low resolution (828x1025), skipping
+2025-07-28 22:29:54,508 - INFO - Downloading image 7/100: an animal print pattern with black and brown spots
+2025-07-28 22:29:54,540 - INFO - Image too low resolution (664x1200), skipping
+2025-07-28 22:29:54,540 - INFO - Downloading image 7/100: watercolor painting of blue leaves on white paper
+2025-07-28 22:29:54,570 - INFO - Image too low resolution (676x1276), skipping
+2025-07-28 22:29:54,570 - INFO - Downloading image 7/100: blue flowers and leaves on a white background
+2025-07-28 22:29:55,034 - INFO - ✅ Downloaded: 007.jpg (1080x1920)
+2025-07-28 22:29:56,539 - INFO - Downloading image 8/100: an abstract blue painting with squares and lines on it's surface, painted in watercolor
+2025-07-28 22:29:56,825 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/32/a7/df/32a7dfa02a94edc4c11333be9b7ab3e1.jpg
+2025-07-28 22:29:56,825 - INFO - Downloading image 8/100: the night sky with stars and clouds painted in watercolor on paper, as well as ink
+2025-07-28 22:29:57,182 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:29:57,183 - INFO - Downloading image 8/100: an abstract painting with blue, orange and green colors on white background that is repeated in rows
+2025-07-28 22:29:57,619 - INFO - ✅ Downloaded: 008.jpg (1080x1920)
+2025-07-28 22:29:59,124 - INFO - Downloading image 9/100: an abstract blue and white background with wavy shapes
+2025-07-28 22:29:59,464 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:29:59,464 - INFO - Downloading image 9/100: an abstract black and white background with many different shapes, sizes and colors on it
+2025-07-28 22:29:59,753 - INFO - Image too low resolution (676x1200), skipping
+2025-07-28 22:29:59,754 - INFO - Downloading image 9/100: an animal print pattern in black and white
+2025-07-28 22:29:59,796 - INFO - Image too low resolution (736x1313), skipping
+2025-07-28 22:29:59,797 - INFO - Downloading image 9/100: a green and black checkered tile pattern
+2025-07-28 22:30:00,169 - INFO - Image too low resolution (569x1138), skipping
+2025-07-28 22:30:00,169 - INFO - Downloading image 9/100: blurry photograph of red and black circles
+2025-07-28 22:30:00,613 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:30:00,613 - INFO - Downloading image 9/100: an ocean scene with shells and starfishs on the blue sea background, seamless
+2025-07-28 22:30:00,667 - INFO - Image too low resolution (736x1313), skipping
+2025-07-28 22:30:00,667 - INFO - Downloading image 9/100: an abstract painting with blue and white colors
+2025-07-28 22:30:01,012 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/56/13/c3/5613c3746179385d1e055b8be4e4c249.jpg
+2025-07-28 22:30:01,013 - INFO - Downloading image 9/100: a blue and white striped wallpaper pattern
+2025-07-28 22:30:04,559 - INFO - ✅ Downloaded: 009.jpg (1080x1920)
+2025-07-28 22:30:06,064 - INFO - Downloading image 10/100: the words jesus loves you are written in blue ink
+2025-07-28 22:30:06,478 - INFO - ✅ Downloaded: 010.jpg (1080x1920)
+2025-07-28 22:30:07,983 - INFO - Downloading image 11/100: two pink flowers are shown against a white background
+2025-07-28 22:30:08,014 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:30:08,014 - INFO - Downloading image 11/100: 18.12.2024 - Seamless floral pattern by Bonfloret Studio (dark version) Find & Download Free Graphic Resources for Seamless Pattern Vectors, Stock Photos & PSD files. Batik Flower, Flower Texture Pattern, Floral Seamless Pattern, Mlg Wallpaper, Cute Blue Wallpaper, Pattern Design Inspiration, Seamless Pattern Vector, Phone Wallpaper Patterns, Floral Prints Pattern
+2025-07-28 22:30:08,395 - INFO - Image too low resolution (667x1200), skipping
+2025-07-28 22:30:08,396 - INFO - Downloading image 11/100: a blue watercolor background with flowers on the left and right corner in the middle
+2025-07-28 22:30:08,421 - INFO - Image too low resolution (736x1104), skipping
+2025-07-28 22:30:08,421 - INFO - Downloading image 11/100: blue glass mosaic tiles are arranged in rows
+2025-07-28 22:30:08,744 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/ca/04/4d/ca044d6b61c35015af0397150b97df59.jpg
+2025-07-28 22:30:08,744 - INFO - Downloading image 11/100: two blue and white flowers on a white background with one flower in the foreground
+2025-07-28 22:30:08,831 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:30:08,831 - INFO - Downloading image 11/100: a painting of a house surrounded by flowers
+2025-07-28 22:30:08,954 - INFO - ✅ Downloaded: 011.jpg (960x1878)
+2025-07-28 22:30:10,459 - INFO - Downloading image 12/100: an image of pink flowers on white background
+2025-07-28 22:30:10,886 - INFO - Image too low resolution (600x1200), skipping
+2025-07-28 22:30:10,886 - INFO - Downloading image 12/100: an abstract blue and white image with circles in the middle, on a white background
+2025-07-28 22:30:11,221 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:30:11,222 - INFO - Downloading image 12/100: blue and white leaves on a black background
+2025-07-28 22:30:11,535 - INFO - Image too low resolution (720x1280), skipping
+2025-07-28 22:30:11,535 - INFO - Downloading image 12/100: batik diy art | acrylic painting food
+, kitchen artwork painting
+, kitchen artwork painting
+, acrylic painting kitchen art
+, oil painting food
+, kitchen paintings art wall decor
+, kitchen paintings art wall decor bohemian
+, fruit wall art
+, fruit art print
+, fruit painting prints
+, abstract fruit painting
+, fruit canvas painting
+2025-07-28 22:30:11,865 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/c5/60/6d/c5606db430634d19ec1c3e2143bc88ef.jpg
+2025-07-28 22:30:11,865 - INFO - Downloading image 12/100: pink flowers are floating in the air
+2025-07-28 22:30:11,990 - INFO - Image too low resolution (676x1200), skipping
+2025-07-28 22:30:11,991 - INFO - Downloading image 12/100: some blueberries are flying in the air with watercolors on paper behind them
+2025-07-28 22:30:12,026 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:30:12,026 - INFO - Downloading image 12/100: two iphone screens with the same design on them
+2025-07-28 22:30:12,378 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/e6/44/56/e644564b240466699032ffa7e4eab44c.jpg
+2025-07-28 22:30:12,379 - INFO - Downloading image 12/100: a single blue flower floating in the air
+2025-07-28 22:30:12,675 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:30:12,676 - INFO - Downloading image 12/100: an abstract blue and white painting with wavy lines on the bottom, in front of a white background
+2025-07-28 22:30:12,995 - INFO - Image too low resolution (554x800), skipping
+2025-07-28 22:30:12,996 - INFO - Downloading image 12/100: a red and black animal print fabric
+2025-07-28 22:30:13,415 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:30:13,416 - INFO - Downloading image 12/100: an abstract blue and white pattern
+2025-07-28 22:30:13,884 - INFO - Image too low resolution (460x634), skipping
+2025-07-28 22:30:13,885 - INFO - Downloading image 12/100: an abstract watercolor painting with red and pink colors on it's paper background
+2025-07-28 22:30:13,912 - INFO - Image too low resolution (750x1468), skipping
+2025-07-28 22:30:13,912 - INFO - Downloading image 12/100: an abstract painting with blue and black circles on white paper, which has the word love written in it
+2025-07-28 22:30:14,311 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:30:14,311 - INFO - Downloading image 12/100: a white and blue wallpaper with leaves on the back ground, all in shades of grey
+2025-07-28 22:30:14,341 - INFO - Image too low resolution (700x1244), skipping
+2025-07-28 22:30:14,345 - INFO - Downloading image 12/100: blue and white circles on a white background
+2025-07-28 22:30:14,373 - INFO - Image too low resolution (720x1280), skipping
+2025-07-28 22:30:14,374 - INFO - Downloading image 12/100: an abstract blue and white painting with brush strokes
+2025-07-28 22:30:14,797 - INFO - Image too low resolution (736x1296), skipping
+2025-07-28 22:30:14,798 - INFO - Downloading image 12/100: an abstract painting with blue, yellow and green colors
+2025-07-28 22:30:15,189 - INFO - Image too low resolution (561x1000), skipping
+2025-07-28 22:30:15,190 - INFO - Downloading image 12/100: an abstract painting with blue and green colors
+2025-07-28 22:30:15,274 - INFO - ✅ Downloaded: 012.jpg (1024x2048)
+2025-07-28 22:30:16,779 - INFO - Downloading image 13/100: an abstract blue and white background with wavy lines
+2025-07-28 22:30:17,080 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:30:17,080 - INFO - Downloading image 13/100: a painting of a dolphin and sea animals swimming in the ocean with starfish, seashells, and other marine life
+2025-07-28 22:30:17,111 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:30:17,112 - INFO - Downloading image 13/100: an area rug with blue and green flowers on it
+2025-07-28 22:30:17,459 - INFO - ✅ Downloaded: 013.jpg (841x1280)
+2025-07-28 22:30:18,965 - INFO - Downloading image 14/100: red flowers on a white background with pink and blue petals in the center, all over
+2025-07-28 22:30:19,362 - INFO - Image too low resolution (600x900), skipping
+2025-07-28 22:30:19,363 - INFO - Downloading image 14/100: blue watercolor dots on white background
+2025-07-28 22:30:19,763 - INFO - Image too low resolution (641x1200), skipping
+2025-07-28 22:30:19,763 - INFO - Downloading image 14/100: an abstract blue and white background with small circles in the shape of dots on it
+2025-07-28 22:30:20,211 - INFO - ✅ Downloaded: 014.jpg (1000x1500)
+2025-07-28 22:30:21,716 - INFO - Downloading image 15/100: a painting of a man's head with stars in the background
+2025-07-28 22:30:21,828 - INFO - ✅ Downloaded: 015.jpg (1080x1920)
+2025-07-28 22:30:23,333 - INFO - Downloading image 16/100: an image of a bird flying in the sky
+2025-07-28 22:30:23,390 - INFO - Image too low resolution (540x960), skipping
+2025-07-28 22:30:23,391 - INFO - Downloading image 16/100: an abstract blue and white background with wavy lines
+2025-07-28 22:30:23,676 - INFO - Image too low resolution (500x808), skipping
+2025-07-28 22:30:23,676 - INFO - Downloading image 16/100: the moon and stars are painted on a dark blue background with gold lines around it
+2025-07-28 22:30:23,758 - INFO - ✅ Downloaded: 016.jpg (900x1600)
+2025-07-28 22:30:25,264 - INFO - Downloading image 17/100: an abstract background with wavy lines in brown and white
+2025-07-28 22:30:25,303 - INFO - Image too low resolution (600x1200), skipping
+2025-07-28 22:30:25,304 - INFO - Downloading image 17/100: a blue background with white stars on it
+2025-07-28 22:30:25,652 - INFO - Image too low resolution (744x1200), skipping
+2025-07-28 22:30:25,652 - INFO - Downloading image 17/100: an abstract painting with blue swirls and yellow highlights on it's surface,
+2025-07-28 22:30:26,070 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:30:26,070 - INFO - Downloading image 17/100: an image of a flowery fabric with pink and green flowers on the bottom half
+2025-07-28 22:30:26,556 - INFO - ✅ Downloaded: 017.jpg (1080x1920)
+2025-07-28 22:30:28,061 - INFO - Downloading image 18/100: an abstract painting with blue and white colors
+2025-07-28 22:30:28,416 - INFO - Image too low resolution (490x700), skipping
+2025-07-28 22:30:28,416 - INFO - Downloading image 18/100: a blue and white flower pattern on a white background
+2025-07-28 22:30:28,446 - INFO - Image too low resolution (668x1188), skipping
+2025-07-28 22:30:28,446 - INFO - Downloading image 18/100: Two Screen Wallpaper, Blue Floral Paper, Blue Pastel Wallpaper Aesthetic, Floral Blue Background, Blue Floral Design, Flower Background Blue, Blue Floral Iphone Wallpaper, Blue Wall Art Prints, Aesthetic Wallpaper Ipad Vintage
+2025-07-28 22:30:29,642 - INFO - ✅ Downloaded: 018.jpg (3750x7500)
+2025-07-28 22:30:31,148 - INFO - Downloading image 19/100: an abstract black and white pattern with wavy lines in the center, on a beige background
+2025-07-28 22:30:31,445 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/af/2f/fe/af2ffe4eb8daa5bc2cba4e493b97b2e8.jpg
+2025-07-28 22:30:31,445 - INFO - Downloading image 19/100: blue and white watercolors on paper with small circles in the middle, all over
+2025-07-28 22:30:31,850 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/e9/34/f2/e934f2a76de9cc2657db12cbfeaac2ad.jpg
+2025-07-28 22:30:31,850 - INFO - Downloading image 19/100: a blue and white watercolor herringbone pattern
+2025-07-28 22:30:31,954 - INFO - Image too low resolution (750x1334), skipping
+2025-07-28 22:30:31,954 - INFO - Downloading image 19/100: an overhead view of buildings with windows and balconies on the sides, in front of a blue sky
+2025-07-28 22:30:32,323 - INFO - ✅ Downloaded: 019.jpg (1000x1500)
+2025-07-28 22:30:33,829 - INFO - Downloading image 20/100: the words do what you love written in blue ink on a white background with an image of
+2025-07-28 22:30:33,911 - INFO - Image too low resolution (500x500), skipping
+2025-07-28 22:30:33,911 - INFO - Downloading image 20/100: an abstract painting with pink and red colors
+2025-07-28 22:30:34,274 - INFO - Image too low resolution (474x842), skipping
+2025-07-28 22:30:34,275 - INFO - Downloading image 20/100: an abstract blue and white background with circles
+2025-07-28 22:30:34,310 - INFO - Image too low resolution (750x1200), skipping
+2025-07-28 22:30:34,310 - INFO - Downloading image 20/100: Mesmerizing Blue, Pastel Blue Background Aesthetic, Abstract Wallpaper Aesthetic, Soft Blue Aesthetic Background, Home Screen Wallpapers Blue, Blue Iphone 15 Wallpaper, Iphone Background Blue, Blueish Grey Aesthetic, Ice Blue Wallpaper
+2025-07-28 22:30:34,392 - INFO - ✅ Downloaded: 020.jpg (1170x2340)
+2025-07-28 22:30:35,897 - INFO - Downloading image 21/100: a colorful butterfly flying through the air on top of a pink, blue and purple background
+2025-07-28 22:30:35,925 - INFO - Image too low resolution (736x1313), skipping
+2025-07-28 22:30:35,925 - INFO - Downloading image 21/100: an image of a colorful pattern made up of many different squares and circles, all in various colors
+2025-07-28 22:30:36,387 - INFO - Image too low resolution (750x1334), skipping
+2025-07-28 22:30:36,387 - INFO - Download complete! 20 images processed
+2025-07-28 22:30:36,387 - INFO - 
+🔧 Phase 3: Generating APIs and pagination...
+2025-07-28 22:30:36,387 - INFO - Generating APIs for category: patterns
+2025-07-28 22:30:36,388 - INFO - Running API generation script...
+2025-07-28 22:30:37,268 - INFO - ✅ API generation completed successfully
+2025-07-28 22:30:37,270 - INFO - Summary saved: /Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/pinterest_scrape_summary_patterns.json
+2025-07-28 22:30:37,270 - INFO - 🎉 Pipeline completed successfully!
+2025-07-28 22:33:44,608 - INFO - ====== WebDriver manager ======
+2025-07-28 22:33:44,837 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-28 22:33:44,895 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-28 22:33:44,944 - INFO - Driver [/Users/dharamdhurandhar/.wdm/drivers/chromedriver/mac64/138.0.7204.168/chromedriver-mac-arm64/chromedriver] found in cache
+2025-07-28 22:33:46,275 - INFO - Browser setup complete
+2025-07-28 22:33:46,275 - INFO - 🚀 Starting Pinterest API Scraper Pipeline
+2025-07-28 22:34:19,822 - INFO - 📌 URL: https://www.pinterest.com/pin/492649954182152
+2025-07-28 22:34:19,825 - INFO - 📂 Category: patterns
+2025-07-28 22:34:19,825 - INFO - 🔢 Quantity: 50
+2025-07-28 22:34:19,826 - INFO - 
+🔍 Phase 1: Scraping Pinterest...
+2025-07-28 22:34:19,828 - INFO - Starting Pinterest scrape from: https://www.pinterest.com/pin/492649954182152
+2025-07-28 22:34:25,898 - INFO - Scroll 1/15 - Pins found: 0
+2025-07-28 22:34:26,037 - INFO - Found 7 new pins this scroll
+2025-07-28 22:34:31,072 - INFO - Scroll 2/15 - Pins found: 7
+2025-07-28 22:34:32,247 - INFO - Found 32 new pins this scroll
+2025-07-28 22:34:37,457 - INFO - Scroll 3/15 - Pins found: 39
+2025-07-28 22:34:38,279 - INFO - Found 30 new pins this scroll
+2025-07-28 22:34:43,532 - INFO - Pinterest scraping complete! Found 50 pins
+2025-07-28 22:34:43,533 - INFO - 
+⬇️  Phase 2: Downloading 50 images...
+2025-07-28 22:34:43,533 - INFO - Starting download of 50 images for category: patterns
+2025-07-28 22:34:43,538 - INFO - Downloading image 1/50: Flower Patterns for Timeless Creations
+2025-07-28 22:34:44,053 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:34:44,053 - INFO - Downloading image 1/50: an orange and black flower pattern on a white background with blue leaves in the foreground
+2025-07-28 22:34:44,330 - INFO - Image too low resolution (551x980), skipping
+2025-07-28 22:34:44,330 - INFO - Downloading image 1/50: red, white and blue flowers with leaves on a white background seamless wallpaper
+2025-07-28 22:34:44,717 - INFO - ✅ Downloaded: 021.jpg (980x1742)
+2025-07-28 22:34:46,222 - INFO - Downloading image 2/50: black and white leaves on a beige background
+2025-07-28 22:34:46,258 - INFO - Image too low resolution (500x1000), skipping
+2025-07-28 22:34:46,258 - INFO - Downloading image 2/50: an abstract painting of mountains and waves in the blue sky with white swirls on them
+2025-07-28 22:34:46,380 - INFO - ✅ Downloaded: 022.jpg (1500x3000)
+2025-07-28 22:34:47,885 - INFO - Downloading image 3/50: an orange and gray flower pattern on a white background
+2025-07-28 22:34:48,364 - INFO - ✅ Downloaded: 023.jpg (850x1500)
+2025-07-28 22:34:49,870 - INFO - Downloading image 4/50: an abstract floral pattern with pink, blue and purple flowers on a white background in pastel colors
+2025-07-28 22:34:50,683 - INFO - ✅ Downloaded: 024.jpg (2296x4096)
+2025-07-28 22:34:52,189 - INFO - Downloading image 5/50: 15 Eye-Catching Pattern Styles to Elevate Your Projects
+2025-07-28 22:34:52,637 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:34:52,638 - INFO - Downloading image 5/50: an image of coffee beans and leaves on a white background with teal green leaves
+2025-07-28 22:34:52,668 - INFO - Image too low resolution (735x1200), skipping
+2025-07-28 22:34:52,668 - INFO - Downloading image 5/50: a black and red striped wallpaper with an abstract design
+2025-07-28 22:34:53,014 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:34:53,014 - INFO - Downloading image 5/50: a painting of white daisies in front of a yellow and teal colored background
+2025-07-28 22:34:53,042 - INFO - Image too low resolution (768x1024), skipping
+2025-07-28 22:34:53,042 - INFO - Downloading image 5/50: a blue flower on an orange background
+2025-07-28 22:34:53,081 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:34:53,082 - INFO - Downloading image 5/50: an abstract painting with black, pink, orange and blue shapes on it's surface
+2025-07-28 22:34:53,145 - INFO - ✅ Downloaded: 025.jpg (816x1456)
+2025-07-28 22:34:54,650 - INFO - Downloading image 6/50: an image of colorful flowers on a white background with green leaves and pink, purple, orange and yellow flowers
+2025-07-28 22:34:55,137 - INFO - ✅ Downloaded: 026.jpg (1200x2133)
+2025-07-28 22:34:56,641 - INFO - Downloading image 7/50: a green and white flower pattern with orange centers
+2025-07-28 22:34:57,060 - INFO - ✅ Downloaded: 027.jpg (1080x1919)
+2025-07-28 22:34:58,566 - INFO - Downloading image 8/50: an abstract pattern with gold and white circles
+2025-07-28 22:34:58,597 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:34:58,597 - INFO - Downloading image 8/50: watercolor painting of lemons and blueberries on white paper
+2025-07-28 22:34:58,669 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:34:58,669 - INFO - Downloading image 8/50: a blue background with yellow and white flowers
+2025-07-28 22:34:59,157 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:34:59,162 - INFO - Downloading image 8/50: a black and white floral pattern with the words dress to kill
+2025-07-28 22:34:59,691 - INFO - ✅ Downloaded: 028.jpg (1080x1920)
+2025-07-28 22:35:01,193 - INFO - Downloading image 9/50: an image of a painting with trees and buildings in the background on a beige background
+2025-07-28 22:35:01,427 - INFO - ✅ Downloaded: 029.jpg (2000x3000)
+2025-07-28 22:35:02,931 - INFO - Downloading image 10/50: a blue and white striped wallpaper with flowers
+2025-07-28 22:35:03,011 - INFO - Image too low resolution (600x1137), skipping
+2025-07-28 22:35:03,011 - INFO - Downloading image 10/50: an illustration of a dress on a yellow background
+2025-07-28 22:35:03,329 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/27/ab/e1/27abe1ce61f3b8b24344c953b278e1c4.jpg
+2025-07-28 22:35:03,330 - INFO - Downloading image 10/50: a blue and white tile with flowers on it
+2025-07-28 22:35:03,428 - INFO - Image too low resolution (800x1119), skipping
+2025-07-28 22:35:03,428 - INFO - Downloading image 10/50: an abstract painting with red and pink colors
+2025-07-28 22:35:03,467 - INFO - Image too low resolution (736x1472), skipping
+2025-07-28 22:35:03,467 - INFO - Downloading image 10/50: a green background with yellow sun designs on it
+2025-07-28 22:35:03,786 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/a5/6a/66/a56a66b756107df6c3ed2113a55e984b.jpg
+2025-07-28 22:35:03,786 - INFO - Downloading image 10/50: an illustration of flowers and leaves in different colors
+2025-07-28 22:35:04,138 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/f7/f4/36/f7f436bbd0385f59ed92f848405f2281.jpg
+2025-07-28 22:35:04,138 - INFO - Downloading image 10/50: the night sky is filled with clouds and stars
+2025-07-28 22:35:04,257 - INFO - ✅ Downloaded: 030.jpg (1024x2048)
+2025-07-28 22:35:05,762 - INFO - Downloading image 11/50: three elephants with intricate designs on red background, one in gold and the other in white
+2025-07-28 22:35:06,063 - INFO - Image too low resolution (736x733), skipping
+2025-07-28 22:35:06,063 - INFO - Downloading image 11/50: a black and white drawing of a flower with leaves on the bottom right hand corner
+2025-07-28 22:35:06,161 - INFO - ✅ Downloaded: 031.jpg (1080x1920)
+2025-07-28 22:35:07,667 - INFO - Downloading image 12/50: a brown and white animal print pattern
+2025-07-28 22:35:08,386 - INFO - ✅ Downloaded: 032.jpg (2304x4096)
+2025-07-28 22:35:09,891 - INFO - Downloading image 13/50: a blue background with white and red flowers
+2025-07-28 22:35:10,231 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/4a/69/a5/4a69a55859ae31c02c2ea7d53ef89804.jpg
+2025-07-28 22:35:10,231 - INFO - Downloading image 13/50: a black cat is holding a coffee cup in its paws and wearing a stripped shirt
+2025-07-28 22:35:10,338 - INFO - ✅ Downloaded: 033.jpg (1080x1427)
+2025-07-28 22:35:11,843 - INFO - Downloading image 14/50: the wild soul logo with sunflowers and leaves on it's back side
+2025-07-28 22:35:11,872 - INFO - Image too low resolution (736x981), skipping
+2025-07-28 22:35:11,872 - INFO - Downloading image 14/50: green leaves and white flowers on a dark background
+2025-07-28 22:35:12,239 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:35:12,239 - INFO - Downloading image 14/50: an animal print pattern in black and white
+2025-07-28 22:35:12,303 - INFO - Image too low resolution (736x1313), skipping
+2025-07-28 22:35:12,303 - INFO - Downloading image 14/50: a floral wallpaper with pink and purple flowers
+2025-07-28 22:35:12,787 - INFO - ✅ Downloaded: 034.jpg (1080x1920)
+2025-07-28 22:35:14,292 - INFO - Downloading image 15/50: a bunch of cats that are standing up in the air with hearts and paw prints on them
+2025-07-28 22:35:14,651 - INFO - ✅ Downloaded: 035.jpg (1417x2523)
+2025-07-28 22:35:16,171 - INFO - Downloading image 16/50: an orange and blue flower pattern on a white background
+2025-07-28 22:35:16,755 - INFO - ✅ Downloaded: 036.jpg (4167x6251)
+2025-07-28 22:35:18,259 - INFO - Downloading image 17/50: the night sky is full of stars and swirly blue waves with gold stars on them
+2025-07-28 22:35:18,361 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:35:18,361 - INFO - Downloading image 17/50: Floral Patterns for Modern Creations
+2025-07-28 22:35:18,761 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:35:18,761 - INFO - Downloading image 17/50: Pinterest Image 1
+2025-07-28 22:35:18,844 - INFO - ✅ Downloaded: 037.jpg (1024x2048)
+2025-07-28 22:35:20,349 - INFO - Downloading image 18/50: a blue bird sitting on top of a tree branch next to lemons and flowers
+2025-07-28 22:35:20,426 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:35:20,426 - INFO - Downloading image 18/50: an eye is shown in the center of a black and white pattern with swirls
+2025-07-28 22:35:20,903 - INFO - ✅ Downloaded: 038.jpg (1080x1920)
+2025-07-28 22:35:22,408 - INFO - Downloading image 19/50: a blue and gold leafy pattern with white leaves on the bottom right hand corner
+2025-07-28 22:35:22,767 - INFO - Image too low resolution (564x846), skipping
+2025-07-28 22:35:22,768 - INFO - Downloading image 19/50: a white cat sleeping on top of a purple and pink background with leaves in the foreground
+2025-07-28 22:35:23,058 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/59/8f/e3/598fe3e2e37e1fe090aadc5a495184d9.jpg
+2025-07-28 22:35:23,061 - INFO - Downloading image 19/50: a blue background with red cherries and leaves on the branches, all in different colors
+2025-07-28 22:35:23,676 - INFO - ✅ Downloaded: 039.jpg (1632x2912)
+2025-07-28 22:35:25,181 - INFO - Downloading image 20/50: an animal print pattern is shown in different colors and sizes, including brown, black, white
+2025-07-28 22:35:25,704 - INFO - Image too low resolution (474x814), skipping
+2025-07-28 22:35:25,705 - INFO - Downloading image 20/50: an illustration of flowers and leaves on a beige background with black, orange, white and grey colors
+2025-07-28 22:35:26,009 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/be/02/01/be02015322aada0d035865a840c1d2b5.jpg
+2025-07-28 22:35:26,011 - INFO - Downloading image 20/50: Pinterest Image 9
+2025-07-28 22:35:26,130 - INFO - Image too low resolution (701x1000), skipping
+2025-07-28 22:35:26,130 - INFO - Downloading image 20/50: Unlock access to Premium content, AI, powerful design tools, and more. Compare Free, Premium, and Premium+ plans now to find your perfect fit!
+2025-07-28 22:35:26,476 - INFO - Image too low resolution (417x626), skipping
+2025-07-28 22:35:26,476 - INFO - Download complete! 19 images processed
+2025-07-28 22:35:26,476 - INFO - 
+🔧 Phase 3: Generating APIs and pagination...
+2025-07-28 22:35:26,476 - INFO - Generating APIs for category: patterns
+2025-07-28 22:35:26,477 - INFO - Running API generation script...
+2025-07-28 22:35:27,440 - INFO - ✅ API generation completed successfully
+2025-07-28 22:35:27,441 - INFO - Summary saved: /Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/pinterest_scrape_summary_patterns.json
+2025-07-28 22:35:27,441 - INFO - 🎉 Pipeline completed successfully!
+2025-07-28 22:35:44,730 - INFO - ====== WebDriver manager ======
+2025-07-28 22:35:44,958 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-28 22:35:45,014 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-28 22:35:45,058 - INFO - Driver [/Users/dharamdhurandhar/.wdm/drivers/chromedriver/mac64/138.0.7204.168/chromedriver-mac-arm64/chromedriver] found in cache
+2025-07-28 22:35:46,451 - INFO - Browser setup complete
+2025-07-28 22:35:46,451 - INFO - 🚀 Starting Pinterest API Scraper Pipeline
+2025-07-28 22:35:54,773 - INFO - 📌 URL: https://www.pinterest.com/pin/15199717490600217
+2025-07-28 22:35:54,773 - INFO - 📂 Category: patterns
+2025-07-28 22:35:54,773 - INFO - 🔢 Quantity: 100
+2025-07-28 22:35:54,774 - INFO - 
+🔍 Phase 1: Scraping Pinterest...
+2025-07-28 22:35:54,774 - INFO - Starting Pinterest scrape from: https://www.pinterest.com/pin/15199717490600217
+2025-07-28 22:36:01,031 - INFO - Scroll 1/15 - Pins found: 0
+2025-07-28 22:36:01,221 - INFO - Found 7 new pins this scroll
+2025-07-28 22:36:06,248 - INFO - Scroll 2/15 - Pins found: 7
+2025-07-28 22:36:06,708 - INFO - Found 28 new pins this scroll
+2025-07-28 22:36:11,822 - INFO - Scroll 3/15 - Pins found: 35
+2025-07-28 22:36:12,392 - INFO - Found 30 new pins this scroll
+2025-07-28 22:36:17,594 - INFO - Scroll 4/15 - Pins found: 65
+2025-07-28 22:36:18,235 - INFO - Found 32 new pins this scroll
+2025-07-28 22:36:23,269 - INFO - Scroll 5/15 - Pins found: 97
+2025-07-28 22:36:24,111 - INFO - Found 33 new pins this scroll
+2025-07-28 22:36:29,145 - INFO - Pinterest scraping complete! Found 100 pins
+2025-07-28 22:36:29,146 - INFO - 
+⬇️  Phase 2: Downloading 100 images...
+2025-07-28 22:36:29,146 - INFO - Starting download of 100 images for category: patterns
+2025-07-28 22:36:29,147 - INFO - Downloading image 1/100: an abstract painting with black, yellow and red colors on it's surface is shown
+2025-07-28 22:36:29,486 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/26/18/02/261802db444f92ccaf0e463aca836d1d.jpg
+2025-07-28 22:36:29,486 - INFO - Downloading image 1/100: High-resolution floral motif ✨ Great for fabric printing, embroidery, and digital art ✨ Trendy, aesthetic, and versatile 📌 Save this pin for your next creative project! #TextileDigitalFlower   #DigitalFloralDesign   #FloralTextilePattern   #SeamlessFlowerPrint   #BotanicalFabricDesign   #AIFlowerPattern   #FabricPrintDesign   #TextileSurfaceDesign   #AllOverFloralPrint   #FashionFabricPattern   #FloralIllustrationArt
+2025-07-28 22:36:29,996 - INFO - ✅ Downloaded: 040.jpg (816x1451)
+2025-07-28 22:36:31,501 - INFO - Downloading image 2/100: a painting of pomegranates and lemon slices on a white background with green leaves
+2025-07-28 22:36:32,504 - INFO - ✅ Downloaded: 041.jpg (885x1350)
+2025-07-28 22:36:34,010 - INFO - Downloading image 3/100: a bunch of flowers that are on a black background with red, yellow and white flowers
+2025-07-28 22:36:34,337 - INFO - Image too low resolution (736x1313), skipping
+2025-07-28 22:36:34,337 - INFO - Downloading image 3/100: an intricately designed wallpaper with colorful designs
+2025-07-28 22:36:34,418 - INFO - Image too low resolution (736x1450), skipping
+2025-07-28 22:36:34,419 - INFO - Downloading image 3/100: a close up view of some colorful glass mosaic tiles with different colors and shapes on them
+2025-07-28 22:36:34,438 - INFO - Image too low resolution (564x1002), skipping
+2025-07-28 22:36:34,439 - INFO - Downloading image 3/100: pomegranates and leaves on a pink background with gold flecks
+2025-07-28 22:36:34,512 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:36:34,512 - INFO - Downloading image 3/100: a painting of a woman surrounded by tropical leaves and flowers, with her eyes closed
+2025-07-28 22:36:34,643 - INFO - ✅ Downloaded: 042.jpg (1080x1920)
+2025-07-28 22:36:36,148 - INFO - Downloading image 4/100: many water lilies floating on top of each other
+2025-07-28 22:36:36,234 - INFO - Image too low resolution (673x1200), skipping
+2025-07-28 22:36:36,235 - INFO - Downloading image 4/100: an image of flowers that are in the dark blue background with orange and pink colors
+2025-07-28 22:36:36,360 - INFO - ✅ Downloaded: 043.jpg (2411x4381)
+2025-07-28 22:36:37,861 - INFO - Downloading image 5/100: a painting of pink flowers on a yellow and blue background
+2025-07-28 22:36:38,162 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/5c/2b/a5/5c2ba58a06f72075290a4dc5a6b9c91f.jpg
+2025-07-28 22:36:38,162 - INFO - Downloading image 5/100: three flowers are shown in the dark with pink and orange petals on it's stems
+2025-07-28 22:36:38,236 - INFO - Image too low resolution (474x842), skipping
+2025-07-28 22:36:38,236 - INFO - Downloading image 5/100: an image of some flowers on a black background with red, blue and green leaves
+2025-07-28 22:36:38,563 - INFO - ✅ Downloaded: 044.jpg (800x1200)
+2025-07-28 22:36:40,068 - INFO - Downloading image 6/100: limes and leaves are depicted in this artistic painting
+2025-07-28 22:36:40,154 - INFO - ✅ Downloaded: 045.jpg (994x1767)
+2025-07-28 22:36:41,659 - INFO - Downloading image 7/100: #wallpaperforyourphone #4kwallpape #wallpapergoals 
+2025-07-28 22:36:41,779 - INFO - ✅ Downloaded: 046.jpg (1080x1920)
+2025-07-28 22:36:43,284 - INFO - Downloading image 8/100: three different colored flowers on a black background
+2025-07-28 22:36:43,446 - INFO - ✅ Downloaded: 047.jpg (2048x4096)
+2025-07-28 22:36:44,951 - INFO - Downloading image 9/100: an image of colorful leaves on black background
+2025-07-28 22:36:45,129 - INFO - ✅ Downloaded: 048.jpg (2296x4096)
+2025-07-28 22:36:46,630 - INFO - Downloading image 10/100: a painting of people standing in front of trees and buildings with umbrellas over them
+2025-07-28 22:36:46,918 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/8c/91/50/8c91504bc8185cb1f466b25d0dbf2b84.jpg
+2025-07-28 22:36:46,919 - INFO - Downloading image 10/100: a painting of a woman with leaves on her head and the sun in the background
+2025-07-28 22:36:47,047 - INFO - ✅ Downloaded: 049.jpg (816x1451)
+2025-07-28 22:36:48,550 - INFO - Downloading image 11/100: an abstract painting with leaves and plants on it
+2025-07-28 22:36:48,633 - INFO - ✅ Downloaded: 050.jpg (816x1455)
+2025-07-28 22:36:50,139 - INFO - Downloading image 12/100: three red and one orange flowers in front of a white background with the petals turned upside down
+2025-07-28 22:36:50,169 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:36:50,169 - INFO - Downloading image 12/100: an orange and red moon is in the sky over some trees with leaves on it
+2025-07-28 22:36:50,459 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/16/bc/68/16bc6826fcd33fc5c1579ffa8c45ad59.jpg
+2025-07-28 22:36:50,459 - INFO - Downloading image 12/100: purple and blue flowers on a black background with hearts in the center, surrounded by leaves
+2025-07-28 22:36:50,796 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/cb/7a/1c/cb7a1c825db914403d39e11a4d1a1ab6.jpg
+2025-07-28 22:36:50,796 - INFO - Downloading image 12/100: a painting of a house surrounded by flowers
+2025-07-28 22:36:50,924 - INFO - ✅ Downloaded: 051.jpg (960x1878)
+2025-07-28 22:36:52,429 - INFO - Downloading image 13/100: an artistic painting of a woman's face with red, blue and gold makeup
+2025-07-28 22:36:52,513 - INFO - ✅ Downloaded: 052.jpg (1079x2025)
+2025-07-28 22:36:54,018 - INFO - Downloading image 14/100: Floral Patterns for Glamorous Designs
+2025-07-28 22:36:54,118 - INFO - ✅ Downloaded: 053.jpg (1620x2880)
+2025-07-28 22:36:55,623 - INFO - Downloading image 15/100: Pinterest Image 19
+2025-07-28 22:36:55,650 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:36:55,650 - INFO - Downloading image 15/100: some blue flowers on a black background
+2025-07-28 22:36:56,239 - INFO - ✅ Downloaded: 054.jpg (1080x1920)
+2025-07-28 22:36:57,739 - INFO - Downloading image 16/100: a black cat surrounded by yellow sunflowers
+2025-07-28 22:36:58,045 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/1e/8e/e9/1e8ee9a13e3c2768ac849b60d2ac71db.jpg
+2025-07-28 22:36:58,045 - INFO - Downloading image 16/100: some pink and white flowers are in a vase
+2025-07-28 22:36:58,381 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/88/3d/f5/883df5ddc6487291e21eecb2a0d5ab31.jpg
+2025-07-28 22:36:58,381 - INFO - Downloading image 16/100: an oil painting of colorful flowers on a black background
+2025-07-28 22:36:58,767 - INFO - Image too low resolution (361x640), skipping
+2025-07-28 22:36:58,767 - INFO - Downloading image 16/100: Pinterest Image 24
+2025-07-28 22:36:59,259 - INFO - Image too low resolution (610x900), skipping
+2025-07-28 22:36:59,260 - INFO - Downloading image 16/100: an orange and white flower pattern on a light blue background
+2025-07-28 22:36:59,545 - INFO - Image too low resolution (736x1313), skipping
+2025-07-28 22:36:59,545 - INFO - Downloading image 16/100: a painting of a tree with red flowers and mountains in the background, under a cloudy sky
+2025-07-28 22:36:59,651 - INFO - ✅ Downloaded: 055.jpg (1080x1920)
+2025-07-28 22:37:01,157 - INFO - Downloading image 17/100: an abstract painting with leaves on it
+2025-07-28 22:37:01,201 - INFO - Image too low resolution (673x1200), skipping
+2025-07-28 22:37:01,202 - INFO - Downloading image 17/100: an abstract painting of a butterfly flying through the air
+2025-07-28 22:37:01,235 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:37:01,235 - INFO - Downloading image 17/100: an abstract painting with wavy lines and colors
+2025-07-28 22:37:01,527 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/5a/66/88/5a6688c0200eb87d879720af74b2577b.jpg
+2025-07-28 22:37:01,528 - INFO - Downloading image 17/100: sunflowers are painted on a blue and white background with swirly clouds in the background
+2025-07-28 22:37:01,585 - INFO - Image too low resolution (720x1280), skipping
+2025-07-28 22:37:01,585 - INFO - Downloading image 17/100: a painting of a koi fish on a red background
+2025-07-28 22:37:01,680 - INFO - ✅ Downloaded: 056.jpg (1200x2133)
+2025-07-28 22:37:03,185 - INFO - Downloading image 18/100: an abstract green and white background with wavy lines
+2025-07-28 22:37:03,223 - INFO - Image too low resolution (768x1536), skipping
+2025-07-28 22:37:03,223 - INFO - Downloading image 18/100: a painting of pink and purple flowers on a black background
+2025-07-28 22:37:03,526 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/74/bd/97/74bd9740e7c1618a7b6f4a7b7a63776f.jpg
+2025-07-28 22:37:03,526 - INFO - Downloading image 18/100: an abstract painting with red, yellow and orange leaves on black background that is painted in acrylic paint
+2025-07-28 22:37:04,034 - INFO - ✅ Downloaded: 057.jpg (1080x1920)
+2025-07-28 22:37:05,539 - INFO - Downloading image 19/100: an orange and black flower is in the middle of a pattern on a white background
+2025-07-28 22:37:05,928 - INFO - Image too low resolution (600x1200), skipping
+2025-07-28 22:37:05,929 - INFO - Downloading image 19/100: a painting of birds perched on branches with flowers
+2025-07-28 22:37:05,961 - INFO - Image too low resolution (641x960), skipping
+2025-07-28 22:37:05,962 - INFO - Downloading image 19/100: an abstract painting with trees and clouds in the background
+2025-07-28 22:37:06,339 - INFO - ✅ Downloaded: 058.jpg (1080x1364)
+2025-07-28 22:37:07,843 - INFO - Downloading image 20/100: a painting with flowers and leaves painted on the side of a black boarderboard
+2025-07-28 22:37:07,915 - INFO - ✅ Downloaded: 059.jpg (873x1583)
+2025-07-28 22:37:09,421 - INFO - Downloading image 21/100: a woman with an orange flower on her head
+2025-07-28 22:37:09,448 - INFO - Image too low resolution (736x1104), skipping
+2025-07-28 22:37:09,448 - INFO - Downloading image 21/100: some white flowers and green leaves on a black background with gold glitters in the dark
+2025-07-28 22:37:09,756 - INFO - ✅ Downloaded: 060.jpg (816x1440)
+2025-07-28 22:37:11,261 - INFO - Downloading image 22/100: an octopus with red flowers on it's head and tentacles in the water, surrounded by clouds
+2025-07-28 22:37:11,304 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:37:11,304 - INFO - Downloading image 22/100: a bird sitting on top of a tree filled with flowers
+2025-07-28 22:37:11,597 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/26/e0/d8/26e0d81cad71ebdf42741dba3487b811.jpg
+2025-07-28 22:37:11,597 - INFO - Downloading image 22/100: a painting of leaves in front of a full moon with the sun setting behind them
+2025-07-28 22:37:11,923 - INFO - Image too low resolution (736x1104), skipping
+2025-07-28 22:37:11,924 - INFO - Downloading image 22/100: a painting of a horse with blue manes and flowers on it's back
+2025-07-28 22:37:12,319 - INFO - ✅ Downloaded: 061.jpg (960x1280)
+2025-07-28 22:37:13,824 - INFO - Downloading image 23/100: a bouquet of flowers on a purple background with green leaves and red, pink, orange, yellow and blue colors
+2025-07-28 22:37:14,176 - INFO - Image too low resolution (736x1308), skipping
+2025-07-28 22:37:14,176 - INFO - Downloading image 23/100: three blue flowers are in the air
+2025-07-28 22:37:14,210 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:37:14,211 - INFO - Downloading image 23/100: an abstract painting with gold, black and red circles on the top of each circle
+2025-07-28 22:37:14,292 - INFO - ✅ Downloaded: 062.jpg (816x1451)
+2025-07-28 22:37:15,796 - INFO - Downloading image 24/100: an abstract floral design with brown and tan flowers on a beige wallpapered background
+2025-07-28 22:37:16,084 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/0d/72/8d/0d728df8ab9d75d86e1cac4029b8ead6.jpg
+2025-07-28 22:37:16,084 - INFO - Downloading image 24/100: pink and green flowers on black background
+2025-07-28 22:37:16,522 - INFO - Image too low resolution (720x1280), skipping
+2025-07-28 22:37:16,523 - INFO - Downloading image 24/100: a painting of a flower on a purple background
+2025-07-28 22:37:16,602 - INFO - ✅ Downloaded: 063.jpg (1080x1920)
+2025-07-28 22:37:18,111 - INFO - Downloading image 25/100: two bees are flying over some pink flowers
+2025-07-28 22:37:18,231 - INFO - ✅ Downloaded: 064.jpg (1080x1883)
+2025-07-28 22:37:19,736 - INFO - Downloading image 26/100: red and pink flowers on a black background
+2025-07-28 22:37:20,042 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/f0/f6/e9/f0f6e99a4f1cc2558f16372bb5d4b9fb.jpg
+2025-07-28 22:37:20,043 - INFO - Downloading image 26/100: a bunch of red flowers on a black background
+2025-07-28 22:37:20,183 - INFO - ✅ Downloaded: 065.jpg (1080x1920)
+2025-07-28 22:37:21,688 - INFO - Downloading image 27/100: an abstract painting with green, orange and white colors on black paper in the shape of waves
+2025-07-28 22:37:21,992 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/e4/a7/9f/e4a79f229e9adbf36c0d1b687ebfe818.jpg
+2025-07-28 22:37:21,992 - INFO - Downloading image 27/100: a tiger is walking through some leaves
+2025-07-28 22:37:22,546 - INFO - ✅ Downloaded: 066.jpg (1080x1920)
+2025-07-28 22:37:24,051 - INFO - Downloading image 28/100: a rabbit wearing sunglasses and a dress
+2025-07-28 22:37:24,493 - INFO - Image too low resolution (768x1152), skipping
+2025-07-28 22:37:24,493 - INFO - Downloading image 28/100: an abstract painting of flowers and leaves on a black background with red, orange, white and green colors
+2025-07-28 22:37:24,619 - INFO - ✅ Downloaded: 067.jpg (1080x1920)
+2025-07-28 22:37:26,121 - INFO - Downloading image 29/100: a bird sitting on top of pink flowers
+2025-07-28 22:37:26,450 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/4f/bb/69/4fbb69393c2b0a45b32b3cf93a9e32e7.jpg
+2025-07-28 22:37:26,451 - INFO - Downloading image 29/100: an abstract painting with flowers and leaves on it
+2025-07-28 22:37:31,864 - INFO - ✅ Downloaded: 068.jpg (1080x1920)
+2025-07-28 22:37:33,365 - INFO - Downloading image 30/100: Free Pattern Design: Modern Floral Printable Art
+2025-07-28 22:37:33,769 - INFO - Image too low resolution (768x1344), skipping
+2025-07-28 22:37:33,769 - INFO - Downloading image 30/100: black and white leaves on a beige background
+2025-07-28 22:37:33,812 - INFO - Image too low resolution (500x1000), skipping
+2025-07-28 22:37:33,812 - INFO - Downloading image 30/100: an image of birds flying in the air with leaves and flowers on it's back
+2025-07-28 22:37:34,115 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/32/40/1b/32401b85281c1ddea8488e9d1c44ffc3.jpg
+2025-07-28 22:37:34,115 - INFO - Downloading image 30/100: an abstract painting with black, yellow, pink, and green leaves on a white background
+2025-07-28 22:37:34,438 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/6c/1c/f8/6c1cf88d8a011c8762c9b0f1ba7bf08a.jpg
+2025-07-28 22:37:34,438 - INFO - Downloading image 30/100: a bunch of fruit that are on top of a green leafy surface with oranges, strawberries, lemons and cranberries
+2025-07-28 22:37:34,502 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:37:34,502 - INFO - Downloading image 30/100: an image of flowers that are painted in different colors
+2025-07-28 22:37:35,031 - INFO - ✅ Downloaded: 069.jpg (1536x3072)
+2025-07-28 22:37:36,537 - INFO - Downloading image 31/100: an ornate wallpaper pattern with flowers and leaves on black background, suitable for use in interior
+2025-07-28 22:37:36,832 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/eb/ff/ca/ebffcaa882656c0a3c69ca221326f132.jpg
+2025-07-28 22:37:36,832 - INFO - Downloading image 31/100: three different colored flowers on a beige background, one is purple and the other is orange
+2025-07-28 22:37:36,919 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:37:36,919 - INFO - Downloading image 31/100: a painting of a donkey in pink and black with mazes on it's face
+2025-07-28 22:37:37,355 - INFO - ✅ Downloaded: 070.jpg (896x1344)
+2025-07-28 22:37:38,861 - INFO - Downloading image 32/100: Pinterest Image 11
+2025-07-28 22:37:39,380 - INFO - ✅ Downloaded: 071.jpg (1080x1920)
+2025-07-28 22:37:40,886 - INFO - Downloading image 33/100: an abstract painting of red flowers and leaves
+2025-07-28 22:37:40,917 - INFO - Image too low resolution (736x1312), skipping
+2025-07-28 22:37:40,917 - INFO - Downloading image 33/100: a painting of a woman with flowers in her hair and the face is surrounded by leaves
+2025-07-28 22:37:41,275 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/e2/57/90/e25790cc433e8b689e471d36484017ae.jpg
+2025-07-28 22:37:41,275 - INFO - Downloading image 33/100: an artistic painting with flowers and swirls on the bottom, in blue, orange and yellow colors
+2025-07-28 22:37:41,826 - INFO - Image too low resolution (768x1536), skipping
+2025-07-28 22:37:41,826 - INFO - Downloading image 33/100: a painting of white flowers and green leaves on a black background with gold foiling
+2025-07-28 22:37:42,173 - INFO - ✅ Downloaded: 072.jpg (816x1440)
+2025-07-28 22:37:43,678 - INFO - Downloading image 34/100: Pinterest Image 16
+2025-07-28 22:37:43,748 - INFO - Image too low resolution (676x1200), skipping
+2025-07-28 22:37:43,749 - INFO - Downloading image 34/100: red mushrooms and green leaves on a black background
+2025-07-28 22:37:44,253 - INFO - ✅ Downloaded: 073.jpg (896x1344)
+2025-07-28 22:37:45,755 - INFO - Downloading image 35/100: Pinterest Image 18
+2025-07-28 22:37:45,819 - INFO - Image too low resolution (675x1200), skipping
+2025-07-28 22:37:45,819 - INFO - Downloading image 35/100: an orange and black painting with circles on it
+2025-07-28 22:37:46,250 - INFO - Image too low resolution (715x1200), skipping
+2025-07-28 22:37:46,250 - INFO - Downloading image 35/100: a painting of a cactus in front of an orange, blue and green background with circles
+2025-07-28 22:37:46,680 - INFO - ✅ Downloaded: 074.jpg (800x1200)
+2025-07-28 22:37:48,185 - INFO - Downloading image 36/100: an abstract painting of blue flowers and leaves
+2025-07-28 22:37:48,521 - INFO - ✅ Downloaded: 075.jpg (1080x1920)
+2025-07-28 22:37:50,021 - INFO - Downloading image 37/100: two pink flowers are in a vase on a blue and green background with an abstract pattern
+2025-07-28 22:37:50,129 - INFO - ✅ Downloaded: 076.jpg (822x1462)
+2025-07-28 22:37:51,634 - INFO - Downloading image 38/100: an abstract painting of flowers with leaves and petals on the stems, against a black background
+2025-07-28 22:37:51,923 - INFO - Image too low resolution (768x1365), skipping
+2025-07-28 22:37:51,924 - INFO - Downloading image 38/100: a red and white flower with leaves on the bottom, is shown in this image
+2025-07-28 22:37:52,212 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/9e/97/67/9e97670b465381c25e9debae7477c48f.jpg
+2025-07-28 22:37:52,212 - INFO - Downloading image 38/100: a bunch of colorful flowers that are in the middle of some leaves and one flower is on top of another
+2025-07-28 22:37:52,302 - INFO - Image too low resolution (736x1313), skipping
+2025-07-28 22:37:52,303 - INFO - Downloading image 38/100: an image of buddha sitting in the lotus position
+2025-07-28 22:37:52,591 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/e0/3f/a8/e03fa8d6224ee433dd5e1483949cdc06.jpg
+2025-07-28 22:37:52,591 - INFO - Downloading image 38/100: an image of a flower that is in the middle of a pattern on a green background
+2025-07-28 22:37:52,996 - INFO - Image too low resolution (720x1280), skipping
+2025-07-28 22:37:52,997 - INFO - Downloading image 38/100: an image of a woman in blue and red
+2025-07-28 22:37:53,368 - INFO - Image too low resolution (576x1024), skipping
+2025-07-28 22:37:53,369 - INFO - Downloading image 38/100: an abstract floral pattern with pink and orange flowers on a blue, green and red background
+2025-07-28 22:37:53,699 - INFO - ✅ Downloaded: 077.jpg (1080x1920)
+2025-07-28 22:37:55,204 - INFO - Downloading image 39/100: an abstract painting of colorful leaves on a gray background
+2025-07-28 22:37:55,281 - INFO - ✅ Downloaded: 078.jpg (1080x1920)
+2025-07-28 22:37:56,787 - INFO - Downloading image 40/100: an image of a painting with flowers in the foreground and a moon in the background
+2025-07-28 22:37:57,209 - INFO - ✅ Downloaded: 079.jpg (1080x2160)
+2025-07-28 22:37:58,714 - INFO - Downloading image 41/100: an image of some flowers on a blue background with red and white flowers in the middle
+2025-07-28 22:37:59,229 - INFO - ✅ Downloaded: 080.jpg (1080x1920)
+2025-07-28 22:38:00,731 - INFO - Downloading image 42/100: a painting of lemons on a tree with blue leaves and white flowers in the background
+2025-07-28 22:38:01,061 - INFO - ✅ Downloaded: 081.jpg (1080x1920)
+2025-07-28 22:38:02,567 - INFO - Downloading image 43/100: an abstract painting with flowers and leaves
+2025-07-28 22:38:02,885 - ERROR - Failed to download image: 403 Client Error: Forbidden for url: https://i.pinimg.com/originals/8c/bb/5b/8cbb5b32efb06fbf72f2e2c80be65a96.jpg
+2025-07-28 22:38:02,885 - INFO - Download complete! 42 images processed
+2025-07-28 22:38:02,886 - INFO - 
+🔧 Phase 3: Generating APIs and pagination...
+2025-07-28 22:38:02,886 - INFO - Generating APIs for category: patterns
+2025-07-28 22:38:02,886 - INFO - Running API generation script...
+2025-07-28 22:38:03,896 - INFO - ✅ API generation completed successfully
+2025-07-28 22:38:03,898 - INFO - Summary saved: /Users/dharamdhurandhar/Developer/AndroidApps/WallpaperCollection/pinterest_scrape_summary_patterns.json
+2025-07-28 22:38:03,898 - INFO - 🎉 Pipeline completed successfully!

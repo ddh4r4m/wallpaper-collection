@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-28T22:38:03.579947",
+    "generated_at": "2025-07-28T22:48:38.208699",
     "page": 149,
     "per_page": 15,
-    "total_pages": 178,
-    "total_count": 2656,
+    "total_pages": 183,
+    "total_count": 2737,
     "count_on_page": 15,
-    "categories": 21,
+    "categories": 22,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/150.json",
@@ -15,9 +15,109 @@
   },
   "data": [
     {
-      "id": "seasonal_077",
+      "id": "patterns_077",
+      "category": "patterns",
+      "title": "Patterns Wallpaper 077",
+      "tags": [
+        "patterns"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/077.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/077.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T22:37:53.657747",
+        "file_size": 304659,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "patterns_078",
+      "category": "patterns",
+      "title": "Patterns Wallpaper 078",
+      "tags": [
+        "patterns"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/078.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/078.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T22:37:55.241896",
+        "file_size": 288315,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "patterns_079",
+      "category": "patterns",
+      "title": "Patterns Wallpaper 079",
+      "tags": [
+        "patterns"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/079.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/079.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T22:37:57.161233",
+        "file_size": 568269,
+        "dimensions": {
+          "width": 1080,
+          "height": 2160
+        }
+      }
+    },
+    {
+      "id": "patterns_080",
+      "category": "patterns",
+      "title": "Patterns Wallpaper 080",
+      "tags": [
+        "patterns"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/080.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/080.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T22:37:59.184459",
+        "file_size": 393973,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "patterns_081",
+      "category": "patterns",
+      "title": "Patterns Wallpaper 081",
+      "tags": [
+        "patterns"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/081.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/081.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T22:38:01.016300",
+        "file_size": 284282,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "seasonal_001",
       "category": "seasonal",
-      "title": "Seasonal Wallpaper 077",
+      "title": "Seasonal Wallpaper 001",
       "tags": [
         "seasonal",
         "wallpaper",
@@ -25,25 +125,25 @@
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/077.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/077.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/001.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/001.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 535977,
+        "file_size": 390400,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:43.400176",
-        "hash": "c84de12af089e95e30313e1d5ca5d6c8",
+        "added_at": "2025-07-17T00:04:38.760586",
+        "hash": "2cdf4e81f0509c07c245fee8a4b434d4",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_078",
+      "id": "seasonal_002",
       "category": "seasonal",
-      "title": "Seasonal Wallpaper 078",
+      "title": "Seasonal Wallpaper 002",
       "tags": [
         "seasonal",
         "wallpaper",
@@ -51,25 +151,25 @@
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/078.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/078.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/002.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/002.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 809811,
+        "file_size": 362535,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:43.483423",
-        "hash": "9ab9e5d15a4b20388fe007b9cae58a8a",
+        "added_at": "2025-07-17T00:04:38.823224",
+        "hash": "067799eec80847f41d5158c708070e1e",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_079",
+      "id": "seasonal_003",
       "category": "seasonal",
-      "title": "Seasonal Wallpaper 079",
+      "title": "Seasonal Wallpaper 003",
       "tags": [
         "seasonal",
         "wallpaper",
@@ -77,25 +177,25 @@
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/079.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/079.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/003.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/003.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 253612,
+        "file_size": 240703,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:43.538082",
-        "hash": "6dcae6ca63df135fae14338b8de3c0ea",
+        "added_at": "2025-07-17T00:04:38.884237",
+        "hash": "780250f272ad3d1498caf737c53926d0",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_080",
+      "id": "seasonal_004",
       "category": "seasonal",
-      "title": "Seasonal Wallpaper 080",
+      "title": "Seasonal Wallpaper 004",
       "tags": [
         "seasonal",
         "wallpaper",
@@ -103,25 +203,25 @@
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/080.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/080.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/004.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/004.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 434663,
+        "file_size": 236227,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:43.604116",
-        "hash": "80b738ed6d176cacd847960948a1e88f",
+        "added_at": "2025-07-17T00:04:38.939845",
+        "hash": "dc4724c0e5810d918aa2ffbef166452e",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_081",
+      "id": "seasonal_005",
       "category": "seasonal",
-      "title": "Seasonal Wallpaper 081",
+      "title": "Seasonal Wallpaper 005",
       "tags": [
         "seasonal",
         "wallpaper",
@@ -129,25 +229,25 @@
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/081.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/081.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/005.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/005.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 132067,
+        "file_size": 498776,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:43.651203",
-        "hash": "a373a9aa3b4a22afa31dbc03b00c9acc",
+        "added_at": "2025-07-17T00:04:39.011830",
+        "hash": "59b3c9d1acc6490f47d40a40176b7eda",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_082",
+      "id": "seasonal_006",
       "category": "seasonal",
-      "title": "Seasonal Wallpaper 082",
+      "title": "Seasonal Wallpaper 006",
       "tags": [
         "seasonal",
         "wallpaper",
@@ -155,25 +255,25 @@
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/082.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/082.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/006.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/006.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 251013,
+        "file_size": 427221,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:43.707796",
-        "hash": "ccc47c44caf0589b2ff37feeff66f973",
+        "added_at": "2025-07-17T00:04:39.078223",
+        "hash": "64f374d90ba72aa03577490df3979c8e",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_083",
+      "id": "seasonal_007",
       "category": "seasonal",
-      "title": "Seasonal Wallpaper 083",
+      "title": "Seasonal Wallpaper 007",
       "tags": [
         "seasonal",
         "wallpaper",
@@ -181,25 +281,25 @@
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/083.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/083.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/007.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/007.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 584911,
+        "file_size": 191440,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:43.778535",
-        "hash": "2e883ed615b191bf30dad3bc6191112f",
+        "added_at": "2025-07-17T00:04:39.133257",
+        "hash": "9f6a44087fe22c2998080d8ffa290c79",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_084",
+      "id": "seasonal_008",
       "category": "seasonal",
-      "title": "Seasonal Wallpaper 084",
+      "title": "Seasonal Wallpaper 008",
       "tags": [
         "seasonal",
         "wallpaper",
@@ -207,25 +307,25 @@
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/084.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/084.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/008.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/008.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 408650,
+        "file_size": 397823,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:43.840480",
-        "hash": "f83ef482032e979ce0d20078c0c5131b",
+        "added_at": "2025-07-17T00:04:39.196565",
+        "hash": "06e714df93495bd89b5e9b99ddacea07",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_085",
+      "id": "seasonal_009",
       "category": "seasonal",
-      "title": "Seasonal Wallpaper 085",
+      "title": "Seasonal Wallpaper 009",
       "tags": [
         "seasonal",
         "wallpaper",
@@ -233,174 +333,44 @@
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/085.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/085.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/009.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/009.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 269070,
+        "file_size": 284894,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:43.895779",
-        "hash": "d1102231c55f3a69e9321d07f8d491a9",
+        "added_at": "2025-07-17T00:04:39.253009",
+        "hash": "78f6781d06380604c3ba600a5b249279",
         "source": "migrated"
       }
     },
     {
-      "id": "seasonal_086",
+      "id": "seasonal_010",
       "category": "seasonal",
-      "title": "Seasonal Wallpaper",
+      "title": "Seasonal Wallpaper 010",
       "tags": [
         "seasonal",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1620
-        },
-        "file_size": 240025,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:35:02.981424",
-        "hash": "205d6f1bb7fe4ffb5501bd3e8429d248",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/086.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/086.jpg"
-      }
-    },
-    {
-      "id": "seasonal_087",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper",
-      "tags": [
-        "seasonal",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 810
-        },
-        "file_size": 90619,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:35:07.475308",
-        "hash": "e1862769d47cb5b85ae8c348016e3512",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/087.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/087.jpg"
-      }
-    },
-    {
-      "id": "seasonal_088",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper",
-      "tags": [
-        "seasonal",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 720
-        },
-        "file_size": 86747,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:35:10.951193",
-        "hash": "371323372fc838d36e9b49ff3e7c9d06",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/088.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/088.jpg"
-      }
-    },
-    {
-      "id": "seasonal_089",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper",
-      "tags": [
-        "seasonal",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 816
-        },
-        "file_size": 149697,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:35:15.160670",
-        "hash": "216016940e1e3b065178f2e2d7389ed8",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/089.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/089.jpg"
-      }
-    },
-    {
-      "id": "seasonal_090",
-      "category": "seasonal",
-      "title": "Seasonal Wallpaper",
-      "tags": [
-        "seasonal",
-        "unsplash",
-        "hd",
-        "mobile"
-      ],
-      "metadata": {
-        "dimensions": {
-          "width": 1080,
-          "height": 1598
-        },
-        "file_size": 764810,
-        "format": "JPEG",
-        "added_at": "2025-07-18T00:35:20.850115",
-        "hash": "f467bbce949372f927c36a8f328d8ee1",
-        "photographer": "Unknown"
-      },
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/090.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/090.jpg"
-      }
-    },
-    {
-      "id": "space_001",
-      "category": "space",
-      "title": "Space Wallpaper 001",
-      "tags": [
-        "space",
         "wallpaper",
         "hd",
         "mobile"
       ],
       "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/001.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/001.jpg"
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/seasonal/010.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/seasonal/010.jpg"
       },
       "metadata": {
         "dimensions": {
           "width": 1080,
           "height": 1920
         },
-        "file_size": 618663,
+        "file_size": 318623,
         "format": "JPEG",
-        "added_at": "2025-07-17T00:04:43.972500",
-        "hash": "30401a78a49c8264f402d1e105d5f699",
+        "added_at": "2025-07-17T00:04:39.312739",
+        "hash": "a5e1eaa5aaccdb17a00328571d2c3984",
         "source": "migrated"
       }
     }

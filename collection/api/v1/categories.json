@@ -1,79 +1,54 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-28T22:38:03.579947",
-    "total_categories": 21
+    "generated_at": "2025-07-28T22:48:38.208699",
+    "total_categories": 22
   },
   "data": {
-    "neon": {
-      "name": "Neon",
-      "count": 88,
-      "description": "Neon lighting, synthwave aesthetics, and electric themes"
-    },
-    "art": {
-      "name": "Art",
-      "count": 90,
-      "description": "Digital art, paintings, illustrations, and creative designs"
-    },
-    "anime": {
-      "name": "Anime",
-      "count": 133,
-      "description": "Anime characters, manga art, and Japanese animation styles"
-    },
-    "sports": {
-      "name": "Sports",
-      "count": 115,
-      "description": "Athletic photography, sports action, and fitness themes"
-    },
-    "animals": {
-      "name": "Animals",
-      "count": 84,
-      "description": "Wildlife photography, pets, and animal portraits"
-    },
-    "pastel": {
-      "name": "Pastel",
-      "count": 69,
-      "description": "Soft colors, gentle aesthetics, and dream-like themes"
-    },
-    "4k": {
-      "name": "4K",
-      "count": 200,
-      "description": "Ultra high-definition wallpapers optimized for 4K displays"
-    },
-    "cyberpunk": {
-      "name": "Cyberpunk",
-      "count": 88,
-      "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
-    },
-    "dark": {
-      "name": "Dark",
-      "count": 90,
-      "description": "Dark themes, gothic aesthetics, and mysterious atmospheres"
-    },
-    "technology": {
-      "name": "Technology",
+    "ai": {
+      "name": "Ai",
       "count": 83,
-      "description": "Gadgets, circuits, futuristic tech, and digital interfaces"
-    },
-    "minimal": {
-      "name": "Minimal",
-      "count": 64,
-      "description": "Clean, simple designs with minimalist aesthetics"
-    },
-    "vintage": {
-      "name": "Vintage",
-      "count": 99,
-      "description": "Retro designs, nostalgic themes, and classic aesthetics"
+      "description": "AI-generated wallpapers from Stable Diffusion, Midjourney, and other AI models"
     },
     "architecture": {
       "name": "Architecture",
       "count": 275,
       "description": "Buildings, bridges, modern structures, and urban photography"
     },
-    "seasonal": {
-      "name": "Seasonal",
+    "gradient": {
+      "name": "Gradient",
+      "count": 145,
+      "description": "Color transitions, smooth blends, and abstract flows"
+    },
+    "pastel": {
+      "name": "Pastel",
+      "count": 69,
+      "description": "Soft colors, gentle aesthetics, and dream-like themes"
+    },
+    "dark": {
+      "name": "Dark",
       "count": 90,
-      "description": "Holiday themes, seasonal changes, and weather phenomena"
+      "description": "Dark themes, gothic aesthetics, and mysterious atmospheres"
+    },
+    "4k": {
+      "name": "4K",
+      "count": 200,
+      "description": "Ultra high-definition wallpapers optimized for 4K displays"
+    },
+    "neon": {
+      "name": "Neon",
+      "count": 88,
+      "description": "Neon lighting, synthwave aesthetics, and electric themes"
+    },
+    "cyberpunk": {
+      "name": "Cyberpunk",
+      "count": 88,
+      "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
+    },
+    "cars": {
+      "name": "Cars",
+      "count": 84,
+      "description": "Automotive photography, sports cars, and vehicle designs"
     },
     "gaming": {
       "name": "Gaming",
@@ -85,30 +60,60 @@
       "count": 125,
       "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
     },
-    "ai": {
-      "name": "Ai",
+    "seasonal": {
+      "name": "Seasonal",
+      "count": 90,
+      "description": "Holiday themes, seasonal changes, and weather phenomena"
+    },
+    "nature": {
+      "name": "Nature",
+      "count": 310,
+      "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
+    },
+    "technology": {
+      "name": "Technology",
       "count": 83,
-      "description": "AI-generated wallpapers from Stable Diffusion, Midjourney, and other AI models"
+      "description": "Gadgets, circuits, futuristic tech, and digital interfaces"
     },
-    "gradient": {
-      "name": "Gradient",
-      "count": 145,
-      "description": "Color transitions, smooth blends, and abstract flows"
-    },
-    "cars": {
-      "name": "Cars",
-      "count": 84,
-      "description": "Automotive photography, sports cars, and vehicle designs"
+    "vintage": {
+      "name": "Vintage",
+      "count": 99,
+      "description": "Retro designs, nostalgic themes, and classic aesthetics"
     },
     "abstract": {
       "name": "Abstract",
       "count": 257,
       "description": "Abstract patterns, geometric designs, and artistic visualizations"
     },
-    "nature": {
-      "name": "Nature",
-      "count": 310,
-      "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
+    "animals": {
+      "name": "Animals",
+      "count": 84,
+      "description": "Wildlife photography, pets, and animal portraits"
+    },
+    "minimal": {
+      "name": "Minimal",
+      "count": 64,
+      "description": "Clean, simple designs with minimalist aesthetics"
+    },
+    "patterns": {
+      "name": "Patterns",
+      "count": 81,
+      "description": "Geometric patterns, repeating designs, textures, and decorative motifs"
+    },
+    "anime": {
+      "name": "Anime",
+      "count": 133,
+      "description": "Anime characters, manga art, and Japanese animation styles"
+    },
+    "sports": {
+      "name": "Sports",
+      "count": 115,
+      "description": "Athletic photography, sports action, and fitness themes"
+    },
+    "art": {
+      "name": "Art",
+      "count": 90,
+      "description": "Digital art, paintings, illustrations, and creative designs"
     }
   }
 }

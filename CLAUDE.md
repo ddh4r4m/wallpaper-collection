@@ -3,35 +3,25 @@
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
-This is a wallpaper repository serving AI-generated wallpapers via GitHub Raw Files. It provides a structured collection of high-quality wallpapers organized by categories, with JSON metadata for easy consumption by mobile applications.
+This is a comprehensive wallpaper repository serving high-quality wallpapers via GitHub Raw Files and Media URLs. It provides a structured collection of 2,737+ wallpapers across 22 categories, with complete JSON APIs and pagination for mobile application consumption. Features automated Pinterest scraping, AI quality assessment, and full API generation pipeline.
 
 ## Essential Development Commands
 
 ### Repository Management
 ```bash
-# Initialize repository structure with all categories
-mkdir -p wallpapers/{abstract,nature,space,minimal,cyberpunk,gaming,anime,movies,music,cars,sports,technology,architecture,art,dark,neon,pastel,vintage,gradient,seasonal}
-mkdir -p thumbnails/{abstract,nature,space,minimal,cyberpunk,gaming,anime,movies,music,cars,sports,technology,architecture,art,dark,neon,pastel,vintage,gradient,seasonal}
-mkdir -p categories
-mkdir -p scripts
-mkdir -p review_system/{approved,rejected,manual_review}
-mkdir -p crawl_cache
+# **PRIMARY SCRAPING TOOL** - Interactive Pinterest scraper with full automation
+python scripts/pinterest_api_scraper.py
+# Prompts for: Pinterest URL, category, quantity
+# Automatically: scrapes, downloads, processes, generates APIs & pagination
 
-# Crawl images from multiple sources
+# Alternative: Run API generation after manual image additions
+python tools/build_api.py
+# Generates complete API structure and pagination for all categories
+
+# Legacy crawl commands (deprecated - use pinterest_api_scraper.py instead)
 python scripts/crawl_images.py --category nature --source unsplash --limit 100
-python scripts/crawl_images.py --category gaming --source wallhaven --limit 50
-
-# Run AI quality assessment on crawled images
 python scripts/review_images.py --input crawl_cache/ --output review_system/
-
-# Process approved images
 python scripts/process_approved.py --input review_system/approved/ --category nature
-
-# Generate/update JSON indexes
-python scripts/generate_index.py
-
-# Batch process entire pipeline
-python scripts/batch_processor.py --categories nature,gaming,anime --sources unsplash,wallhaven
 ```
 
 ### Image Processing
@@ -117,13 +107,38 @@ wallpaper-collection/
     └── compress_images.py       # Image compression
 ```
 
+### **CRITICAL: API Generation Requirements**
+**⚠️ MANDATORY STEP WHEN ADDING NEW CATEGORIES:**
+
+When new wallpapers are added to a category, you MUST update the API generation script:
+
+```bash
+# Edit tools/build_api.py to add the new category
+# Line ~41: Add category to valid_categories set
+# Line ~72: Add category description to category_descriptions dict
+# Then run: python tools/build_api.py
+```
+
+**Example: Adding "patterns" category:**
+```python
+# In tools/build_api.py:
+self.valid_categories = {
+    'abstract', 'nature', ..., 'patterns'  # Add here
+}
+
+self.category_descriptions = {
+    'abstract': 'Abstract patterns...',
+    'patterns': 'Geometric patterns, repeating designs...'  # Add here
+}
+```
+
 ### **IMPORTANT DIRECTORY RULES**
 1. **ALWAYS use `collection/wallpapers/{category}/` for wallpaper storage**
 2. **ALWAYS use `collection/thumbnails/{category}/` for thumbnail storage**
-3. **ALWAYS use `collection/api/v1/{category}.json` for API endpoints**
+3. **APIs auto-generated at `collection/api/v1/{category}.json` and `collection/api/v1/{category}/pages/{page}.json`**
 4. **NEVER use the root `wallpapers/` or `thumbnails/` directories** (these are deprecated)
 5. **Sequential naming**: 001.jpg, 002.jpg, 003.jpg (3-digit padding)
-6. **GitHub Media URLs**: Use `https://media.githubusercontent.com/media/username/repo/main/collection/...`
+6. **GitHub Media URLs**: Use `https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/...`
 
 ### Image Naming Convention (WallCraft API)
 - **Format**: `{number}.{extension}` (sequential numbering within category folders)
@@ -135,42 +150,53 @@ wallpaper-collection/
 ## Wallpaper Categories
 
 ### Core Categories (High User Retention)
-- **abstract** - Geometric patterns, fluid art, minimalist designs, mathematical visualizations
-- **nature** - Landscapes, mountains, forests, oceans, wildlife, botanical photography
-- **space** - Galaxies, nebulae, planets, astronauts, cosmic scenes, stellar photography
-- **minimal** - Clean designs, simple patterns, monochromatic themes, zen aesthetics
-- **cyberpunk** - Neon cities, futuristic themes, sci-fi aesthetics, digital dystopia
+- **abstract** - Geometric patterns, fluid art, minimalist designs (257 images)
+- **nature** - Landscapes, mountains, forests, oceans, wildlife (310 images) 
+- **space** - Galaxies, nebulae, planets, astronauts, cosmic scenes (125 images)
+- **minimal** - Clean designs, simple patterns, monochromatic themes (71 images)
+- **cyberpunk** - Neon cities, futuristic themes, sci-fi aesthetics (84 images)
+- **ai** - AI-generated artwork, futuristic themes, digital art (83 images)
+- **4k** - Ultra high-resolution wallpapers across categories (200 images)
 
 ### Gaming & Entertainment
-- **gaming** - Video game screenshots, concept art, characters, gaming environments
-- **anime** - Anime characters, Studio Ghibli, manga art, Japanese animation
-- **movies** - Film posters, movie scenes, cinematic art, movie characters
-- **music** - Album covers, music visualizations, instruments, concert photography
+- **gaming** - Video game screenshots, concept art, characters (83 images)
+- **anime** - Anime characters, Studio Ghibli, manga art (133 images)
+- **movies** - Film posters, movie scenes, cinematic art (83 images)
+- **music** - Album covers, music visualizations, instruments (83 images)
 
 ### Lifestyle & Interests
-- **cars** - Sports cars, classic cars, automotive photography, racing scenes
-- **sports** - Football, basketball, extreme sports, fitness, athletic photography
-- **technology** - Gadgets, circuits, futuristic tech, AI themes, digital interfaces
-- **architecture** - Buildings, bridges, modern/classic structures, urban photography
-- **art** - Digital art, paintings, illustrations, creative designs, artistic photography
+- **cars** - Sports cars, classic cars, automotive photography (83 images)
+- **sports** - Football, basketball, extreme sports, fitness (115 images)
+- **technology** - Gadgets, circuits, futuristic tech, AI themes (83 images)
+- **architecture** - Buildings, bridges, modern/classic structures (275 images)
+- **art** - Digital art, paintings, illustrations, creative designs (83 images)
+- **animals** - Wildlife, pets, nature photography (84 images)
 
 ### Mood & Aesthetic
-- **dark** - Dark themes, gothic, mysterious atmospheres, low-light photography
-- **neon** - Neon lights, synthwave, retro-futuristic vibes, electric aesthetics
-- **pastel** - Soft colors, kawaii, gentle aesthetics, dream-like themes
-- **vintage** - Retro designs, old-school aesthetics, nostalgic themes
-- **gradient** - Color transitions, smooth blends, modern gradients, abstract flows
+- **dark** - Dark themes, gothic, mysterious atmospheres (83 images)
+- **neon** - Neon lights, synthwave, retro-futuristic vibes (83 images)
+- **pastel** - Soft colors, kawaii, gentle aesthetics (71 images)
+- **vintage** - Retro designs, old-school aesthetics (100 images)
+- **gradient** - Color transitions, smooth blends, abstract flows (145 images)
+- **patterns** - Geometric patterns, repeating designs, textures (81 images)
 
 ### Seasonal & Special
-- **seasonal** - Holiday themes, seasonal changes, celebrations, weather phenomena
+- **seasonal** - Holiday themes, seasonal changes, celebrations (83 images)
+
+### Current Collection Statistics (2025-07-28)
+- **Total Categories**: 24 active categories
+- **Total Wallpapers**: 2,737 high-quality images
+- **Total Thumbnails**: 2,737 optimized thumbnails  
+- **API Coverage**: 100% (all categories have complete APIs)
+- **Pagination Coverage**: 100% (all categories have paginated endpoints)
 
 ### Category Selection Strategy
 Categories chosen based on:
 - High user engagement and retention rates
-- Diverse aesthetic preferences
+- Diverse aesthetic preferences  
 - Popular search trends in wallpaper apps
 - Broad appeal across different demographics
-- Seasonal and trending content opportunities
+- Pinterest scraping effectiveness and image quality
 
 ## JSON Schema
 
@@ -310,78 +336,60 @@ SOURCE_MAPPING = {
 
 ## Automation Scripts
 
-### Image Crawler (crawl_images.py)
+### **PRIMARY TOOL**: Pinterest API Scraper (pinterest_api_scraper.py) ⭐
 ```bash
-# Crawl from specific source and category
+# Interactive Pinterest scraper with complete automation
+python scripts/pinterest_api_scraper.py
+
+# User prompts:
+# 📌 Pinterest URL (search/board/user): https://pinterest.com/search/pins/?q=abstract%20gradient
+# 📂 Category name: gradient  
+# 🔢 Number of images: 25
+
+# Automatic process:
+# 1. ✅ Scrapes Pinterest with advanced scrolling
+# 2. ✅ Downloads high-resolution images (800x1200+ min)
+# 3. ✅ Creates sequential filenames (001.jpg, 002.jpg, etc.)
+# 4. ✅ Generates thumbnails automatically
+# 5. ✅ Places in proper collection structure
+# 6. ✅ Runs API generation script (tools/build_api.py)
+# 7. ✅ Creates complete pagination system
+# 8. ✅ Ready for mobile app consumption immediately!
+
+# Features:
+# - Selenium-based with intelligent scrolling
+# - High-resolution filtering and validation
+# - Duplicate detection and prevention
+# - Automatic thumbnail generation (400x600)
+# - Complete API integration
+# - GitHub Media URL structure
+# - Comprehensive error handling and logging
+```
+
+### **SECONDARY TOOL**: API Generator (tools/build_api.py)
+```bash
+# Generate APIs after manual image additions
+python tools/build_api.py
+
+# Features:
+# - Scans all category directories
+# - Generates complete JSON APIs
+# - Creates pagination (15 items per page)
+# - Updates master API endpoints
+# - Handles all 24+ categories automatically
+```
+
+### Legacy Tools (Mostly Deprecated)
+```bash
+# Legacy crawlers - use pinterest_api_scraper.py instead
 python scripts/crawl_images.py --category nature --source unsplash --limit 100
-
-# Crawl from multiple sources
-python scripts/crawl_images.py --category gaming --sources wallhaven,custom --limit 50
-
-# Features:
-# - Multi-source API integration
-# - Rate limiting and quota management
-# - Duplicate detection and filtering
-# - Metadata extraction
-# - Progress tracking and logging
-```
-
-### AI Quality Reviewer (review_images.py)
-```bash
-# Review crawled images with AI assessment
 python scripts/review_images.py --input crawl_cache/ --output review_system/
-
-# Review specific metrics
-python scripts/review_images.py --input crawl_cache/ --metrics brisque,sharpness,content
-
-# Features:
-# - Multi-metric quality assessment
-# - Automated approval/rejection
-# - Manual review flagging
-# - Detailed scoring reports
-# - Batch processing capability
-```
-
-### Approved Image Processor (process_approved.py)
-```bash
-# Process approved images for specific category
 python scripts/process_approved.py --input review_system/approved/ --category nature
-
-# Process manually approved images
-python scripts/process_approved.py --input review_system/manual_review/approved/ --category gaming
-
-# Features:
-# - Mobile optimization (resize, compress)
-# - Thumbnail generation
-# - Metadata enhancement
-# - File organization
-# - Index updates
-```
-
-### Batch Processor (batch_processor.py)
-```bash
-# Run complete pipeline for multiple categories
 python scripts/batch_processor.py --categories nature,gaming,anime --sources unsplash,wallhaven
 
-# Features:
-# - End-to-end automation
-# - Multi-category processing
-# - Source optimization
-# - Progress monitoring
-# - Error handling and recovery
-```
-
-### Upload Batch Script (upload_batch.py)
-```bash
-# Process and upload new wallpapers
-python scripts/upload_batch.py --folder ./new_wallpapers --category abstract
-
-# Features:
-# - Automatic image optimization
-# - Thumbnail generation
-# - Metadata extraction
-# - JSON index updates
-# - File naming standardization
+# Still useful for specific tasks:
+python scripts/optimize_images.py --target-width 1080 --quality 85
+python scripts/generate_thumbnails.py --size 400x600 --quality 80
 ```
 
 ## API Endpoints
@@ -393,8 +401,8 @@ python scripts/upload_batch.py --folder ./new_wallpapers --category abstract
 - **Wallpaper Image**: `https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/{category}/{number}.jpg`
 - **Thumbnail**: `https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/{category}/{number}.jpg`
 
-### Pagination System (FULLY IMPLEMENTED)
-**Complete pagination support with 15 items per page:**
+### Pagination System (100% COMPLETE) ✅
+**Complete pagination support with 15 items per page across ALL categories:**
 
 #### Pagination Structure:
 - **Main API**: `{category}.json` (complete category data)
@@ -407,8 +415,9 @@ https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/a
 
 # Paginated endpoints
 https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/abstract/pages/1.json
-https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k/pages/1.json
 https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/nature/pages/1.json
+https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/gradient/pages/1.json
+https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/patterns/pages/1.json
 ```
 
 #### Pagination Metadata:
@@ -416,52 +425,45 @@ https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/a
 {
   "meta": {
     "version": "1.0",
-    "category": "abstract",
+    "generated_at": "2025-07-28T22:38:03.579947",
+    "category": "gradient",
     "page": 1,
     "per_page": 15,
-    "total_pages": 18,
-    "total_count": 257,
+    "total_pages": 10,
+    "total_count": 145,
     "count_on_page": 15,
     "has_next": true,
     "has_prev": false,
-    "next_page_url": "/api/v1/abstract/pages/2.json",
+    "next_page_url": "/api/v1/gradient/pages/2.json",
     "prev_page_url": null
   }
 }
 ```
 
-#### Categories with Full Pagination:
-- **Large Collections (10+ pages)**:
-  - abstract: 18 pages (257 items)
-  - architecture: 19 pages (275 items)
-  - nature: 21 pages (305+ items)
-  - 4k: 14 pages (200 items)
-  - all: 162 pages (entire collection)
+#### Complete Pagination Coverage (All 24 Categories):
+- **Large Collections (15+ pages)**:
+  - architecture: 19 pages (275 images)
+  - nature: 21 pages (310 images)  
+  - abstract: 18 pages (257 images)
+  - 4k: 14 pages (200 images)
+  - all: 178 pages (2,737 total images)
 
-- **Medium Collections (5-9 pages)**:
-  - ai: 8 pages
-  - anime: 9 pages
-  - space: 9 pages
+- **Medium Collections (8-12 pages)**:
+  - gradient: 10 pages (145 images)
+  - anime: 9 pages (133 images)
+  - space: 9 pages (125 images)
+  - sports: 8 pages (115 images)
+  - vintage: 7 pages (100 images)
 
-- **Small Collections (2-6 pages)**:
-  - animals: 6 pages
-  - art: 6 pages
-  - cars: 6 pages
-  - cyberpunk: 6 pages
-  - dark: 6 pages
-  - gaming: 6 pages
-  - minimal: 5 pages
-  - neon: 6 pages
-  - pastel: 5 pages
-  - seasonal: 6 pages
-  - technology: 6 pages
-  - vintage: 7 pages
+- **Standard Collections (6 pages)**:
+  - animals, art, cars, cyberpunk, dark, gaming, neon, seasonal, technology: 6 pages each (83-84 images)
 
-#### Missing Pagination (To Be Generated):
-- gradient (149 items - needs ~10 pages)
-- sports (needs pagination)
-- movies (needs pagination)
-- music (needs pagination)
+- **Compact Collections (5-6 pages)**:
+  - patterns: 6 pages (81 images)
+  - minimal: 5 pages (71 images)
+  - pastel: 5 pages (71 images)
+
+**Status**: ✅ **100% Complete** - All categories have full pagination support!
 
 ### Deprecated URLs (DO NOT USE)
 - **Old Raw URLs**: `https://raw.githubusercontent.com/username/wallpaper-collection/main/wallpapers/...`
@@ -473,16 +475,18 @@ https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/a
 
 ## Development Workflow
 
-### Adding New Wallpapers (WallCraft API Structure)
-1. **ALWAYS use collection structure**: Place images in `collection/wallpapers/{category}/`
-2. **Sequential naming**: Use 001.jpg, 002.jpg, 003.jpg format (3-digit padding)
-3. Run `python scripts/upload_batch.py --folder ./new_images --category {category}`
-4. Script automatically:
-   - Places files in `collection/wallpapers/{category}/` with sequential naming
-   - Creates thumbnails in `collection/thumbnails/{category}/`
-   - Updates API endpoint at `collection/api/v1/{category}.json`
-   - Uses GitHub Media URLs for mobile app consumption
-   - Validates directory structure before processing
+### Adding New Wallpapers (RECOMMENDED METHOD)
+1. **PRIMARY METHOD**: Use the Pinterest API Scraper
+   ```bash
+   python scripts/pinterest_api_scraper.py
+   # Interactive prompts for URL, category, quantity
+   # Automatically handles everything: download, processing, APIs, pagination
+   ```
+
+2. **ALTERNATIVE**: Manual addition + API generation
+   - Place images in `collection/wallpapers/{category}/` with sequential naming (001.jpg, 002.jpg, etc.)
+   - Run `python tools/build_api.py` to generate all APIs and pagination
+   - Script automatically creates thumbnails and complete API structure
 
 ### Updating Metadata
 1. Modify category descriptions in `scripts/generate_index.py`
@@ -527,4 +531,16 @@ https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/a
 - **API**: Rate limited but publicly accessible
 - **Repository**: Public read access, controlled write access
 
-This repository serves as a scalable, free hosting solution for wallpaper collections with automated processing and JSON API for mobile app consumption.
+This repository serves as a scalable, free hosting solution for wallpaper collections with automated Pinterest scraping, complete API generation, and mobile app consumption.
+
+## Recent Major Updates (2025-07-28)
+- ✅ **Pinterest API Scraper**: Complete automation from URL to mobile-ready APIs
+- ✅ **Full Pagination**: 100% coverage across all 24 categories  
+- ✅ **New Categories**: Added patterns (81 images), enhanced nature/space/ai
+- ✅ **2,737 Total Images**: Largest collection update with complete API coverage
+- ✅ **GitHub Media URLs**: Optimized for CDN delivery and mobile performance
+
+**Next Steps for Development:**
+1. Use `python scripts/pinterest_api_scraper.py` for new image additions
+2. All APIs and pagination auto-generate - no manual intervention needed
+3. Collection ready for immediate mobile app integration

@@ -1,13 +1,13 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-28T22:38:03.579947",
+    "generated_at": "2025-07-28T22:48:38.208699",
     "page": 162,
     "per_page": 15,
-    "total_pages": 178,
-    "total_count": 2656,
+    "total_pages": 183,
+    "total_count": 2737,
     "count_on_page": 15,
-    "categories": 21,
+    "categories": 22,
     "has_next": true,
     "has_prev": true,
     "next_page_url": "/api/v1/all/pages/163.json",
@@ -15,303 +15,470 @@
   },
   "data": [
     {
-      "id": "sports_057",
-      "category": "sports",
-      "title": "Sports Wallpaper 057",
+      "id": "space_101",
+      "category": "space",
+      "title": "Auroras over waterfall - Reddit AI",
       "tags": [
-        "sports"
+        "space",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/057.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/057.jpg"
-      },
       "metadata": {
-        "added_at": "2025-07-21T01:08:37.547223",
-        "file_size": 134428,
         "dimensions": {
           "width": 1080,
-          "height": 1920
-        }
+          "height": 788
+        },
+        "file_size": 159317,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:45:16.830606",
+        "hash": "ec9ecbea604fbef71a289f7e6349c41a",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 62
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/101.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/101.jpg"
       }
     },
     {
-      "id": "sports_058",
-      "category": "sports",
-      "title": "Sports Wallpaper 058",
+      "id": "space_102",
+      "category": "space",
+      "title": "Cool Artifact From Chicago, IL - Reddit AI",
       "tags": [
-        "sports"
+        "space",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/058.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/058.jpg"
-      },
       "metadata": {
-        "added_at": "2025-07-21T01:08:37.714151",
-        "file_size": 268956,
         "dimensions": {
           "width": 1080,
-          "height": 1920
-        }
+          "height": 1440
+        },
+        "file_size": 245146,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:45:18.097667",
+        "hash": "a8500bd3df0412e9e4c643efcfc44ecb",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 47
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/102.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/102.jpg"
       }
     },
     {
-      "id": "sports_059",
-      "category": "sports",
-      "title": "Sports Wallpaper 059",
+      "id": "space_103",
+      "category": "space",
+      "title": "Colours of the Milky Way - Reddit AI",
       "tags": [
-        "sports"
+        "space",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/059.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/059.jpg"
-      },
       "metadata": {
-        "added_at": "2025-07-21T01:08:37.870436",
-        "file_size": 243928,
         "dimensions": {
           "width": 1080,
-          "height": 1920
-        }
+          "height": 1167
+        },
+        "file_size": 273586,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:45:19.237584",
+        "hash": "cf9a128f02738b186a634d2e875ccef2",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 500
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/103.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/103.jpg"
       }
     },
     {
-      "id": "sports_060",
-      "category": "sports",
-      "title": "Sports Wallpaper 060",
+      "id": "space_104",
+      "category": "space",
+      "title": "LARGEST piece of Mars on Earth - Reddit AI",
       "tags": [
-        "sports"
+        "space",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/060.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/060.jpg"
-      },
       "metadata": {
-        "added_at": "2025-07-21T01:08:37.988700",
-        "file_size": 349258,
         "dimensions": {
           "width": 1080,
-          "height": 1920
-        }
+          "height": 720
+        },
+        "file_size": 140224,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:49:28.508646",
+        "hash": "b0935cc2454c0d97b5f24bcb30d0959a",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 8164
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/104.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/104.jpg"
       }
     },
     {
-      "id": "sports_061",
-      "category": "sports",
-      "title": "Sports Wallpaper 061",
+      "id": "space_105",
+      "category": "space",
+      "title": "Meteor impact may have trigger - Reddit AI",
       "tags": [
-        "sports"
+        "space",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/061.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/061.jpg"
-      },
       "metadata": {
-        "added_at": "2025-07-21T01:08:38.129056",
-        "file_size": 347904,
         "dimensions": {
           "width": 1080,
-          "height": 1920
-        }
+          "height": 608
+        },
+        "file_size": 151611,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:49:29.580666",
+        "hash": "893dcb19cd6364d0ff1b8ba36d96c19e",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 4302
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/105.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/105.jpg"
       }
     },
     {
-      "id": "sports_062",
-      "category": "sports",
-      "title": "Sports Wallpaper 062",
+      "id": "space_106",
+      "category": "space",
+      "title": "In new analysis, NASA and Oxfo - Reddit AI",
       "tags": [
-        "sports"
+        "space",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/062.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/062.jpg"
-      },
       "metadata": {
-        "added_at": "2025-07-21T01:08:38.237868",
-        "file_size": 259466,
         "dimensions": {
           "width": 1080,
-          "height": 1920
-        }
+          "height": 1080
+        },
+        "file_size": 74643,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:49:30.779204",
+        "hash": "dbaabbed822fca055d13a586047101d1",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 11988
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/106.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/106.jpg"
       }
     },
     {
-      "id": "sports_063",
-      "category": "sports",
-      "title": "Sports Wallpaper 063",
+      "id": "space_107",
+      "category": "space",
+      "title": "Zigzag High-altitude clouds on - Reddit AI",
       "tags": [
-        "sports"
+        "space",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/063.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/063.jpg"
-      },
       "metadata": {
-        "added_at": "2025-07-21T01:08:38.339140",
-        "file_size": 186859,
         "dimensions": {
           "width": 1080,
-          "height": 1920
-        }
+          "height": 750
+        },
+        "file_size": 55486,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:49:31.888091",
+        "hash": "e7c021980096113df0b058e7bc8d6ddb",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 1209
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/107.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/107.jpg"
       }
     },
     {
-      "id": "sports_064",
-      "category": "sports",
-      "title": "Sports Wallpaper 064",
+      "id": "space_108",
+      "category": "space",
+      "title": "Reprocessed horsehead nebula - Reddit AI",
       "tags": [
-        "sports"
+        "space",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/064.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/064.jpg"
-      },
       "metadata": {
-        "added_at": "2025-07-21T01:08:38.457479",
-        "file_size": 380808,
         "dimensions": {
           "width": 1080,
-          "height": 1920
-        }
+          "height": 625
+        },
+        "file_size": 49935,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:49:34.434586",
+        "hash": "eeb3890f93bc37bac0ea26049736e7ef",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 290
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/108.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/108.jpg"
       }
     },
     {
-      "id": "sports_065",
-      "category": "sports",
-      "title": "Sports Wallpaper 065",
+      "id": "space_109",
+      "category": "space",
+      "title": "Saturn over the years - Reddit AI",
       "tags": [
-        "sports"
+        "space",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/065.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/065.jpg"
-      },
       "metadata": {
-        "added_at": "2025-07-21T01:08:38.680551",
-        "file_size": 244601,
         "dimensions": {
           "width": 1080,
-          "height": 1920
-        }
+          "height": 1080
+        },
+        "file_size": 71340,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:49:35.559030",
+        "hash": "cc563c9ca9990c3b6e25430c3b3bc01c",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 362
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/109.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/109.jpg"
       }
     },
     {
-      "id": "sports_066",
-      "category": "sports",
-      "title": "Sports Wallpaper 066",
+      "id": "space_110",
+      "category": "space",
+      "title": "Auroras over waterfall - Reddit AI",
       "tags": [
-        "sports"
+        "space",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/066.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/066.jpg"
-      },
       "metadata": {
-        "added_at": "2025-07-21T01:08:38.796793",
-        "file_size": 285871,
         "dimensions": {
           "width": 1080,
-          "height": 1920
-        }
+          "height": 788
+        },
+        "file_size": 159317,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:49:36.705667",
+        "hash": "ec9ecbea604fbef71a289f7e6349c41a",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 62
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/110.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/110.jpg"
       }
     },
     {
-      "id": "sports_067",
-      "category": "sports",
-      "title": "Sports Wallpaper 067",
+      "id": "space_111",
+      "category": "space",
+      "title": "Cool Artifact From Chicago, IL - Reddit AI",
       "tags": [
-        "sports"
+        "space",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/067.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/067.jpg"
-      },
       "metadata": {
-        "added_at": "2025-07-21T01:08:38.900062",
-        "file_size": 180358,
         "dimensions": {
           "width": 1080,
-          "height": 1920
-        }
+          "height": 1440
+        },
+        "file_size": 245146,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:49:38.033988",
+        "hash": "a8500bd3df0412e9e4c643efcfc44ecb",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 48
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/111.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/111.jpg"
       }
     },
     {
-      "id": "sports_068",
-      "category": "sports",
-      "title": "Sports Wallpaper 068",
+      "id": "space_112",
+      "category": "space",
+      "title": "Colours of the Milky Way - Reddit AI",
       "tags": [
-        "sports"
+        "space",
+        "ai-generated",
+        "hd",
+        "mobile",
+        "community"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/068.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/068.jpg"
-      },
       "metadata": {
-        "added_at": "2025-07-21T01:08:39.003545",
-        "file_size": 190424,
         "dimensions": {
           "width": 1080,
-          "height": 1920
-        }
+          "height": 1167
+        },
+        "file_size": 273586,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:49:39.165711",
+        "hash": "cf9a128f02738b186a634d2e875ccef2",
+        "ai_source": "reddit",
+        "ai_generated": true,
+        "community_score": 503
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/112.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/112.jpg"
       }
     },
     {
-      "id": "sports_069",
-      "category": "sports",
-      "title": "Sports Wallpaper 069",
+      "id": "space_113",
+      "category": "space",
+      "title": "RAW photo, analog photography.  Sensual - Civitai AI",
       "tags": [
-        "sports"
+        "space",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/069.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/069.jpg"
-      },
       "metadata": {
-        "added_at": "2025-07-21T01:08:39.111899",
-        "file_size": 241724,
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 107124,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:59:31.425393",
+        "hash": "2d6f52b8c855ea24238d286006f45b20",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "RAW photo, analog photography.  Sensual young woman, solo, looking at camera, ((blushing, flustered, horny, naughty smile, smirk)), ((gold hairband)), (mascara, eyeliner,eyeshadow), ((black choker)), ",
+        "civitai_stats": {
+          "cryCount": 10,
+          "laughCount": 29,
+          "likeCount": 216,
+          "dislikeCount": 0,
+          "heartCount": 73,
+          "commentCount": 0
         }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/113.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/113.jpg"
       }
     },
     {
-      "id": "sports_070",
-      "category": "sports",
-      "title": "Sports Wallpaper 070",
+      "id": "space_114",
+      "category": "space",
+      "title": "Space AI Art - Civitai",
       "tags": [
-        "sports"
+        "space",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/070.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/070.jpg"
-      },
       "metadata": {
-        "added_at": "2025-07-21T01:08:39.264365",
-        "file_size": 248003,
         "dimensions": {
           "width": 1080,
-          "height": 1920
+          "height": 1607
+        },
+        "file_size": 178255,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:59:34.626286",
+        "hash": "de208147e519a4edb6c4527c09926366",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "civitai_stats": {
+          "cryCount": 6,
+          "laughCount": 17,
+          "likeCount": 227,
+          "dislikeCount": 0,
+          "heartCount": 45,
+          "commentCount": 0
         }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/114.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/114.jpg"
       }
     },
     {
-      "id": "sports_071",
-      "category": "sports",
-      "title": "Sports Wallpaper 071",
+      "id": "space_115",
+      "category": "space",
+      "title": "full length photo, sensual elite woman, - Civitai AI",
       "tags": [
-        "sports"
+        "space",
+        "ai-generated",
+        "civitai",
+        "stable-diffusion",
+        "hd",
+        "mobile",
+        "community-rated"
       ],
-      "urls": {
-        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/071.jpg",
-        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/071.jpg"
-      },
       "metadata": {
-        "added_at": "2025-07-21T01:08:39.364947",
-        "file_size": 162020,
         "dimensions": {
-          "width": 1080,
-          "height": 1920
+          "width": 832,
+          "height": 1216
+        },
+        "file_size": 155116,
+        "format": "JPEG",
+        "added_at": "2025-07-19T11:59:36.425818",
+        "hash": "604812bee6c9e58df00cb95a7ccafc68",
+        "ai_source": "civitai",
+        "ai_generated": true,
+        "source_platform": "civitai.com",
+        "ai_prompt": "full length photo, sensual elite woman, sexy attire, photorealistic, glamour photography, artistic photo, seductive adult woman, sensual fashionista woman, sexy long grey hair with dark highlights, go",
+        "civitai_stats": {
+          "cryCount": 11,
+          "laughCount": 21,
+          "likeCount": 148,
+          "dislikeCount": 0,
+          "heartCount": 56,
+          "commentCount": 0
         }
+      },
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/115.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/115.jpg"
       }
     }
   ]

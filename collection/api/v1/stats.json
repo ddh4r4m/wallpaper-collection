@@ -1,81 +1,56 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2025-07-28T22:38:03.579947"
+    "generated_at": "2025-07-28T22:48:38.208699"
   },
   "data": {
-    "total_wallpapers": 2656,
-    "total_categories": 21,
+    "total_wallpapers": 2737,
+    "total_categories": 22,
     "categories": {
-      "neon": {
-        "name": "Neon",
-        "count": 88,
-        "description": "Neon lighting, synthwave aesthetics, and electric themes"
-      },
-      "art": {
-        "name": "Art",
-        "count": 90,
-        "description": "Digital art, paintings, illustrations, and creative designs"
-      },
-      "anime": {
-        "name": "Anime",
-        "count": 133,
-        "description": "Anime characters, manga art, and Japanese animation styles"
-      },
-      "sports": {
-        "name": "Sports",
-        "count": 115,
-        "description": "Athletic photography, sports action, and fitness themes"
-      },
-      "animals": {
-        "name": "Animals",
-        "count": 84,
-        "description": "Wildlife photography, pets, and animal portraits"
-      },
-      "pastel": {
-        "name": "Pastel",
-        "count": 69,
-        "description": "Soft colors, gentle aesthetics, and dream-like themes"
-      },
-      "4k": {
-        "name": "4K",
-        "count": 200,
-        "description": "Ultra high-definition wallpapers optimized for 4K displays"
-      },
-      "cyberpunk": {
-        "name": "Cyberpunk",
-        "count": 88,
-        "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
-      },
-      "dark": {
-        "name": "Dark",
-        "count": 90,
-        "description": "Dark themes, gothic aesthetics, and mysterious atmospheres"
-      },
-      "technology": {
-        "name": "Technology",
+      "ai": {
+        "name": "Ai",
         "count": 83,
-        "description": "Gadgets, circuits, futuristic tech, and digital interfaces"
-      },
-      "minimal": {
-        "name": "Minimal",
-        "count": 64,
-        "description": "Clean, simple designs with minimalist aesthetics"
-      },
-      "vintage": {
-        "name": "Vintage",
-        "count": 99,
-        "description": "Retro designs, nostalgic themes, and classic aesthetics"
+        "description": "AI-generated wallpapers from Stable Diffusion, Midjourney, and other AI models"
       },
       "architecture": {
         "name": "Architecture",
         "count": 275,
         "description": "Buildings, bridges, modern structures, and urban photography"
       },
-      "seasonal": {
-        "name": "Seasonal",
+      "gradient": {
+        "name": "Gradient",
+        "count": 145,
+        "description": "Color transitions, smooth blends, and abstract flows"
+      },
+      "pastel": {
+        "name": "Pastel",
+        "count": 69,
+        "description": "Soft colors, gentle aesthetics, and dream-like themes"
+      },
+      "dark": {
+        "name": "Dark",
         "count": 90,
-        "description": "Holiday themes, seasonal changes, and weather phenomena"
+        "description": "Dark themes, gothic aesthetics, and mysterious atmospheres"
+      },
+      "4k": {
+        "name": "4K",
+        "count": 200,
+        "description": "Ultra high-definition wallpapers optimized for 4K displays"
+      },
+      "neon": {
+        "name": "Neon",
+        "count": 88,
+        "description": "Neon lighting, synthwave aesthetics, and electric themes"
+      },
+      "cyberpunk": {
+        "name": "Cyberpunk",
+        "count": 88,
+        "description": "Futuristic cityscapes, neon lights, and sci-fi themes"
+      },
+      "cars": {
+        "name": "Cars",
+        "count": 84,
+        "description": "Automotive photography, sports cars, and vehicle designs"
       },
       "gaming": {
         "name": "Gaming",
@@ -87,67 +62,77 @@
         "count": 125,
         "description": "Galaxies, nebulae, planets, stars, and cosmic photography"
       },
-      "ai": {
-        "name": "Ai",
+      "seasonal": {
+        "name": "Seasonal",
+        "count": 90,
+        "description": "Holiday themes, seasonal changes, and weather phenomena"
+      },
+      "nature": {
+        "name": "Nature",
+        "count": 310,
+        "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
+      },
+      "technology": {
+        "name": "Technology",
         "count": 83,
-        "description": "AI-generated wallpapers from Stable Diffusion, Midjourney, and other AI models"
+        "description": "Gadgets, circuits, futuristic tech, and digital interfaces"
       },
-      "gradient": {
-        "name": "Gradient",
-        "count": 145,
-        "description": "Color transitions, smooth blends, and abstract flows"
-      },
-      "cars": {
-        "name": "Cars",
-        "count": 84,
-        "description": "Automotive photography, sports cars, and vehicle designs"
+      "vintage": {
+        "name": "Vintage",
+        "count": 99,
+        "description": "Retro designs, nostalgic themes, and classic aesthetics"
       },
       "abstract": {
         "name": "Abstract",
         "count": 257,
         "description": "Abstract patterns, geometric designs, and artistic visualizations"
       },
-      "nature": {
-        "name": "Nature",
-        "count": 310,
-        "description": "Landscapes, wildlife, forests, mountains, and natural scenes"
+      "animals": {
+        "name": "Animals",
+        "count": 84,
+        "description": "Wildlife photography, pets, and animal portraits"
+      },
+      "minimal": {
+        "name": "Minimal",
+        "count": 64,
+        "description": "Clean, simple designs with minimalist aesthetics"
+      },
+      "patterns": {
+        "name": "Patterns",
+        "count": 81,
+        "description": "Geometric patterns, repeating designs, textures, and decorative motifs"
+      },
+      "anime": {
+        "name": "Anime",
+        "count": 133,
+        "description": "Anime characters, manga art, and Japanese animation styles"
+      },
+      "sports": {
+        "name": "Sports",
+        "count": 115,
+        "description": "Athletic photography, sports action, and fitness themes"
+      },
+      "art": {
+        "name": "Art",
+        "count": 90,
+        "description": "Digital art, paintings, illustrations, and creative designs"
       }
     },
     "recent_additions": [
       {
-        "id": "space_125",
-        "category": "space",
-        "title": "Space Wallpaper 125",
+        "id": "patterns_081",
+        "category": "patterns",
+        "title": "Patterns Wallpaper 081",
         "tags": [
-          "space"
+          "patterns"
         ],
         "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/125.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/125.jpg"
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/081.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/081.jpg"
         },
         "metadata": {
-          "added_at": "2025-07-28T22:23:18.430243",
-          "file_size": 178557,
-          "dimensions": {
-            "width": 1306,
-            "height": 1587
-          }
-        }
-      },
-      {
-        "id": "space_124",
-        "category": "space",
-        "title": "Space Wallpaper 124",
-        "tags": [
-          "space"
-        ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/124.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/124.jpg"
-        },
-        "metadata": {
-          "added_at": "2025-07-28T22:23:16.433297",
-          "file_size": 229834,
+          "added_at": "2025-07-28T22:38:01.016300",
+          "file_size": 284282,
           "dimensions": {
             "width": 1080,
             "height": 1920
@@ -155,19 +140,19 @@
         }
       },
       {
-        "id": "space_123",
-        "category": "space",
-        "title": "Space Wallpaper 123",
+        "id": "patterns_080",
+        "category": "patterns",
+        "title": "Patterns Wallpaper 080",
         "tags": [
-          "space"
+          "patterns"
         ],
         "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/space/123.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/space/123.jpg"
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/080.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/080.jpg"
         },
         "metadata": {
-          "added_at": "2025-07-28T22:23:13.706916",
-          "file_size": 206590,
+          "added_at": "2025-07-28T22:37:59.184459",
+          "file_size": 393973,
           "dimensions": {
             "width": 1080,
             "height": 1920
@@ -175,19 +160,39 @@
         }
       },
       {
-        "id": "nature_310",
-        "category": "nature",
-        "title": "Nature Wallpaper 310",
+        "id": "patterns_079",
+        "category": "patterns",
+        "title": "Patterns Wallpaper 079",
         "tags": [
-          "nature"
+          "patterns"
         ],
         "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/310.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/310.jpg"
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/079.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/079.jpg"
         },
         "metadata": {
-          "added_at": "2025-07-28T22:20:51.129874",
-          "file_size": 501330,
+          "added_at": "2025-07-28T22:37:57.161233",
+          "file_size": 568269,
+          "dimensions": {
+            "width": 1080,
+            "height": 2160
+          }
+        }
+      },
+      {
+        "id": "patterns_078",
+        "category": "patterns",
+        "title": "Patterns Wallpaper 078",
+        "tags": [
+          "patterns"
+        ],
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/078.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/078.jpg"
+        },
+        "metadata": {
+          "added_at": "2025-07-28T22:37:55.241896",
+          "file_size": 288315,
           "dimensions": {
             "width": 1080,
             "height": 1920
@@ -195,39 +200,19 @@
         }
       },
       {
-        "id": "nature_309",
-        "category": "nature",
-        "title": "Nature Wallpaper 309",
+        "id": "patterns_077",
+        "category": "patterns",
+        "title": "Patterns Wallpaper 077",
         "tags": [
-          "nature"
+          "patterns"
         ],
         "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/309.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/309.jpg"
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/077.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/077.jpg"
         },
         "metadata": {
-          "added_at": "2025-07-28T22:20:49.429318",
-          "file_size": 286512,
-          "dimensions": {
-            "width": 1024,
-            "height": 1792
-          }
-        }
-      },
-      {
-        "id": "nature_308",
-        "category": "nature",
-        "title": "Nature Wallpaper 308",
-        "tags": [
-          "nature"
-        ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/308.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/308.jpg"
-        },
-        "metadata": {
-          "added_at": "2025-07-28T22:20:47.851692",
-          "file_size": 290911,
+          "added_at": "2025-07-28T22:37:53.657747",
+          "file_size": 304659,
           "dimensions": {
             "width": 1080,
             "height": 1920
@@ -235,59 +220,39 @@
         }
       },
       {
-        "id": "nature_307",
-        "category": "nature",
-        "title": "Nature Wallpaper 307",
+        "id": "patterns_076",
+        "category": "patterns",
+        "title": "Patterns Wallpaper 076",
         "tags": [
-          "nature"
+          "patterns"
         ],
         "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/307.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/307.jpg"
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/076.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/076.jpg"
         },
         "metadata": {
-          "added_at": "2025-07-28T22:20:45.859599",
-          "file_size": 170028,
+          "added_at": "2025-07-28T22:37:50.097375",
+          "file_size": 388127,
           "dimensions": {
-            "width": 1440,
-            "height": 2560
+            "width": 822,
+            "height": 1462
           }
         }
       },
       {
-        "id": "nature_306",
-        "category": "nature",
-        "title": "Nature Wallpaper 306",
+        "id": "patterns_075",
+        "category": "patterns",
+        "title": "Patterns Wallpaper 075",
         "tags": [
-          "nature"
+          "patterns"
         ],
         "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/306.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/306.jpg"
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/075.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/075.jpg"
         },
         "metadata": {
-          "added_at": "2025-07-28T22:20:44.261725",
-          "file_size": 672339,
-          "dimensions": {
-            "width": 1294,
-            "height": 2300
-          }
-        }
-      },
-      {
-        "id": "nature_305",
-        "category": "nature",
-        "title": "Nature Wallpaper 305",
-        "tags": [
-          "nature"
-        ],
-        "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/nature/305.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/nature/305.jpg"
-        },
-        "metadata": {
-          "added_at": "2025-07-28T22:20:42.582357",
-          "file_size": 297014,
+          "added_at": "2025-07-28T22:37:48.476826",
+          "file_size": 329960,
           "dimensions": {
             "width": 1080,
             "height": 1920
@@ -295,22 +260,62 @@
         }
       },
       {
-        "id": "sports_115",
-        "category": "sports",
-        "title": "Sports Wallpaper 115",
+        "id": "patterns_074",
+        "category": "patterns",
+        "title": "Patterns Wallpaper 074",
         "tags": [
-          "sports"
+          "patterns"
         ],
         "urls": {
-          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/sports/115.jpg",
-          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/sports/115.jpg"
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/074.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/074.jpg"
         },
         "metadata": {
-          "added_at": "2025-07-21T01:09:18.924527",
-          "file_size": 181802,
+          "added_at": "2025-07-28T22:37:46.656557",
+          "file_size": 134759,
           "dimensions": {
-            "width": 1080,
-            "height": 1920
+            "width": 800,
+            "height": 1200
+          }
+        }
+      },
+      {
+        "id": "patterns_073",
+        "category": "patterns",
+        "title": "Patterns Wallpaper 073",
+        "tags": [
+          "patterns"
+        ],
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/073.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/073.jpg"
+        },
+        "metadata": {
+          "added_at": "2025-07-28T22:37:44.223001",
+          "file_size": 374870,
+          "dimensions": {
+            "width": 896,
+            "height": 1344
+          }
+        }
+      },
+      {
+        "id": "patterns_072",
+        "category": "patterns",
+        "title": "Patterns Wallpaper 072",
+        "tags": [
+          "patterns"
+        ],
+        "urls": {
+          "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/072.jpg",
+          "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/072.jpg"
+        },
+        "metadata": {
+          "added_at": "2025-07-28T22:37:42.148246",
+          "file_size": 199852,
+          "dimensions": {
+            "width": 816,
+            "height": 1440
           }
         }
       }
@@ -398,13 +403,13 @@
       ]
     ],
     "file_stats": {
-      "total_size_mb": 1086.46,
-      "average_file_size_kb": 418.88,
+      "total_size_mb": 1118.0,
+      "average_file_size_kb": 418.28,
       "average_dimensions": {
-        "width": 1143,
-        "height": 1750
+        "width": 1145,
+        "height": 1762
       },
-      "total_files": 2656
+      "total_files": 2737
     }
   }
 }
