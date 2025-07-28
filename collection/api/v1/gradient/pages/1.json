@@ -1,0 +1,318 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-28T21:27:34.814586",
+    "category": "gradient",
+    "page": 1,
+    "per_page": 15,
+    "total_pages": 10,
+    "total_count": 145,
+    "count_on_page": 15,
+    "has_next": true,
+    "has_prev": false,
+    "next_page_url": "/api/v1/gradient/pages/2.json",
+    "prev_page_url": null
+  },
+  "data": [
+    {
+      "id": "gradient_001",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 001",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/001.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/001.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T20:51:50.575389",
+        "file_size": 85453,
+        "dimensions": {
+          "width": 675,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "id": "gradient_002",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 002",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/002.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/002.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T20:51:50.577799",
+        "file_size": 301975,
+        "dimensions": {
+          "width": 591,
+          "height": 1280
+        }
+      }
+    },
+    {
+      "id": "gradient_003",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 003",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/003.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/003.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T20:51:50.580093",
+        "file_size": 301975,
+        "dimensions": {
+          "width": 591,
+          "height": 1280
+        }
+      }
+    },
+    {
+      "id": "gradient_004",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 004",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/004.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/004.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T20:51:50.582236",
+        "file_size": 113482,
+        "dimensions": {
+          "width": 736,
+          "height": 1595
+        }
+      }
+    },
+    {
+      "id": "gradient_005",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 005",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/005.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/005.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T21:26:41.153272",
+        "file_size": 147221,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "gradient_006",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 006",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/006.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/006.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T21:26:41.271881",
+        "file_size": 72254,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "gradient_007",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 007",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/007.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/007.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T21:26:41.456492",
+        "file_size": 453373,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "gradient_008",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 008",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/008.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/008.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T21:26:41.655790",
+        "file_size": 377159,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "gradient_009",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 009",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/009.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/009.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T21:26:41.789919",
+        "file_size": 597782,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "gradient_010",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 010",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/010.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/010.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T21:26:41.920853",
+        "file_size": 53775,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "gradient_011",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 011",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/011.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/011.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T21:26:42.045264",
+        "file_size": 343134,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "gradient_012",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 012",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/012.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/012.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T21:26:42.208051",
+        "file_size": 745109,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "gradient_013",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 013",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/013.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/013.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T21:26:42.339303",
+        "file_size": 328030,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "gradient_014",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 014",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/014.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/014.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T21:26:42.447217",
+        "file_size": 115693,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "gradient_015",
+      "category": "gradient",
+      "title": "Gradient Wallpaper 015",
+      "tags": [
+        "gradient"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/gradient/015.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/gradient/015.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-20T21:26:42.573121",
+        "file_size": 38979,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    }
+  ]
+}

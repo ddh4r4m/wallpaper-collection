@@ -66,45 +66,48 @@ python scripts/validate_json.py
 
 ## Repository Structure
 
-### File Organization
+### CRITICAL: WallCraft API Structure (ALWAYS USE THIS STRUCTURE)
 ```
 wallpaper-collection/
 ├── README.md                     # Repository documentation
-├── index.json                    # Master index of all wallpapers
+├── API.md                        # WallCraft API documentation
 ├── requirements.txt              # Python dependencies
-├── categories/                   # Category-specific metadata (20+ files)
-│   ├── abstract.json
-│   ├── nature.json
-│   ├── space.json
-│   ├── gaming.json
-│   ├── anime.json
-│   ├── cars.json
-│   ├── sports.json
-│   └── ... (20+ category files)
-├── wallpapers/                   # Main wallpaper images (20+ folders)
-│   ├── abstract/
-│   ├── nature/
-│   ├── space/
-│   ├── gaming/
-│   ├── anime/
-│   ├── cars/
-│   ├── sports/
-│   └── ... (20+ category folders)
-├── thumbnails/                   # Optimized preview images
-│   ├── abstract/
-│   ├── nature/
-│   ├── space/
-│   └── ... (matching structure)
-├── review_system/                # AI quality assessment
+├── collection/                   # **MAIN WALLPAPER COLLECTION** (ALWAYS USE THIS)
+│   ├── api/
+│   │   └── v1/                   # API endpoints for mobile app
+│   │       ├── all.json          # All wallpapers across categories
+│   │       ├── abstract.json     # Abstract category endpoint
+│   │       ├── nature.json       # Nature category endpoint
+│   │       ├── gradient.json     # Gradient category endpoint
+│   │       └── ... (category endpoints)
+│   ├── wallpapers/               # **PRIMARY WALLPAPER STORAGE**
+│   │   ├── abstract/             # Sequential naming: 001.jpg, 002.jpg, etc.
+│   │   ├── nature/
+│   │   ├── gradient/
+│   │   └── ... (20+ category folders)
+│   └── thumbnails/               # **PRIMARY THUMBNAIL STORAGE**
+│       ├── abstract/             # Matching sequential naming
+│       ├── nature/
+│       ├── gradient/
+│       └── ... (matching structure)
+├── wallpapers/                   # **DEPRECATED - DO NOT USE**
+│   └── ... (old structure)
+├── thumbnails/                   # **DEPRECATED - DO NOT USE**
+│   └── ... (old structure)
+├── categories/                   # **DEPRECATED - DO NOT USE**
+│   └── ... (old JSON structure)
+├── review_system/                # AI quality assessment (temp storage)
 │   ├── approved/                 # Auto-approved images
 │   ├── rejected/                 # Auto-rejected images
 │   └── manual_review/            # Requires human review
 ├── crawl_cache/                  # Temporary download cache
 │   ├── unsplash/
 │   ├── pexels/
+│   ├── pinterest/
 │   └── wallhaven/
 └── scripts/                      # Management automation
     ├── crawl_images.py          # Multi-source image crawler
+    ├── pinterest_scraper.py     # Pinterest-specific scraper
     ├── review_images.py         # AI quality assessment
     ├── process_approved.py      # Handle approved images
     ├── batch_processor.py       # Orchestrate entire pipeline
@@ -114,10 +117,20 @@ wallpaper-collection/
     └── compress_images.py       # Image compression
 ```
 
-### Image Naming Convention
-- **Format**: `{category}_{number}.{extension}`
-- **Examples**: `abstract_001.jpg`, `nature_045.jpg`, `gaming_012.jpg`
-- **Rules**: 3-digit numbers, lowercase categories, no spaces
+### **IMPORTANT DIRECTORY RULES**
+1. **ALWAYS use `collection/wallpapers/{category}/` for wallpaper storage**
+2. **ALWAYS use `collection/thumbnails/{category}/` for thumbnail storage**
+3. **ALWAYS use `collection/api/v1/{category}.json` for API endpoints**
+4. **NEVER use the root `wallpapers/` or `thumbnails/` directories** (these are deprecated)
+5. **Sequential naming**: 001.jpg, 002.jpg, 003.jpg (3-digit padding)
+6. **GitHub Media URLs**: Use `https://media.githubusercontent.com/media/username/repo/main/collection/...`
+
+### Image Naming Convention (WallCraft API)
+- **Format**: `{number}.{extension}` (sequential numbering within category folders)
+- **Examples**: `001.jpg`, `002.jpg`, `003.jpg` (NOT `abstract_001.jpg`)
+- **Rules**: 3-digit zero-padded numbers, stored in category-specific folders
+- **Path Structure**: `collection/wallpapers/{category}/{number}.jpg`
+- **API ID Format**: `{category}_{number}` (e.g., `gradient_001`, `abstract_045`)
 
 ## Wallpaper Categories
 
@@ -240,6 +253,7 @@ Categories chosen based on:
 - **Pexels API** - Diverse categories, good for sports, technology, cars
 - **Pixabay** - Large variety, excellent for abstract, digital art, vintage
 - **Wallhaven** - Gaming, anime, technology, cyberpunk focused
+- **Pinterest** - Excellent for gradients, abstract patterns, design inspiration
 - **Custom scrapers** - Specialized sites with ToS compliance
 
 ### Crawling Features
@@ -262,6 +276,7 @@ SOURCE_MAPPING = {
     'technology': ['unsplash', 'pexels', 'wallhaven'],
     'space': ['unsplash', 'pexels', 'pixabay'],
     'abstract': ['pixabay', 'unsplash', 'pexels'],
+    'gradient': ['pinterest', 'unsplash', 'pixabay'],  # Pinterest excellent for gradients
     'architecture': ['unsplash', 'pexels'],
     'art': ['pixabay', 'unsplash']
 }
@@ -371,28 +386,103 @@ python scripts/upload_batch.py --folder ./new_wallpapers --category abstract
 
 ## API Endpoints
 
-### GitHub Raw Files Access
-- **Base URL**: `https://raw.githubusercontent.com/username/wallpaper-collection/main/`
-- **Master Index**: `https://raw.githubusercontent.com/username/wallpaper-collection/main/index.json`
-- **Category Index**: `https://raw.githubusercontent.com/username/wallpaper-collection/main/categories/{category}.json`
-- **Wallpaper Image**: `https://raw.githubusercontent.com/username/wallpaper-collection/main/wallpapers/{category}/{filename}`
-- **Thumbnail**: `https://raw.githubusercontent.com/username/wallpaper-collection/main/thumbnails/{category}/{filename}`
+### WallCraft API Access (GitHub Raw URLs)
+- **Base URL**: `https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/`
+- **Category API**: `https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/{category}.json`
+- **All Categories**: `https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/all.json`
+- **Wallpaper Image**: `https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/{category}/{number}.jpg`
+- **Thumbnail**: `https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/{category}/{number}.jpg`
+
+### Pagination System (FULLY IMPLEMENTED)
+**Complete pagination support with 15 items per page:**
+
+#### Pagination Structure:
+- **Main API**: `{category}.json` (complete category data)
+- **Paginated API**: `{category}/pages/{page}.json` (15 items per page)
+
+#### Example URLs:
+```bash
+# Main category API (all items)
+https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/abstract.json
+
+# Paginated endpoints
+https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/abstract/pages/1.json
+https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/4k/pages/1.json
+https://raw.githubusercontent.com/ddh4r4m/wallpaper-collection/main/collection/api/v1/nature/pages/1.json
+```
+
+#### Pagination Metadata:
+```json
+{
+  "meta": {
+    "version": "1.0",
+    "category": "abstract",
+    "page": 1,
+    "per_page": 15,
+    "total_pages": 18,
+    "total_count": 257,
+    "count_on_page": 15,
+    "has_next": true,
+    "has_prev": false,
+    "next_page_url": "/api/v1/abstract/pages/2.json",
+    "prev_page_url": null
+  }
+}
+```
+
+#### Categories with Full Pagination:
+- **Large Collections (10+ pages)**:
+  - abstract: 18 pages (257 items)
+  - architecture: 19 pages (275 items)
+  - nature: 21 pages (305+ items)
+  - 4k: 14 pages (200 items)
+  - all: 162 pages (entire collection)
+
+- **Medium Collections (5-9 pages)**:
+  - ai: 8 pages
+  - anime: 9 pages
+  - space: 9 pages
+
+- **Small Collections (2-6 pages)**:
+  - animals: 6 pages
+  - art: 6 pages
+  - cars: 6 pages
+  - cyberpunk: 6 pages
+  - dark: 6 pages
+  - gaming: 6 pages
+  - minimal: 5 pages
+  - neon: 6 pages
+  - pastel: 5 pages
+  - seasonal: 6 pages
+  - technology: 6 pages
+  - vintage: 7 pages
+
+#### Missing Pagination (To Be Generated):
+- gradient (149 items - needs ~10 pages)
+- sports (needs pagination)
+- movies (needs pagination)
+- music (needs pagination)
+
+### Deprecated URLs (DO NOT USE)
+- **Old Raw URLs**: `https://raw.githubusercontent.com/username/wallpaper-collection/main/wallpapers/...`
+- **Old Categories**: `https://raw.githubusercontent.com/username/wallpaper-collection/main/categories/{category}.json`
 
 ### GitHub API Access
-- **Contents API**: `https://api.github.com/repos/username/wallpaper-collection/contents/wallpapers/{category}`
-- **Repository Info**: `https://api.github.com/repos/username/wallpaper-collection`
+- **Contents API**: `https://api.github.com/repos/ddh4r4m/wallpaper-collection/contents/wallpapers/{category}`
+- **Repository Info**: `https://api.github.com/repos/ddh4r4m/wallpaper-collection`
 
 ## Development Workflow
 
-### Adding New Wallpapers
-1. Place images in appropriate folder structure
-2. Run `python scripts/upload_batch.py --folder ./new_images --category {category}`
-3. Script automatically:
-   - Optimizes images for mobile
-   - Generates thumbnails
-   - Creates metadata
-   - Updates JSON indexes
-   - Generates unique filenames
+### Adding New Wallpapers (WallCraft API Structure)
+1. **ALWAYS use collection structure**: Place images in `collection/wallpapers/{category}/`
+2. **Sequential naming**: Use 001.jpg, 002.jpg, 003.jpg format (3-digit padding)
+3. Run `python scripts/upload_batch.py --folder ./new_images --category {category}`
+4. Script automatically:
+   - Places files in `collection/wallpapers/{category}/` with sequential naming
+   - Creates thumbnails in `collection/thumbnails/{category}/`
+   - Updates API endpoint at `collection/api/v1/{category}.json`
+   - Uses GitHub Media URLs for mobile app consumption
+   - Validates directory structure before processing
 
 ### Updating Metadata
 1. Modify category descriptions in `scripts/generate_index.py`
