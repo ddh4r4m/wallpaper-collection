@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-07-28T22:48:38.208699",
+    "category": "patterns",
+    "page": 6,
+    "per_page": 15,
+    "total_pages": 6,
+    "total_count": 81,
+    "count_on_page": 6,
+    "has_next": false,
+    "has_prev": true,
+    "next_page_url": null,
+    "prev_page_url": "/api/v1/patterns/pages/5.json"
+  },
+  "data": [
+    {
+      "id": "patterns_076",
+      "category": "patterns",
+      "title": "Patterns Wallpaper 076",
+      "tags": [
+        "patterns"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/076.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/076.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T22:37:50.097375",
+        "file_size": 388127,
+        "dimensions": {
+          "width": 822,
+          "height": 1462
+        }
+      }
+    },
+    {
+      "id": "patterns_077",
+      "category": "patterns",
+      "title": "Patterns Wallpaper 077",
+      "tags": [
+        "patterns"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/077.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/077.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T22:37:53.657747",
+        "file_size": 304659,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "patterns_078",
+      "category": "patterns",
+      "title": "Patterns Wallpaper 078",
+      "tags": [
+        "patterns"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/078.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/078.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T22:37:55.241896",
+        "file_size": 288315,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "patterns_079",
+      "category": "patterns",
+      "title": "Patterns Wallpaper 079",
+      "tags": [
+        "patterns"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/079.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/079.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T22:37:57.161233",
+        "file_size": 568269,
+        "dimensions": {
+          "width": 1080,
+          "height": 2160
+        }
+      }
+    },
+    {
+      "id": "patterns_080",
+      "category": "patterns",
+      "title": "Patterns Wallpaper 080",
+      "tags": [
+        "patterns"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/080.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/080.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T22:37:59.184459",
+        "file_size": 393973,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "id": "patterns_081",
+      "category": "patterns",
+      "title": "Patterns Wallpaper 081",
+      "tags": [
+        "patterns"
+      ],
+      "urls": {
+        "raw": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/wallpapers/patterns/081.jpg",
+        "thumb": "https://media.githubusercontent.com/media/ddh4r4m/wallpaper-collection/main/collection/thumbnails/patterns/081.jpg"
+      },
+      "metadata": {
+        "added_at": "2025-07-28T22:38:01.016300",
+        "file_size": 284282,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    }
+  ]
+}
